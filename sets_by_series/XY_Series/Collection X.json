@@ -1,0 +1,5256 @@
+{
+  "data": [
+    {
+      "id": 11137,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Venusaur-EX",
+      "types": [
+        "Grass"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Poison Powder",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        },
+        {
+          "name": "Jungle Hammer",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "90",
+          "text": "Heal 30 damage from this Pokémon."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Eske Yoshinob",
+      "imageUrl": "https://static.tcgcollector.com/content/images/98/a5/d0/98a5d01321d44a436a75543f30f2960b7b33a46a207796db54b65697faf1a23e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24356",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 92710186,
+      "prices": [
+        {
+          "priceAmount": 2962,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/venusaur-ex-1st-edition-1",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 430,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/venusaur-ex-1st-edition-1",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 8577,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/venusaur-ex-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2468,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/venusaur-ex-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/venusaur-ex-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 367,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/venusaur-ex-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11138,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "M Venusaur-EX",
+      "types": [
+        "Grass"
+      ],
+      "hp": 230,
+      "evolvesFrom": "Venusaur-EX",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Crisis Vine",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120",
+          "text": "Your opponent's Active Pokémon is now Paralyzed and Poisoned."
+        }
+      ],
+      "rules": [
+        "When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Mega",
+        "Stage 1"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/21/6d/e1/216de17a796d892f7821e37b1e68738917aa26552af5cfe2b4538a7a8711d162.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24357",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 34278423,
+      "prices": [
+        {
+          "priceAmount": 676,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/mega-venusaur-ex-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11139,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Volbeat",
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Luring Glow",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Switch 1 of your opponent's Benched Pokémon with your opponent's Active Pokémon."
+        },
+        {
+          "name": "Signal Beam",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kanako Eo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6e/c0/4d/6ec04dd229a6e671ba96f2070bee43e2037de1c8c147171cc9dcd7d48ded52c2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24358",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 4965339,
+      "prices": [
+        {
+          "priceAmount": 398,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/volbeat-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11140,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Pansage",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Vine Whip",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Leech Seed",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Heal 10 damage from this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Midori Harada",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cd/8e/72/cd8e722771d9ea8d1c3c67818c56e294f0a954465d5df9186cfe8ab5e79caa95.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24359",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 65809,
+      "prices": [
+        {
+          "priceAmount": 298,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/pansage-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11141,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Simisage",
+      "types": [
+        "Grass"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Pansage",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Torment",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Choose 1 of your opponent's Active Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+        },
+        {
+          "name": "Solar Beam",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shigenori Negishi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e9/a4/f1/e9a4f15b963f33df1913bffdb940a825f5f90374a39361cb1b781d11feccef77.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24360",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 34999896,
+      "prices": [
+        {
+          "priceAmount": 248,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/simisage-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11142,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Scatterbug",
+      "types": [
+        "Grass"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bug Bite",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2d/7c/0e/2d7c0e987ce16d3736815dc417d04e8ce3d1a6fee6689df88149fea911221e61.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24361",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 25082836,
+      "prices": [
+        {
+          "priceAmount": 398,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/scatterbug-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11143,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Spewpa",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Scatterbug",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bug Bite",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Stun Spore",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/eb/ea/f7/ebeaf7eef642036ea21c5b4d750f7e1fc8ea7064c9a5ca2366e697a8cbacd3b8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24362",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 7548847,
+      "prices": [
+        {
+          "priceAmount": 236,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/spewpa-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11144,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Vivillon",
+      "types": [
+        "Grass"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Spewpa",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Conversion Powder",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Choose either Asleep or Poisoned. Your opponent's Active Pokémon is now affected by the Special Condition."
+        },
+        {
+          "name": "Colorful Wind",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30+",
+          "text": "This attack does 30 more damage for each different type of basic Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d5/75/37/d5753720797db3586c235fa9591e49a8750024c48dfe9e342fb1c9b5bc378b48.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24363",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 21000094,
+      "prices": [
+        {
+          "priceAmount": 3247,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "06/03/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/vivillon-elegant-8",
+          "vendor": "Price Charting",
+          "variant": "Elegant",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 675,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/vivillon-elegant-8",
+          "vendor": "Price Charting",
+          "variant": "Elegant",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/vivillon-elegant-8",
+          "vendor": "Price Charting",
+          "variant": "Elegant",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 375,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/vivillon-elegant-8",
+          "vendor": "Price Charting",
+          "variant": "Elegant",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11145,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Skiddo",
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Lead",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, search your deck for a Supporter card, reveal it, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Tackle",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d2/40/69/d240693d8cc163f56adf4c1d934b4f4c629dfb430b10bb1d2026efe0ba1df4a1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24364",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 16970671,
+      "prices": [
+        {
+          "priceAmount": 298,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/skiddo-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11146,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Gogoat",
+      "types": [
+        "Grass"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Skiddo",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Lead",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 2 Supporter cards, reveal them, and put them into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Charge Dash",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70+",
+          "text": "You may do 20 more damage. If you do, this Pokémon does 20 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/62/c7/19/62c71963d5cf057f50b51af620a11750ca3540321836fd29dceabcc9b04480b2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24365",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 13383453,
+      "prices": [
+        {
+          "priceAmount": 179,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/gogoat-1st-edition-10",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 242,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/gogoat-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11147,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Slugma",
+      "types": [
+        "Fire"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Flamethrower",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4a/06/22/4a0622fb7ba04723b6cb336c4b5ac79b0b370a2fbdf703c7eaa795290a900bbb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24366",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 37744311,
+      "prices": []
+    },
+    {
+      "id": 11148,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Magcargo",
+      "types": [
+        "Fire"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Slugma",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Magma Mantle",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "You may discard the top card of your deck. If that card is a Fire Energy card, this attack does 50 more damage."
+        },
+        {
+          "name": "Heat Blast",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kawayoo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d7/b8/e0/d7b8e02231cef0aea80dfb8054ed8da168e75c57b7087b2eae37fc361fede457.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24367",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 81672632,
+      "prices": [
+        {
+          "priceAmount": 217,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/magcargo-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11149,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Fennekin",
+      "types": [
+        "Fire"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Will-O-Wisp",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3a/f2/c6/3af2c69c01cfc59620a548035e0e7892df3e868c406f7ebec2bc341bc2112a1a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24368",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 63589484,
+      "prices": [
+        {
+          "priceAmount": 199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/fennekin-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11150,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Braixen",
+      "types": [
+        "Fire"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Fennekin",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Clairvoyant Eye",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Look at the top 3 cards of your deck and put them back on top of your deck in any order."
+        },
+        {
+          "name": "Fire Tail Slap",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40",
+          "text": "Discard a Fire Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ef/8d/f8/ef8df818a073958fa12700b71854c64b419e4e0b624df8aeea48bb6217c63f7c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24369",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 34018923,
+      "prices": [
+        {
+          "priceAmount": 348,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/braixen-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11151,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Delphox",
+      "types": [
+        "Fire"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Braixen",
+      "effect": [
+        {
+          "name": "Mystical Fire",
+          "text": "Once during your turn (before your attack), you may draw cards until you have 6 cards in your hand.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Blaze Ball",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50+",
+          "text": "This attack does 20 more damage for each Fire Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/06/8f/bd/068fbdb5aa529765fe2fb099ada13a2d9deb24bdc19beff401f89405cdd1a456.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24370",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 74762782,
+      "prices": [
+        {
+          "priceAmount": 229,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/delphox-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11152,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Staryu",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Reckless Charge",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "This Pokémon does 10 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sumiyoshi Kizuki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f9/a0/40/f9a0407f60450898768557fdd78442f551c3b0ef0477c01e77fb47545f2701ae.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24371",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 63952682,
+      "prices": [
+        {
+          "priceAmount": 125,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/staryu-1st-edition-16",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 265,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/staryu-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11153,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Starmie",
+      "types": [
+        "Water"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Staryu",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Recover",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Discard an Energy attached to this Pokémon and heal all damage from it."
+        },
+        {
+          "name": "Core Splash",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60+",
+          "text": "If this Pokémon has any Psychic Energy attached to it, this attack does 30 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Suwama Chiaki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9a/8d/41/9a8d4127da66b9482e46f5911cd2fbd963e2f534e677b8240d0f4b4952a1acd1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24372",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 34368146,
+      "prices": []
+    },
+    {
+      "id": 11154,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Corsola",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Refresh",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Heal 30 damage and remove all Special Conditions from this Pokémon."
+        },
+        {
+          "name": "Spiny Rush",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Flip a coin until you get tails. This attack does 20 more damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kyoko Umemoto",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a8/24/cf/a824cfee76d4401df8ddbdafabd02f69bb1407b85f422d1cba5c3910e719282e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24373",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 25236043,
+      "prices": [
+        {
+          "priceAmount": 398,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/corsola-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11155,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Froakie",
+      "types": [
+        "Water"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bounce",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ca/dd/a5/cadda5cf251d3e1a0db9f22743abea538ccc29bca43f167ab8c964101de169dd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24374",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 80495065,
+      "prices": [
+        {
+          "priceAmount": 326,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/froakie-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/froakie-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        }
+      ]
+    },
+    {
+      "id": 11156,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Frogadier",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Froakie",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Lick",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6e/4c/bc/6e4cbc75e0a9cbb0afb9168a75ec7607b3019149ed37c5967bcb38b88d9cd4b4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24375",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 28834398,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/frogadier-1st-edition-20",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11157,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Greninja",
+      "types": [
+        "Water"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Frogadier",
+      "effect": [
+        {
+          "name": "Water Shuriken",
+          "text": "Once during your turn (before your attack), you may discard a Water Energy from your hand. If you do, put 3 damage counters on 1 of your opponent's Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Mist Slash",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "50",
+          "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on your opponent's Active Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/81/a1/85/81a1857445bc14ecfa1fec1d2a6b1acb96bcdb339f3a674c11bda82b84645a45.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24376",
+      "sequenceNumber": 21,
+      "printedNumber": "21",
+      "uuid": 13812414,
+      "prices": [
+        {
+          "priceAmount": 6795,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "11/12/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/greninja-1st-edition-21",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2530,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/greninja-1st-edition-21",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/greninja-1st-edition-21",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 342,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/greninja-1st-edition-21",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 855,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/greninja-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11158,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Pikachu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Nuzzle",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Quick attack",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "MAHOU",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2f/e0/00/2fe0009866732ac7a9229f17c2ea2943ec03294eeaf611b9fdb0eef1c0ac1420.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24377",
+      "sequenceNumber": 22,
+      "printedNumber": "22",
+      "uuid": 7365111,
+      "prices": [
+        {
+          "priceAmount": 5897,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/pikachu-1st-edition-22",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1113,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/pikachu-1st-edition-22",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1805,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/pikachu-1st-edition-22",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 799,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/pikachu-1st-edition-22",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 8493,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/pikachu-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 3871,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/pikachu-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 4300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/pikachu-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 727,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/pikachu-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11159,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Raichu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Pikachu",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Circle Circuit",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "This attack does 20 damage times the number of your Benched Pokémon."
+        },
+        {
+          "name": "Thunderbolt",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100",
+          "text": "Discard all Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2e/90/91/2e9091655cf3a2bcfe76899594803731658033663ba0cd544e9ca5c2a0a228d6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24378",
+      "sequenceNumber": 23,
+      "printedNumber": "23",
+      "uuid": 52176359,
+      "prices": [
+        {
+          "priceAmount": 536,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/raichu-1st-edition-23",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 381,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/raichu-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11160,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Ekans",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bite",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shigenori Negishi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ee/c6/75/eec67583c7ed33080b717adcc3e154865e48384a27a0f1e1e2647d089b06781a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24379",
+      "sequenceNumber": 24,
+      "printedNumber": "24",
+      "uuid": 17487792,
+      "prices": [
+        {
+          "priceAmount": 125,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/ekans-1st-edition-24",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 227,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/ekans-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11161,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Arbok",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Ekans",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Gastro Acid",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "The Defending Pokémon has no Abilities until the end of your next turn."
+        },
+        {
+          "name": "Poison Jab",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoki Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/02/11/b8/0211b8e3a86f6df221e3379155cf6787df73b16ad9adebe7f5c98dfb7229db4b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24380",
+      "sequenceNumber": 25,
+      "printedNumber": "25",
+      "uuid": 90492341,
+      "prices": [
+        {
+          "priceAmount": 269,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/arbok-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11162,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Spoink",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Splash",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/95/0d/48/950d48c6db8d1692df29ac6e605d7c31ece4ae577a6f3c64d307c2c980a5e83d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24381",
+      "sequenceNumber": 26,
+      "printedNumber": "26",
+      "uuid": 6877880,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/spoink-1st-edition-26",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/spoink-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11163,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Grumpig",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Spoink",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tricky Steps",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "You may move an Energy attached to your opponent's Active Pokémon to 1 of your opponent's Benched Pokémon."
+        },
+        {
+          "name": "Psybeam",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "sui",
+      "imageUrl": "https://static.tcgcollector.com/content/images/45/cc/f2/45ccf224f06d04794435fff9c8154a05a3280f628edd315ed76bbec10c6f8b90.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24382",
+      "sequenceNumber": 27,
+      "printedNumber": "27",
+      "uuid": 26684548,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/grumpig-1st-edition-27",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/grumpig-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11164,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Phantump",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Astonish",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Choose a random card from your opponent's hand. Your opponent reveals that card and shuffles it into his or her deck."
+        },
+        {
+          "name": "Hook",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f2/88/17/f28817cdc93ed4e1227fe4fd957ea18f05f74a3372244b1b0e103267a8acfd62.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24383",
+      "sequenceNumber": 28,
+      "printedNumber": "28",
+      "uuid": 84431528,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/phantump-1st-edition-28",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/phantump-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11165,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Trevenant",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Phantump",
+      "effect": [
+        {
+          "name": "Forest's Curse",
+          "text": "As long as this Pokémon is your Active Pokémon, your opponent's can't play any Item cards from his or her hand.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Tree Slam",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "This attack does 20 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c4/b8/95/c4b89554e731d410c6e4341bce32547e7c723eb0deb585dee4321f673a02d009.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24384",
+      "sequenceNumber": 29,
+      "printedNumber": "29",
+      "uuid": 90004597,
+      "prices": [
+        {
+          "priceAmount": 225,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/trevenant-29",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11166,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Lunatone",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Double Draw",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Draw 2 cards."
+        },
+        {
+          "name": "Moonblast",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance)."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kawayoo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b8/a0/2d/b8a02daa28668edc658c7558d05acdf160fbd07c8d634dc3bba84210a3c24ca7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24385",
+      "sequenceNumber": 30,
+      "printedNumber": "30",
+      "uuid": 67098045,
+      "prices": [
+        {
+          "priceAmount": 298,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/lunatone-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11167,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Timburr",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Pummel",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "MAHOU",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bc/6b/9e/bc6b9e8c3c0c910eaef42cd52e01a3ba36fe76318b79ec0cd20e1a4bc838b66c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24386",
+      "sequenceNumber": 31,
+      "printedNumber": "31",
+      "uuid": 65756190,
+      "prices": [
+        {
+          "priceAmount": 298,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/timburr-31",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11168,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Gurdurr",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Timburr",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Pummel",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        },
+        {
+          "name": "Hammer Arm",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Discard the top card of your opponent's deck."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bf/7d/43/bf7d43acbd5b99eedb6df42e99261bb0685faba3d05d8fc2a91162d9ce9e4a19.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24387",
+      "sequenceNumber": 32,
+      "printedNumber": "32",
+      "uuid": 57217204,
+      "prices": [
+        {
+          "priceAmount": 254,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/gurdurr-1st-edition-32",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/gurdurr-32",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11169,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Conkeldurr",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Gurdurr",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Wake-Up Slap",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30+",
+          "text": "If your opponent's Active Pokémon is affected by a Special Condition, this attack does 60 more damage. Then, remove all Special Conditions from that Pokémon."
+        },
+        {
+          "name": "Dynamic Punch",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60+",
+          "text": "Flip a coin. If heads, this attack does 40 more damage and your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/da/1c/a1/da1ca1e7ba2334c72f6901c5e21627e6bdc037e02f835d2e573fbc1f49a22bf9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24388",
+      "sequenceNumber": 33,
+      "printedNumber": "33",
+      "uuid": 93948006,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/conkeldurr-33",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11170,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Sandile",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Ram",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        },
+        {
+          "name": "Darkness Fang",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sumiyoshi Kizuki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cc/f0/bd/ccf0bd29b956797d20fffbf2d81367c6ec708986fa7d9b1698cc7e3a1d1b857e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24389",
+      "sequenceNumber": 34,
+      "printedNumber": "34",
+      "uuid": 24686134,
+      "prices": [
+        {
+          "priceAmount": 125,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/sandile-1st-edition-34",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/sandile-34",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11171,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Krokorok",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Sandile",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Crunch",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Darkness Fang",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Akira Komayama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/db/82/5e/db825ec0fe91976b6cd8edbb0ff66c9bc7afd4078bb0dc20582158cb7f65141e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24390",
+      "sequenceNumber": 35,
+      "printedNumber": "35",
+      "uuid": 67732971,
+      "prices": []
+    },
+    {
+      "id": 11172,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Krookodile",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Krokorok",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bother",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "Flip a coin. If heads, your opponent can't play any Supporter cards from his or her hand during his or her next turn."
+        },
+        {
+          "name": "Knock Back",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "80",
+          "text": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "match",
+      "imageUrl": "https://static.tcgcollector.com/content/images/07/60/c3/0760c3598bc9a5fe5a5ef4d12fb51cc1acc13bd00cc4f8d531f654096e7f5b66.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24391",
+      "sequenceNumber": 36,
+      "printedNumber": "36",
+      "uuid": 7506872,
+      "prices": [
+        {
+          "priceAmount": 298,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/krookodile-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11173,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Zorua",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Scratch",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Nasty Plot",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Search your deck for a card and put it into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/dd/70/ca/dd70cad0c248c25c536c81f4e395d1963cb47ad5d42a065ad6fc7c6a2661ce5b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24392",
+      "sequenceNumber": 37,
+      "printedNumber": "37",
+      "uuid": 80285906,
+      "prices": [
+        {
+          "priceAmount": 2119,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/zorua-37",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        }
+      ]
+    },
+    {
+      "id": 11174,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Zoroark",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Zorua",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Corner",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Night Claw",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100",
+          "text": "Flip a coin. If tails, discard 2 Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/dd/ed/14/dded14232049198c5327db8d0ff1842a58b1fa2dc9b3b106ba91c367315ed29b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24393",
+      "sequenceNumber": 38,
+      "printedNumber": "38",
+      "uuid": 24098564,
+      "prices": [
+        {
+          "priceAmount": 7998,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/zoroark-1st-edition-38",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 291,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/zoroark-1st-edition-38",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 4999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/zoroark-38",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 401,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/zoroark-38",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11175,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Skarmory-EX",
+      "types": [
+        "Metal"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Joust",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Before doing damage, discard all Pokémon Tool cards attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Tailspin Piledriver",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80+",
+          "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 40 more damage."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Eske Yoshinob",
+      "imageUrl": "https://static.tcgcollector.com/content/images/02/47/a4/0247a447fc4b6130d1f1860682956ee911b8fcbbfacb0e502cc96f4279202db5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24394",
+      "sequenceNumber": 39,
+      "printedNumber": "39",
+      "uuid": 77055121,
+      "prices": [
+        {
+          "priceAmount": 6516,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "06/24/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/skarmory-ex-1st-edition-39",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2898,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "06/24/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/skarmory-ex-1st-edition-39",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "06/24/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/skarmory-ex-1st-edition-39",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/skarmory-ex-1st-edition-39",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 463,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/skarmory-ex-39",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11176,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Pawniard",
+      "types": [
+        "Metal"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Cut Down",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Metal Claw",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Midori Harada",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bd/ba/93/bdba9390418cee389940607a8e9612530baefa1aca01a14ec6cf30c1271232ac.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24395",
+      "sequenceNumber": 40,
+      "printedNumber": "40",
+      "uuid": 64977527,
+      "prices": []
+    },
+    {
+      "id": 11177,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Bisharp",
+      "types": [
+        "Metal"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Pawniard",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Metal Sound",
+          "cost": [
+            "Metal"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent's Active Pokémon is now Confused."
+        },
+        {
+          "name": "Metal Wallop",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40",
+          "text": "During your next turn, this Pokémon's Metal Wallop attack does 40 more damage (before applying Weakness and Resistance)."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hitoshi Ariga",
+      "imageUrl": "https://static.tcgcollector.com/content/images/32/36/48/32364866f3d809b649c3bc4b606aa3ae904fd93581156d3d13501fd7f5f23173.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24396",
+      "sequenceNumber": 41,
+      "printedNumber": "41",
+      "uuid": 46175727,
+      "prices": [
+        {
+          "priceAmount": 112,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/bisharp-1st-edition-41",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/bisharp-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11178,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Swirlix",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Fairy Wind",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/81/bc/3d/81bc3d03c18f48ce74c0995c1b43cad58342c6ce357ce4fa0d5c412f8eddfbf5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24397",
+      "sequenceNumber": 42,
+      "printedNumber": "42",
+      "uuid": 99974654,
+      "prices": [
+        {
+          "priceAmount": 498,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/swirlix-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11179,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Slurpuff",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Swirlix",
+      "effect": [
+        {
+          "name": "Sweet Veil",
+          "text": "Each of your Pokémon that has any Fairy Energy attached to it can't be affected by any Special Conditions. (Remove any Special Conditions affecting those Pokémon.)",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Draining Kiss",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Heal 30 damage from this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9b/ce/e6/9bcee675e2ff5fa51b1069bf54a3342e48245382fd350d59ed29b84c2e4211f1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24398",
+      "sequenceNumber": 43,
+      "printedNumber": "43",
+      "uuid": 37195927,
+      "prices": [
+        {
+          "priceAmount": 134,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/slurpuff-43",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11180,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Xerneas-EX",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Break Through",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "X Blast",
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "140",
+          "text": "This Pokémon can't use X Blast during your next turn."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ae/71/57/ae7157294340ff716b5c4e5d1c27f19659b91d4d2e605e7016d1a067ba6f5211.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24399",
+      "sequenceNumber": 44,
+      "printedNumber": "44",
+      "uuid": 93142045,
+      "prices": [
+        {
+          "priceAmount": 6184,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/xerneas-ex-1st-edition-44",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 449,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/xerneas-ex-1st-edition-44",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 5872,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/xerneas-ex-44",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 453,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/xerneas-ex-44",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11181,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Tauros",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 110,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Take Down",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "This Pokémon does 10 damage to itself."
+        },
+        {
+          "name": "Seething Anger",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30×",
+          "text": "Flip a coin for each damage counter on this Pokémon. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Midori Harada",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c5/26/d6/c526d6940d675ae82016ba9e0e4cd1173538a9ffe71cca42347ed3d109c8095a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24400",
+      "sequenceNumber": 45,
+      "printedNumber": "45",
+      "uuid": 77461828,
+      "prices": [
+        {
+          "priceAmount": 298,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/tauros-45",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11182,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Dunsparce",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Glare",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Second Bite",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "This attack does 10 more damage for each damage counter on your opponent's Active Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoyo Kimura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6f/3f/b1/6f3fb1459199dc6e832da892aa164fc1e4ec5a660212ba97516d1f77088826eb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24401",
+      "sequenceNumber": 46,
+      "printedNumber": "46",
+      "uuid": 42241503,
+      "prices": [
+        {
+          "priceAmount": 398,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/dunsparce-46",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11183,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Taillow",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Aerial Ace",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "sui",
+      "imageUrl": "https://static.tcgcollector.com/content/images/48/ce/52/48ce52ecbe35c539cc7631da881f776a8e25ce21315d34a722178f7ecb8bf6ac.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24402",
+      "sequenceNumber": 47,
+      "printedNumber": "47",
+      "uuid": 828073,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/taillow-47",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11184,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Swellow",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Taillow",
+      "effect": [
+        {
+          "name": "Drive Off",
+          "text": "Once per turn (before your attack), you may have your opponent switch his or her Active Pokémon with 1 of his or her Benched Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mizue",
+      "imageUrl": "https://static.tcgcollector.com/content/images/06/96/65/069665f734e6de8a3e0c35c24a56681ad7fa3a354360309e32d3d236bf050bae.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24403",
+      "sequenceNumber": 48,
+      "printedNumber": "48",
+      "uuid": 95426969,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/swellow-48",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11185,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Lillipup",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Bite",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "match",
+      "imageUrl": "https://static.tcgcollector.com/content/images/56/a7/98/56a798c2975d848f6d1220c10fb35af810a9dd428795bd2808b5da79b9046f55.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24404",
+      "sequenceNumber": 49,
+      "printedNumber": "49",
+      "uuid": 99295341,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/lillipup-49",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11186,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Herdier",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Lillipup",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bite",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        },
+        {
+          "name": "Jump On",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Tomokazu Komiya",
+      "imageUrl": "https://static.tcgcollector.com/content/images/15/69/23/1569239d831cafccbd20ba478944bd4e9283c869db9423bba10225d61c85baf1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24405",
+      "sequenceNumber": 50,
+      "printedNumber": "50",
+      "uuid": 47946133,
+      "prices": [
+        {
+          "priceAmount": 398,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/herdier-50",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11187,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Stoutland",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Herdier",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bite Off",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60+",
+          "text": "If your opponent's Active Pokémon is a Pokémon-EX, this attack does 60 more damage."
+        },
+        {
+          "name": "Wild Barking",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "80",
+          "text": "This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/25/cd/42/25cd42b0b270d1fbf47c7fa46ac0a8ea619cba45f303871de3cf1d6df7a781e1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24406",
+      "sequenceNumber": 51,
+      "printedNumber": "51",
+      "uuid": 92968321,
+      "prices": [
+        {
+          "priceAmount": 298,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/stoutland-51",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11188,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Bunnelby",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dig",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10",
+          "text": "Flip a coin. If heads, prevent all effects off attacks, including damage, done to this Pokémon during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6c/cb/f3/6ccbf362a972666e3a0c926c9b5c2efd5bc6098fe40cce3c08e1fb6312f4cce0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24407",
+      "sequenceNumber": 52,
+      "printedNumber": "52",
+      "uuid": 42432869,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/bunnelby-52",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11189,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Diggersby",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Bunnelby",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Pickup",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Put 2 Item cards from your discard pile into your hand."
+        },
+        {
+          "name": "Dig",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f3/43/7c/f3437c72db7b15e79a766123a7f723ae8d6a41b91e40543385af347bacd44797.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24408",
+      "sequenceNumber": 53,
+      "printedNumber": "53",
+      "uuid": 38179281,
+      "prices": [
+        {
+          "priceAmount": 298,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/diggersby-53",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11190,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Max Revive",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Discard 2 Energy cards from your hand in order to put 1 Basic Pokémon from your discard pile onto your Bench. (You cant play Max Revive if your Bench is full.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/92/51/22/925122b790f302802b22bd32e2598378ad438b2706665c238f329a3dbad3f021.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24409",
+      "sequenceNumber": 54,
+      "printedNumber": "54",
+      "uuid": 63500662,
+      "prices": [
+        {
+          "priceAmount": 144,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/max-revive-1st-edition-54",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 348,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/max-revive-54",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11191,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Evosoda",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Search your deck for a card that evolves from 1 of your Pokémon and put it onto that Pokémon. (This counts as evolving that Pokémon.) Shuffle your deck afterward. You cant use this card during your first turn or on a Pokémon that was put into play this turn.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/86/0d/05/860d05b72b1161b349b954f0b589b3d11d4ca5447673d7730c5e9e1c71213803.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24410",
+      "sequenceNumber": 55,
+      "printedNumber": "55",
+      "uuid": 44032681,
+      "prices": []
+    },
+    {
+      "id": 11192,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Roller Skates",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Flip a coin. If heads, draw 3 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5a/16/79/5a16790d28fa69887262726a15b04501b64669190f48e11b4351b9392aab27f2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24411",
+      "sequenceNumber": 56,
+      "printedNumber": "56",
+      "uuid": 27065426,
+      "prices": [
+        {
+          "priceAmount": 147,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/roller-skates-1st-edition-56",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11193,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Muscle Band",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "\"The attacks of the Pokémon this card is attached to do 20 more damage to your opponents Pokémon (before applying Weakness and Resistance).\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d8/9c/9f/d89c9fe5e2f0b1160a6e016bbd5c3597de476362989163e62f90e43ca5a2dc89.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24412",
+      "sequenceNumber": 57,
+      "printedNumber": "57",
+      "uuid": 95961939,
+      "prices": [
+        {
+          "priceAmount": 145,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/muscle-band-1st-edition-57",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11194,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Professor Sycamore",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Discard your hand and draw 7 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yusuke Ohmura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a5/d0/16/a5d016018e1b12cb0a8f9a9d90001a79953219737d5b5e37f9fa178c08d56f66.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24413",
+      "sequenceNumber": 58,
+      "printedNumber": "58",
+      "uuid": 47191913,
+      "prices": [
+        {
+          "priceAmount": 199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/professor-sycamore-1st-edition-58",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 128,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/professor-sycamore-58",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11195,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Team Flare Grunt",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "\"Discard an Energy attached to your opponents Active Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yusuke Ohmura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/84/e6/27/84e627bd4e461146619aba04a497f39a3688e8671fcc9d234364362b6f932908.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24414",
+      "sequenceNumber": 59,
+      "printedNumber": "59",
+      "uuid": 93880565,
+      "prices": [
+        {
+          "priceAmount": 120,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/team-flare-grunt-1st-edition-59",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/team-flare-grunt-59",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11196,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Rainbow Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Attach Rainbow Energy to 1 of your Pokémon. While in play, Rainbow Energy provides every type of Energy but provides only 1 Energy at a time. (Has no effect other than providing Energy.) When you attach this card from your hand to 1 of your Pokémon, put 1 damage counter on that Pokémon. (While not in play, Rainbow Energy counts as Colorless Energy.)"
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3e/90/ec/3e90ecf149bb490d3f6b1e15e2d0ba1c735c0f568682439f92a8731177ea1b1e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24415",
+      "sequenceNumber": 60,
+      "printedNumber": "60",
+      "uuid": 37463560,
+      "prices": []
+    },
+    {
+      "id": 11197,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Venusaur-EX",
+      "types": [
+        "Grass"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Poison Powder",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        },
+        {
+          "name": "Jungle Hammer",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "90",
+          "text": "Heal 30 damage from this Pokémon."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d9/de/c9/d9dec9404722ba41cb9900001b174c21bc23c974c654d687228bae5e5476ca7e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24416",
+      "sequenceNumber": 61,
+      "printedNumber": "61",
+      "uuid": 19817388,
+      "prices": [
+        {
+          "priceAmount": 39250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/venusaur-ex-1st-edition-61",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 9999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/venusaur-ex-1st-edition-61",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 28650,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/venusaur-ex-61",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 5900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/venusaur-ex-61",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 8948,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/venusaur-ex-61",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 9800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/venusaur-ex-61",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 3492,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/venusaur-ex-61",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11198,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Skarmory-EX",
+      "types": [
+        "Metal"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Joust",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Before doing damage, discard all Pokémon Tool cards attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Tailspin Piledriver",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80+",
+          "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 40 more damage."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/85/bd/56/85bd56ae5ea07990f330f7bef954ae18f6a380e75c858387e988f4a17ee47511.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24417",
+      "sequenceNumber": 62,
+      "printedNumber": "62",
+      "uuid": 19467120,
+      "prices": [
+        {
+          "priceAmount": 1399,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/skarmory-ex-1st-edition-62",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 7200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/skarmory-ex-62",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1861,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/skarmory-ex-62",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11199,
+      "setData": {
+        "name": "Collection X",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-x"
+      },
+      "name": "Xerneas-EX",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Break Through",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "X Blast",
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "140",
+          "text": "This Pokémon can't use X Blast during your next turn."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/71/97/82/71978255ac75e6357056e6a46ffc770d27d430b6c943d1aee9bcc09d3df4c3ee.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24418",
+      "sequenceNumber": 63,
+      "printedNumber": "63",
+      "uuid": 38950464,
+      "prices": [
+        {
+          "priceAmount": 17798,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/xerneas-ex-1st-edition-63",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 8734,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/xerneas-ex-1st-edition-63",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 9600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/xerneas-ex-1st-edition-63",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1948,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/xerneas-ex-1st-edition-63",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 15105,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/xerneas-ex-63",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 803,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-collection-x/xerneas-ex-63",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 63,
+  "totalCount": 63
+}

@@ -1,0 +1,4283 @@
+{
+  "data": [
+    {
+      "id": 8476,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Oddish",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Poison Powder",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sumiyoshi Kizuki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7e/53/b6/7e53b6f5269f75e0bc927bcef3f445c8fb2199619852f766257f16e0d48386fe.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21711",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 41352173,
+      "prices": []
+    },
+    {
+      "id": 8477,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Gloom",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Oddish",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Stinky Scent",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent's Active Pokémon is now Confused."
+        },
+        {
+          "name": "Razor Leaf",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shibuzoh.",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e9/3a/80/e93a80248925664841801f2902b4c17d8532c524bafbcdaa4c4adaeea6b5f03f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21712",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 33513008,
+      "prices": []
+    },
+    {
+      "id": 8478,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Vileplume",
+      "types": [
+        "Grass"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Gloom",
+      "effect": [
+        {
+          "name": "Disgusting Pollen",
+          "text": "As long as this Pokémon is your Active Pokémon, your opponent's Basic Pokémon can't attack.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Downer Shock",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Asleep. If tails, your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "chibi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c6/7a/6b/c67a6b37e20ad28013be665b0b212344806239901593eef85ded380d57a05371.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21713",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 49816761,
+      "prices": []
+    },
+    {
+      "id": 8479,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Heracross",
+      "types": [
+        "Grass"
+      ],
+      "hp": 110,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Guts",
+          "text": "If this Pokémon would be Knocked Out by damage from an attack, flip a coin. If heads, this Pokémon is not Knocked Out, and its remaining HP becomes 10.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Pitch",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50",
+          "text": "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ec/40/ef/ec40efb6b81cc8a94e542935a6c9afadc1a1dea5bc58da0eedf84cb593f13e5a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21714",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 13648211,
+      "prices": []
+    },
+    {
+      "id": 8480,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Pansage",
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Vine Whip",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shigenori Negishi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/48/b0/76/48b076276070889d18a2e5287de887652e1204b0cde9d491085e00e7af91682f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21715",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 62151720,
+      "prices": []
+    },
+    {
+      "id": 8481,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Simisage",
+      "types": [
+        "Grass"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Pansage",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Scratch",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30"
+        },
+        {
+          "name": "Leaf Supply",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50",
+          "text": "You may attach a Grass Energy card from your hand to 1 of your Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "tetsuya koizumi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1c/7c/74/1c7c74344b154fb6d4aaef4c4b3289885b3668bc9da8dd5af318695680519dac.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21716",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 41594969,
+      "prices": []
+    },
+    {
+      "id": 8482,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Dewpider",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Ambush",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/39/8c/2f/398c2ff8a3fb429900f2a581d789d2b48828ec1a1ffe5ceaaea22cc68afe5b56.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21717",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 76272170,
+      "prices": []
+    },
+    {
+      "id": 8483,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Araquanid",
+      "types": [
+        "Grass"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Dewpider",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bubble Net",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Energy can't be attached to the Defending Pokémon from your opponent's hand during their next turn."
+        },
+        {
+          "name": "Sharp Fang",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoki Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/58/03/e1/5803e175a7319bc69687b839686e6e2f2cd9fdcadb20c605d760e402d859eb13.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21718",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 24373801,
+      "prices": []
+    },
+    {
+      "id": 8484,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Charmander",
+      "types": [
+        "Fire"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Scratch",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Flame Tail",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c7/48/ab/c748abb6edc63abd340ccd9a37d715454c95182dd37d88f8d8d1b59f7dc0efec.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21719",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 44881701,
+      "prices": []
+    },
+    {
+      "id": 8485,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Charmeleon",
+      "types": [
+        "Fire"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Charmander",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Claw Slash",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        },
+        {
+          "name": "Heat Blast",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kawayoo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/98/83/10/9883103c7f693c8a33efc45ba5e0a360f60a9789ce0bcb7a2b1ac989ba6fdfd8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21720",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 80674543,
+      "prices": []
+    },
+    {
+      "id": 8486,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Charizard-GX",
+      "types": [
+        "Fire"
+      ],
+      "hp": 250,
+      "evolvesFrom": "Charmeleon",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70"
+        },
+        {
+          "name": "Crimson Storm",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "300",
+          "text": "Discard 3 Fire Energy from this Pokémon."
+        },
+        {
+          "name": "Raging Out-GX",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Discard the top 10 cards of your opponent's deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 2"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/67/bc/ba/67bcba6c43ead2dd47b7567a8990aa4f0896cb6e844fa6df0de212dd87b9185e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21721",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 50562411,
+      "prices": []
+    },
+    {
+      "id": 8487,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Ho-Oh-GX",
+      "types": [
+        "Fire"
+      ],
+      "hp": 190,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sacred Fire",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Phoenix Burn",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "180",
+          "text": "This Pokémon can't use Phoenix Burn during your next turn."
+        },
+        {
+          "name": "Eternal Light-GX",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Put 3 in any combination of Fire Pokémon-GX or Fire Pokémon-EX from your discard pile onto your Bench. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "PLANETA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e8/55/24/e85524e924fbf6ab4ae1caaf583219f842f62cb0804b3e271dfcfc4570ddf434.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21722",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 77676527,
+      "prices": []
+    },
+    {
+      "id": 8488,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Pansear",
+      "types": [
+        "Fire"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Flare",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Miki Tanaka",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e3/c5/cc/e3c5cc416678dd63bc8c53c2a4797c17ee4218af10217bc37439fd3865978a0b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21723",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 17673046,
+      "prices": []
+    },
+    {
+      "id": 8489,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Simisear",
+      "types": [
+        "Fire"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Pansear",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Scratch",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30"
+        },
+        {
+          "name": "Flare Recharge",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50",
+          "text": "Attach a Fire Energy card from your discard pile to 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kirisAki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/81/0a/8b/810a8b250cfb43e8cff298494cb680d68bb04712f9c266bb7a6e32b4f5f7bda5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21724",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 37432546,
+      "prices": []
+    },
+    {
+      "id": 8490,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Heatmor",
+      "types": [
+        "Fire"
+      ],
+      "hp": 110,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Odor Sleuth",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Flip 2 coins. For each heads, put a card from your discard pile into your hand."
+        },
+        {
+          "name": "Searing Flame",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "Your opponent's Active Pokémon is now Burned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Anesaki Dynamic",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d3/db/1f/d3db1f97818005b6e4fc367c0918351b1e5804380f3ac91e173ccd8a252b747d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21725",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 75382950,
+      "prices": []
+    },
+    {
+      "id": 8491,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Horsea",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Water Arrow",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "This attack does 10 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Saya Tsuruta",
+      "imageUrl": "https://static.tcgcollector.com/content/images/11/36/1e/11361e949e1e138e43f10d2d2f45b8f753cf0ae36355b5936c6333253115342c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21726",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 30481281,
+      "prices": []
+    },
+    {
+      "id": 8492,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Seadra",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Horsea",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Water Arrow",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "This attack does 30 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Suwama Chiaki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/da/c0/d6/dac0d68fcfd54ca24668b83d1956087ad3c0340f308dd86be7e9e843d66102c4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21727",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 6101823,
+      "prices": []
+    },
+    {
+      "id": 8493,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Kingdra",
+      "types": [
+        "Water"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Seadra",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Brine",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "This attack does 90 damage to 1 of your opponent's Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Tornado Shot",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "90",
+          "text": "Discard a Water Energy attached to this Pokémon. This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4a/d8/d6/4ad8d6e425e1135fa0409d7e9919292d37550d4e244809a620e98f1bfb6a9cfe.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21728",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 82059847,
+      "prices": []
+    },
+    {
+      "id": 8494,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Marill",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bubble",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Rollout",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Asako Ito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f4/08/92/f408921a4945b6e2e02b4a70c0645ec6a4137ab0e021cb3737c88bc78c3c7df4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21729",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 85910624,
+      "prices": []
+    },
+    {
+      "id": 8495,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Azumarill",
+      "types": [
+        "Water"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Marill",
+      "effect": [
+        {
+          "name": "Thick Fat",
+          "text": "This Pokémon takes 30 less damage from the attacks of your opponent's Fire or Water Pokémon (after applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Waterfall",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "miki kudo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ce/f8/31/cef8316c570b94d41210d84c10b1f57e98a9acb3ea5b21ac2c4920f75d97e419.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21730",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 72199472,
+      "prices": []
+    },
+    {
+      "id": 8496,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Wobbuffet",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Shadowy Knot",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50×",
+          "text": "This attack does 50 damage times the number of Colorless in your opponent's Active Pokémon's Retreat Cost."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "nagimiso",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3a/f6/20/3af620c2b10f8ebb6bcdb56241dc9e238602eb7dcbd3e84afc32b94dc73e61c2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21731",
+      "sequenceNumber": 21,
+      "printedNumber": "21",
+      "uuid": 12979492,
+      "prices": []
+    },
+    {
+      "id": 8497,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Venipede",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bug Bite",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Venoshock",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "If your opponent's Active Pokémon is Poisoned, this attack does 40 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yukiko Baba",
+      "imageUrl": "https://static.tcgcollector.com/content/images/59/f6/6e/59f66e8a18924c6c7a2ab7b314919900878df262ae49b701ba40a7c75fda1b1f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21732",
+      "sequenceNumber": 22,
+      "printedNumber": "22",
+      "uuid": 17331011,
+      "prices": []
+    },
+    {
+      "id": 8498,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Whirlipede",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Venipede",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Spin Turn",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Rollout",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "SATOSHI NAKAI",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a3/10/e2/a310e2477865c444033710fad231d8ff122760ada2d4c52b18177812ae2ed256.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21733",
+      "sequenceNumber": 23,
+      "printedNumber": "23",
+      "uuid": 5703583,
+      "prices": []
+    },
+    {
+      "id": 8499,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Scolipede",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 160,
+      "evolvesFrom": "Whirlipede",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Poison Horn",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        },
+        {
+          "name": "Steamroller",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "140",
+          "text": "This attack's damage isn't affected by Resistance."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ayaka Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/aa/4b/9d/aa4b9d592e40a6cb315972bdb69722fc40b5e1858cb798f80a1fb4ec2d5b66a6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21734",
+      "sequenceNumber": 24,
+      "printedNumber": "24",
+      "uuid": 15581194,
+      "prices": []
+    },
+    {
+      "id": 8500,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Sandygast",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Absorb Life",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Heal 10 damage from this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cf/71/ea/cf71eadf76692344afe728b4f37339378f64e1a78e1277221776af9372f3ab4c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21735",
+      "sequenceNumber": 25,
+      "printedNumber": "25",
+      "uuid": 87830318,
+      "prices": []
+    },
+    {
+      "id": 8501,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Palossand",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Sandygast",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sand Tomb",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Dust Storm",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "100",
+          "text": "Discard all cards from both Active Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kawayoo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3f/31/04/3f31042e4b52339bddd9e9a7f939b367de9288c96dddefcca8e61656dd6c9e38.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21736",
+      "sequenceNumber": 26,
+      "printedNumber": "26",
+      "uuid": 57454421,
+      "prices": []
+    },
+    {
+      "id": 8502,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Riolu",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Punch",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Low Kick",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Saya Tsuruta",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0f/1c/bb/0f1cbb1877576535deeb050467f830921f25aa744c020e2cde8ccb27347232c0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21737",
+      "sequenceNumber": 27,
+      "printedNumber": "27",
+      "uuid": 72411580,
+      "prices": []
+    },
+    {
+      "id": 8503,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Lucario",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Riolu",
+      "effect": [
+        {
+          "name": "Stance",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may prevent all effects of your opponent's attacks, including damage, done to this Pokémon until the end of your opponent's next turn.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Submarine Blow",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "nagimiso",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ab/44/fa/ab44faa3fbf0dba7eca029dceb7a2cf7bb07b8791a1fa8ac1082477c85ac687f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21738",
+      "sequenceNumber": 28,
+      "printedNumber": "28",
+      "uuid": 25052245,
+      "prices": []
+    },
+    {
+      "id": 8504,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Crabrawler",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Light Punch",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kirisAki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/95/77/db/9577dbcf08a7c53ee382bb8b658c31d3d99701cb56b5e84b53b5a894c51f5bea.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21739",
+      "sequenceNumber": 29,
+      "printedNumber": "29",
+      "uuid": 76734522,
+      "prices": []
+    },
+    {
+      "id": 8505,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Crabominable",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Crabrawler",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Gutsy Hammer",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "80",
+          "text": "This Pokémon does damage to itself equal to the number of damage counters already on it."
+        },
+        {
+          "name": "Double Stomp",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80+",
+          "text": "Flip 2 coins. This attack does 40 more damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0c/92/e0/0c92e0ad17b7dbd7d3335ed10513d7ee3db05153d3ac4e4e699d98b43fe19eef.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21740",
+      "sequenceNumber": 30,
+      "printedNumber": "30",
+      "uuid": 79676524,
+      "prices": []
+    },
+    {
+      "id": 8506,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Passimian",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 110,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Punch",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        },
+        {
+          "name": "Intentional Grounding",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "90",
+          "text": "Discard a Pokémon Tool card from your hand. If you don't, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5b/8d/f8/5b8df87072d7049a2acd06d78d1146d2cf63d647a12376ffce679a8bb1761831.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21741",
+      "sequenceNumber": 31,
+      "printedNumber": "31",
+      "uuid": 84337155,
+      "prices": []
+    },
+    {
+      "id": 8507,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Alolan Grimer",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Division",
+          "cost": [],
+          "convertedEnergyCost": 0,
+          "text": "Search your deck for Alolan Grimer and put it onto your Bench. Then, shuffle your deck."
+        },
+        {
+          "name": "Slippery Sludge",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Alolan",
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b8/2a/ae/b82aae5c2285d93f894c56701af67c9631b2f10b73b178cc82beaedf3288fb0f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21742",
+      "sequenceNumber": 32,
+      "printedNumber": "32",
+      "uuid": 26335513,
+      "prices": []
+    },
+    {
+      "id": 8508,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Alolan Muk-GX",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 220,
+      "evolvesFrom": "Alolan Grimer",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Chemical Breath",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "10+",
+          "text": "This attack does 70 more damage for each Special Condition affecting your opponent's Active Pokémon."
+        },
+        {
+          "name": "Crunch",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120",
+          "text": "Discard an Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Tri Hazard-GX",
+          "cost": [],
+          "convertedEnergyCost": 0,
+          "text": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. The new Active Pokémon is now Burned, Paralyzed, and Poisoned. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Alolan",
+        "Stage 1"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3f/13/03/3f1303eb8db3efb70602a5b3c1161b21da097ab235d5d9dab7707b4788046762.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21743",
+      "sequenceNumber": 33,
+      "printedNumber": "33",
+      "uuid": 5422992,
+      "prices": []
+    },
+    {
+      "id": 8509,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Darkrai",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hypnoblast",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Dark Raid",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80+",
+          "text": "If your opponent has already used their GX Attack, this attack does 80 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hitoshi Ariga",
+      "imageUrl": "https://static.tcgcollector.com/content/images/37/1d/3e/371d3e1345c1007ae16fdf1a888362307103305369612bdf2dc55c61eb0addd6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21744",
+      "sequenceNumber": 34,
+      "printedNumber": "34",
+      "uuid": 80715369,
+      "prices": []
+    },
+    {
+      "id": 8510,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Inkay",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Constrict",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "OOYAMA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/65/89/1a/65891ad6effb7a9afa00aff7616a95de949ff8cc6a06e7add94c089f331f14e0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21745",
+      "sequenceNumber": 35,
+      "printedNumber": "35",
+      "uuid": 81930709,
+      "prices": []
+    },
+    {
+      "id": 8511,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Malamar",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Inkay",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Psybeam",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Your opponent's Active Pokémon is now Confused."
+        },
+        {
+          "name": "Energy Slosh",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": "You may move all Energy attached to this Pokémon to 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bc/05/7a/bc057ae3481f3d022ea3dd120af2d847304fb1ac2858a362e658de98492845e0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21746",
+      "sequenceNumber": 36,
+      "printedNumber": "36",
+      "uuid": 98308919,
+      "prices": []
+    },
+    {
+      "id": 8512,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Diancie",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sparkling Wish",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for a card that evolves from 1 of your Pokémon and put it onto that Pokémon to evolve it. Then, shuffle your deck."
+        },
+        {
+          "name": "Diamond Storm",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Heal 30 damage from each of your Fairy Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "TOKIYA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/36/1d/fd/361dfdfc68390da6d682d271a96c2f748d6d3ada684b02d22c04749eac0998ea.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21747",
+      "sequenceNumber": 37,
+      "printedNumber": "37",
+      "uuid": 24974498,
+      "prices": []
+    },
+    {
+      "id": 8513,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Cutiefly",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fairy Wind",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9b/5f/5c/9b5f5ca314d7dfd77e84d38a88ba316ef4a3f25c9628a36b4c9dcec43a704fc1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21748",
+      "sequenceNumber": 38,
+      "printedNumber": "38",
+      "uuid": 81506152,
+      "prices": []
+    },
+    {
+      "id": 8514,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Ribombee",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Cutiefly",
+      "effect": [
+        {
+          "name": "Honey Gather",
+          "text": "Once during your turn (before your attack), you may search your deck for up to 2 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Pollen Ball",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Megumi Mizutani",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5e/ea/79/5eea7927b99ed06b109d6f9a905daa9730caf41954734083abf4fe611bcbafa3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21749",
+      "sequenceNumber": 39,
+      "printedNumber": "39",
+      "uuid": 47046975,
+      "prices": []
+    },
+    {
+      "id": 8515,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Noivern-GX",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Noibat",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Distort",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50",
+          "text": "Your opponent can't play any Item cards from their hand during their next turn."
+        },
+        {
+          "name": "Sonic Volume",
+          "cost": [
+            "Psychic",
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120",
+          "text": "Your opponent can't play any Special Energy cards from their hand during their next turn."
+        },
+        {
+          "name": "Boomburst-GX",
+          "cost": [
+            "Psychic",
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "This attack does 50 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 1"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e5/4a/be/e54abeb7fbda800e99fd2cde4d3af91719667fddc4908a81ccb0e006e7856b8d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21750",
+      "sequenceNumber": 40,
+      "printedNumber": "40",
+      "uuid": 26942839,
+      "prices": []
+    },
+    {
+      "id": 8516,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Meowth",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fake Out",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2c/7b/b5/2c7bb5690cd456871a1ef5d12e54e95413245fe2ae4c2c5b41ed9a03c396393f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21751",
+      "sequenceNumber": 41,
+      "printedNumber": "41",
+      "uuid": 38150669,
+      "prices": []
+    },
+    {
+      "id": 8517,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Persian",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Meowth",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Screech",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "During your next turn, the Defending Pokémon takes 60 more damage from attacks (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Slash",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sekio",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3f/86/ff/3f86fffbc2a7eb109b35b8000300dab2a543175d988ac1d28352762857fe359d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21752",
+      "sequenceNumber": 42,
+      "printedNumber": "42",
+      "uuid": 14157305,
+      "prices": []
+    },
+    {
+      "id": 8518,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Hoothoot",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "See Through",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent reveals their hand."
+        },
+        {
+          "name": "Peck",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "MAHOU",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ec/52/c5/ec52c540d4cea9de0d431118bcf353b93bd396688f55b7b503a2d1d478704a3f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21753",
+      "sequenceNumber": 43,
+      "printedNumber": "43",
+      "uuid": 78246282,
+      "prices": []
+    },
+    {
+      "id": 8519,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Noctowl",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Hoothoot",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hypnoblast",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Night Raid",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": "Your opponent reveals their hand. Discard a Pokémon from it."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sekio",
+      "imageUrl": "https://static.tcgcollector.com/content/images/51/4b/ed/514bed9d47596f0cbbc37127ee452851fc56b42009c537c3d97cef8e664dd8a0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21754",
+      "sequenceNumber": 44,
+      "printedNumber": "44",
+      "uuid": 17071356,
+      "prices": []
+    },
+    {
+      "id": 8520,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Bouffalant",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bouffant Head",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Knock Over",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": "You may discard any Stadium card in play."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "TOKIYA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9e/ab/6d/9eab6dfefdfcca8d701b8787fad4131db002297e003ffcefe44f9252a09cfd22.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21755",
+      "sequenceNumber": 45,
+      "printedNumber": "45",
+      "uuid": 94288302,
+      "prices": []
+    },
+    {
+      "id": 8521,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Noibat",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Agility",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yumi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3e/4d/97/3e4d973e833ecd85aa3af6b01ea56ae09f0778415b8c930dedbb65e4dacac111.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21756",
+      "sequenceNumber": 46,
+      "printedNumber": "46",
+      "uuid": 58722462,
+      "prices": []
+    },
+    {
+      "id": 8522,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Rotom Dex Poké Finder Mode",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Look at the top 4 cards of your deck and put them back in any order or shuffle them into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d8/52/fe/d852fe94f5738e1acbe8f57c72d5e3abb8cf474c9109cfc5d614c8111a6db701.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21757",
+      "sequenceNumber": 47,
+      "printedNumber": "47",
+      "uuid": 31160661,
+      "prices": []
+    },
+    {
+      "id": 8523,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Bodybuilding Dumbbells",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "The Stage 1 Pokémon this card is attached to gets +40 HP."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Eske Yoshinob",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4b/86/bb/4b86bb357d8c4343c450176d8b7482f4de6d370cc1207bb4ed4361d0b031d318.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21758",
+      "sequenceNumber": 48,
+      "printedNumber": "48",
+      "uuid": 57563666,
+      "prices": []
+    },
+    {
+      "id": 8524,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Kiawe",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Search your deck for up to 4 Fire Energy cards and attach them to 1 of your Pokémon. Then, shuffle your deck. Your turn ends."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fb/f0/21/fbf021a817bdb3ba544d73196a2a05e8285da16d15183684dae5262ffebd1c41.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21759",
+      "sequenceNumber": 49,
+      "printedNumber": "49",
+      "uuid": 64813025,
+      "prices": []
+    },
+    {
+      "id": 8525,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Plumeria",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "\"Discard 2 cards from your hand. If you do, discard an Energy from 1 of your opponents Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ff/2e/6d/ff2e6dc56c4eeb16c9845664e6cf62cb2e63df066bf92fb484320be39962700a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21760",
+      "sequenceNumber": 50,
+      "printedNumber": "50",
+      "uuid": 18298314,
+      "prices": []
+    },
+    {
+      "id": 8526,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Mount Lanakila",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you cant play this card.\", \"The Retreat Cost of each Basic Pokémon in play (both yours and your opponents) is Colorless more.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/41/28/ce/4128ced9f84ddb276fead3c471a82bebc35c7c37d2eb7ffa731e6dc60f142cb7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21761",
+      "sequenceNumber": 51,
+      "printedNumber": "51",
+      "uuid": 18260280,
+      "prices": []
+    },
+    {
+      "id": 8527,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Charizard-GX",
+      "types": [
+        "Fire"
+      ],
+      "hp": 250,
+      "evolvesFrom": "Charmeleon",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70"
+        },
+        {
+          "name": "Crimson Storm",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "300",
+          "text": "Discard 3 Fire Energy from this Pokémon."
+        },
+        {
+          "name": "Raging Out-GX",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Discard the top 10 cards of your opponent's deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 2"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/10/33/6f/10336fce55ff171908d5d9cf4efc585cdc6d55342120364b1cc86b3af1f8a38a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21762",
+      "sequenceNumber": 52,
+      "printedNumber": "52",
+      "uuid": 6043229,
+      "prices": []
+    },
+    {
+      "id": 8528,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Ho-Oh-GX",
+      "types": [
+        "Fire"
+      ],
+      "hp": 190,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sacred Fire",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Phoenix Burn",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "180",
+          "text": "This Pokémon can't use Phoenix Burn during your next turn."
+        },
+        {
+          "name": "Eternal Light-GX",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Put 3 in any combination of Fire Pokémon-GX or Fire Pokémon-EX from your discard pile onto your Bench. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/88/40/6e/88406e596b19088fb5d4a983310d80d72b364095c03d4eb34233da98ddccce28.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21763",
+      "sequenceNumber": 53,
+      "printedNumber": "53",
+      "uuid": 81585852,
+      "prices": []
+    },
+    {
+      "id": 8529,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Alolan Muk-GX",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 220,
+      "evolvesFrom": "Alolan Grimer",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Chemical Breath",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "10+",
+          "text": "This attack does 70 more damage for each Special Condition affecting your opponent's Active Pokémon."
+        },
+        {
+          "name": "Crunch",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120",
+          "text": "Discard an Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Tri Hazard-GX",
+          "cost": [],
+          "convertedEnergyCost": 0,
+          "text": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. The new Active Pokémon is now Burned, Paralyzed, and Poisoned. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Alolan",
+        "Stage 1"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/21/54/47/215447d988f7d32818016df6f5a426ad3f86a46813e8ae926e77fec4ed316e86.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21764",
+      "sequenceNumber": 54,
+      "printedNumber": "54",
+      "uuid": 54991893,
+      "prices": []
+    },
+    {
+      "id": 8530,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Noivern-GX",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Noibat",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Distort",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50",
+          "text": "Your opponent can't play any Item cards from their hand during their next turn."
+        },
+        {
+          "name": "Sonic Volume",
+          "cost": [
+            "Psychic",
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120",
+          "text": "Your opponent can't play any Special Energy cards from their hand during their next turn."
+        },
+        {
+          "name": "Boomburst-GX",
+          "cost": [
+            "Psychic",
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "This attack does 50 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 1"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c8/8c/66/c88c665b66e56b7116e4c64afb4a368c0545a6b3b54d08e887085b8828636743.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21765",
+      "sequenceNumber": 55,
+      "printedNumber": "55",
+      "uuid": 58077409,
+      "prices": []
+    },
+    {
+      "id": 8531,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Kiawe",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Search your deck for up to 4 Fire Energy cards and attach them to 1 of your Pokémon. Then, shuffle your deck. Your turn ends."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoki Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bf/4c/70/bf4c701e479c9019ebd415b199d65e06129f4dba95f4fcca502554defbf2dc90.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21766",
+      "sequenceNumber": 56,
+      "printedNumber": "56",
+      "uuid": 63863972,
+      "prices": []
+    },
+    {
+      "id": 8532,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Plumeria",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "\"Discard 2 cards from your hand. If you do, discard an Energy from 1 of your opponents Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sanosuke Sakuma",
+      "imageUrl": "https://static.tcgcollector.com/content/images/77/08/2b/77082bb11b2baa2575e7f4dec973d209b20b63b9c88fba6fa410c17fcde2c551.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21767",
+      "sequenceNumber": 57,
+      "printedNumber": "57",
+      "uuid": 35302156,
+      "prices": []
+    },
+    {
+      "id": 8533,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Charizard-GX",
+      "types": [
+        "Fire"
+      ],
+      "hp": 250,
+      "evolvesFrom": "Charmeleon",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70"
+        },
+        {
+          "name": "Crimson Storm",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "300",
+          "text": "Discard 3 Fire Energy from this Pokémon."
+        },
+        {
+          "name": "Raging Out-GX",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Discard the top 10 cards of your opponent's deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 2"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e2/ad/60/e2ad60b146032f44be53e1db8c8cb630d395c79009528f8df9effe7db87a1133.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21768",
+      "sequenceNumber": 58,
+      "printedNumber": "58",
+      "uuid": 3492407,
+      "prices": []
+    },
+    {
+      "id": 8534,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Ho-Oh-GX",
+      "types": [
+        "Fire"
+      ],
+      "hp": 190,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sacred Fire",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Phoenix Burn",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "180",
+          "text": "This Pokémon can't use Phoenix Burn during your next turn."
+        },
+        {
+          "name": "Eternal Light-GX",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Put 3 in any combination of Fire Pokémon-GX or Fire Pokémon-EX from your discard pile onto your Bench. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b5/55/f8/b555f836f9e4a73d3e17eab62336e73119d4240b4373fa296adec51ac9e74bf5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21769",
+      "sequenceNumber": 59,
+      "printedNumber": "59",
+      "uuid": 27007189,
+      "prices": []
+    },
+    {
+      "id": 8535,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Alolan Muk-GX",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 220,
+      "evolvesFrom": "Alolan Grimer",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Chemical Breath",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "10+",
+          "text": "This attack does 70 more damage for each Special Condition affecting your opponent's Active Pokémon."
+        },
+        {
+          "name": "Crunch",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120",
+          "text": "Discard an Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Tri Hazard-GX",
+          "cost": [],
+          "convertedEnergyCost": 0,
+          "text": "Switch 1 of your opponent's Benched Pokémon with their Active Pokémon. The new Active Pokémon is now Burned, Paralyzed, and Poisoned. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Alolan",
+        "Stage 1"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b2/76/2f/b2762f9e7fbb6d091da01f55182808f0730f8e53485700b57e74615b378d8149.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21770",
+      "sequenceNumber": 60,
+      "printedNumber": "60",
+      "uuid": 79760015,
+      "prices": []
+    },
+    {
+      "id": 8536,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Noivern-GX",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Noibat",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Distort",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50",
+          "text": "Your opponent can't play any Item cards from their hand during their next turn."
+        },
+        {
+          "name": "Sonic Volume",
+          "cost": [
+            "Psychic",
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120",
+          "text": "Your opponent can't play any Special Energy cards from their hand during their next turn."
+        },
+        {
+          "name": "Boomburst-GX",
+          "cost": [
+            "Psychic",
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "This attack does 50 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 1"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e0/40/be/e040be8548d2a83edcf7ef31d208390a641fc74195897f8ada7ffb89b91dd4b8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21771",
+      "sequenceNumber": 61,
+      "printedNumber": "61",
+      "uuid": 87007811,
+      "prices": []
+    },
+    {
+      "id": 8537,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Escape Rope",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Each player switches his or her Active Pokémon with 1 of his or her Benched Pokémon. (Your opponent switches first. If a player does not have a Benched Pokémon, he or she doesnt have to switch Pokémon.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b8/40/a7/b840a73be0539f386edf51f71ed43353733f13b30b6d2eb6c59b9a343043074b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21772",
+      "sequenceNumber": 62,
+      "printedNumber": "62",
+      "uuid": 45228352,
+      "prices": []
+    },
+    {
+      "id": 8538,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Bodybuilding Dumbbells",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "The Stage 1 Pokémon this card is attached to gets +40 HP."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2b/59/96/2b5996cb64144d33c8adfce3b7be55b00f5200d05ce0ce8f6698694d61614014.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21773",
+      "sequenceNumber": 63,
+      "printedNumber": "63",
+      "uuid": 83175899,
+      "prices": []
+    },
+    {
+      "id": 8539,
+      "setData": {
+        "name": "To Have Seen the Battle Rainbow",
+        "printed_count": "64",
+        "card_count": 64,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/to-have-seen-the-battle-rainbow"
+      },
+      "name": "Fire Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b2/01/28/b201283335d4fcfdb55781cb5c6909e353d5baf1fe6b4d328257912b42808d86.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21774",
+      "sequenceNumber": 64,
+      "printedNumber": "64",
+      "uuid": 45219963,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 64,
+  "totalCount": 64
+}

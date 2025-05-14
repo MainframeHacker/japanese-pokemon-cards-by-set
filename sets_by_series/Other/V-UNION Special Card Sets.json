@@ -1,0 +1,1446 @@
+{
+  "data": [
+    {
+      "id": 2914,
+      "setData": {
+        "name": "V-UNION Special Card Sets",
+        "printed_count": "13",
+        "card_count": 13,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/v-union-special-card-sets"
+      },
+      "name": "Greninja V-UNION",
+      "types": [
+        "Water"
+      ],
+      "hp": 300,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Ninja Body",
+          "text": "Whenever your opponent plays an Item card from their hand, prevent all effects of that card done to this Pokémon.",
+          "type": "Ability"
+        },
+        {
+          "name": "Antidote Jutsu",
+          "text": "This Pokémon can't be Poisoned.",
+          "type": "Ability"
+        },
+        {
+          "name": "Feel the Way",
+          "text": "Once during your turn, you may have your opponent reveal their hand.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Union Gain",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Attach up to 2 Water Energy cards from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Aqua Edge",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "130"
+        },
+        {
+          "name": "Twister Shuriken",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "This attack does 100 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Waterfall Bind",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "180",
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+        }
+      ],
+      "rules": [
+        "Once per game during your turn, combine 4 different Greninja V-UNION from your discard pile and put them onto your Bench.",
+        "When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "V-UNION",
+        "Full Art",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1b/0e/1f/1b0e1fd6c2d1a9c8f14c2d8f0dda747f6a3969b0dd3bf9a43979ff4da163520e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/36060",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 86068815,
+      "prices": [
+        {
+          "priceAmount": 549,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-v-union-special-set/greninja-v-union-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 2915,
+      "setData": {
+        "name": "V-UNION Special Card Sets",
+        "printed_count": "13",
+        "card_count": 13,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/v-union-special-card-sets"
+      },
+      "name": "Greninja V-UNION",
+      "types": [
+        "Water"
+      ],
+      "hp": 300,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Ninja Body",
+          "text": "Whenever your opponent plays an Item card from their hand, prevent all effects of that card done to this Pokémon.",
+          "type": "Ability"
+        },
+        {
+          "name": "Antidote Jutsu",
+          "text": "This Pokémon can't be Poisoned.",
+          "type": "Ability"
+        },
+        {
+          "name": "Feel the Way",
+          "text": "Once during your turn, you may have your opponent reveal their hand.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Union Gain",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Attach up to 2 Water Energy cards from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Aqua Edge",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "130"
+        },
+        {
+          "name": "Twister Shuriken",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "This attack does 100 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Waterfall Bind",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "180",
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+        }
+      ],
+      "rules": [
+        "Once per game during your turn, combine 4 different Greninja V-UNION from your discard pile and put them onto your Bench.",
+        "When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "V-UNION",
+        "Full Art",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8d/ad/1d/8dad1d482b794d0ad82258a6d38b53f12345808c080c698c7c5b735eb7011c4d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/36061",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 97608426,
+      "prices": []
+    },
+    {
+      "id": 2916,
+      "setData": {
+        "name": "V-UNION Special Card Sets",
+        "printed_count": "13",
+        "card_count": 13,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/v-union-special-card-sets"
+      },
+      "name": "Greninja V-UNION",
+      "types": [
+        "Water"
+      ],
+      "hp": 300,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Ninja Body",
+          "text": "Whenever your opponent plays an Item card from their hand, prevent all effects of that card done to this Pokémon.",
+          "type": "Ability"
+        },
+        {
+          "name": "Antidote Jutsu",
+          "text": "This Pokémon can't be Poisoned.",
+          "type": "Ability"
+        },
+        {
+          "name": "Feel the Way",
+          "text": "Once during your turn, you may have your opponent reveal their hand.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Union Gain",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Attach up to 2 Water Energy cards from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Aqua Edge",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "130"
+        },
+        {
+          "name": "Twister Shuriken",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "This attack does 100 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Waterfall Bind",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "180",
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+        }
+      ],
+      "rules": [
+        "Once per game during your turn, combine 4 different Greninja V-UNION from your discard pile and put them onto your Bench.",
+        "When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "V-UNION",
+        "Full Art",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b7/61/56/b76156483c7d4f1a4f382d85cfa568ce6641f8dfc26ad31086563b4ad89c289d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/36062",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 16843993,
+      "prices": []
+    },
+    {
+      "id": 2917,
+      "setData": {
+        "name": "V-UNION Special Card Sets",
+        "printed_count": "13",
+        "card_count": 13,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/v-union-special-card-sets"
+      },
+      "name": "Greninja V-UNION",
+      "types": [
+        "Water"
+      ],
+      "hp": 300,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Ninja Body",
+          "text": "Whenever your opponent plays an Item card from their hand, prevent all effects of that card done to this Pokémon.",
+          "type": "Ability"
+        },
+        {
+          "name": "Antidote Jutsu",
+          "text": "This Pokémon can't be Poisoned.",
+          "type": "Ability"
+        },
+        {
+          "name": "Feel the Way",
+          "text": "Once during your turn, you may have your opponent reveal their hand.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Union Gain",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Attach up to 2 Water Energy cards from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Aqua Edge",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "130"
+        },
+        {
+          "name": "Twister Shuriken",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "This attack does 100 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Waterfall Bind",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "180",
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+        }
+      ],
+      "rules": [
+        "Once per game during your turn, combine 4 different Greninja V-UNION from your discard pile and put them onto your Bench.",
+        "When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "V-UNION",
+        "Full Art",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4a/7b/82/4a7b822acc866f7c951f6f07d149d567177a0b81c1d0e62274048968562915c7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/36063",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 43301638,
+      "prices": [
+        {
+          "priceAmount": 7367,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-v-union-special-set/greninja-v-union-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-v-union-special-set/greninja-v-union-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 3171,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-v-union-special-set/greninja-v-union-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-v-union-special-set/greninja-v-union-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1037,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-v-union-special-set/greninja-v-union-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 2918,
+      "setData": {
+        "name": "V-UNION Special Card Sets",
+        "printed_count": "13",
+        "card_count": 13,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/v-union-special-card-sets"
+      },
+      "name": "Mewtwo V-UNION",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 310,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Photon Barrier",
+          "text": "Prevent all effects of attacks from your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Union Gain",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Attach up to 2 Psychic Energy cards from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Super Regeneration",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Heal 200 damage from this Pokémon."
+        },
+        {
+          "name": "Psysplosion",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Put 16 damage counters on your opponent's Pokémon in any way you like."
+        },
+        {
+          "name": "Final Burn",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "300"
+        }
+      ],
+      "rules": [
+        "Once per game during your turn, combine 4 different Mewtwo V-UNION from your discard pile and put them onto your Bench.",
+        "When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "V-UNION",
+        "Full Art",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "AKIRA EGAWA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/85/cc/5f/85cc5f68f05b982dcc2b2e50bc49b7a2159217614e29f1cbc82ec64dc165c4cc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/36064",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 70610644,
+      "prices": [
+        {
+          "priceAmount": 349,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-v-union-special-set/mewtwo-v-union-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 2919,
+      "setData": {
+        "name": "V-UNION Special Card Sets",
+        "printed_count": "13",
+        "card_count": 13,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/v-union-special-card-sets"
+      },
+      "name": "Mewtwo V-UNION",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 310,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Photon Barrier",
+          "text": "Prevent all effects of attacks from your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Union Gain",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Attach up to 2 Psychic Energy cards from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Super Regeneration",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Heal 200 damage from this Pokémon."
+        },
+        {
+          "name": "Psysplosion",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Put 16 damage counters on your opponent's Pokémon in any way you like."
+        },
+        {
+          "name": "Final Burn",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "300"
+        }
+      ],
+      "rules": [
+        "Once per game during your turn, combine 4 different Mewtwo V-UNION from your discard pile and put them onto your Bench.",
+        "When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "V-UNION",
+        "Full Art",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "AKIRA EGAWA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7a/15/36/7a1536a4aac97eacf3f259f1a31020e8b2207e4cba1f160441be5e2c794ef842.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/36065",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 45601796,
+      "prices": [
+        {
+          "priceAmount": 550,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-v-union-special-set/mewtwo-v-union-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-v-union-special-set/mewtwo-v-union-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 99,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-v-union-special-set/mewtwo-v-union-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 2920,
+      "setData": {
+        "name": "V-UNION Special Card Sets",
+        "printed_count": "13",
+        "card_count": 13,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/v-union-special-card-sets"
+      },
+      "name": "Mewtwo V-UNION",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 310,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Photon Barrier",
+          "text": "Prevent all effects of attacks from your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Union Gain",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Attach up to 2 Psychic Energy cards from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Super Regeneration",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Heal 200 damage from this Pokémon."
+        },
+        {
+          "name": "Psysplosion",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Put 16 damage counters on your opponent's Pokémon in any way you like."
+        },
+        {
+          "name": "Final Burn",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "300"
+        }
+      ],
+      "rules": [
+        "Once per game during your turn, combine 4 different Mewtwo V-UNION from your discard pile and put them onto your Bench.",
+        "When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "V-UNION",
+        "Full Art",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "AKIRA EGAWA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2b/35/d1/2b35d1ee65ec2ce47f11ce17c2e3293163d2c350aabbc53590fbce2d9405c54f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/36066",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 69857738,
+      "prices": []
+    },
+    {
+      "id": 2921,
+      "setData": {
+        "name": "V-UNION Special Card Sets",
+        "printed_count": "13",
+        "card_count": 13,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/v-union-special-card-sets"
+      },
+      "name": "Mewtwo V-UNION",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 310,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Photon Barrier",
+          "text": "Prevent all effects of attacks from your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Union Gain",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Attach up to 2 Psychic Energy cards from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Super Regeneration",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Heal 200 damage from this Pokémon."
+        },
+        {
+          "name": "Psysplosion",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Put 16 damage counters on your opponent's Pokémon in any way you like."
+        },
+        {
+          "name": "Final Burn",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "300"
+        }
+      ],
+      "rules": [
+        "Once per game during your turn, combine 4 different Mewtwo V-UNION from your discard pile and put them onto your Bench.",
+        "When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "V-UNION",
+        "Full Art",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "AKIRA EGAWA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7b/c1/59/7bc159fbd3a911b64cd82cd33cc416374e653fca9f3142ff65d5b63a0f233c39.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/36067",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 1171392,
+      "prices": [
+        {
+          "priceAmount": 5454,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-v-union-special-set/mewtwo-v-union-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 4158,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-v-union-special-set/mewtwo-v-union-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 4600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-v-union-special-set/mewtwo-v-union-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1632,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-v-union-special-set/mewtwo-v-union-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 2922,
+      "setData": {
+        "name": "V-UNION Special Card Sets",
+        "printed_count": "13",
+        "card_count": 13,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/v-union-special-card-sets"
+      },
+      "name": "Zacian V-UNION",
+      "types": [
+        "Metal"
+      ],
+      "hp": 320,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Union Gain",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Attach up to 2 Metal Energy cards from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Dance of the Crowned Sword",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "150",
+          "text": "During your opponent's next turn, the Defending Pokémon's attacks do 150 less damage (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Steel Cut",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "200"
+        },
+        {
+          "name": "Master Blade",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "340",
+          "text": "Discard 3 Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "Once per game during your turn, combine 4 different Zacian V-UNION from your discard pile and put them onto your Bench.",
+        "When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "V-UNION",
+        "Full Art",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "PLANETA Tsuji",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c0/38/9f/c0389fbf692689dc8303e1d08e6811be16eb5bb4008932aed702bfe95b7e53bb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/36068",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 35270137,
+      "prices": []
+    },
+    {
+      "id": 2923,
+      "setData": {
+        "name": "V-UNION Special Card Sets",
+        "printed_count": "13",
+        "card_count": 13,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/v-union-special-card-sets"
+      },
+      "name": "Zacian V-UNION",
+      "types": [
+        "Metal"
+      ],
+      "hp": 320,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Union Gain",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Attach up to 2 Metal Energy cards from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Dance of the Crowned Sword",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "150",
+          "text": "During your opponent's next turn, the Defending Pokémon's attacks do 150 less damage (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Steel Cut",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "200"
+        },
+        {
+          "name": "Master Blade",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "340",
+          "text": "Discard 3 Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "Once per game during your turn, combine 4 different Zacian V-UNION from your discard pile and put them onto your Bench.",
+        "When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "V-UNION",
+        "Full Art",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "PLANETA Tsuji",
+      "imageUrl": "https://static.tcgcollector.com/content/images/25/80/7b/25807b91bd8dafb0ac181300fa80a2936ffdb92c964bc8553e667dc89fb9efd2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/36069",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 61296345,
+      "prices": []
+    },
+    {
+      "id": 2924,
+      "setData": {
+        "name": "V-UNION Special Card Sets",
+        "printed_count": "13",
+        "card_count": 13,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/v-union-special-card-sets"
+      },
+      "name": "Zacian V-UNION",
+      "types": [
+        "Metal"
+      ],
+      "hp": 320,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Union Gain",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Attach up to 2 Metal Energy cards from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Dance of the Crowned Sword",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "150",
+          "text": "During your opponent's next turn, the Defending Pokémon's attacks do 150 less damage (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Steel Cut",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "200"
+        },
+        {
+          "name": "Master Blade",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "340",
+          "text": "Discard 3 Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "Once per game during your turn, combine 4 different Zacian V-UNION from your discard pile and put them onto your Bench.",
+        "When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "V-UNION",
+        "Full Art",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "PLANETA Tsuji",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fa/13/22/fa1322afcac67ad509a3ba5b2ee0f8bb053427305dcb0aca8dcadfcf1c7a47c9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/36070",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 77402780,
+      "prices": []
+    },
+    {
+      "id": 2925,
+      "setData": {
+        "name": "V-UNION Special Card Sets",
+        "printed_count": "13",
+        "card_count": 13,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/v-union-special-card-sets"
+      },
+      "name": "Zacian V-UNION",
+      "types": [
+        "Metal"
+      ],
+      "hp": 320,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Union Gain",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Attach up to 2 Metal Energy cards from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Dance of the Crowned Sword",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "150",
+          "text": "During your opponent's next turn, the Defending Pokémon's attacks do 150 less damage (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Steel Cut",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "200"
+        },
+        {
+          "name": "Master Blade",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "340",
+          "text": "Discard 3 Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "Once per game during your turn, combine 4 different Zacian V-UNION from your discard pile and put them onto your Bench.",
+        "When your Pokémon V-UNION is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "V-UNION",
+        "Full Art",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "PLANETA Tsuji",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c7/51/9d/c7519d9144b26e5005515a9de0d94cfc2b95121210b9bae2b59824683d24959d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/36071",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 60616343,
+      "prices": [
+        {
+          "priceAmount": 994,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-v-union-special-set/zacian-v-union-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 2926,
+      "setData": {
+        "name": "V-UNION Special Card Sets",
+        "printed_count": "13",
+        "card_count": 13,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/v-union-special-card-sets"
+      },
+      "name": "Professor Burnet",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Search your deck for up to 2 cards and discard them. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryuta Fuse",
+      "imageUrl": "https://static.tcgcollector.com/content/images/89/b3/c7/89b3c73391967872778f83060f06f7d9c3b21e0b58dce20172e0eab9da2c0b54.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/36073",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 71986218,
+      "prices": [
+        {
+          "priceAmount": 3957,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-v-union-special-set/professor-burnet-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1475,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-v-union-special-set/professor-burnet-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-v-union-special-set/professor-burnet-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 247,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-v-union-special-set/professor-burnet-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 13,
+  "totalCount": 13
+}

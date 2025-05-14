@@ -1,0 +1,4933 @@
+{
+  "data": [
+    {
+      "id": 16096,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Seedot",
+      "types": [
+        "Grass"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Surprise Attack",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/01/bf/fd/01bffd969b4712370b98d7f729fa29f27a84d2b78959665f944932b2b6917d96.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28692",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 52704456,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/seedot-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16097,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Nuzleaf",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Seedot",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Steady Punch",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+        },
+        {
+          "name": "Razor Leaf",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/34/48/80/3448802da32e30b38662997b0837cf4d2f52e0577fa783dba67a86d0f9a2f60e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28693",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 44179759,
+      "prices": [
+        {
+          "priceAmount": 491,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/nuzleaf-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16098,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Shiftry",
+      "types": [
+        "Grass"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Nuzleaf",
+      "effect": [
+        {
+          "name": "Fan Away",
+          "text": "Once during your turn (before your attack), you may flip a coin. If heads, return 1 Energy card attached to the Defending Pokémon to your opponent's hand. This power can't be used if Shiftry is affected by a Special Condition.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Light Touch Throw",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "80-",
+          "text": "Does 80 damage minus 10 damage for each Energy attached to the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f4/57/ae/f457ae805a377ee407c7b42f1d4f7d25b0b848e271403ed089bf7de4328c0c78.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28694",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 46903787,
+      "prices": [
+        {
+          "priceAmount": 4889,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/shiftry-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2319,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/shiftry-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/shiftry-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 399,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/shiftry-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16099,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Volbeat",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Uplifting Glow",
+          "text": "As long as Illumise is in play, Volbeat's Retreat Cost is 0.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Toxic Vibration",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned. If tails, the Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Pester",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "If the Defending Pokémon is affected by a Special Condition, this attack does 20 damage plus 20 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/04/4a/d2/044ad251952c6dcec62e976bc0f679965735d84c6b9bf797879ab14a38d85239.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28695",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 26928951,
+      "prices": [
+        {
+          "priceAmount": 172,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/volbeat-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16100,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Illumise",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Glowing Screen",
+          "text": "As long as Volbeat is in play, any damage done to Illumise by attacks from Fighting Pokémon and Darkness Pokémon is reduced by 30. You can't reduce more than 30 damage even if there is more than 1 Volbeat in play.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Chaotic Noise",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused. If tails, the Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Pester",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "If the Defending Pokémon is affected by a Special Condition, this attack does 20 damage plus 20 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/93/ce/06/93ce0608fee5f52af94230c12bf6d51242007f8e48b71e28cb8a874f0b514ba2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28696",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 97536581,
+      "prices": [
+        {
+          "priceAmount": 247,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/illumise-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16101,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Cacnea",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Poison Payback",
+          "text": "If Cacnea is your Active Pokémon and is damaged by an opponent's attack (even if Cacnea is Knocked Out), the Attacking Pokémon is now Poisoned.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Light Punch",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ab/24/41/ab2441e4fdb73566705a0b2192c45e532d8c97845a150143c7af3a75378a0f28.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28697",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 88639835,
+      "prices": [
+        {
+          "priceAmount": 325,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/cacnea-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16102,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Cacturne",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Cacnea",
+      "effect": [
+        {
+          "name": "Poison Payback",
+          "text": "If Cacturne is your Active Pokémon and is damaged by an opponent's attack (even if Cacturne is Knocked Out), the Attacking Pokémon is now Poisoned.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Feint Attack",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies or any other effects on that Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/92/45/30/924530719f705543bad234519e48ecd99743c09db1127d29fa91450d19a159c6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28698",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 35065554,
+      "prices": [
+        {
+          "priceAmount": 5849,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/cacturne-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 951,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/cacturne-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 3733,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/cacturne-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 4100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/cacturne-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 316,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/cacturne-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16103,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Seviper",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Deadly Poison",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "You may discard a Grass Energy card attached to Seviper. If you do, the Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Extra Poison",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "If the Defending Pokémon is Pokémon-ex, the Defending Pokémon is now Asleep and Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/65/db/1f/65db1f88f9bc1432f949bad0c1ae85d8c4939109d732445d25c40dc7fe02de08.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28699",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 5213805,
+      "prices": [
+        {
+          "priceAmount": 6981,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/seviper-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 750,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/seviper-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 3500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/seviper-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/seviper-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/seviper-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16104,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Lileep",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Root Fossil",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Influence",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for Omanyte, Kabuto, Aerodactyl, Lileep, or Anorith and put up to 2 of them onto your Bench. Shuffle your deck afterward. Treat the new Benched Pokémon as Basic Pokémon."
+        },
+        {
+          "name": "Time Spiral",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "If your opponent has any Evolved Pokémon in play, choose 1 of them and flip a coin. If heads, remove the highest Stage Evolution card on that Pokémon and have your opponent shuffle it into his or her deck."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        ""
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f5/01/91/f501913592d1bc18b002fc72708a47b86e91a6c57f2472d2dacffe1822ca1d9b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28700",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 40807419,
+      "prices": [
+        {
+          "priceAmount": 134,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/lileep-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16105,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Cradily",
+      "types": [
+        "Grass"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Lileep",
+      "effect": [
+        {
+          "name": "Super Suction Cups",
+          "text": "As long as Cradily is your Active Pokémon, your opponent's Pokémon can't retreat.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Lure Poison",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Before using this effect, you may switch the Defending Pokémon with 1 of your opponent's Benched Pokémon, if any. The Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Spiral Drain",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "Remove 2 damage counters from Cradily (remove 1 if there is only 1)."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        ""
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/27/ae/74/27ae747b4c0d43620f7cd132ca7a6ecb51af8fbfc56751e6ffc97d7e0294b184.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28701",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 48267162,
+      "prices": [
+        {
+          "priceAmount": 4973,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/cradily-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1534,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/cradily-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/cradily-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 327,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/cradily-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16106,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Cyndaquil",
+      "types": [
+        "Fire"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Singe",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Burned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/af/12/b2/af12b2931ee45661c496d80fec909aa11262cd1edb919c6f329097174a00ffd3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28702",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 87732223,
+      "prices": [
+        {
+          "priceAmount": 4726,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/cyndaquil-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 793,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/cyndaquil-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/cyndaquil-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 349,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/cyndaquil-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16107,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Quilava",
+      "types": [
+        "Fire"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Cyndaquil",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Slash",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        },
+        {
+          "name": "Burning Claw",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "You may discard a Fire Energy card attached to Quilava. If you do, the Defending Pokémon is now Burned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/04/98/74/0498745bcd53845c63ae3a7b1ec4936270e35d729992d129efbf0d2337067a09.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28703",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 62481929,
+      "prices": [
+        {
+          "priceAmount": 449,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/quilava-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16108,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Typhlosion ex",
+      "types": [
+        "Fire"
+      ],
+      "hp": 160,
+      "evolvesFrom": "Quilava",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Ring of Fire",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "The Defending Pokémon is now Burned, and can't retreat until the end of your opponent's next turn."
+        },
+        {
+          "name": "Split Blast",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "100",
+          "text": "Discard 1 Energy card attached to Typhlosion ex. If your opponent has more than 1 Defending Pokémon, you may do 50 damage to each of them instead."
+        }
+      ],
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        },
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "rarity": "Rare Holo ex",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c0/db/d7/c0dbd7802fa9f19251290637805fc953de9de3e30b0f25dcaea1389b0f77c869.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28704",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 23722403,
+      "prices": [
+        {
+          "priceAmount": 14690,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/typhlosion-ex-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2957,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/typhlosion-ex-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 2999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/typhlosion-ex-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 6711,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/typhlosion-ex-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 7400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/typhlosion-ex-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1576,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/typhlosion-ex-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16109,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Psyduck",
+      "types": [
+        "Water"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Confusion Wave",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Both Psyduck and the Defending Pokémon are now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0a/d4/7c/0ad47ca9da206d12297270a80e72d202c79929dad2d3b674489528d34dceb402.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28705",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 95146164,
+      "prices": [
+        {
+          "priceAmount": 8300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/psyduck-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1420,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/psyduck-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/psyduck-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 229,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/psyduck-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16110,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Golduck",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Psyduck",
+      "effect": [
+        {
+          "name": "Chaos Flash",
+          "text": "Once during your turn (before your attack), if Golduck is your Active Pokémon, you may flip a coin. If heads, the Defending Pokémon (choose 1 if there are 2) is now Confused. This power can't be used if Golduck is affected by a Special Condition.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Special Blow",
+          "cost": [
+            "Water",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "If the Defending Pokémon has any Special Energy cards attached to it, this attack does 30 damage plus 40 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/79/61/ab/7961ab5ae634c551e7c500f271fe2c05b59138496c3ec405b0bca80b4c8569ce.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28706",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 3300473,
+      "prices": [
+        {
+          "priceAmount": 526,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/golduck-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16111,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Marill",
+      "types": [
+        "Water"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Double Bubble",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10×",
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads. If either of the coins is heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ae/65/be/ae65be8ab2d5a39b46a91856c32ba9ee57587901e9cbeb0f53b9dfe22df699f9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28707",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 84513855,
+      "prices": [
+        {
+          "priceAmount": 266,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/marill-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16112,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Azumarill",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Marill",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Drizzle",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "If you have Water Energy cards in your hand, attach as many Water Energy cards as you like to any of your Active Pokémon."
+        },
+        {
+          "name": "Max Bubbles",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30×",
+          "text": "Flip a coin for each Energy attached to all of your Active Pokémon. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/82/84/f7/8284f7ad4f8939be7bc800902ba4d63fe59b97428e0d73798c51ec3a28767eb0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28708",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 20485499,
+      "prices": [
+        {
+          "priceAmount": 400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/azumarill-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16113,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Lotad",
+      "types": [
+        "Water"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Rain Dish",
+          "text": "At any time between turns, remove 1 damage counter from Lotad.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Ram",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/80/4c/05/804c05bdd061283900683008c5326f6bca366b74b44e0581cbc31baf6218c7c1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28709",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 38104669,
+      "prices": [
+        {
+          "priceAmount": 9065,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/lotad-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2936,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/lotad-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/lotad-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 221,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/lotad-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16114,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Lombre",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Lotad",
+      "effect": [
+        {
+          "name": "Rain Dish",
+          "text": "At any time between turns, remove 1 damage counter from Lombre.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Double Scratch",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30×",
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/be/07/78/be07785fdb0fe5e0db3ffe7a6154a2c3903e328174101288b160de81cbd73aa7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28710",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 38893415,
+      "prices": [
+        {
+          "priceAmount": 7888,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "12/30/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/lombre-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2563,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "12/30/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/lombre-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "12/30/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/lombre-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 179,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/lombre-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16115,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Ludicolo",
+      "types": [
+        "Water"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Lombre",
+      "effect": [
+        {
+          "name": "Rain Dish",
+          "text": "At any time between turns, remove 1 damage counter from Ludicolo.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hydro Punch",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50+",
+          "text": "Does 50 damage plus 10 more damage for each Water Energy attached to Ludicolo but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/16/11/94/1611941cf97caee6e0ae7e922eb40f489c42907cbb127d6b7abf78882c1bfe84.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28711",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 96232635,
+      "prices": [
+        {
+          "priceAmount": 6400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/ludicolo-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2495,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/ludicolo-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/ludicolo-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 554,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/ludicolo-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16116,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Wailord ex",
+      "types": [
+        "Water"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Wailmer",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Super Deep Dive",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "If you don't have any Benched Pokémon, this attack does nothing. Remove 3 damage counters from Wailord ex. Switch Wailord ex with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Dwindling Wave",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "100-",
+          "text": "Does 100 damage minus 10 damage for each damage counter on Wailord ex."
+        }
+      ],
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        },
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 5,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "rarity": "Rare Holo ex",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/01/43/54/014354794200b0ea84012ad3834886458387e951495b5a58dab8d731aba3112a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28712",
+      "sequenceNumber": 21,
+      "printedNumber": "21",
+      "uuid": 10957517,
+      "prices": [
+        {
+          "priceAmount": 16559,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/wailord-ex-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 4116,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/wailord-ex-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 6461,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/wailord-ex-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 7100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/wailord-ex-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1772,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/wailord-ex-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16117,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Pikachu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Scratch",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Pika Bolt",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d4/a6/7c/d4a67c87fb356893147c1887094238a326e71dd405288bca3b8b3be85ffa0402.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28713",
+      "sequenceNumber": 22,
+      "printedNumber": "22",
+      "uuid": 94757608,
+      "prices": [
+        {
+          "priceAmount": 8095,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/pikachu-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/pikachu-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 1645,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/pikachu-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/pikachu-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 474,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/pikachu-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16118,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Raichu ex",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Pikachu",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dazzle Blast",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Mega Thunderbolt",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120",
+          "text": "Discard all Energy cards attached to Raichu ex."
+        }
+      ],
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "rarity": "Rare Holo ex",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/13/1f/2a/131f2abc61296bdae8d3fe3506c40c3d1a4f3fb3c0ec95902d46234d7e67ff91.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28714",
+      "sequenceNumber": 23,
+      "printedNumber": "23",
+      "uuid": 39221322,
+      "prices": [
+        {
+          "priceAmount": 16634,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/raichu-ex-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2050,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/raichu-ex-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 4724,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/raichu-ex-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 8374,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/raichu-ex-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 9200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/raichu-ex-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1830,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/raichu-ex-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16119,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Pichu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Pikachu from your hand onto Pichu (this counts as evolving Pichu) and remove all damage counters from Pichu.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Energy Retrieval",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your discard pile for up to 2 basic Energy cards and attach them to 1 of your Pokémon. Put 1 damage counter on that Pokémon for each Energy card attached in this way."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/73/40/30/734030a937f0c540b0d09f007ac1c2ba65b338e085cf0c18d75e0a5265649c3e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28715",
+      "sequenceNumber": 24,
+      "printedNumber": "24",
+      "uuid": 60143393,
+      "prices": [
+        {
+          "priceAmount": 11500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/pichu-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2105,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/pichu-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/pichu-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 544,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/pichu-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16120,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Natu",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Peck",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Soothing Wave",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Each Defending Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d8/8a/cf/d88acf2206f60a65115ac9a1e97978a06370214064302e05cdba33fa4e4296a0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28716",
+      "sequenceNumber": 25,
+      "printedNumber": "25",
+      "uuid": 97708117,
+      "prices": [
+        {
+          "priceAmount": 227,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/natu-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16121,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Xatu",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Natu",
+      "effect": [
+        {
+          "name": "Healing Wind",
+          "text": "Once during your turn (before your attack), you may remove 1 damage counter from each of your Active Pokémon. This power can't be used if Xatu is affected by a Special Condition.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Psyimpact",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Put 1 damage counter on each of your opponent's Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0d/06/bf/0d06bf7465db4a23e4e74e4b3de1f429e218baa9fcdac95a56a78343be86999e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28717",
+      "sequenceNumber": 26,
+      "printedNumber": "26",
+      "uuid": 21544524,
+      "prices": [
+        {
+          "priceAmount": 3107,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/xatu-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 263,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/xatu-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16122,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Wobbuffet",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Safeguard",
+          "text": "Prevent all effects of attacks, including damage, done to Wobbuffet by your opponent's Pokémon-ex.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Flip Over",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "Wobbuffet does 10 damage to itself, and don't apply Weakness and Resistance to this damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/44/d9/0e/44d90e664a004b2cdcccb5e9a36d7bc931083fc1ebb3f2943d4b5c399e88e181.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28718",
+      "sequenceNumber": 27,
+      "printedNumber": "27",
+      "uuid": 97883792,
+      "prices": [
+        {
+          "priceAmount": 5700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/wobbuffet-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 508,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/wobbuffet-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16123,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Gardevoir ex",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 150,
+      "evolvesFrom": "Kirlia",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Feedback",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Count the number of cards in your opponent's hand. Put that many damage counters on the Defending Pokémon."
+        },
+        {
+          "name": "Psystorm",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "10×",
+          "text": "Does 10 damage times the total amount of Energy attached to all Pokémon in play."
+        }
+      ],
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        },
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "rarity": "Rare Holo ex",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/55/d3/f5/55d3f577c2c968d229dfcd6b018a5dfe416e1fab014802a0c22580025fc0398a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28719",
+      "sequenceNumber": 28,
+      "printedNumber": "28",
+      "uuid": 48905620,
+      "prices": [
+        {
+          "priceAmount": 12033,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/gardevoir-ex-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 3700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/gardevoir-ex-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 5427,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/gardevoir-ex-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 7200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/gardevoir-ex-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 7900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/gardevoir-ex-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1314,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/gardevoir-ex-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16124,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Lunatone",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Lunar Eclipse",
+          "text": "Once during your turn (before your attack), if Solrock is in play, you may use this power. Until the end of your turn, Lunatone's type is Darkness. This power can't be used if Lunatone is affected by a Special Condition.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Cosmic Draw",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "If your opponent has any Evolved Pokémon in play, draw 3 cards."
+        },
+        {
+          "name": "Lunar Blast",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/19/12/94/19129455195446bdaf0413dfbd64bfb681968a335022deef44bb937a0b913545.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28720",
+      "sequenceNumber": 29,
+      "printedNumber": "29",
+      "uuid": 14459024,
+      "prices": [
+        {
+          "priceAmount": 6247,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/lunatone-29",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1672,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/lunatone-29",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 5080,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/lunatone-29",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 5600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/lunatone-29",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 470,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/lunatone-29",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16125,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Duskull",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Surprise",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Choose 1 card from your opponent's hand without looking. Look at the card you chose, then have your opponent shuffle that card into his or her deck."
+        },
+        {
+          "name": "Confuse Ray",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/09/86/13/098613fb0385985a77d510e05700ca7805973e4391c54b829e8478041b931f85.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28721",
+      "sequenceNumber": 30,
+      "printedNumber": "30",
+      "uuid": 80044998,
+      "prices": [
+        {
+          "priceAmount": 3499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/duskull-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/duskull-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 249,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/duskull-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16126,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Dusclops",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Duskull",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Judgement",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Flip 2 coins. If both of them are heads, the Defending Pokémon is Knocked Out."
+        },
+        {
+          "name": "Random Curse",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Put a total of 5 damage counters on all Defending Pokémon in any way you like."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e1/9f/19/e19f191bae609743e8f25eeb581da99b65d70e384c8406335783d02f640ef4b7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28722",
+      "sequenceNumber": 31,
+      "printedNumber": "31",
+      "uuid": 20984402,
+      "prices": [
+        {
+          "priceAmount": 6300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/dusclops-31",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1392,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/dusclops-31",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 2799,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/dusclops-31",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/dusclops-31",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 432,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/dusclops-31",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16127,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Wynaut",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Wobbuffet from your hand onto Wynaut (this counts as evolving Wynaut), and remove all damage counters from Wynaut.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Alluring Smile",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for a Basic Pokémon card or Evolution card for each Energy attached to Wynaut, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4a/c6/56/4ac6563d2ae210e9531301bd660d615a8e0022692ec2aa03551080a79bb1dbb6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28723",
+      "sequenceNumber": 32,
+      "printedNumber": "32",
+      "uuid": 29326264,
+      "prices": [
+        {
+          "priceAmount": 199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/wynaut-32",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16128,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Sandshrew",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Poison Needle",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b9/87/bd/b987bd6bab05a872058c17641bdcdf05da2cce6d4e6120f03a234fda8742e357.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28724",
+      "sequenceNumber": 33,
+      "printedNumber": "33",
+      "uuid": 42809600,
+      "prices": [
+        {
+          "priceAmount": 324,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/sandshrew-33",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16129,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Sandslash",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Sandshrew",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sand Swirl",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Does 20 damage to each Defending Pokémon. The Defending Pokémon can't retreat until the end of your opponent's next turn."
+        },
+        {
+          "name": "Earthquake",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7e/bf/91/7ebf913e67f283c8c3084aa1e7f9a879c0a02cab6e66e3358c52eb3d0e02b669.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28725",
+      "sequenceNumber": 34,
+      "printedNumber": "34",
+      "uuid": 55227756,
+      "prices": [
+        {
+          "priceAmount": 508,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/sandslash-34",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16130,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Trapinch",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sand Pit",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "The Defending Pokémon can't retreat until the end of your opponent's next turn."
+        },
+        {
+          "name": "Irongrip",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cb/57/95/cb5795d77516f326fb5a6b296d80480dbae7cfa9a2b2cdb85503f0c1c6980d73.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28726",
+      "sequenceNumber": 35,
+      "printedNumber": "35",
+      "uuid": 6635562,
+      "prices": [
+        {
+          "priceAmount": 2127,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/trapinch-35",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/trapinch-35",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16131,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Solrock",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Solar Eclipse",
+          "text": "Once during your turn (before your attack), if Lunatone is in play, you may use this power. Until the end of your turn, Solrock's type is Fire. This power can't be used if Solrock is affected by a Special Condition.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Cosmic Draw",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "If your opponent has any Evolved Pokémon in play, draw 3 cards."
+        },
+        {
+          "name": "Solar Blast",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c5/30/01/c53001324835114a1823c107e66b0854b49f09fc70db1f956ef909b912c9b4fe.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28727",
+      "sequenceNumber": 36,
+      "printedNumber": "36",
+      "uuid": 69788102,
+      "prices": [
+        {
+          "priceAmount": 6166,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/solrock-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/solrock-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 550,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/solrock-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 3729,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/solrock-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 4100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/solrock-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 399,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/solrock-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16132,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Baltoy",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Rapid Spin",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any. You switch Baltoy with 1 of your Benched Pokémon, if any."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/30/74/2d/30742dfe3c6bcfdfbb04603bb0f36da01fc89f6d0d3499d4b61ecdbe2c39875d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28728",
+      "sequenceNumber": 37,
+      "printedNumber": "37",
+      "uuid": 62455473,
+      "prices": [
+        {
+          "priceAmount": 199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/baltoy-37",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16133,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Anorith",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Claw Fossil",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fast Evolution",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for an Evolution card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Pierce",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        ""
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/38/5c/cf/385ccf2b1ac928a3f186804aec2289048ea12cf42163d8dd82e6a340e82826ca.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28729",
+      "sequenceNumber": 38,
+      "printedNumber": "38",
+      "uuid": 27352893,
+      "prices": [
+        {
+          "priceAmount": 199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/anorith-38",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16134,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Armaldo",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Anorith",
+      "effect": [
+        {
+          "name": "Primal Veil",
+          "text": "As long as Armaldo is your Active Pokémon, each player can't play any Supporter cards.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Blade Arms",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        ""
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/12/88/09/1288097bb9f242ff1a779537435faf2047304f7eefd60cfa94188edb7acce904.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28730",
+      "sequenceNumber": 39,
+      "printedNumber": "39",
+      "uuid": 96541963,
+      "prices": [
+        {
+          "priceAmount": 5300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/armaldo-39",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1449,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/armaldo-39",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/armaldo-39",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/armaldo-39",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/armaldo-39",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16135,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Zigzagoon",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Draw a card."
+        },
+        {
+          "name": "Headbutt",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c9/cc/bf/c9ccbf38d4f259832d8481762310b369e19f5fba491193d98ba95c7e62d950ee.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28731",
+      "sequenceNumber": 40,
+      "printedNumber": "40",
+      "uuid": 99499677,
+      "prices": [
+        {
+          "priceAmount": 209,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/zigzagoon-40",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16136,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Azurill",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Marill from your hand onto Azurill (this counts as evolving Azurill), and remove all damage counters from Azurill.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Jump Catch",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for a Trainer card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/10/05/52/1005522eb97de6c89883e779a9f0ff1bcf77d8cf5f2f168b3cde8308b569d448.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28732",
+      "sequenceNumber": 41,
+      "printedNumber": "41",
+      "uuid": 58455960,
+      "prices": [
+        {
+          "priceAmount": 2127,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/azurill-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 99,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "07/22/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/azurill-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "07/22/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/azurill-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/azurill-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16137,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Zangoose",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Poison Resistance",
+          "text": "Zangoose can't be Poisoned.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Target Slash",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "If the Defending Pokémon is Seviper, this attack does 10 damage plus 30 more damage."
+        },
+        {
+          "name": "Super Slash",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30+",
+          "text": "If the Defending Pokémon is an Evolved Pokémon, this attack does 30 damage plus 30 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/20/98/41/2098419fa9625fb7a1aa79ce2bcb401675f10686c2cf632a2b083dd3d7fedc9a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28733",
+      "sequenceNumber": 42,
+      "printedNumber": "42",
+      "uuid": 10363947,
+      "prices": [
+        {
+          "priceAmount": 10000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/zangoose-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/zangoose-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 2633,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/zangoose-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/zangoose-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 415,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/zangoose-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16138,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Kecleon",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Energy Variation",
+          "text": "Kecleon's type is the same as every type of basic Energy card attached to Kecleon.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Double Scratch",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bd/71/97/bd719702dc117d0501c3d2e1b04f4c64a84ad37e37a147c78199221ce510cc03.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28734",
+      "sequenceNumber": 43,
+      "printedNumber": "43",
+      "uuid": 93089064,
+      "prices": [
+        {
+          "priceAmount": 119,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/kecleon-43",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16139,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Sableye",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Supernatural",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Look at your opponent's hand. You may use the effect of a Supporter card you find there as the effect of this attack. (The Supporter card remains in your opponent's hand.)"
+        },
+        {
+          "name": "Dark Bind",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "You may discard a Darkness Energy card attached to Sableye. If you do, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b9/d1/cb/b9d1cb162dd2ed16c3b65d68f1d36dffb98203632d0888b0ea6ed7db80d8ea01.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28735",
+      "sequenceNumber": 44,
+      "printedNumber": "44",
+      "uuid": 38700158,
+      "prices": [
+        {
+          "priceAmount": 10603,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/sableye-44",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/sableye-44",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 2900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/sableye-44",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/sableye-44",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 662,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/sableye-44",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16140,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Mawile",
+      "types": [
+        "Metal"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Scam",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Look at your opponent's hand. You may have your opponent shuffle a Supporter card you find there into his or her deck. If you do, your opponent draws a card."
+        },
+        {
+          "name": "Metal Hook",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Before doing damage, you may switch 1 of your opponent's Benched Pokémon with 1 of the Defending Pokémon. If you do, this attack does 20 damage to the new Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bf/18/72/bf1872a6bc9df935679b0fbe31ccb037b85eaa25f3383f546ecf4e1d65106a8d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28736",
+      "sequenceNumber": 45,
+      "printedNumber": "45",
+      "uuid": 70532545,
+      "prices": [
+        {
+          "priceAmount": 6147,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/mawile-45",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/mawile-45",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 1943,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/mawile-45",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/mawile-45",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 374,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/mawile-45",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16141,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Aggron ex",
+      "types": [
+        "Metal"
+      ],
+      "hp": 150,
+      "evolvesFrom": "Lairon",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Rend",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30+",
+          "text": "If the Defending Pokémon has any damage counters on it, this attack does 30 damage plus 30 more damage."
+        },
+        {
+          "name": "Metal Surge",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "50",
+          "text": "Does 20 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        },
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "rarity": "Rare Holo ex",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/83/65/a8/8365a835b3488f385986975058151e4f7c98dad88bbe816b2a0e1895c8290942.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28737",
+      "sequenceNumber": 46,
+      "printedNumber": "46",
+      "uuid": 68805771,
+      "prices": [
+        {
+          "priceAmount": 12093,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/aggron-ex-46",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 5373,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/aggron-ex-46",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 5900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/aggron-ex-46",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 6500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/aggron-ex-46",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/aggron-ex-46",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16142,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Claw Fossil",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [
+        {
+          "name": "Jagged Stone",
+          "text": "If Claw Fossil is your Active Pokémon and is damaged by an opponent's attack (even if Claw Fossil is Knocked Out), put 1 damage counter on the Attacking Pokémon.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": null,
+      "rules": [
+        "\"Play Claw Fossil as if it were a Basic Pokémon. While in play, Claw Fossil counts as a Colorless Pokémon (instead of a Trainer card). Claw Fossil has no attacks of its own, cant retreat, and cant be affected by any Special Conditions. If Claw Fossil is Knocked Out, it doesnt count as a Knocked Out Pokémon. (Discard it anyway.) At any time during your turn before your attack, you may discard Claw Fossil from play.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e8/e8/8e/e8e88ebc0e23f6ba4ba7fc0a24c156c13d05127b157f809a0e47cb415bd43d1e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28738",
+      "sequenceNumber": 47,
+      "printedNumber": "47",
+      "uuid": 19299486,
+      "prices": [
+        {
+          "priceAmount": 269,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/claw-fossil-47",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16143,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Root Fossil",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [
+        {
+          "name": "Spongy Stone",
+          "text": "At any time between turns, remove 1 damage counter from Root Fossil.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": null,
+      "rules": [
+        "\"Play Root Fossil as if it were a Basic Pokémon. While in play, Root Fossil counts as a Colorless Pokémon (instead of a Trainer card). Root Fossil has no attacks of its own, cant retreat, and cant be affected by any Special Conditions. If Root Fossil is Knocked Out, it doesnt count as a Knocked Out Pokémon. (Discard it anyway.) At any time during your turn before your attack, you may discard Root Fossil from play.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cb/00/a7/cb00a74d285d5bb900eb2a0d5a5e00eb6523974d2cffe613cbd80d17711646cd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28739",
+      "sequenceNumber": 48,
+      "printedNumber": "48",
+      "uuid": 40209037,
+      "prices": [
+        {
+          "priceAmount": 269,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/root-fossil-48",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16144,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Double Full Heal",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Remove all Special Conditions from each of your Active Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2a/5f/1c/2a5f1c39229d2214cb91692ad7ccd7cbb2827bcc9d581f21821351338a1f5ba1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28740",
+      "sequenceNumber": 49,
+      "printedNumber": "49",
+      "uuid": 62849057,
+      "prices": [
+        {
+          "priceAmount": 299,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/double-full-heal-49",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16145,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Rare Candy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Choose 1 of your Basic Pokémon in play. If you have a Stage 1 or Stage 2 card that evolves from that Pokémon in your hand, put that card on the Basic Pokémon. (This counts as evolving that Pokémon.)"
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1c/83/f7/1c83f7109dfae65fa1c1fcfc9c8fc787c0c1d17b07c7361596e4cff1ada782e5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28741",
+      "sequenceNumber": 50,
+      "printedNumber": "50",
+      "uuid": 83189843,
+      "prices": [
+        {
+          "priceAmount": 399,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/rare-candy-50",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16146,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Lanette's Net Search",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+        "Search your deck for up to 3 different types of Basic Pokémon cards (excluding Baby Pokémon), show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/db/72/b0/db72b0e6267c219eb808c80fb9321a7239b4bdb55abeb694ebb8a0abf3f9b84a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28742",
+      "sequenceNumber": 51,
+      "printedNumber": "51",
+      "uuid": 53270345,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/lanette's-net-search-51",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16147,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Wally's Training",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+        "Search your deck for a card that evolves from your Active Pokémon (choose 1 if there are 2) and put it on your Active Pokémon. (This counts as evolving that Pokémon.) Shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cf/83/40/cf8340ff40206651bb6df38fcf1d6d89709e00754d855936c5f8bb9f0ba34013.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28743",
+      "sequenceNumber": 52,
+      "printedNumber": "52",
+      "uuid": 59072393,
+      "prices": [
+        {
+          "priceAmount": 3675,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/wally's-training-52",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1703,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/wally's-training-52",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/wally's-training-52",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 336,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/wally's-training-52",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16148,
+      "setData": {
+        "name": "Miracle of the Desert",
+        "printed_count": "53",
+        "card_count": 53,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/miracle-of-the-desert"
+      },
+      "name": "Multi Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach Multi Energy to 1 of your Pokémon. While in play, Multi Energy provides every type of Energy but provides only 1 Energy at a time. (Doesnt count as a basic Energy card when not in play.) Multi Energy provides Colorless Energy when attached to a Pokémon that already has Special Energy cards attached to it.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/06/1a/99/061a990f973b809d96fc9e723b339f42edba9935dc8cfce6d5068a475c437c9d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28744",
+      "sequenceNumber": 53,
+      "printedNumber": "53",
+      "uuid": 88880834,
+      "prices": [
+        {
+          "priceAmount": 199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-miracle-of-the-desert/multi-energy-53",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 53,
+  "totalCount": 53
+}

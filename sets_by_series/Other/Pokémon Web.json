@@ -1,0 +1,5281 @@
+{
+  "data": [
+    {
+      "id": 16696,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Ivysaur",
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Bulbasaur",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Leech Seed",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Unless all damage from this attack is prevented, you may remove one damage counter from Ivysaur."
+        },
+        {
+          "name": "Vine Whip",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/82/cb/e8/82cbe8b58445a0633e982a5413296a20205cc36cdd66fe0334171bd43f64b591.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31293",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 75234688,
+      "prices": [
+        {
+          "priceAmount": 1300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/ivysaur-1st-edition-1",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/ivysaur-1st-edition-1",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 2449,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/ivysaur-1st-edition-1",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 5499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/ivysaur-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2186,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/ivysaur-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 2400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/ivysaur-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/ivysaur-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1923,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/ivysaur-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16697,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Nidoran ?",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Focus Energy",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "During your next turn, Nidoran?'s Horn Rush attack's base damage is doubled."
+        },
+        {
+          "name": "Horn Rush",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/71/5f/d3/715fd3c35221b9e0259078e9a8411a998bfb5974fddcfb658bb3b8ca55de017e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31294",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 1433359,
+      "prices": [
+        {
+          "priceAmount": 2704,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/nidoran?-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1002,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/nidoran?-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1150,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/nidoran?-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/nidoran?-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 836,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/nidoran?-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16698,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Venonat",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Disable",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+        },
+        {
+          "name": "Psybeam",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sumiyoshi Kizuki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/67/b4/1c/67b41ca3a905c68b45fb219fc3767b8b8cb86e03ca17b0a0f689aab7cda5cf53.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31295",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 97686923,
+      "prices": [
+        {
+          "priceAmount": 3854,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/venonat-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1650,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/venonat-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/venonat-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/venonat-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 844,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/venonat-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16699,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Exeggcute",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hypnosis",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Leech Seed",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Unless all damage from this attack is prevented, you may remove 1 damage counter from Exeggcute."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/99/e2/7e/99e27e744e233672d58930ffb41b54eb3500731904009e717e855da1ceb39b05.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31296",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 16836153,
+      "prices": [
+        {
+          "priceAmount": 3256,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/exeggcute-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 550,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/exeggcute-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/exeggcute-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/exeggcute-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 934,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/exeggcute-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16700,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Tangela",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Stun Spore",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Poison Whip",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "10",
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7f/ac/27/7fac27cf18b4295024cf84fe1dfa52d8c420daa1888262a6a356d195de9b5b5f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31297",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 51532926,
+      "prices": [
+        {
+          "priceAmount": 3000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/tangela-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/tangela-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 1581,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/tangela-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 2468,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/tangela-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/tangela-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1235,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/tangela-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16701,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Growlithe",
+      "types": [
+        "Fire"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Lunge",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        },
+        {
+          "name": "Ember",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Discard a Fire Energy card attached to Growlithe or this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f0/98/92/f098925a934967ff7a138da846b86b9a75eb14c1de7fe7b4e69cb2067841e149.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31298",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 42321094,
+      "prices": [
+        {
+          "priceAmount": 6997,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/growlithe-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2018,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/growlithe-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 2332,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/growlithe-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 3557,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/growlithe-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/growlithe-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 2098,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/growlithe-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16702,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Charmeleon",
+      "types": [
+        "Fire"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Charmander",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Slash",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30"
+        },
+        {
+          "name": "Flamethrower",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "Discard 1 Fire Energy card attached to Charmeleon in order to use this attack."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9f/98/3d/9f983de5066a7b67ab443777929150b37ba4a052a6ffda5156751a61490a558d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31299",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 29919343,
+      "prices": [
+        {
+          "priceAmount": 4961,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/charmeleon-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1551,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/charmeleon-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 3415,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/charmeleon-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/charmeleon-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1797,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/charmeleon-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16703,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Vulpix",
+      "types": [
+        "Fire"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Foxfire",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10",
+          "text": "Before doing damage, you may switch the Defending Pokémon with 1 of your opponent's Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/99/b3/6c/99b36c31664968062afa11067c44be8faf4f67c7c13f8b967c3e910a4615af64.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31300",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 61316375,
+      "prices": [
+        {
+          "priceAmount": 5364,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/vulpix-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 4433,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/vulpix-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 4900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/vulpix-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1620,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/vulpix-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16704,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Wartortle",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Squirtle",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bubble",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Surf",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sumiyoshi Kizuki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8c/52/a3/8c52a38288472bf1246a71d658d9fa0315db27adf3fd9df5ddeaac9dfc6d940c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31301",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 66719876,
+      "prices": [
+        {
+          "priceAmount": 6998,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/wartortle-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/wartortle-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 1500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/wartortle-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 2900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/wartortle-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 5699,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/wartortle-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1948,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/wartortle-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16705,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Marill",
+      "types": [
+        "Water"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Does 20 damage plus 10 more damage for each Energy attached to Marill but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5e/42/7f/5e427fad97d485c20d366fd3a7d877099823e1e27e572c2bb4ebb74fcc3400ef.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31302",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 78825149,
+      "prices": [
+        {
+          "priceAmount": 4525,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/marill-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 650,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/marill-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1550,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/marill-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/marill-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 801,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/marill-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16706,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Voltorb",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/21/27/ec/2127ec1132b80b30f97bf32a7f96dcec4b134cebc9c0c1cf6336d8e45ec19d23.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31303",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 65850385,
+      "prices": [
+        {
+          "priceAmount": 2023,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/voltorb-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 646,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/voltorb-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/voltorb-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 531,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/voltorb-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16707,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Slowpoke",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Amnesia",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d8/81/67/d88167d7236ba42259af689a535c63a8f84e6b6b80ed513d8057d911755cdb67.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31304",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 30004790,
+      "prices": [
+        {
+          "priceAmount": 7304,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/slowpoke-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1938,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/slowpoke-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/slowpoke-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 3044,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/slowpoke-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16708,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Diglett",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Peck",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Trip Over",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Miki Tanaka",
+      "imageUrl": "https://static.tcgcollector.com/content/images/dd/86/02/dd8602f3af0844bc89c4469b24bf5084a39d84e735ff117294a621da32573f61.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31305",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 74700594,
+      "prices": [
+        {
+          "priceAmount": 3681,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/diglett-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/diglett-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/diglett-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/diglett-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 636,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/diglett-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16709,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Hitmonlee",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Double Kick",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30×",
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        },
+        {
+          "name": "Rolling Kick",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin-ichi Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0d/d1/26/0dd1262c0e315124313714caa34d40e690f9b9a02c0f378bc4f88fa74e3fd486.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31306",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 15789097,
+      "prices": [
+        {
+          "priceAmount": 4300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/hitmonlee-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1050,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/hitmonlee-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1425,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/hitmonlee-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 4200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/hitmonlee-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1049,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/hitmonlee-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16710,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Bill's Teleporter",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+        "Flip a coin. If heads, draw 4 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3b/40/f4/3b40f4850945b4db835650fe0f282454206de560386500d96831227fe2ae1bf6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31307",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 88271105,
+      "prices": [
+        {
+          "priceAmount": 16200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/bill's-teleporter-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 13481,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/bill's-teleporter-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 14800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/bill's-teleporter-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1299,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/bill's-teleporter-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16711,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "New Pokédex",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Shuffle your deck. Then, look at up to 5 cards from the top of your deck and rearrange them as you like."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8c/c5/a0/8cc5a0d167c48c126efa8ff02511f2c70d60552a8a2817c6b9f0f2d476a12165.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31308",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 69420725,
+      "prices": []
+    },
+    {
+      "id": 16712,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Dark Ivysaur",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "Bulbasaur",
+      "effect": [
+        {
+          "name": "Vine Pull",
+          "text": "Once during your turn when Dark Ivysaur retreats, choose 1 of your opponent's Benched Pokémon and switch it with his or her Active Pokémon.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fury Strikes",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Your opponent puts 3 markers onto his or her Pokémon (divided as he or she chooses). (More than 1 marker can be put on the same Pokémon.) Then, this attack does 10 damage to each Pokémon for each marker on it. Don't apply Weakness and Resistance. Remove the markers at the end of the turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Dark",
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin-ichi Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9c/41/41/9c41416072c751ecc11607b5f2dd3be9e204450daec6dbaa40092950d1108e18.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31309",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 91543759,
+      "prices": [
+        {
+          "priceAmount": 6809,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-ivysaur-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-ivysaur-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 3300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-ivysaur-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 6700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-ivysaur-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 2034,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-ivysaur-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16713,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Nidorino",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Nidoran?",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Swift Lunge",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "60",
+          "text": "Flip a coin. If tails, this attack does nothing and this Pokémon does 20 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4c/7b/d6/4c7bd68c312125f0db038ee9d53dfcdadb885d0dc40837dc7496ef969ef1fcb1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31310",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 52584143,
+      "prices": [
+        {
+          "priceAmount": 3833,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/nidorino-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 550,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/nidorino-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 650,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/nidorino-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/nidorino-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1227,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/nidorino-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16714,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Venomoth",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Venonat",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Stir Up Twister",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon. Then, switch your Active Pokémon with 1 of your Benched Pokémon. (Do the damage before switching the Pokémon.)"
+        },
+        {
+          "name": "Rainbow Powder",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0f/90/38/0f9038a4b403235223ff02143c07ea24512cfb1816d8cf7ed89f33791861c108.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31311",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 8500682,
+      "prices": [
+        {
+          "priceAmount": 11000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/venomoth-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 9135,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/venomoth-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 10000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/venomoth-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 848,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/venomoth-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16715,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Exeggutor",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Exeggcute",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Teleport",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Switch Exeggutor with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Big Eggsplosion",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20×",
+          "text": "Flip a number of coins equal to the number of Energy attached to Exeggutor. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/08/9a/ca/089aca9079ec7da98f95b6fbc68a372f11ace2b8a26ada08a91bf56ae3136df2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31312",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 22249494,
+      "prices": [
+        {
+          "priceAmount": 3670,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/exeggutor-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1743,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/exeggutor-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/exeggutor-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1969,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/exeggutor-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16716,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Dark Weezing",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Koffing",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Mass Explosion",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "Does 20 damage times the total number of Koffings, Weezings, and Dark Weezings in play (Apply Weakness and Resistance.). Then, this attack does 20 damage to each Koffing, Weezing, and Dark Weezing (even your own). Don't apply Weakness and Resistance."
+        },
+        {
+          "name": "Stun Gas",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned; if tails, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Dark",
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin-ichi Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3a/8c/31/3a8c31197bc70be6b9d86fb0ebf99aced042d3664e628cb16bb111a19b6a35a7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31313",
+      "sequenceNumber": 21,
+      "printedNumber": "21",
+      "uuid": 66308043,
+      "prices": [
+        {
+          "priceAmount": 4200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-weezing-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 3478,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-weezing-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-weezing-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1207,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-weezing-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16717,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Dark Charmeleon",
+      "types": [
+        "Fire"
+      ],
+      "hp": 50,
+      "evolvesFrom": "Charmander",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tail Slap",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        },
+        {
+          "name": "Fireball",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": "Flip a coin. If heads, discard a Fire Energy card attached to this Pokémon. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Dark",
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5b/87/b5/5b87b5cb89c9bc29d0d5115a1a7bdb04983c3a9059e4897a0cd36ceac0543e94.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31314",
+      "sequenceNumber": 22,
+      "printedNumber": "22",
+      "uuid": 95603492,
+      "prices": [
+        {
+          "priceAmount": 8691,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-charmeleon-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 5997,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-charmeleon-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 6600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-charmeleon-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 3672,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-charmeleon-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16718,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Arcanine",
+      "types": [
+        "Fire"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Growlithe",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Take Down",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "Arcanine does 20 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c1/ad/36/c1ad368a696818089d8f0502e439b587cb367bca419f0cb83e3c2a7682965890.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31315",
+      "sequenceNumber": 23,
+      "printedNumber": "23",
+      "uuid": 37367247,
+      "prices": [
+        {
+          "priceAmount": 9899,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/arcanine-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 6700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/arcanine-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 7400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/arcanine-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 9700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/arcanine-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 4378,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/arcanine-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16719,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Dark Wartortle",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Squirtle",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Doubleslap",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Mirror Shell",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "If an attack does damage to Dark Wartortle during your opponent's next turn (even if Dark Wartortle is Knocked Out), Dark Wartortle attacks the Defending Pokémon for an equal amount of damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Dark",
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/04/b4/0c/04b40c58c42f675263f3e97f4d5af1f11553c23a66f572ebe489989f2e6650ec.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31316",
+      "sequenceNumber": 24,
+      "printedNumber": "24",
+      "uuid": 30321332,
+      "prices": [
+        {
+          "priceAmount": 4600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-wartortle-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 4204,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-wartortle-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 4600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-wartortle-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1609,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-wartortle-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16720,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Surfing Pikachu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Surf",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toshinao Aoki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/19/26/91/1926919f84e1067a123c5e8e75044a74773ac41a9b062fc3f48cc63c6b5b81cc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31317",
+      "sequenceNumber": 25,
+      "printedNumber": "25",
+      "uuid": 15763658,
+      "prices": [
+        {
+          "priceAmount": 18366,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/surfing-pikachu-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 4500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/surfing-pikachu-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 12500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/surfing-pikachu-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 13800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/surfing-pikachu-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 15200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/surfing-pikachu-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 6281,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/surfing-pikachu-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16721,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Electrode",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Voltorb",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sonicboom",
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)"
+        },
+        {
+          "name": "Energy Spike",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Search your deck for a Basic Energy Card and attach it to 1 of your Pokémon. Shuffle your deck afterward."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7e/57/a3/7e57a3325ae65562fb456770c0636928463a06c4e1454aeb004357df3acf9864.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31318",
+      "sequenceNumber": 26,
+      "printedNumber": "26",
+      "uuid": 92178391,
+      "prices": [
+        {
+          "priceAmount": 3577,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/electrode-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1750,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/electrode-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 2490,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/electrode-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/electrode-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1723,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/electrode-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16722,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Dark Kadabra",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 50,
+      "evolvesFrom": "Abra",
+      "effect": [
+        {
+          "name": "Matter Exchange",
+          "text": "Once during your turn (before your attack), you may discard a card from your hand. If you do, draw a card. This power can't be used if this Pokémon is affected by a Special Condition.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Mind Shock",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "This attack's damage isn't affected by Weakness or Resistance."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Dark",
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ac/67/c8/ac67c892cb587948b8a8db8c0ec07dc74749eda67c9e2a69ce5e402b28e4557b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31319",
+      "sequenceNumber": 27,
+      "printedNumber": "27",
+      "uuid": 93427481,
+      "prices": [
+        {
+          "priceAmount": 3625,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-kadabra-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 827,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-kadabra-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 2050,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-kadabra-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 2109,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-kadabra-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-kadabra-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1473,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-kadabra-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16723,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Dark Slowbro",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Slowpoke",
+      "effect": [
+        {
+          "name": "Reel In",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon, you may put 3 Pokémon from your discard pile into your hand.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fickle Attack",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Dark",
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/66/30/cf/6630cfc5de45ca7719658fe17322362ce7c758a53814dcf3a40db16bc216a481.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31320",
+      "sequenceNumber": 28,
+      "printedNumber": "28",
+      "uuid": 9006056,
+      "prices": [
+        {
+          "priceAmount": 7501,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-slowbro-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-slowbro-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-slowbro-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1650,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-slowbro-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16724,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Dugtrio",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Diglett",
+      "effect": [
+        {
+          "name": "Go Underground",
+          "text": "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Earth Wave",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "This attack does 10 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness or Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Miki Tanaka",
+      "imageUrl": "https://static.tcgcollector.com/content/images/25/31/03/253103dec91fd2796b082b1d9bbc76a41225019c4409e49d7b277e53a5451790.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31321",
+      "sequenceNumber": 29,
+      "printedNumber": "29",
+      "uuid": 68822829,
+      "prices": [
+        {
+          "priceAmount": 3650,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dugtrio-29",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 980,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dugtrio-29",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dugtrio-29",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1251,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dugtrio-29",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16725,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Max Revive",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Put a Pokémon from your discard pile on top of your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4b/2c/6c/4b2c6c4baa370fb7409611a53cbb12aeee01a574b729de964f87c28f54fc4e7b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31322",
+      "sequenceNumber": 30,
+      "printedNumber": "30",
+      "uuid": 62875425,
+      "prices": [
+        {
+          "priceAmount": 1550,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/max-revive-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1197,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/max-revive-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/max-revive-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1344,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/max-revive-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16726,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Hyper Devolution Spray",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Choose 1 of your evolved Pokémon. Take the highest Stage Evolution card from that Pokémon and put it into your hand. (You cant evolve a Pokémon the turn you devolve it.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/93/bb/51/93bb5184a6c0083eabf1576b60ff027b865daac6774e71409f20d2252609768f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31323",
+      "sequenceNumber": 31,
+      "printedNumber": "31",
+      "uuid": 4568546,
+      "prices": [
+        {
+          "priceAmount": 650,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/hyper-devolution-spray-31",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 426,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/hyper-devolution-spray-31",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/hyper-devolution-spray-31",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/hyper-devolution-spray-31",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16727,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Pokémon Retransfer",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Put an Evolution card from your discard pile on top of your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hikaru Koike",
+      "imageUrl": "https://static.tcgcollector.com/content/images/05/14/81/0514819462581378dd445b1f32b86614477326f623b2c1d5a5eaba66fa7331ca.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31324",
+      "sequenceNumber": 32,
+      "printedNumber": "32",
+      "uuid": 53827141,
+      "prices": []
+    },
+    {
+      "id": 16728,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Nidoking",
+      "types": [
+        "Grass"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Nidorino",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Thrash",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30+",
+          "text": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage and Nidoking does 10 damage to itself."
+        },
+        {
+          "name": "Toxic",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20",
+          "text": "The Defending Pokémon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn (even if it was already Poisoned)."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3e/72/28/3e72288220e7520d1374ab52d551d9e00c62e54ae3236da6a703699807b9e53d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31325",
+      "sequenceNumber": 33,
+      "printedNumber": "33",
+      "uuid": 37169774,
+      "prices": [
+        {
+          "priceAmount": 7966,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/nidoking-33",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1848,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/nidoking-33",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 3749,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/nidoking-33",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 4100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/nidoking-33",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 2915,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/nidoking-33",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16729,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Ninetales",
+      "types": [
+        "Fire"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Vulpix",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Lure",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and switch it with the Defending Pokémon."
+        },
+        {
+          "name": "Fire Blast",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "80",
+          "text": "Discard 1 Fire Energy card attached to Ninetales in order to use this attack."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0f/cd/37/0fcd3793b56d320ca1eb5f0b6d4862e68bc0c94909f7e9bf6be126f05858e8fe.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31326",
+      "sequenceNumber": 34,
+      "printedNumber": "34",
+      "uuid": 77522504,
+      "prices": [
+        {
+          "priceAmount": 8505,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/ninetales-34",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 3289,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/ninetales-34",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 4628,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/ninetales-34",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 5100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/ninetales-34",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 3659,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/ninetales-34",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16730,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Magikarp",
+      "types": [
+        "Water"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Trickle",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Dragon Rage",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50",
+          "text": "Flip 2 coins. If either of them is tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c3/48/61/c34861f3dfcd698f8802e1798cbf230787fe260efee9d3a13708400fbee48253.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31327",
+      "sequenceNumber": 35,
+      "printedNumber": "35",
+      "uuid": 47494665,
+      "prices": [
+        {
+          "priceAmount": 31314,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/magikarp-35",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 15250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/magikarp-35",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 21557,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/magikarp-35",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 23700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/magikarp-35",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 26100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/magikarp-35",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 22999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/magikarp-35",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16731,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Raichu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Pikachu",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Agility",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Raichu."
+        },
+        {
+          "name": "Thunder",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "60",
+          "text": "Flip a coin. If tails, Raichu does 30 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/60/03/44/60034406705a472e8b555099feceab9558d03b029c876243b0043b790cbdfd32.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31328",
+      "sequenceNumber": 36,
+      "printedNumber": "36",
+      "uuid": 29625865,
+      "prices": [
+        {
+          "priceAmount": 11325,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/raichu-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 7230,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/raichu-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 8000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/raichu-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 8800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/raichu-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 5298,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/raichu-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16732,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Dark Alakazam",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Dark Kadabra",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Teleport Blast",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "You may switch Dark Alakazam with 1 of your Benched Pokémon. (Do the damage before switching the Pokémon.)"
+        },
+        {
+          "name": "Mind Shock",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Dark",
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cf/a6/1a/cfa61acc01dde6f4c15b58f48d2e44141ec8fed765a686f32b0b2fc6a694046e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31329",
+      "sequenceNumber": 37,
+      "printedNumber": "37",
+      "uuid": 16306454,
+      "prices": [
+        {
+          "priceAmount": 12130,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-alakazam-37",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 3000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-alakazam-37",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 4500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-alakazam-37",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 5000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-alakazam-37",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 3981,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-alakazam-37",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16733,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Dragonite",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Dragonair",
+      "effect": [
+        {
+          "name": "Special Delivery",
+          "text": "Once during your turn (before your attack), you may draw a card. If you do, choose a card from your hand and put it on top of your deck. This power can't be used if Dragonite is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Supersonic Flight",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toshinao Aoki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ca/3e/84/ca3e84a7adccfcfd335410f07a481a88a8d8f610b7aa797e5d1135caae98dc47.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31330",
+      "sequenceNumber": 38,
+      "printedNumber": "38",
+      "uuid": 15939753,
+      "prices": [
+        {
+          "priceAmount": 16325,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dragonite-38",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 5794,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dragonite-38",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 6400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dragonite-38",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 5500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dragonite-38",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16734,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Team Rocket's Meowth",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Miraculous Comeback",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a number of coins equal to the number of Pokémon in play. This attack does 10 damage times the number of heads. Then, Team Rocket's Meowth does 10 damage times the number of tails to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kunihiko Yuyama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a6/fe/ec/a6feec60214bfa81fe2fedb33327d457860d1a11ab4d30eec0f80557efc403fc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31331",
+      "sequenceNumber": 39,
+      "printedNumber": "39",
+      "uuid": 37429849,
+      "prices": [
+        {
+          "priceAmount": 7400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/team-rocket's-meowth-39",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/team-rocket's-meowth-39",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 2900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/team-rocket's-meowth-39",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/team-rocket's-meowth-39",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1910,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/team-rocket's-meowth-39",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16735,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Rocket's Sneak Attack",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+        "\"Look at your opponents hand. If he or she has any Trainer cards, choose 1 of them. Your opponent shuffles that card into his or her deck.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/68/b2/69/68b2692085199a7575e78ea753dfa6dcb8f319c382f5652fcabc919339ef731d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31332",
+      "sequenceNumber": 40,
+      "printedNumber": "40",
+      "uuid": 66007559,
+      "prices": [
+        {
+          "priceAmount": 8350,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/rocket's-sneak-attack-40",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1551,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/rocket's-sneak-attack-40",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/rocket's-sneak-attack-40",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 2288,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/rocket's-sneak-attack-40",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16736,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Dark Venusaur",
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Dark Ivysaur",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Horrid Pollen",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "Flip 2 coins. If 1 is heads, the Defending Pokémon is now Asleep and Poisoned. If both are heads, the Defending Pokémon is now Confused and Poisoned. If both are tails, the Defending Pokémon is now Paralyzed and Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Dark",
+        "Stage 2"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin-ichi Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/80/0e/78/800e78ae69a08da84a496fb68497546a57d768ffd809486b6ea3a91a631f2888.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31333",
+      "sequenceNumber": 41,
+      "printedNumber": "41",
+      "uuid": 60335587,
+      "prices": [
+        {
+          "priceAmount": 27677,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-venusaur-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 6077,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-venusaur-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 18848,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-venusaur-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 20700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-venusaur-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 22800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-venusaur-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 12099,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-venusaur-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16737,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Dark Charizard",
+      "types": [
+        "Fire"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Dark Charmeleon",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Nail Flick",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Continuous Fireball",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50×",
+          "text": "Flip a number of coins equal to the number of Fire Energy cards attached to Dark Charizard. This attack does 50 damage times the number of heads. Discard a number of Fire Energy cards attached to Dark Charizard equal to the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Dark",
+        "Stage 2"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2c/f8/ce/2cf8cefa0b7f4e5f1e635760de2c4dfd998c86688c02b1112c1160f0bbe52a4a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31334",
+      "sequenceNumber": 42,
+      "printedNumber": "42",
+      "uuid": 37969363,
+      "prices": [
+        {
+          "priceAmount": 109922,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-charizard-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 33388,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-charizard-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 39361,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-charizard-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 58300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-charizard-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 64100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-charizard-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 32807,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-charizard-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16738,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Moltres",
+      "types": [
+        "Fire"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hyper Flame",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Flip a coin. If heads, discard 1 Fire Energy card attached to Moltres. If tails, discard all Energy cards attached to Moltres. If you can't discard Energy cards, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/25/d3/e9/25d3e95c9d8664be79291ff78066cf3606013520f913fe4b3c360da4cfc5897a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31335",
+      "sequenceNumber": 43,
+      "printedNumber": "43",
+      "uuid": 43211382,
+      "prices": [
+        {
+          "priceAmount": 20000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/moltres-43",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 8475,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/moltres-43",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 12608,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/moltres-43",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 13900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/moltres-43",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 11418,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/moltres-43",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16739,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Dark Blastoise",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Dark Wartortle",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hydrocannon",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "Does 30 damage plus 20 more damage for each Water Energy attached to Dark Blastoise but not used to pay for this attack. You can't add more than 40 damage in this way."
+        },
+        {
+          "name": "Rocket Tackle",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "Dark Blastoise does 10 damage to itself. Flip a coin. If heads, prevent all damage done to Dark Blastoise during your opponent's next turn. (Any other effects of attacks still happen.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Dark",
+        "Stage 2"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/39/d7/c7/39d7c76569d6b832c5981b3f0e9648123f3aba566a1aab1220ecc604c09db854.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31336",
+      "sequenceNumber": 44,
+      "printedNumber": "44",
+      "uuid": 23969479,
+      "prices": [
+        {
+          "priceAmount": 39900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-blastoise-44",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 17450,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-blastoise-44",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 21227,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-blastoise-44",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 35199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-blastoise-44",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 19999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/dark-blastoise-44",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16740,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Articuno",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Diamond Dust",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed, and this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/52/bf/bc/52bfbce89ac7e3a6d1afe7fd60631e1870c01bc4f28aac3da7166d39293875b5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31337",
+      "sequenceNumber": 45,
+      "printedNumber": "45",
+      "uuid": 82391690,
+      "prices": [
+        {
+          "priceAmount": 22751,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/articuno-45",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 5602,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/articuno-45",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 12021,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/articuno-45",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 13200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/articuno-45",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 11786,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/articuno-45",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16741,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Zapdos",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Lightning Burn",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "Flip a coin. If heads, and if your opponent has any Benched Pokémon, choose 1 of them. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) If tails, Zapdos does 30 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/18/be/63/18be6357d254c08fbcb864526363b84ea019932a5654f4655697c971a38933f6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31338",
+      "sequenceNumber": 46,
+      "printedNumber": "46",
+      "uuid": 59203356,
+      "prices": [
+        {
+          "priceAmount": 27500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/zapdos-1st-edition-46",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 8389,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/zapdos-1st-edition-46",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 9200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/zapdos-1st-edition-46",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 8593,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/zapdos-1st-edition-46",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 19269,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/zapdos-46",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 12960,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/zapdos-46",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 14300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/zapdos-46",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 11210,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/zapdos-46",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16742,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Gengar",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Haunter",
+      "effect": [
+        {
+          "name": "Power of Darkness",
+          "text": "Once during your turn, when you play Gengar from your hand to evolve 1 of your Pokémon, you may flip a coin. If heads, choose 1 of your opponent's Pokémon. Your opponent returns that Pokémon and all cards attached to it to his or her hand.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Psy Horror",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep. If tails, the Defending Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hironobu Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/38/fb/23/38fb233d7f2303bbbefeac000cf082eb45ce780e90e5da12cb110d02e7321d49.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31339",
+      "sequenceNumber": 47,
+      "printedNumber": "47",
+      "uuid": 93572368,
+      "prices": [
+        {
+          "priceAmount": 172057,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/gengar-1st-edition-47",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 56000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/gengar-1st-edition-47",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 92500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/gengar-1st-edition-47",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 101800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/gengar-1st-edition-47",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 54485,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/gengar-1st-edition-47",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 151200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/gengar-47",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 71909,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/gengar-47",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 80000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/gengar-47",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 88000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/gengar-47",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 69900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/gengar-47",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16743,
+      "setData": {
+        "name": "Pokémon Web",
+        "printed_count": "48",
+        "card_count": 48,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-web"
+      },
+      "name": "Machamp",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Machoke",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Seething Anger",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Flip a number of coins equal to the number of damage counters on Machamp. This attack does 20 damage plus 10 more damage for each heads."
+        },
+        {
+          "name": "Fling",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "50",
+          "text": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Tomokazu Komiya",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9e/a6/39/9ea639d56536529542512a787e38d4f4311cd9fd53bd66157a204938cea5670f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/31340",
+      "sequenceNumber": 48,
+      "printedNumber": "48",
+      "uuid": 10411909,
+      "prices": [
+        {
+          "priceAmount": 16250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/machamp-48",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 4900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/machamp-48",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 6094,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/machamp-48",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 10521,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/machamp-48",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 11600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/machamp-48",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 7100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-web/machamp-48",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 48,
+  "totalCount": 48
+}

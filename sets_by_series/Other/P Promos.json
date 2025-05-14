@@ -1,0 +1,2938 @@
+{
+  "data": [
+    {
+      "id": 19583,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Kecleon",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tail Wrap",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Stretch Tongue",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Flip a coin. If heads, choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. This attack's damage isn't affected by Weakness or Resistance."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/37/d6/55/37d65571820c0309e4af169f98cab2a5f13600199e4316f8d8aa808773e97185.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32704",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 96285558,
+      "prices": []
+    },
+    {
+      "id": 19584,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Rocket's Scizor",
+      "types": [
+        "Metal"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Focus",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "During your next turn, Rocket's Scizor's Agility attack's base damage is doubled."
+        },
+        {
+          "name": "Agility",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Rocket's Scizor."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "K. Hoshiba",
+      "imageUrl": "https://static.tcgcollector.com/content/images/48/e9/6f/48e96f16de755c7250b5d897f84cc10cea5294e25f3cac8ef51568a3292bbf7b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32705",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 59641063,
+      "prices": []
+    },
+    {
+      "id": 19585,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Rocket's Sneasel",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Entrap",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Continuous Scratch",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10×",
+          "text": "Flip 4 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Katsura Tabata",
+      "imageUrl": "https://static.tcgcollector.com/content/images/00/f4/a2/00f4a24b9846b5b23bbd4bec0631a6f57f7819eb49bd4d032e783e07b64f303e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32706",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 85609257,
+      "prices": []
+    },
+    {
+      "id": 19586,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Pikachu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hide",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to Pikachu during your opponent's next turn."
+        },
+        {
+          "name": "Thunder Jolt",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If tails, Pikachu does 10 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hironobu Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2c/5d/57/2c5d57f6911d19a44ec3f5f83c40d9f17d991ff37118c857aef39002259d79fc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32707",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 90824249,
+      "prices": []
+    },
+    {
+      "id": 19587,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Larvitar",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Call for Friends",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for a Baby Pokémon card or a Basic Pokémon card and put it onto your Bench. Shuffle your deck afterward (You can't use this attack if your Bench is full.)"
+        },
+        {
+          "name": "Stomp",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage. If tails, this attack does 20 damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hironobu Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c1/16/42/c116423ce4d43b0c847068d7c9baf7966f2643886f3aebb22d24a7f1d66bb777.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32708",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 98707646,
+      "prices": []
+    },
+    {
+      "id": 19588,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Celebi",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Leaf Slice",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hajime Kusajima",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f0/58/3a/f0583a760f19ac8b3a812cd9b24f47a9d5d03d40ad558b1c9da9b5cca63645ae.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32709",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 40597473,
+      "prices": []
+    },
+    {
+      "id": 19589,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Celebi",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Leaf Slice",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hajime Kusajima",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4d/d1/8b/4dd18b1c91ed5d01c641db8a9bc6d49a6da1f3a342bd92165aac9cd9433188a8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32710",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 87823490,
+      "prices": []
+    },
+    {
+      "id": 19590,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Tropical Wind",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Flip a coin. If heads, remove 2 damage counters from each Active Pokémon (remove 1 damage counter if a Pokémon has only 1). If tails, each Active Pokémon is now Asleep."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sumiyoshi Kizuki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2a/2b/de/2a2bdec42d303dfe41805fa302d0aa86af1da6e05bd8f64d0f8c0b871d87c284.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32711",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 90917821,
+      "prices": []
+    },
+    {
+      "id": 19591,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Bill",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+        "Draw 2 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/10/de/2c/10de2c906910713ce4773b43aeb6b5604d61ebfce6655475e23b9dc37625cc04.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32712",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 68693204,
+      "prices": []
+    },
+    {
+      "id": 19592,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Ho-Oh",
+      "types": [
+        "Fire"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sacred Wing",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "60",
+          "text": "Flip a coin. If tails, this attack's base damage is 20 instead of 60."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7b/b7/da/7bb7da8f88b91e83ebbdc42af18bc35568cb03fc5ed5b4437b69fac01883a45c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32713",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 18391223,
+      "prices": []
+    },
+    {
+      "id": 19593,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Rapidash",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Ponyta",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Jump Over",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them. Flip a coin. If heads, this attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Super Singe",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Burned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c3/15/22/c315220735276a45a9db937afe54068d74bc000f7fc6fad7dbaf89882b4c6bab.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32714",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 94351954,
+      "prices": []
+    },
+    {
+      "id": 19594,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Venusaur",
+      "types": [
+        "Grass"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Ivysaur",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Leech Seed",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "If this attack damages the Defending Pokémon (after applying Weakness and Resistance), remove 1 damage counter from Venusaur, if it has any."
+        },
+        {
+          "name": "Fury Strikes",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30×",
+          "text": "Flip 3 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/28/b7/2b/28b72bb30b4168d9c5b4214747b17d47ff2a57b3577d9137d4064450c4cd41bb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32715",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 39441811,
+      "prices": []
+    },
+    {
+      "id": 19595,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Blastoise",
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Wartortle",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bubble",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Double Cannon",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40×",
+          "text": "Flip 2 coins. This attack does 40 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hiromichi Sugiyama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c3/a5/9a/c3a59a55db31467edfb837cce299025de0ed6a2f8a71335e8c1086753c14fb6e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32716",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 44709115,
+      "prices": []
+    },
+    {
+      "id": 19596,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Charizard",
+      "types": [
+        "Fire"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Charmeleon",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tail Smash",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "40",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        },
+        {
+          "name": "Flamethrower",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Discard 1 Fire Energy card attached to Charizard."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1c/67/31/1c67313811ff3441a64a73e378760c79403ad70f24f87158fba3efebc929a18b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32717",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 50556740,
+      "prices": []
+    },
+    {
+      "id": 19597,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Meganium",
+      "types": [
+        "Grass"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Bayleef",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sleep Powder",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Solarbeam",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3c/71/e4/3c71e41f955e3314e0631cf2fb56c7b48334a2af137b8c1bdc4ef5c18224b5b2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32718",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 76028464,
+      "prices": []
+    },
+    {
+      "id": 19598,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Feraligatr",
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Croconaw",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Slash",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        },
+        {
+          "name": "Double Claw",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30+",
+          "text": "Flip 2 coins. This attack does 30 damage plus 20 more damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hiromichi Sugiyama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e8/aa/9b/e8aa9b4bbce499df03a14f19a3803bef472aa1bf4603f2a516ce6b72b8bb8d15.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32719",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 28975084,
+      "prices": []
+    },
+    {
+      "id": 19599,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Typhlosion",
+      "types": [
+        "Fire"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Quilava",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage."
+        },
+        {
+          "name": "Thermal Blast",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon, if any. (Don't apply Weakness and Resistance for Benched Pokémon)."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hiroaki Ito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0c/5e/b8/0c5eb8c19c12bba875c71fb414f8052fe1e296da142bf61fc217c678145a78a4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32720",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 39922839,
+      "prices": []
+    },
+    {
+      "id": 19600,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Shining Imakuni?",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Flash! With a dazzling feeling, everything is lit up. Each player plays with his or her prize cards face-up for the rest of the game. Then, each player turns over his or her deck and plays with it face-up. Dont be embarrassed. (When a player shuffles his or her deck, he or she turns the deck over again while he or she shuffles.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Tomoaki Imakuni",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a8/55/ab/a855ab23ad4a38b9f4a5d0e9a18a0f31e8c1a0f3887dae5bb2e0f5b4c2e3add3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32721",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 4509748,
+      "prices": []
+    },
+    {
+      "id": 19601,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Pokémon Center Tokyo",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Your opponent may choose 1 Basic Pokémon in his or her discard pile and put it onto his or her Bench. Then you may choose 1 Basic Pokémon in your discard pile and put it onto your Bench. (A player cant do this if his or her Bench is full.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Ujiie",
+      "imageUrl": "https://static.tcgcollector.com/content/images/85/a4/27/85a427fc613f3d44a8b3e28ae894feb856b9bbc5ddecaad64473b4883f6852c0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32722",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 2509669,
+      "prices": []
+    },
+    {
+      "id": 19602,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Pokémon Center Osaka",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Flip a coin for 2 of your Benched Pokémon (or 1 if you have only 1). For each heads, remove 2 damage counters from that Pokémon (or 1 if it has only 1)."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "K. Hoshiba",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1f/46/cc/1f46ccc6af136829072fe162d392af00acaf64058db7ef7f44cd1fbe7e530e46.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32723",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 95984178,
+      "prices": []
+    },
+    {
+      "id": 19603,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Pikachu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Lightning Tail",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Tackle",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3c/ff/51/3cff51597e3a1a17832acd536ca714abe7fef28a54ff649f9c069797a32c6483.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32724",
+      "sequenceNumber": 21,
+      "printedNumber": "21",
+      "uuid": 14511784,
+      "prices": []
+    },
+    {
+      "id": 19604,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Wooper",
+      "types": [
+        "Water"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tail Whap",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Deep Dive",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip 3 coins. For each heads, remove 1 damage counter from Wooper."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f5/72/85/f572854311beba0428ce8d1664357e9018039d08c61115f74a68aeef49a552e6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32725",
+      "sequenceNumber": 22,
+      "printedNumber": "22",
+      "uuid": 17810031,
+      "prices": []
+    },
+    {
+      "id": 19605,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Tyrogue",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Energy Punch",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, discard a Special Energy card attached to the Defending Pokémon. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "\"If your Active Pokémon is a Baby Pokémon and your opponent announces an attack, your opponent flips a coin (before doing anything else). If tails, your opponents turn ends.\""
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Tomokazu Komiya",
+      "imageUrl": "https://static.tcgcollector.com/content/images/06/56/b2/0656b2b3b964b506c8ca7bedd1289de0ff55382ac157d15467e2eb5e95a89ea6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32726",
+      "sequenceNumber": 23,
+      "printedNumber": "23",
+      "uuid": 34737949,
+      "prices": []
+    },
+    {
+      "id": 19606,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Zapdos",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Anti-Lightning",
+          "text": "You can't attach Lightning Energy cards from your hand to Zapdos.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Plasma",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "If there are any Lightning Energy cards in your discard pile, flip a coin. If heads, attach 1 of them to Zapdos."
+        },
+        {
+          "name": "Lightning Storm",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "60",
+          "text": "Flip a coin. If tails, put 2 damage counters on Zapdos."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hajime Kusajima",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3c/78/83/3c788361757deb6ff3558af5c84f3146e289fa3d4aba70bb8edc4199f990f1b3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32727",
+      "sequenceNumber": 24,
+      "printedNumber": "24",
+      "uuid": 73823705,
+      "prices": []
+    },
+    {
+      "id": 19607,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Umbreon",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Eevee",
+      "effect": [
+        {
+          "name": "Dark Moon",
+          "text": "As long as Umbreon is your Active Pokémon and has a Darkness Energy attached to it, once during your turn (before your attack), you may look at your opponent's hand. Choose from it a number of cards up to the number of Darkness Energy attached to Umbreon and shuffle them into your opponent's deck. Your opponent then draws the same number of cards from his or her deck. This power can't be used if Umbreon is affected by a Special Condition.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Shadow Bind",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/32/c4/e1/32c4e1afb19f74468ca292bda2633eb0a38433628d2288ec4e390499ba17b6bf.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32728",
+      "sequenceNumber": 25,
+      "printedNumber": "25",
+      "uuid": 76687488,
+      "prices": []
+    },
+    {
+      "id": 19608,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Suicune",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Pure Body",
+          "text": "To attach a Water Energy card from your hand to Suicune, you must discard an Energy card attached to Suicune. (Attach the Water Energy, and then discard an Energy card from Suicune.)",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hypno Wave",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30+",
+          "text": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage. If tails, this attack does 30 damage and the Defending Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b3/d2/12/b3d212dd6b7c0f030c988fc7b488935d7e529f6bc687cae1e4fe9113a068df61.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32729",
+      "sequenceNumber": 26,
+      "printedNumber": "26",
+      "uuid": 13514670,
+      "prices": []
+    },
+    {
+      "id": 19609,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Touch Generation Change!",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Each player shuffles his or her hand into its original deck (with the same back side as this card). Then, each players partner may draw up to 5 cards. Each player tag teams with his or her partner now.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Tomokazu Komiya",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5d/1a/d3/5d1ad3541a0ceaa291ddacdaebf17c185b978f8a117588b16830adf4e20d6bbd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32730",
+      "sequenceNumber": 27,
+      "printedNumber": "27",
+      "uuid": 55263289,
+      "prices": []
+    },
+    {
+      "id": 19610,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Pichu Bros.",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Big Sparking Strategy",
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10",
+          "text": "Flip 2 coins. If both of them are heads, the Defending Pokémon is now Paralyzed. If both of them are tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "\"If your Active Pokémon is a Baby Pokémon and your opponent announces an attack, your opponent flips a coin (before doing anything else). If tails, your opponents turn ends.\""
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sayuri Ichiishi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/94/a8/43/94a843398098ec5152932a67586413e6cbb24c0a9622ff29d0d2fc258f0be8a9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32731",
+      "sequenceNumber": 28,
+      "printedNumber": "28",
+      "uuid": 631073,
+      "prices": []
+    },
+    {
+      "id": 19611,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Hoppip",
+      "types": [
+        "Grass"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sleep Powder",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toshinao Aoki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/63/48/22/6348220c437e929405fa70b63f3341968c286598d6dee16cf5c5a111ed86543d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32732",
+      "sequenceNumber": 29,
+      "printedNumber": "29",
+      "uuid": 60393064,
+      "prices": []
+    },
+    {
+      "id": 19612,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Growlithe",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Ember",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Discard a Fire Energy card attached to Growlithe."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kyoko Umemoto",
+      "imageUrl": "https://static.tcgcollector.com/content/images/94/d0/cb/94d0cb4d9fbdca3b1e159f36a3b6c431fa3116675d857853548394cbaf495094.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32733",
+      "sequenceNumber": 30,
+      "printedNumber": "30",
+      "uuid": 57508644,
+      "prices": []
+    },
+    {
+      "id": 19613,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Lanturn",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Chinchou",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Lightning Ball",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        },
+        {
+          "name": "Conduction",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30+",
+          "text": "Discard all Lightning Energy cards attached to Lanturn. Flip a number of coins equal to the number of Lightning Energy cards you discarded. This attack does 30 damage plus 40 more damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5c/8d/dd/5c8dddcd190f474015429894804cc412f2d2bbef8107828b568c3120caaaa09f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32734",
+      "sequenceNumber": 31,
+      "printedNumber": "31",
+      "uuid": 58804955,
+      "prices": []
+    },
+    {
+      "id": 19614,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Pichu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Power Patch",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Choose 1 Basic Energy card attached to 1 of your Pokémon and attach it to another 1 of your Pokémon."
+        }
+      ],
+      "rules": [
+        "\"If this Baby Pokémon is your Active Pokémon and your opponent announces an attack, your opponent flips a coin (before doing anything else). If tails, your opponents turn ends.\""
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1f/44/08/1f4408d54ddb1eb92392c76f6c890a291ac98a4bacaa2ba84be6d4f9ac0221cb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32735",
+      "sequenceNumber": 32,
+      "printedNumber": "32",
+      "uuid": 7329757,
+      "prices": []
+    },
+    {
+      "id": 19615,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Mew",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Super Psywave",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Choose 1 of your opponent's Pokémon. Count the number of Energy cards attached to that Pokémon. Put that many damage counters on the Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8c/5e/34/8c5e341fb28c39f00d55a580030ed35c3426c72983697ef45a12578e6ea131fc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32736",
+      "sequenceNumber": 33,
+      "printedNumber": "33",
+      "uuid": 12975911,
+      "prices": []
+    },
+    {
+      "id": 19616,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Donphan",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Phanpy",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Earthquake",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "Does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Double Stab",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40×",
+          "text": "Flip 2 coins. This attack does 40 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bd/6f/48/bd6f487c3de6d95247712adcc7c806086f01dd70d174d6e2121d7163da94ed16.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32737",
+      "sequenceNumber": 34,
+      "printedNumber": "34",
+      "uuid": 68033204,
+      "prices": []
+    },
+    {
+      "id": 19617,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Togepi",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Minor Errand-Running",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip 2 coins. For each heads, search your deck for a basic Energy card. Show those cards to your opponent, and then put them into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Pound",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Miki Tanaka",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d5/76/f3/d576f3df5cd2daf019cc2bb821ea589795d861c1b7eec7183f4d22cce77b9cf8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32738",
+      "sequenceNumber": 35,
+      "printedNumber": "35",
+      "uuid": 89753070,
+      "prices": []
+    },
+    {
+      "id": 19618,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Sneasel",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Rob",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Look at your opponent's hand. Choose all Technical Machine and Pokémon Tool cards there and put them into his or her deck. Your opponent shuffles the deck afterward."
+        },
+        {
+          "name": "Claw",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Midori Harada",
+      "imageUrl": "https://static.tcgcollector.com/content/images/aa/99/dd/aa99ddfeb37645bca66b4af6c270543c825fecc0a4ebd5c8f17e0751f2cc388f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32739",
+      "sequenceNumber": 36,
+      "printedNumber": "36",
+      "uuid": 36822678,
+      "prices": []
+    },
+    {
+      "id": 19619,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Scizor",
+      "types": [
+        "Metal"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Scyther",
+      "effect": [
+        {
+          "name": "Poison Resistance",
+          "text": "Scizor can't be Poisoned.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Snatch",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Before doing damage, you may choose 1 of your opponent's Benched Pokémon with no damage counters on it and switch the Defending Pokémon with it."
+        },
+        {
+          "name": "Heavy Metal",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30+",
+          "text": "Flip a number of coins equal to the amount of Metal Energy attached to Scizor. This attack does 30 damage plus 20 more damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hisao Nakamura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/db/4e/d7/db4ed72f85ecc1b19f66590f8e15dd0f8908a5b3174cc3364621bba670c2581b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32740",
+      "sequenceNumber": 37,
+      "printedNumber": "37",
+      "uuid": 37873127,
+      "prices": []
+    },
+    {
+      "id": 19620,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Pikachu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Smash Link",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Unless you have any Basic Pokémon named Mewtwo on your Bench, flip a coin. If tails, Pikachu does 20 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Midori Harada",
+      "imageUrl": "https://static.tcgcollector.com/content/images/60/cc/1f/60cc1f27f671614deed545602b8588bb49c9f74087219f089ba8669c9f0b6b59.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32741",
+      "sequenceNumber": 38,
+      "printedNumber": "38",
+      "uuid": 8136753,
+      "prices": []
+    },
+    {
+      "id": 19621,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Crystal Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Crystal Energy provides 1 Energy of all types (colors) of basic Energy cards attached to the Pokémon Crystal Energy is attached to. If there are no basic Energy cards attached to the Pokémon Crystal Energy is attached to, Crystal Energy provides Colorless Energy."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f1/2d/e4/f12de42b1a897032e5a4d331ac5c563cd832486af5f37ca247f3f1ace9fe2596.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32742",
+      "sequenceNumber": 39,
+      "printedNumber": "39",
+      "uuid": 59108551,
+      "prices": []
+    },
+    {
+      "id": 19622,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Boost Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Boost Energy can be attached only to an Evolved Pokémon. Discard Boost Energy at the end of the turn it was attached. Boost Energy provides ColorlessColorlessColorless Energy. The Pokémon Boost Energy is attached to cant retreat. If the Pokémon Boost Energy is attached to isnt an Evolved Pokémon, discard Boost Energy.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b8/8f/e5/b88fe51c2ea059d02eb7f99eb8daedd17646ba946df57f1e3a68a8ce8ae6c68e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32743",
+      "sequenceNumber": 40,
+      "printedNumber": "40",
+      "uuid": 63079581,
+      "prices": []
+    },
+    {
+      "id": 19623,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Warp Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "This card provides Colorless Energy. When you attach this card from your hand to your Active Pokémon, switch that Pokémon with 1 of your Benched Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a7/ef/a3/a7efa3097edde6698e429c59545b5d8a3c5a55fe64158b2ff9d7abb29e35622c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32744",
+      "sequenceNumber": 41,
+      "printedNumber": "41",
+      "uuid": 39301196,
+      "prices": []
+    },
+    {
+      "id": 19624,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Celebi",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Supersonic",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Para-Link",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "If you have any Pokémon named Pikachu on your Bench, flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Midori Harada",
+      "imageUrl": "https://static.tcgcollector.com/content/images/50/9a/d9/509ad932766dfeb3c67eccee4f1efc38c82b9082c89b2ebbfb7b6528ad72e83a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32745",
+      "sequenceNumber": 42,
+      "printedNumber": "42",
+      "uuid": 85262768,
+      "prices": []
+    },
+    {
+      "id": 19625,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Entei",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Link Up",
+          "text": "If you have any Basic Pokémon named Lugia on your Bench, Entei's maximum HP is now 80 and you pay Colorless more to retreat Entei.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Flamethrower",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "Discard 1 Fire Energy card attached to Entei."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Midori Harada",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c1/4a/e3/c14ae3c55f4d4ace8022d8e54f4677ece6b3bd23b4ce0a94ddaa6579cef794d8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32746",
+      "sequenceNumber": 43,
+      "printedNumber": "43",
+      "uuid": 8704683,
+      "prices": []
+    },
+    {
+      "id": 19626,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Pikachu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Smash Link",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Unless you have any Basic Pokémon named Mewtwo on your Bench, flip a coin. If tails, Pikachu does 20 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Midori Harada",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4c/3f/b7/4c3fb7dec23adf84e58e2ee51ee58d3434aa22383273b1d4f4bbe85a7ea44297.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32747",
+      "sequenceNumber": 44,
+      "printedNumber": "44",
+      "uuid": 35606777,
+      "prices": []
+    },
+    {
+      "id": 19627,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Pichu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Heal Link",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If tails, this attack does nothing. If heads, and if you have a Basic Pokémon named Celebi on your Bench, remove 1 damage counter from Pichu."
+        }
+      ],
+      "rules": [
+        "\"If your Active Pokémon is a Baby Pokémon and your opponent announces an attack, your opponent flips a coin (before doing anything else). If tails, your opponents turn ends.\""
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Midori Harada",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4f/37/71/4f37719aacc1ea44e3f49e95c220349a03ab33523dad722d2bc2e6a388f21354.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32748",
+      "sequenceNumber": 45,
+      "printedNumber": "45",
+      "uuid": 23775964,
+      "prices": []
+    },
+    {
+      "id": 19628,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Mewtwo",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Link Charge",
+          "text": "Once during your turn (before your attack), if Mewtwo is your Active Pokémon and if you have any Basic Pokémon named Entei on your Bench, you may flip a coin. If heads, put 1 basic Energy card from your discard pile into your hand, if any. This power can't be used if Mewtwo is affected by a Special Condition.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Super Psy Bolt",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Midori Harada",
+      "imageUrl": "https://static.tcgcollector.com/content/images/17/ae/21/17ae216ee53e02cc57d01285649711394b77ba0c3b002dc6bbe1b7b7fb4b8351.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32749",
+      "sequenceNumber": 46,
+      "printedNumber": "46",
+      "uuid": 39800073,
+      "prices": []
+    },
+    {
+      "id": 19629,
+      "setData": {
+        "name": "P Promos",
+        "printed_count": "47",
+        "card_count": 47,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/p-promos"
+      },
+      "name": "Lugia",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Link Flow",
+          "text": "If you have any Basic Pokémon named Pichu on your Bench, you pay ColorlessColorless less to retreat Lugia.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Aeroblast",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "30+",
+          "text": "Flip 2 coins. This attack does 30 damage plus 20 more damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Midori Harada",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f6/27/f6/f627f657a828b99aa391fd81223c51102169b0f75b3403590a3b92cb3e973d2d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32750",
+      "sequenceNumber": 47,
+      "printedNumber": "47",
+      "uuid": 89689259,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 47,
+  "totalCount": 47
+}

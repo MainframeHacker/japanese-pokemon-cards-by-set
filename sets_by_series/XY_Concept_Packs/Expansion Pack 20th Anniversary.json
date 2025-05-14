@@ -1,0 +1,6560 @@
+{
+  "data": [
+    {
+      "id": 9295,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Venusaur-EX",
+      "types": [
+        "Grass"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Poison Powder",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        },
+        {
+          "name": "Jungle Hammer",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "90",
+          "text": "Heal 30 damage from this Pokémon."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Eske Yoshinob",
+      "imageUrl": "https://static.tcgcollector.com/content/images/66/31/6a/66316a1773f2b736e2caba571fc2b86e549d14698eb39100e4d5da52c3abb044.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22516",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 92710186,
+      "prices": []
+    },
+    {
+      "id": 9296,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "M Venusaur-EX",
+      "types": [
+        "Grass"
+      ],
+      "hp": 230,
+      "evolvesFrom": "Venusaur-EX",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Crisis Vine",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120",
+          "text": "Your opponent's Active Pokémon is now Paralyzed and Poisoned."
+        }
+      ],
+      "rules": [
+        "When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Mega",
+        "Stage 1"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/17/c6/7c/17c67c31cc92909ad0cb52f93d2c237fcf7e7df965f80c2705bebc61242cdaed.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22517",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 34278423,
+      "prices": []
+    },
+    {
+      "id": 9297,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Caterpie",
+      "types": [
+        "Grass"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "String Shot",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/41/d0/b1/41d0b183743ca2c276e1fdedb74d53d1f84c9e19a5aa60b483dabd0646df8263.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22518",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 90547251,
+      "prices": []
+    },
+    {
+      "id": 9298,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Metapod",
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Caterpie",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Stiffen",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 40 (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Stun Spore",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5f/f0/2f/5ff02f3b1d307df6d41676d3f70fd5efce8a600274e0ec2c26918c2ef721b0fd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22519",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 4154627,
+      "prices": []
+    },
+    {
+      "id": 9299,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Weedle",
+      "types": [
+        "Grass"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Poison Sting",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f4/88/cc/f488cca13f1de832644b5627f6d0145005d650eab998140893e55eb1e195a9f5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22520",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 21793402,
+      "prices": []
+    },
+    {
+      "id": 9300,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Kakuna",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Weedle",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Stiffen",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 40 (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Poison Powder",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/07/7c/61/077c613c7d975349366f81a1b10b5da67c518d6b782c6499bea99dead3a4c641.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22521",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 29796594,
+      "prices": []
+    },
+    {
+      "id": 9301,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Beedrill",
+      "types": [
+        "Grass"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Kakuna",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Poison Sting",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        },
+        {
+          "name": "Swarming Sting",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "This attack does 40 damage times the number of Beedrill you have in play to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5a/68/2f/5a682f88551321a5765e7f290ce335e236a10ccd1949decce724640b7e5f87f1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22522",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 238532,
+      "prices": []
+    },
+    {
+      "id": 9302,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Tangela",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bind",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Poison Powder",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b8/f1/11/b8f1112664dac67bfcf0d2f1bc29073ba2b56947c31ae503b591b88702aa59e3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22523",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 61407031,
+      "prices": []
+    },
+    {
+      "id": 9303,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Charmander",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Scratch",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Ember",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Discard a Fire Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/63/27/6b/63276b8ea198f82d89460886da7a30e99b460a604b2a6272f3f5e22108dff342.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22524",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 15159209,
+      "prices": []
+    },
+    {
+      "id": 9304,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Charmeleon",
+      "types": [
+        "Fire"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Charmander",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Slash",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50"
+        },
+        {
+          "name": "Flamethrower",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "Discard a Fire Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c7/93/0a/c7930ae332697f69f22a14361c46381b20de52b999d2a20a69e2b130e3efcd7b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22525",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 99604328,
+      "prices": []
+    },
+    {
+      "id": 9305,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Charizard",
+      "types": [
+        "Fire"
+      ],
+      "hp": 150,
+      "evolvesFrom": "Charmeleon",
+      "effect": [
+        {
+          "name": "Energy Burn",
+          "text": "All Energy attached to this Pokémon are Fire Energy instead of their usual type.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fire Spin",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "200",
+          "text": "Discard 3 Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4b/c9/4d/4bc94dc836b7a6bd89bf5e20cee8beba40d0e8173809678c2dfe396d20378871.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22526",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 83542369,
+      "prices": []
+    },
+    {
+      "id": 9306,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Charizard-EX",
+      "types": [
+        "Fire"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        },
+        {
+          "name": "Combustion Blast",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "150",
+          "text": "This Pokémon can't use Combustion Blast during your next turn."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "PLANETA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5d/2f/05/5d2f05c0e3a861369d34fabd9d546fdad1272b08ce6de477fa15a16c9782b323.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22527",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 99231418,
+      "prices": []
+    },
+    {
+      "id": 9307,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "M Charizard-EX",
+      "types": [
+        "Fire"
+      ],
+      "hp": 220,
+      "evolvesFrom": "Charizard-EX",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Crimson Dive",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "300",
+          "text": "This Pokémon does 50 damage to itself."
+        }
+      ],
+      "rules": [
+        "When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Mega",
+        "Stage 1"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/91/51/af/9151afedbf0a32006b742cf6855313c61df7380ab8daa006719d75a0c59ccc94.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22528",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 28000847,
+      "prices": []
+    },
+    {
+      "id": 9308,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Vulpix",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Confuse Ray",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4b/eb/c3/4bebc3e7a7898c39a2dd114ee2e0acccca81d82b0f5cf7f9f4f65f9c6a0a99f7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22529",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 76613558,
+      "prices": []
+    },
+    {
+      "id": 9309,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Ninetales",
+      "types": [
+        "Fire"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Vulpix",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Lure",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Switch 1 of your opponent's Benched Pokémon with his or her Active Pokémon. The new Active Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Fire Blast",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120",
+          "text": "Discard a Fire Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ca/bb/0c/cabb0cd0eb91ce77dcd90c6fe0199ea8a55273e0a4c6e85efc356df16c9ca5c1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22530",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 40893823,
+      "prices": []
+    },
+    {
+      "id": 9310,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Ninetales BREAK",
+      "types": [
+        "Fire"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Ninetales",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Explosive Fireball",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "Discard all Fire Energy attached to this Pokémon. This attack does 60 more damage for each Energy card discarded in this way."
+        }
+      ],
+      "rules": [
+        "Ninetales BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution."
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "BREAK",
+        "Stage 2"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/39/5f/19/395f193ac7d3e460cce0b95e1190ce31734f783f1c49a7819d7e31e295cf2276.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22531",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 10280128,
+      "prices": []
+    },
+    {
+      "id": 9311,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Growlithe",
+      "types": [
+        "Fire"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hind Kick",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Flare",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0e/89/ae/0e89ae493d0ee2be9eb3eb0f7f1c3d598d71f0c271cadf62a4ae1eb3d1def35b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22532",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 19527821,
+      "prices": []
+    },
+    {
+      "id": 9312,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Arcanine",
+      "types": [
+        "Fire"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Growlithe",
+      "effect": [
+        {
+          "name": "Burning Road",
+          "text": "Once during your turn (before your attack), if this Pokémon was on the Bench and became your Active Pokémon this turn, you may move any number of Fire Energy attached to your Pokémon to this Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Scorching Breath",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "150",
+          "text": "This Pokémon can't attack during your next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/53/3c/68/533c68cfff2093129832517c4b105fdd97b25787eae39de650a735bfa8adbe6a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22533",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 19366357,
+      "prices": []
+    },
+    {
+      "id": 9313,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Ponyta",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Smash Kick",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        },
+        {
+          "name": "Flame Tail",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bd/8b/8a/bd8b8a67b4fe1ddf5ec247d033217dbec40f110f25a02c845e60b86cd0694f59.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22534",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 32938832,
+      "prices": []
+    },
+    {
+      "id": 9314,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Magmar",
+      "types": [
+        "Fire"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fire Punch",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        },
+        {
+          "name": "Flamethrower",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Discard a Fire Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/59/b1/15/59b115bceba3cb9bb7d4a11069403a0f66c7c90a92c3ba9976265ab9cc9c573d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22535",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 22563369,
+      "prices": []
+    },
+    {
+      "id": 9315,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Blastoise-EX",
+      "types": [
+        "Water"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Rapid Spin",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon. Then, your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Splash Bomb",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120",
+          "text": "Flip a coin. If tails, this Pokémon does 30 damage to itself."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Eske Yoshinob",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ea/b0/af/eab0afb1021866fb670adfb9accc030955d09363c5b4bc98f19f72970a7c1929.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22536",
+      "sequenceNumber": 21,
+      "printedNumber": "21",
+      "uuid": 84891939,
+      "prices": []
+    },
+    {
+      "id": 9316,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "M Blastoise-EX",
+      "types": [
+        "Water"
+      ],
+      "hp": 220,
+      "evolvesFrom": "Blastoise-EX",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hydro Bombard",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120",
+          "text": "This attack does 30 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Mega",
+        "Stage 1"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b5/10/ad/b510ad09ec57e1548cc7f95b14702da38bb3d5d7f8682987ab59fa165f179a5e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22537",
+      "sequenceNumber": 22,
+      "printedNumber": "22",
+      "uuid": 93750790,
+      "prices": []
+    },
+    {
+      "id": 9317,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Poliwag",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/02/6a/19/026a191ffd0c140cd99855e07a2da87fc8dae84346f8c0f162c654c309672f9e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22538",
+      "sequenceNumber": 23,
+      "printedNumber": "23",
+      "uuid": 32882587,
+      "prices": []
+    },
+    {
+      "id": 9318,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Poliwhirl",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Poliwag",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Amnesia",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Choose 1 of your opponent's Active Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+        },
+        {
+          "name": "Double Slap",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50×",
+          "text": "Flip 2 coins. This attack does 50 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6c/58/97/6c589741963b2daed9373f220f34bdec3177f0ce1bd6c248023bb5c8b5767ca0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22539",
+      "sequenceNumber": 24,
+      "printedNumber": "24",
+      "uuid": 3536109,
+      "prices": []
+    },
+    {
+      "id": 9319,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Poliwrath",
+      "types": [
+        "Water"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Poliwhirl",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dashing Punch",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "50+",
+          "text": "If this Pokémon was on the Bench and became your Active Pokémon this turn, this attack does 50 more damage."
+        },
+        {
+          "name": "Whirlpool",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": "Discard an Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ec/9e/18/ec9e186facb4c9e0fa180e79149eac043bfced1138166ad12be2978229185c5c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22540",
+      "sequenceNumber": 25,
+      "printedNumber": "25",
+      "uuid": 80783388,
+      "prices": []
+    },
+    {
+      "id": 9320,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Seel",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Growl",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Headbutt",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b9/8c/d4/b98cd400d1874eff44b9e646b3daf6e9ada248e423e0925f04db4db63ce2b0ca.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22541",
+      "sequenceNumber": 26,
+      "printedNumber": "26",
+      "uuid": 57331858,
+      "prices": []
+    },
+    {
+      "id": 9321,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Dewgong",
+      "types": [
+        "Water"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Seel",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Super Deep Dive",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Heal 40 damage from this Pokémon. Switch this Pokémon with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Take Down",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "This Pokémon does 20 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6b/c8/84/6bc884a035749864e73f466422c45eb81fd9960d148557bd5583a3adb982dbd4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22542",
+      "sequenceNumber": 27,
+      "printedNumber": "27",
+      "uuid": 8995115,
+      "prices": []
+    },
+    {
+      "id": 9322,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Staryu",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Quick Blow",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/67/0f/8f/670f8ff912e58536b3d3414536b3f0350bea2160f248bc25b0ea3d60b3e5123b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22543",
+      "sequenceNumber": 28,
+      "printedNumber": "28",
+      "uuid": 82283413,
+      "prices": []
+    },
+    {
+      "id": 9323,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Starmie",
+      "types": [
+        "Water"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Staryu",
+      "effect": [
+        {
+          "name": "Space Beacon",
+          "text": "Once during your turn (before your attack), you may discard a card from your hand. If you do, put 2 basic Energy cards from your discard pile into your hand. (You can't choose a card you discarded with the effect of this Ability.)",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Star Freeze",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b4/fe/ee/b4feee9403ac9b28a4368de7869412e6e0ff06447dd331e21999611d7c0ad979.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22544",
+      "sequenceNumber": 29,
+      "printedNumber": "29",
+      "uuid": 49575084,
+      "prices": []
+    },
+    {
+      "id": 9324,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Starmie BREAK",
+      "types": [
+        "Water"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Starmie",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Break Star",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "This attack does 100 damage to each of your opponent's Pokémon BREAK. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "Starmie BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution."
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "BREAK",
+        "Stage 2"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c3/0b/01/c30b01bbe42d357d00d77851006182eb7d6871ff096f5ca214e492a481f307b2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22545",
+      "sequenceNumber": 30,
+      "printedNumber": "30",
+      "uuid": 62828721,
+      "prices": []
+    },
+    {
+      "id": 9325,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Magikarp",
+      "types": [
+        "Water"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Flail",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "This attack does 10 damage times the number of damage counters on this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3f/86/b2/3f86b2c52b9a2f859749f41b43f25c2a49f46b9a2c8e7d61e0ba48167ff19105.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22546",
+      "sequenceNumber": 31,
+      "printedNumber": "31",
+      "uuid": 25505792,
+      "prices": []
+    },
+    {
+      "id": 9326,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Gyarados",
+      "types": [
+        "Water"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Magikarp",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bubble Beam",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Dragon Rage",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "180",
+          "text": "Flip 2 coins. If either of them is tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/92/28/16/92281685666d195c8cda092ae4981c2c70549af5ce941ba5030628866b826b2f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22547",
+      "sequenceNumber": 32,
+      "printedNumber": "32",
+      "uuid": 54956935,
+      "prices": []
+    },
+    {
+      "id": 9327,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Pikachu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Thunder Jolt",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If tails, this Pokémon does 10 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/77/1d/14/771d1461e68a9a0fe4b0b15ed6435708df8e060e09875d90af436660753dab24.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22548",
+      "sequenceNumber": 33,
+      "printedNumber": "33",
+      "uuid": 17338225,
+      "prices": []
+    },
+    {
+      "id": 9328,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Raichu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Pikachu",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Energize",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Attach a Lightning Energy card from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Spark Bolt",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70+",
+          "text": "You may discard all Energy attached to this Pokémon. If you do, this attack does 70 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cb/40/b7/cb40b7b4146f3b68af2ea65ada929af8eb8e1fbacc9b46ee08825d475c823b2d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22549",
+      "sequenceNumber": 34,
+      "printedNumber": "34",
+      "uuid": 38108167,
+      "prices": []
+    },
+    {
+      "id": 9329,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Magnemite",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Thunder Wave",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Self-Destruct",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50",
+          "text": "This Pokémon does 50 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/54/b4/77/54b4772de10cafb06ac2d75c64a1d91626f01fcb79bfe90bb25621e5873b3d9b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22550",
+      "sequenceNumber": 35,
+      "printedNumber": "35",
+      "uuid": 54025976,
+      "prices": []
+    },
+    {
+      "id": 9330,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Magneton",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Magnemite",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Thunder Wave",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Self-Destruct",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": "This Pokémon does 80 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ab/73/90/ab7390744f4d3e0d0024f24fcb501f86817bf72b87cbb4d6a926210af995f673.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22551",
+      "sequenceNumber": 36,
+      "printedNumber": "36",
+      "uuid": 98122963,
+      "prices": []
+    },
+    {
+      "id": 9331,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Voltorb",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Continuous Tumble",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip a coin until you get tails. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/da/df/f3/dadff37aeb5f320281f772879d5472460a9e4e4a779d4ee965807a0258a10bc8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22552",
+      "sequenceNumber": 37,
+      "printedNumber": "37",
+      "uuid": 14091178,
+      "prices": []
+    },
+    {
+      "id": 9332,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Electrode",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Voltorb",
+      "effect": [
+        {
+          "name": "Buzzap Thunder",
+          "text": "Once during your turn (before your attack), you may Knock Out this Pokémon and attach it to one of your Lightning Pokémon as a Special Energy card. This card provides 2 Lightning Energy only while this card is attached to a Lightning Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Head Bolt",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6c/15/e1/6c15e11fd00b77ffdf0daaa0ed6a15cb4800016c17f07b23c381e093c9b7c03a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22553",
+      "sequenceNumber": 38,
+      "printedNumber": "38",
+      "uuid": 59583904,
+      "prices": []
+    },
+    {
+      "id": 9333,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Electabuzz",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Thunder Shock",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Thunder Punch",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "Flip a coin. If heads, this attack does 10 more damage. If tails, this Pokémon does 10 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d0/7d/e4/d07de482e19472e4d902ad4cd2ab09eaefd9188f77f3c3ddd4173788725bcca5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22554",
+      "sequenceNumber": 39,
+      "printedNumber": "39",
+      "uuid": 57324117,
+      "prices": []
+    },
+    {
+      "id": 9334,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Zapdos",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 110,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Thunder",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "90",
+          "text": "This Pokémon does 30 damage to itself."
+        },
+        {
+          "name": "Thunderbolt",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "170",
+          "text": "Discard all Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fc/1b/d6/fc1bd6c741f64aaabe45cf88f015c332feca64d72645132d499adf0d8cc1c523.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22555",
+      "sequenceNumber": 40,
+      "printedNumber": "40",
+      "uuid": 60991480,
+      "prices": []
+    },
+    {
+      "id": 9335,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Nidoran ?",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Double Stab",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/dc/d4/cd/dcd4cd60608ba5f1d7adabe6f2e19d835bff1dd87bbf6fc33bfc011f98c1967b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22556",
+      "sequenceNumber": 41,
+      "printedNumber": "41",
+      "uuid": 88897626,
+      "prices": []
+    },
+    {
+      "id": 9336,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Nidorino",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Nidoran ?",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Horn Attack",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        },
+        {
+          "name": "Fury Attack",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30×",
+          "text": "Flip 3 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2d/e6/d6/2de6d61a05fcdf17e94d10f406a45da53ee000fcba6b32c7f73a31ecb12383c7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22557",
+      "sequenceNumber": 42,
+      "printedNumber": "42",
+      "uuid": 58821114,
+      "prices": []
+    },
+    {
+      "id": 9337,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Nidoking",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 150,
+      "evolvesFrom": "Nidorino",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Rumble",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Tail Swing",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100",
+          "text": "This attack does 20 damage to each of your opponent's Benched Basic Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/84/54/1b/84541bfa015727e83174804849c26586941811a611112d2678b9c264860e8e08.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22558",
+      "sequenceNumber": 43,
+      "printedNumber": "43",
+      "uuid": 90378971,
+      "prices": []
+    },
+    {
+      "id": 9338,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Nidoking BREAK",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 180,
+      "evolvesFrom": "Nidoking",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Toxic Drill",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120",
+          "text": "Your opponent's Active Pokémon is now Poisoned. Put 2 damage counters instead of 1 on that Pokémon between turns."
+        }
+      ],
+      "rules": [
+        "Nidoking BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution."
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "BREAK",
+        "BREAK"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b8/d0/b4/b8d0b4e88b6ed89e9e5713a6e7e873f5100e64b59a6a15d63a084bdd06fd1d6a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22559",
+      "sequenceNumber": 44,
+      "printedNumber": "44",
+      "uuid": 85260803,
+      "prices": []
+    },
+    {
+      "id": 9339,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Gastly",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Little Grudge",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "During your opponent's next turn, if this Pokémon is Knocked Out by damage from an attack, discard an Energy attached to the Attacking Pokémon."
+        },
+        {
+          "name": "Nightmare",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4e/18/78/4e187831548e61dc62d097c557d82c1df32220b041e7e2dbc8d1b1f999d991b2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22560",
+      "sequenceNumber": 45,
+      "printedNumber": "45",
+      "uuid": 6929503,
+      "prices": []
+    },
+    {
+      "id": 9340,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Haunter",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Gastly",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hypnosis",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Dream Eater",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "80",
+          "text": "If your opponent's Active Pokémon is not Asleep, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c5/5b/3c/c55b3c1925e03fce5059c071a8b93cb63719be6c0c754312cf271cae15539ac9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22561",
+      "sequenceNumber": 46,
+      "printedNumber": "46",
+      "uuid": 69901997,
+      "prices": []
+    },
+    {
+      "id": 9341,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Drowzee",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Pound",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Confuse Ray",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10",
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d2/14/7a/d2147a3c40b5f5f14669d444f7964166ae20fedb85f96ff2fad5f7889337e543.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22562",
+      "sequenceNumber": 47,
+      "printedNumber": "47",
+      "uuid": 82919583,
+      "prices": []
+    },
+    {
+      "id": 9342,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Koffing",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Foul Gas",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned. If tails, your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d5/5f/fd/d55ffdc7d4bb47642f9878f7e93160f6e19d27ed98e035b955668d985765ae12.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22563",
+      "sequenceNumber": 48,
+      "printedNumber": "48",
+      "uuid": 31174605,
+      "prices": []
+    },
+    {
+      "id": 9343,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Mewtwo",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Psychic",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "This attack does 20 more damage for each Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Barrier",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "During your opponent's next turn, prevent all effects of attacks, including damage, done to this Pokémon. If 1 of your Pokémon used Barrier during your last turn, this attack can't be used."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a9/03/6c/a9036c48db409fd0110c8071c630d022836608afae4d198381ed9c745cb4fc61.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22564",
+      "sequenceNumber": 49,
+      "printedNumber": "49",
+      "uuid": 1037552,
+      "prices": []
+    },
+    {
+      "id": 9344,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Mewtwo-EX",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Energy Absorption",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Attach an Energy card from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Regeneration",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Heal 60 damage from this Pokémon."
+        },
+        {
+          "name": "Psyburn",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "110"
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Eske Yoshinob",
+      "imageUrl": "https://static.tcgcollector.com/content/images/07/b5/52/07b552d480b6e9e3ff203b362301d45dec73f67c72da349d0d99e3bc9b3f2cd3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22565",
+      "sequenceNumber": 50,
+      "printedNumber": "50",
+      "uuid": 80812907,
+      "prices": []
+    },
+    {
+      "id": 9345,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Mew",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Neutral Shield",
+          "text": "Prevent all effects of attacks, including damage, done to this Pokémon by your opponent's Evolution Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Psy Bolt",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fb/c4/b7/fbc4b7b7fff0dcde626ad4fbf1d98500e305df68a812b5b8831eec3cef5dc3bf.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22566",
+      "sequenceNumber": 51,
+      "printedNumber": "51",
+      "uuid": 26788684,
+      "prices": []
+    },
+    {
+      "id": 9346,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Sandshrew",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sand Attack",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/90/59/c3/9059c3cd14b87abca86262e5d2569d967b7e57e6af3c55fea15d9ec9a0c4a378.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22567",
+      "sequenceNumber": 52,
+      "printedNumber": "52",
+      "uuid": 69148273,
+      "prices": []
+    },
+    {
+      "id": 9347,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Diglett",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Submerge",
+          "text": "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dig Through",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bb/86/5c/bb865cca6c7f93392401e621abd2691e64f02ba2c55b12491da832ce17875d15.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22568",
+      "sequenceNumber": 53,
+      "printedNumber": "53",
+      "uuid": 84542637,
+      "prices": []
+    },
+    {
+      "id": 9348,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Dugtrio",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Diglett",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Slash",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40"
+        },
+        {
+          "name": "Earthquake",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "130",
+          "text": "This attack does 20 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b6/75/f4/b675f49bb5864e0250b7031306afb80c102ce10e43c0f7fbe8f77ed54ea4e5ba.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22569",
+      "sequenceNumber": 54,
+      "printedNumber": "54",
+      "uuid": 44296973,
+      "prices": []
+    },
+    {
+      "id": 9349,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Machop",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dual Chop",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/af/17/c6/af17c68cc83d5c210d7b202955e10a2ece5641a06b65378d371a94e2c90da449.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22570",
+      "sequenceNumber": 55,
+      "printedNumber": "55",
+      "uuid": 29591376,
+      "prices": []
+    },
+    {
+      "id": 9350,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Machoke",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Machop",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Karate Chop",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "60-",
+          "text": "This attack does 60 damage minus 10 damage for each damage counter on this Pokémon."
+        },
+        {
+          "name": "Submission",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": "This Pokémon does 20 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage One"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/18/f9/81/18f98148095f4c0a87373d22b630b5a6937b6b22838f9c26f780b55d60c3f660.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22571",
+      "sequenceNumber": 56,
+      "printedNumber": "56",
+      "uuid": 61069298,
+      "prices": []
+    },
+    {
+      "id": 9351,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Machamp",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 160,
+      "evolvesFrom": "Machoke",
+      "effect": [
+        {
+          "name": "Counterattack",
+          "text": "If this Pokémon is your Active Pokémon and is damaged by an opponent's attack (even if this Pokémon is Knocked Out), put 3 damage counters on the Attacking Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Seismic Toss",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8a/be/b2/8abeb28b8021782b467aa334acf332c7fb911d05714a618dc3af1f52e3518683.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22572",
+      "sequenceNumber": 57,
+      "printedNumber": "57",
+      "uuid": 48976488,
+      "prices": []
+    },
+    {
+      "id": 9352,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Machamp BREAK",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 190,
+      "evolvesFrom": "Machamp",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Boomerang Lariat",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100",
+          "text": "During your next turn, this Pokémon's attacks do 100 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance)."
+        }
+      ],
+      "rules": [
+        "Machamp BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution."
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "BREAK",
+        "BREAK"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/21/d8/b8/21d8b85eaefc614f09473064e2026a11784c16e2d5781161f9c8fc9d2e25dfbe.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22573",
+      "sequenceNumber": 58,
+      "printedNumber": "58",
+      "uuid": 61412859,
+      "prices": []
+    },
+    {
+      "id": 9353,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Onix",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 100,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Harden",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "During your opponent's next turn, if this Pokémon would be damaged by an attack, prevent that attack's damage done to this Pokémon if that damage is 60 or less."
+        },
+        {
+          "name": "Rock Throw",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4e/1b/a5/4e1ba5e006a3af4bac4f9a3fcbd9a46b4e97fd27c798153fa11e68d7d99295ec.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22574",
+      "sequenceNumber": 59,
+      "printedNumber": "59",
+      "uuid": 78309271,
+      "prices": []
+    },
+    {
+      "id": 9354,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Hitmonchan",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Jab",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30"
+        },
+        {
+          "name": "Special Punch",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/62/b9/bb/62b9bbbe88363f240e5d84367383c7d7b992a410301a2df573809f54a92fa02a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22575",
+      "sequenceNumber": 60,
+      "printedNumber": "60",
+      "uuid": 80463237,
+      "prices": []
+    },
+    {
+      "id": 9355,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Clefairy",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sing",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Metronome",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Choose 1 of your opponent's Active Pokémon's attacks and use it as this attack."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/64/3c/0d/643c0d3895022706b88ba75a7b3ef592fd38253c0509cb8f94de880e016721d6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22576",
+      "sequenceNumber": 61,
+      "printedNumber": "61",
+      "uuid": 62214520,
+      "prices": []
+    },
+    {
+      "id": 9356,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Pidgeot-EX",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Mirror Move",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "If this Pokémon was damaged by an attack during your opponent's last turn, this attack does the same amount of damage to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Feather Lance",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": "This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Eske Yoshinob",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d0/63/da/d063da73a6476c9eae5d43a87e3510a47312b62a585d57445caea9d7f234491c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22577",
+      "sequenceNumber": 62,
+      "printedNumber": "62",
+      "uuid": 25392789,
+      "prices": []
+    },
+    {
+      "id": 9357,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "M Pidgeot-EX",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 220,
+      "evolvesFrom": "Pidgeot-EX",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Mach Cyclone",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "130",
+          "text": "You may have your opponent switch his or her Active Pokémon with 1 of his or her Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Mega",
+        "Stage 1"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d6/a9/f7/d6a9f71f949a59c954b2711cb42b0ed46ffaa9fb8767b6958df120aa65611d61.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22578",
+      "sequenceNumber": 63,
+      "printedNumber": "63",
+      "uuid": 87498200,
+      "prices": []
+    },
+    {
+      "id": 9358,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Rattata",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Mischievous Fang",
+          "text": "When you play this Pokémon from your hand onto your Bench, you may discard all Pokémon Tool cards attached to your opponent's Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Bite",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/aa/94/e1/aa94e11924d1855e10ae9ae0174c526fa95f4ffa0240603e41eb938f3c384a5b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22579",
+      "sequenceNumber": 64,
+      "printedNumber": "64",
+      "uuid": 40665473,
+      "prices": []
+    },
+    {
+      "id": 9359,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Raticate",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Rattata",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Crunch",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Discard an Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Shadowy Bite",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "60×",
+          "text": "This attack does 60 damage times the number of Special Energy cards in your opponent's discard pile."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/29/99/89/299989271703b5a84c8f44ab03aadf63b3109c79632c61bf31644a747f5b63a3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22580",
+      "sequenceNumber": 65,
+      "printedNumber": "65",
+      "uuid": 9597117,
+      "prices": []
+    },
+    {
+      "id": 9360,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Farfetch'd",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Leek Slap",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "50",
+          "text": "This Pokémon can't use Leek Slap during your next turn."
+        },
+        {
+          "name": "Pot Smash",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/68/d3/ce/68d3ce9463606594c4e4422d9d730284a66d9b02a1026c94b274f2d8d24265ee.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22581",
+      "sequenceNumber": 66,
+      "printedNumber": "66",
+      "uuid": 57251232,
+      "prices": []
+    },
+    {
+      "id": 9361,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Doduo",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fury Attack",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f8/2c/46/f82c469232820e949783b4e74eefaae659b66cbe39fe048bb5f205404b7220ca.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22582",
+      "sequenceNumber": 67,
+      "printedNumber": "67",
+      "uuid": 5022936,
+      "prices": []
+    },
+    {
+      "id": 9362,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Chansey",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Scrunch",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Flip a coin. If heads, prevent all damage done to this Pokémon by attacks during your opponent's next turn."
+        },
+        {
+          "name": "Double-Edge",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "80",
+          "text": "This Pokémon does 80 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/45/a3/75/45a3759f49dfcf0a1b5cc321ae66ccff6f7ec9843f17d1a5409e65678625a066.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22583",
+      "sequenceNumber": 68,
+      "printedNumber": "68",
+      "uuid": 35969769,
+      "prices": []
+    },
+    {
+      "id": 9363,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Porygon",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Conversion 3",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Choose Grass, Fire, Water, Lightning, Psychic, Fighting, Darkness, Metal, Fairy, or Dragon type. The Defending Pokémon's Weakness is now that type until the end of your next turn. (The amount of Weakness doesn't change.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Tomoaki Imakuni",
+      "imageUrl": "https://static.tcgcollector.com/content/images/41/b3/7e/41b37e68f0c4e5e3f6a6302859c19b696967a2ca456858a594db422889876130.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22584",
+      "sequenceNumber": 69,
+      "printedNumber": "69",
+      "uuid": 6727390,
+      "prices": []
+    },
+    {
+      "id": 9364,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Dragonite-EX",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Pull Up",
+          "text": "When you play this Pokémon from your hand onto your Bench, you may put 2 Basic Pokémon (except for Dragonite-EX) from your discard pile into your hand.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hyper Beam",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "130",
+          "text": "Discard an Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ayaka Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3b/e9/26/3be926bb0bb02ca18c98aefb76baea46c5e72df3f7205957e1631fa0f13aacbd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22585",
+      "sequenceNumber": 70,
+      "printedNumber": "70",
+      "uuid": 58369885,
+      "prices": []
+    },
+    {
+      "id": 9365,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Super Potion",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Heal 60 damage from 1 of your Pokémon. If you do, discard an Energy attached to that Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/65/9f/f1/659ff1e43efbc9362e5dfb12101b393dd1711a1008f4f6a715fd97e820b4ae22.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22586",
+      "sequenceNumber": 71,
+      "printedNumber": "71",
+      "uuid": 74414236,
+      "prices": []
+    },
+    {
+      "id": 9366,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Energy Retrieval",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Put 2 basic Energy cards from your discard pile into your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0a/d7/2a/0ad72a761098b8c134a943f1b68a9eebe6aa0ed764da9daa9f75c40a72d43a39.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22587",
+      "sequenceNumber": 72,
+      "printedNumber": "72",
+      "uuid": 74150992,
+      "prices": []
+    },
+    {
+      "id": 9367,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Potion",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Heal 30 damage from 1 of your Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3e/d5/ba/3ed5ba691b017510fb6b4e6c0b8d2c64dd274af2fc65f86a8f1e3f78af7dc5f8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22588",
+      "sequenceNumber": 73,
+      "printedNumber": "73",
+      "uuid": 79914450,
+      "prices": []
+    },
+    {
+      "id": 9368,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Revive",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Put a Basic Pokémon from your discard pile onto your Bench."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ef/26/cf/ef26cf78b74599003eb4728f6bf18d0f5162db4985a1fa2f0a2c46d76eb5a108.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22589",
+      "sequenceNumber": 74,
+      "printedNumber": "74",
+      "uuid": 78388957,
+      "prices": []
+    },
+    {
+      "id": 9369,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Devolution Spray",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Devolve 1 of your evolved Pokémon and put the highest Stage Evolution card on it into your hand. (That Pokémon cant evolve this turn.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c7/77/f1/c777f177d5355fcd34e2c97851c1af78ea151fba823967f25603d63c44b2f398.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22590",
+      "sequenceNumber": 75,
+      "printedNumber": "75",
+      "uuid": 43703536,
+      "prices": []
+    },
+    {
+      "id": 9370,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Full Heal",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Remove all Special Conditions from your Active Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fe/66/b9/fe66b91b862d2b82df95ceac9e66fd58ca70d34d831d78c261114b4e96c2a681.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22591",
+      "sequenceNumber": 76,
+      "printedNumber": "76",
+      "uuid": 38872744,
+      "prices": []
+    },
+    {
+      "id": 9371,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Switch your Active Pokémon with 1 of your Benched Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b2/5a/c7/b25ac7710efee42bd759617f0db85ba5822058b562efb771d109115699d0c15c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22592",
+      "sequenceNumber": 77,
+      "printedNumber": "77",
+      "uuid": 66499642,
+      "prices": []
+    },
+    {
+      "id": 9372,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Pokédex",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Look at the top 5 cards of your deck and put them back on top of your deck in any order."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/15/cd/92/15cd922faa7397615d6cc2dc098f3e59882f1b890a326dd9aa6ef32174e4a8b7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22593",
+      "sequenceNumber": 78,
+      "printedNumber": "78",
+      "uuid": 83423546,
+      "prices": []
+    },
+    {
+      "id": 9373,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Maintenance",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Shuffle 2 cards from your hand into your deck. (If you cant shuffle 2 cards into your deck, you cant play this card.) Then, draw a card.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/77/99/9b/77999b8b185000ca395cfc0605c8ef878182f4f17d19eace2d02573f36bd2bf1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22594",
+      "sequenceNumber": 79,
+      "printedNumber": "79",
+      "uuid": 98550139,
+      "prices": []
+    },
+    {
+      "id": 9374,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Blastoise Spirit Link",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "Your turn does not end if the Pokémon this card is attached to becomes M Blastoise-EX."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d7/70/5f/d7705f9c38fed0fba21aaa4bbe444a998f5debca69b40f5cc2f16e1a380d2ed4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22595",
+      "sequenceNumber": 80,
+      "printedNumber": "80",
+      "uuid": 86954242,
+      "prices": []
+    },
+    {
+      "id": 9375,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Pidgeot Spirit Link",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "Your turn does not end if the Pokémon this card is attached to becomes M Pidgeot-EX."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b4/d6/99/b4d69997ef5f33e1a35bd454b078a2627522568f0c59e1d076aa0ed18c8cfee5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22596",
+      "sequenceNumber": 81,
+      "printedNumber": "81",
+      "uuid": 11211832,
+      "prices": []
+    },
+    {
+      "id": 9376,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Venusaur Spirit Link",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "Your turn does not end if the Pokémon this card is attached to becomes M Venusaur-EX."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f3/55/b9/f355b95b3407b128cb184af1185ed26274d8345e9c85fbe96c0f82b63ae0243e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22597",
+      "sequenceNumber": 82,
+      "printedNumber": "82",
+      "uuid": 99199704,
+      "prices": []
+    },
+    {
+      "id": 9377,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Charizard Spirit Link",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "Your turn does not end if the Pokémon this card is attached to becomes M Charizard-EX."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/56/d7/4f/56d74fa89bab00383754441d8baa42027dcfdc1e15d3e873c247fb89aff89c42.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22598",
+      "sequenceNumber": 83,
+      "printedNumber": "83",
+      "uuid": 74169496,
+      "prices": []
+    },
+    {
+      "id": 9378,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Professor Oak's Hint",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Draw cards until you have 7 cards in your hand. Your turn ends."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/30/ce/d0/30ced0c8fcec8ed31d1343e6d25efbf166d2eb57a149deb995553fa4fa604d51.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22599",
+      "sequenceNumber": 84,
+      "printedNumber": "84",
+      "uuid": 89538305,
+      "prices": []
+    },
+    {
+      "id": 9379,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Misty's Determination",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Discard a card from your hand. If you do, look at the top 8 cards of your deck and put 1 of them into your hand. Shuffle the other cards back into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/28/54/9d/28549d2e36fe876c7b9ad0276506a02d6efc7a4c3a4c3851f649cfb10b8c5be2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22600",
+      "sequenceNumber": 85,
+      "printedNumber": "85",
+      "uuid": 20985178,
+      "prices": []
+    },
+    {
+      "id": 9380,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Brock's Grit",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Shuffle 6 in any combination of Pokémon and basic Energy cards from your discard pile into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/65/75/2d/65752d4c592ba863ae1f4739fcb95b7eed2d05cb4d253809ff8e399e8be6d2d9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22601",
+      "sequenceNumber": 86,
+      "printedNumber": "86",
+      "uuid": 31133828,
+      "prices": []
+    },
+    {
+      "id": 9381,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Double Colorless Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Double Colorless Energy provides Colorless Colorless Energy."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/24/5a/8b/245a8be81886fbee9b6bb917208365c6d6bb072205f5e309eb6e9b26ae4b4ae0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22602",
+      "sequenceNumber": 87,
+      "printedNumber": "87",
+      "uuid": 64141118,
+      "prices": []
+    },
+    {
+      "id": 9382,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Venusaur-EX",
+      "types": [
+        "Grass"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Poison Powder",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        },
+        {
+          "name": "Jungle Hammer",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "90",
+          "text": "Heal 30 damage from this Pokémon."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoki Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a0/48/f3/a048f3b1d2797b1dad13b4d59c344ff20c7a8d8d45947ce0436c4cc1a74a8ce2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22603",
+      "sequenceNumber": 88,
+      "printedNumber": "88",
+      "uuid": 32216213,
+      "prices": []
+    },
+    {
+      "id": 9383,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "M Venusaur-EX",
+      "types": [
+        "Grass"
+      ],
+      "hp": 230,
+      "evolvesFrom": "Venusaur-EX",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Crisis Vine",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120",
+          "text": "Your opponent's Active Pokémon is now Paralyzed and Poisoned."
+        }
+      ],
+      "rules": [
+        "When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Mega",
+        "Stage 1"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/da/a3/36/daa336e596492a615b0342ddac37fb37a0a4acb3b3f993558547ec85341e45df.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22604",
+      "sequenceNumber": 89,
+      "printedNumber": "89",
+      "uuid": 32246396,
+      "prices": []
+    },
+    {
+      "id": 9384,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Charizard-EX",
+      "types": [
+        "Fire"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        },
+        {
+          "name": "Combustion Blast",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "150",
+          "text": "This Pokémon can't use Combustion Blast during your next turn."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f7/c0/5b/f7c05b22b7e8313c2bc948f523db331b81c9f415a96563bd67ebba947051f79f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22605",
+      "sequenceNumber": 90,
+      "printedNumber": "90",
+      "uuid": 23011877,
+      "prices": []
+    },
+    {
+      "id": 9385,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "M Charizard-EX",
+      "types": [
+        "Fire"
+      ],
+      "hp": 220,
+      "evolvesFrom": "Charizard-EX",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Crimson Dive",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "300",
+          "text": "This Pokémon does 50 damage to itself."
+        }
+      ],
+      "rules": [
+        "When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Mega",
+        "Stage 1"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3e/90/ce/3e90ce7fc2c1467e4c2617034b4f35f6e44ed990d5b805db3a593f8f9f1114df.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22606",
+      "sequenceNumber": 91,
+      "printedNumber": "91",
+      "uuid": 84096813,
+      "prices": []
+    },
+    {
+      "id": 9386,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Blastoise-EX",
+      "types": [
+        "Water"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Rapid Spin",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon. Then, your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Splash Bomb",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120",
+          "text": "Flip a coin. If tails, this Pokémon does 30 damage to itself."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kawayoo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/90/d8/9a/90d89a0f37188fa9f8f1ffb147286d74503e2277bf2f326de9624a599562014f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22607",
+      "sequenceNumber": 92,
+      "printedNumber": "92",
+      "uuid": 91152125,
+      "prices": []
+    },
+    {
+      "id": 9387,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "M Blastoise-EX",
+      "types": [
+        "Water"
+      ],
+      "hp": 220,
+      "evolvesFrom": "Blastoise-EX",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hydro Bombard",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120",
+          "text": "This attack does 30 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Mega",
+        "Stage 1"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/79/78/cf/7978cfc916ee907391fb4183b25bfdc90e4efefea1fc0a14b50668a69b288085.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22608",
+      "sequenceNumber": 93,
+      "printedNumber": "93",
+      "uuid": 12226042,
+      "prices": []
+    },
+    {
+      "id": 9388,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Pikachu-EX",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Iron Tail",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30×",
+          "text": "Flip a coin until you get tails. This attack does 30 damage times the number of heads."
+        },
+        {
+          "name": "Overspark",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50×",
+          "text": "Discard all Lightning Energy attached to this Pokémon. This attack does 50 damage times the number of Energy cards you discarded."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Megumi Mizutani",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f4/fa/1a/f4fa1a30f058498d0a842421155e5d5dcdf6324eab2556a9b795f2cfd1060d35.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22609",
+      "sequenceNumber": 94,
+      "printedNumber": "94",
+      "uuid": 9271846,
+      "prices": []
+    },
+    {
+      "id": 9389,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Mewtwo-EX",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Energy Absorption",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Attach an Energy card from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Regeneration",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Heal 60 damage from this Pokémon."
+        },
+        {
+          "name": "Psyburn",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "110"
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9c/6c/22/9c6c221069a18e608637af040fec633466842bddefedb63e90a78691938cf439.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22610",
+      "sequenceNumber": 95,
+      "printedNumber": "95",
+      "uuid": 39515612,
+      "prices": []
+    },
+    {
+      "id": 9390,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Pidgeot-EX",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Mirror Move",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "If this Pokémon was damaged by an attack during your opponent's last turn, this attack does the same amount of damage to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Feather Lance",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": "This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f1/ef/45/f1ef45905ecfe35147d91cb36a11af7e18a4c1dd34ddcbcfe86ded5fb1ca75b9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22611",
+      "sequenceNumber": 96,
+      "printedNumber": "96",
+      "uuid": 96296300,
+      "prices": []
+    },
+    {
+      "id": 9391,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "M Pidgeot-EX",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 220,
+      "evolvesFrom": "Pidgeot-EX",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Mach Cyclone",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "130",
+          "text": "You may have your opponent switch his or her Active Pokémon with 1 of his or her Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Mega",
+        "Stage 1"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/11/7e/f9/117ef9268149ffc588632c5ceaf4f2fceb6849607d50982fdc70e4c180d625a6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22612",
+      "sequenceNumber": 97,
+      "printedNumber": "97",
+      "uuid": 64167713,
+      "prices": []
+    },
+    {
+      "id": 9392,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Dragonite-EX",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Pull Up",
+          "text": "When you play this Pokémon from your hand onto your Bench, you may put 2 Basic Pokémon (except for Dragonite-EX) from your discard pile into your hand.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hyper Beam",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "130",
+          "text": "Discard an Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4b/ee/b9/4beeb9e21b988f1eeba701c0ff8c8b8d9790ab29780864403f55c6ad743284ca.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22613",
+      "sequenceNumber": 98,
+      "printedNumber": "98",
+      "uuid": 38962773,
+      "prices": []
+    },
+    {
+      "id": 9393,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Misty's Determination",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Discard a card from your hand. If you do, look at the top 8 cards of your deck and put 1 of them into your hand. Shuffle the other cards back into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Megumi Mizutani",
+      "imageUrl": "https://static.tcgcollector.com/content/images/db/53/58/db535846623fabe9005c3da407f0fb22c3db731f05591f1ab9b88d438760ed09.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22614",
+      "sequenceNumber": 99,
+      "printedNumber": "99",
+      "uuid": 78598796,
+      "prices": []
+    },
+    {
+      "id": 9394,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Brock's Grit",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Shuffle 6 in any combination of Pokémon and basic Energy cards from your discard pile into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hitoshi Ariga",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bf/1d/f9/bf1df92ddb4e634b8366282e90af2dbc2f7e6810416dde58c318a8eb50ed92c7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22615",
+      "sequenceNumber": 100,
+      "printedNumber": "100",
+      "uuid": 24326933,
+      "prices": []
+    },
+    {
+      "id": 9395,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "????[Exeggutor]",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Exeggcute",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "????[Stomp]",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "????1?????????10???????? Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Dr.Ooyama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/48/35/71/48357112bd02b5c0a829fe18c8c6318e34b99315d24f0b1db52a3a20b46efaf3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22616",
+      "sequenceNumber": 101,
+      "printedNumber": "101",
+      "uuid": 16055605,
+      "prices": []
+    },
+    {
+      "id": 9396,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Imakuni?'s Doduo",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Frenzied Escape",
+          "text": "When this Doduo retreats, hold this card and throw it as hard as you can because Doduo is running away. Throw the card horizontally with a snap to get the farthest distance!",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Harmonize",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "From the moment you use this attack, you must begin to sing a song. (While the song is being sung, the game continues.) When the song is finished, this attack does 30 damage."
+        }
+      ],
+      "rules": [
+        "(This card cannot be used at official tournaments.)"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Imakuni?",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9d/5a/67/9d5a67c2185158dedb6cd6ecc74f926af345f925e4f17ce02caea039e081a6c4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22617",
+      "sequenceNumber": 102,
+      "printedNumber": "102",
+      "uuid": 67353118,
+      "prices": []
+    },
+    {
+      "id": 9397,
+      "setData": {
+        "name": "Expansion Pack 20th Anniversary",
+        "printed_count": "103",
+        "card_count": 103,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/expansion-pack-20th-anniversary"
+      },
+      "name": "Here Comes Team Rocket!",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+        "Each player plays with his or her Prize cards face up for the rest of the game."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/39/8e/2d/398e2d2749106ebaafdd14d400ea93d81f948a0d8eeedce7af5a348313a25967.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22618",
+      "sequenceNumber": 103,
+      "printedNumber": "103",
+      "uuid": 63782983,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 103,
+  "totalCount": 103
+}

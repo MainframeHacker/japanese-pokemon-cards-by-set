@@ -1,0 +1,2701 @@
+{
+  "data": [
+    {
+      "id": 12235,
+      "setData": {
+        "name": "Dragon Selection",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/dragon-selection"
+      },
+      "name": "Dratini",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Wrap",
+          "cost": [
+            "Grass",
+            "Lightning"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/66/db/97/66db97fb15500881987486243e70fe5d5cd9cffea5b3dd91adc85121f05cd0c2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25398",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 1548758,
+      "prices": [
+        {
+          "priceAmount": 2513,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dratini-1st-edition-1",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2613,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "09/16/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dratini-1st-edition-1",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "09/16/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dratini-1st-edition-1",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 217,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dratini-1st-edition-1",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 3500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dratini-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2947,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dratini-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dratini-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 419,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dratini-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12236,
+      "setData": {
+        "name": "Dragon Selection",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/dragon-selection"
+      },
+      "name": "Dratini",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hypnotic Gaze",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Tail Whap",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoki Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/db/32/ba/db32ba74fc822f14f4bf88086a434e6c9e75b5c93116d42d6c58d844c5b03e85.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25399",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 52502216,
+      "prices": [
+        {
+          "priceAmount": 4999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dratini-1st-edition-2",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1350,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dratini-1st-edition-2",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dratini-1st-edition-2",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 458,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dratini-1st-edition-2",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 3700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dratini-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 3100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dratini-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dratini-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 451,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dratini-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12237,
+      "setData": {
+        "name": "Dragon Selection",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/dragon-selection"
+      },
+      "name": "Dragonair",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Dratini",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tail Whap",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        },
+        {
+          "name": "Dragon Pulse",
+          "cost": [
+            "Grass",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": "Discard the top card of your deck."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hajime Kusajima",
+      "imageUrl": "https://static.tcgcollector.com/content/images/94/77/27/947727bbe71acecd62a256e4176d6bbd22db4727deb6725e652f291f6538bd68.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25400",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 66683520,
+      "prices": [
+        {
+          "priceAmount": 3167,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dragonair-1st-edition-3",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 936,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dragonair-1st-edition-3",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 1300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dragonair-1st-edition-3",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dragonair-1st-edition-3",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 453,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dragonair-1st-edition-3",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 2919,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dragonair-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 960,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dragonair-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dragonair-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 425,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dragonair-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12238,
+      "setData": {
+        "name": "Dragon Selection",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/dragon-selection"
+      },
+      "name": "Dragonair",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Dratini",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Healing Melody",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Heal 10 from each of your Pokémon."
+        },
+        {
+          "name": "Slam",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30×",
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/10/1e/51/101e51a2d5cc4ff90fabc809e816944496b6a160307c9b65d5c9428e13767792.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25401",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 34998494,
+      "prices": [
+        {
+          "priceAmount": 4961,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dragonair-1st-edition-4",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1660,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dragonair-1st-edition-4",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dragonair-1st-edition-4",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 425,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dragonair-1st-edition-4",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 4600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dragonair-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 3850,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dragonair-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 4200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dragonair-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 467,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dragonair-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12239,
+      "setData": {
+        "name": "Dragon Selection",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/dragon-selection"
+      },
+      "name": "Dragonite",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 150,
+      "evolvesFrom": "Dragonair",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hyper Beam",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "Flip a coin. If heads, discard an Energy attached to the Defending Pokémon."
+        },
+        {
+          "name": "Hurricane Tail",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "60×",
+          "text": "Flip 4 coins. This attack does 60 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/22/2a/1b/222a1b3c53562bbb3a2923ba9e2940b7fde1c09889ded36a5990ba82aea4deed.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25402",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 97237550,
+      "prices": [
+        {
+          "priceAmount": 5500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dragonite-1st-edition-5",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 3499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dragonite-1st-edition-5",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 3800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dragonite-1st-edition-5",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 4200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dragonite-1st-edition-5",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dragonite-1st-edition-5",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 7916,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dragonite-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 3615,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dragonite-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 4000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dragonite-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 538,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/dragonite-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12240,
+      "setData": {
+        "name": "Dragon Selection",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/dragon-selection"
+      },
+      "name": "Bagon",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Dragon Claw",
+          "cost": [
+            "Fire",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/19/be/cc/19beccb0ec46124562b6f67c81fd40f9ddc3eb14869aafb53b696088669f2762.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25403",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 75238172,
+      "prices": [
+        {
+          "priceAmount": 2313,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/bagon-1st-edition-6",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/bagon-1st-edition-6",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1550,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/bagon-1st-edition-6",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/bagon-1st-edition-6",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 449,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/bagon-1st-edition-6",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 1673,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/bagon-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 237,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/bagon-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12241,
+      "setData": {
+        "name": "Dragon Selection",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/dragon-selection"
+      },
+      "name": "Shelgon",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Bagon",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Knock Away",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        },
+        {
+          "name": "Rollout",
+          "cost": [
+            "Fire",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Akira Komayama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/16/19/a4/1619a4ad15249ee9420b4ba29a072f2c47280332e9ebc01c45dcceff47c6b4b9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25404",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 84175295,
+      "prices": [
+        {
+          "priceAmount": 2236,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/shelgon-1st-edition-7",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 325,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/shelgon-1st-edition-7",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 1550,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/shelgon-1st-edition-7",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/shelgon-1st-edition-7",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 424,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/shelgon-1st-edition-7",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 1598,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/shelgon-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1035,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/shelgon-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/shelgon-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 265,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/shelgon-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12242,
+      "setData": {
+        "name": "Dragon Selection",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/dragon-selection"
+      },
+      "name": "Salamence",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Shelgon",
+      "effect": [
+        {
+          "name": "Scornful Storm",
+          "text": "Once during your turn (before your attack), you may have your opponent discard cards from his or her hand until he or she has 4 cards left in his or her hand.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Shred",
+          "cost": [
+            "Fire",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "90",
+          "text": "This attack's damage isn't affected by any effects on the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "BERUBURI",
+      "imageUrl": "https://static.tcgcollector.com/content/images/42/d4/a2/42d4a27d392a69f741ba29567d8968e29ef52b151b7486c0e17e2b805663beab.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25405",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 24962680,
+      "prices": [
+        {
+          "priceAmount": 6529,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/salamence-1st-edition-8",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1850,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/salamence-1st-edition-8",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/salamence-1st-edition-8",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 547,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/salamence-1st-edition-8",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 3596,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/salamence-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2299,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/salamence-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/salamence-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 463,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/salamence-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12243,
+      "setData": {
+        "name": "Dragon Selection",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/dragon-selection"
+      },
+      "name": "Latias",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 100,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Energy Assist",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Attach a basic Energy card from your discard pile to 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Sky Heal",
+          "cost": [
+            "Fire",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40",
+          "text": "If Latios is on your Bench, heal 20 damage from this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hideaki Hakozaki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7f/04/9d/7f049dc0bb533c401071a70287eb4827ab96f57a55bacf990dbbad2002d58e4f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25406",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 73129205,
+      "prices": [
+        {
+          "priceAmount": 6210,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/latias-1st-edition-9",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2375,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/latias-1st-edition-9",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/latias-1st-edition-9",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 599,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/latias-1st-edition-9",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 5016,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/latias-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 971,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/latias-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/latias-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 418,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/latias-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12244,
+      "setData": {
+        "name": "Dragon Selection",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/dragon-selection"
+      },
+      "name": "Latios",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 100,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sky Blade",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "If Latias is on your Bench, this attack does 20 more damage."
+        },
+        {
+          "name": "Speed Wing",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/08/c7/a1/08c7a1943e3fd05137059a10e3ea60e0c14a3a5c1e453254df5cb5fa0c881d26.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25407",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 70548040,
+      "prices": [
+        {
+          "priceAmount": 5000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/latios-1st-edition-10",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2709,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/latios-1st-edition-10",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/latios-1st-edition-10",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 380,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/latios-1st-edition-10",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 7600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/latios-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 696,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/latios-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 6340,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/latios-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 7000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/latios-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 621,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/latios-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12245,
+      "setData": {
+        "name": "Dragon Selection",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/dragon-selection"
+      },
+      "name": "Rayquaza",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dragon Pulse",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "40",
+          "text": "Discard the top 2 cards of your deck."
+        },
+        {
+          "name": "Shred",
+          "cost": [
+            "Fire",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "This attack's damage isn't affected by any effects on the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f0/01/32/f00132bf21a724b3aac37164c90b7088f10da489cfb5284fa41e625da73471d2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25408",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 90419807,
+      "prices": [
+        {
+          "priceAmount": 11698,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/rayquaza-1st-edition-11",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/rayquaza-1st-edition-11",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 4495,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/rayquaza-1st-edition-11",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 4900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/rayquaza-1st-edition-11",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1081,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/rayquaza-1st-edition-11",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 11501,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/rayquaza-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 3570,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/rayquaza-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/rayquaza-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 850,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/rayquaza-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12246,
+      "setData": {
+        "name": "Dragon Selection",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/dragon-selection"
+      },
+      "name": "Axew",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Signs of Evolution",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, search your deck for Fraxure, reveal it, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Scratch",
+          "cost": [
+            "Metal"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mizue",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d4/be/fb/d4befbc489b84899eb62711e774551e46cf191dddd911a7ffdd4d0fa8ab1ae3d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25409",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 26007525,
+      "prices": [
+        {
+          "priceAmount": 4811,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/axew-1st-edition-12",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1475,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/axew-1st-edition-12",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/axew-1st-edition-12",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 130,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/axew-1st-edition-12",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 3164,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/axew-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1350,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/axew-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/axew-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 329,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/axew-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12247,
+      "setData": {
+        "name": "Dragon Selection",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/dragon-selection"
+      },
+      "name": "Axew",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Lunge",
+          "cost": [
+            "Fighting",
+            "Metal"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "TOKIYA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/db/95/58/db95588a4ae8ecfc3354cbcaaf5702ccc76dd81e864682bfd76cafba58b9fa02.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25410",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 15143726,
+      "prices": [
+        {
+          "priceAmount": 3007,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/axew-1st-edition-13",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1050,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/axew-1st-edition-13",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/axew-1st-edition-13",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 311,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/axew-1st-edition-13",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 2862,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/axew-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 361,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/axew-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12248,
+      "setData": {
+        "name": "Dragon Selection",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/dragon-selection"
+      },
+      "name": "Fraxure",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Axew",
+      "effect": [
+        {
+          "name": "Grit",
+          "text": "If this Pokémon is affected by a Special Condition, each of its attacks does 40 more damage (before applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dragon Claw",
+          "cost": [
+            "Fighting",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fa/31/49/fa3149166370c2235aac3416a877beef51bcf9653880ab8ca3365ecd01c3ccc4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25411",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 86136523,
+      "prices": [
+        {
+          "priceAmount": 2300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/fraxure-1st-edition-14",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/fraxure-1st-edition-14",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/fraxure-1st-edition-14",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 294,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/fraxure-1st-edition-14",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 1621,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/fraxure-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1450,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/fraxure-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/fraxure-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 412,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/fraxure-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12249,
+      "setData": {
+        "name": "Dragon Selection",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/dragon-selection"
+      },
+      "name": "Fraxure",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Axew",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Scratch",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        },
+        {
+          "name": "Sharp Fang",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "match",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fe/a2/60/fea260185e966532c09e55189da63273077407155a0cbf3d193fe853c3427b0a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25412",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 32670402,
+      "prices": [
+        {
+          "priceAmount": 2601,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/fraxure-1st-edition-15",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1511,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/fraxure-1st-edition-15",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/fraxure-1st-edition-15",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 314,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/fraxure-1st-edition-15",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 1598,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/fraxure-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1410,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/fraxure-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/fraxure-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 376,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/fraxure-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12250,
+      "setData": {
+        "name": "Dragon Selection",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/dragon-selection"
+      },
+      "name": "Haxorus",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Fraxure",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Axe Slugger",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "60+",
+          "text": "If the Defending Pokémon is a Colorless Pokémon, this attack does 60 more damage."
+        },
+        {
+          "name": "Dragon Pulse",
+          "cost": [
+            "Fighting",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "100",
+          "text": "Discard the top card of your deck."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Eske Yoshinob",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a2/25/e8/a225e8a031d80f765f07050b75ddc8d97dba39b7d41be2ce71e121275dfd7848.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25413",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 31348388,
+      "prices": [
+        {
+          "priceAmount": 3275,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/haxorus-1st-edition-16",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1576,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/haxorus-1st-edition-16",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/haxorus-1st-edition-16",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 599,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/haxorus-1st-edition-16",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 4133,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/haxorus-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 299,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/haxorus-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12251,
+      "setData": {
+        "name": "Dragon Selection",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/dragon-selection"
+      },
+      "name": "Druddigon",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 110,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tight Jaw",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Dragon Tail",
+          "cost": [
+            "Fire",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80×",
+          "text": "Flip 2 coins. This attack does 80 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kawayoo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e3/f4/98/e3f4980f5728c6dea1dac5a240574b7b3c55d422128f412c7e370af4f8f4061d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25414",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 87484082,
+      "prices": [
+        {
+          "priceAmount": 844,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/druddigon-1st-edition-17",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/druddigon-1st-edition-17",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/druddigon-1st-edition-17",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 1989,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/druddigon-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2385,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "09/24/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/druddigon-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "09/24/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/druddigon-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 269,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/druddigon-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12252,
+      "setData": {
+        "name": "Dragon Selection",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/dragon-selection"
+      },
+      "name": "Super Rod",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Shuffle 3 in any combination of Pokémon and basic Energy cards from your discard pile back into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cf/0a/68/cf0a687a03c7a816ab4dc54e0c897d8c80c3d75f793397096e736e273554f89f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25415",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 84445408,
+      "prices": [
+        {
+          "priceAmount": 12806,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/super-rod-1st-edition-18",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/super-rod-1st-edition-18",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 3400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/super-rod-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2816,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/super-rod-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/super-rod-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 393,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/super-rod-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12253,
+      "setData": {
+        "name": "Dragon Selection",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/dragon-selection"
+      },
+      "name": "First Ticket",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Before you flip a coin to decide who goes first in a game, you may play this card. Dont flip that coin, and you go first. If both players play First Ticket, flip the coin as normal. (You may play only 1 First Ticket before you flip that coin.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a6/ea/99/a6ea99ea58abf9e481eff4d2018dad41c4d097c4c202a9071d192b4b16e65328.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25416",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 38790202,
+      "prices": [
+        {
+          "priceAmount": 2237,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/first-ticket-1st-edition-19",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 550,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/first-ticket-1st-edition-19",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/first-ticket-1st-edition-19",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1509,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/first-ticket-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 547,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/first-ticket-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12254,
+      "setData": {
+        "name": "Dragon Selection",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/dragon-selection"
+      },
+      "name": "EXP.ALL",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach EXP. ALL to 1 of your Pokémon (excluding Pokémon-ex and Pokémon that has an owner in its name) that doesnt already have a Pokémon Tool attached to it. If that Pokémon is Knocked Out, discard this card.\", \"During your opponents turn, if 1 of your Active Pokémon is Knocked Out by your opponents attack, you may take 1 basic Energy card attached to that Knocked Out Pokémon and attach it to the Pokémon with EXP.ALL attached to it. If you do, discard EXP.ALL.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/69/3f/2e/693f2ec754cf002f25bc239b321d1b546b3b6d6e672e6db39cf432a3384057a4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25417",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 3224522,
+      "prices": [
+        {
+          "priceAmount": 4999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/exp-share-1st-edition-20",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 550,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/exp-share-1st-edition-20",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/exp-share-1st-edition-20",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 225,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/exp-share-1st-edition-20",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 276,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-dragon-selection/exp-share-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 20,
+  "totalCount": 20
+}

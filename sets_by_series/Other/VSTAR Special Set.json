@@ -1,0 +1,514 @@
+{
+  "data": [
+    {
+      "id": 1094,
+      "setData": {
+        "name": "VSTAR Special Set",
+        "printed_count": "6",
+        "card_count": 6,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vstar-special-set"
+      },
+      "name": "Rotom V",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 190,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Lost Hack",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Put a Special Energy attached to 1 of your opponent's Pokémon in the Lost Zone."
+        },
+        {
+          "name": "Extreme Current",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "160",
+          "text": "Discard an Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "V",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/00/0e/ad/000ead192ef708d06ed2106864b891072c4939f0a0cb586e394ec39d836de812.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/38729",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 9909299,
+      "prices": [
+        {
+          "priceAmount": 142,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/07/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-vstar-special-set/rotom-v-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 1095,
+      "setData": {
+        "name": "VSTAR Special Set",
+        "printed_count": "6",
+        "card_count": 6,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vstar-special-set"
+      },
+      "name": "Rotom VSTAR",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 250,
+      "evolvesFrom": "Rotom V",
+      "effect": [
+        {
+          "name": "Conversion Star",
+          "text": "During your turn, you may discard as many cards as you like from your hand. Then, draw that many cards. (You can't use more than 1 VSTAR Power in a game.)",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Scrap Pulse",
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "80+",
+          "text": "Put any number of Pokémon Tool cards from your discard pile in the Lost Zone. This attack does 40 more damage for each card put in the Lost Zone in this way."
+        }
+      ],
+      "rules": [
+        "When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VSTAR",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b8/b2/c8/b8b2c8d7800c7137fe7ff04b0bf81740c8ae2dc8d01a5c546d8915fabb42cd52.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/38730",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 86234750,
+      "prices": [
+        {
+          "priceAmount": 588,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/07/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-vstar-special-set/rotom-vstar-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 1096,
+      "setData": {
+        "name": "VSTAR Special Set",
+        "printed_count": "6",
+        "card_count": 6,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vstar-special-set"
+      },
+      "name": "Zacian V",
+      "types": [
+        "Metal"
+      ],
+      "hp": 220,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Piercing Strike",
+          "cost": [
+            "Metal"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "40",
+          "text": "This attack's damage isn't affected by Weakness or Resistance, or by any effects on your opponent's Active Pokémon."
+        },
+        {
+          "name": "Behemoth Blade",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100+",
+          "text": "If your opponent's Active Pokémon is a Pokémon VMAX, this attack does 160 more damage."
+        }
+      ],
+      "rules": [
+        "When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "V",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "aky CG Works",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ce/b2/1b/ceb21b5c7059db401abe5fd3ace397acec15dd2aeaf1e0be2d14222da565e999.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/38731",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 94727229,
+      "prices": [
+        {
+          "priceAmount": 220,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/07/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-vstar-special-set/zacian-v-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 1097,
+      "setData": {
+        "name": "VSTAR Special Set",
+        "printed_count": "6",
+        "card_count": 6,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vstar-special-set"
+      },
+      "name": "Zacian VSTAR",
+      "types": [
+        "Metal"
+      ],
+      "hp": 270,
+      "evolvesFrom": "Zacian V",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Break Edge",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "200",
+          "text": "This attack's damage isn't affected by Weakness or Resistance, or by any effects on your opponent's Active Pokémon."
+        },
+        {
+          "name": "Sword Star",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "310",
+          "text": "This Pokémon also does 30 damage to itself. (You can't use more than 1 VSTAR Power in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VSTAR",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/49/4b/80/494b805d6feade92d45db0c3d313567ac26feb9784cc91366568140635d26ba9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/38732",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 76331922,
+      "prices": [
+        {
+          "priceAmount": 220,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/07/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-vstar-special-set/zacian-vstar-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 1098,
+      "setData": {
+        "name": "VSTAR Special Set",
+        "printed_count": "6",
+        "card_count": 6,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vstar-special-set"
+      },
+      "name": "Zamazenta V",
+      "types": [
+        "Metal"
+      ],
+      "hp": 220,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Regal Stance",
+          "text": "Once during your turn, you may discard your hand and draw 5 cards. If you use this Ability, your turn ends.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Revenge Blast",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120+",
+          "text": "This attack does 30 more damage for each Prize card your opponent has taken."
+        }
+      ],
+      "rules": [
+        "When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "V",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d0/4b/c2/d04bc215a78a30a5837d95f40e45161f36f8efbc0a04409724e6c05e472fb532.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/38733",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 56774754,
+      "prices": [
+        {
+          "priceAmount": 1769,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/07/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-vstar-special-set/zamazenta-v-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 221,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/07/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-vstar-special-set/zamazenta-v-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 1099,
+      "setData": {
+        "name": "VSTAR Special Set",
+        "printed_count": "6",
+        "card_count": 6,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vstar-special-set"
+      },
+      "name": "Zamazenta VSTAR",
+      "types": [
+        "Metal"
+      ],
+      "hp": 270,
+      "evolvesFrom": "Zamazenta V",
+      "effect": [
+        {
+          "name": "Shield Star",
+          "text": "During your turn, you may use this Ability. During your opponent's next turn, all of your Pokémon take 100 less damage from your opponent's attacks (after applying Weakness and Resistance). (You can't use more than 1 VSTAR Power in a game.)",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Giga Impact",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "220",
+          "text": "During your next turn, this Pokémon can't attack."
+        }
+      ],
+      "rules": [
+        "When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VSTAR",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a4/ef/f1/a4eff14ada7a3ca5214bdf8402cf4711b38a7ec3c9dca9678363b94e9addb61c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/38734",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 11820124,
+      "prices": [
+        {
+          "priceAmount": 1450,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/07/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-vstar-special-set/zamazenta-vstar-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 266,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/07/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-vstar-special-set/zamazenta-vstar-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 6,
+  "totalCount": 6
+}

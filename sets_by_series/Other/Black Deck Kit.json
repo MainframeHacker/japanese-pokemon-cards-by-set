@@ -1,0 +1,2046 @@
+{
+  "data": [
+    {
+      "id": 15610,
+      "setData": {
+        "name": "Black Deck Kit",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/black-deck-kit"
+      },
+      "name": "Spinarak",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Draw a card."
+        },
+        {
+          "name": "Rising Lunge",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yuka Morii",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/35434",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 96652184,
+      "prices": [
+        {
+          "priceAmount": 1250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/spinarak-1st-edition-1",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/spinarak-1st-edition-1",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 299,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/spinarak-1st-edition-1",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 675,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/spinarak-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2606,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "12/16/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/spinarak-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "12/16/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/spinarak-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 198,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/spinarak-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15611,
+      "setData": {
+        "name": "Black Deck Kit",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/black-deck-kit"
+      },
+      "name": "Dark Ariados",
+      "types": [
+        "Darkness",
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Spinarak",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Super Poison Breath",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Each Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Breaking Impact",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage for each Colorless Energy in that Pokémon's Retreat Cost (after applying effects to the Retreat Cost). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "This Pokémon is both Grass Darkness type"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Dark",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kyoko Koizumi",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/35435",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 77246906,
+      "prices": [
+        {
+          "priceAmount": 1000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-ariados-1st-edition-2",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-ariados-1st-edition-2",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 299,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-ariados-1st-edition-2",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 7859,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-ariados-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-ariados-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-ariados-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 198,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-ariados-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15612,
+      "setData": {
+        "name": "Black Deck Kit",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/black-deck-kit"
+      },
+      "name": "Slugma",
+      "types": [
+        "Fire"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Singe",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Burned."
+        },
+        {
+          "name": "Heat Tackle",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Slugma does 10 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/35436",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 53236248,
+      "prices": [
+        {
+          "priceAmount": 850,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/slugma-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 198,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/slugma-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15613,
+      "setData": {
+        "name": "Black Deck Kit",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/black-deck-kit"
+      },
+      "name": "Houndour",
+      "types": [
+        "Fire"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Rear Kick",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Smokescreen",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoyo Kimura",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/35437",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 37343960,
+      "prices": [
+        {
+          "priceAmount": 2550,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/houndour-1st-edition-4",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 850,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/houndour-1st-edition-4",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/houndour-1st-edition-4",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 299,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/houndour-1st-edition-4",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 1750,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/houndour-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1454,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/houndour-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/houndour-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/houndour-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15614,
+      "setData": {
+        "name": "Black Deck Kit",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/black-deck-kit"
+      },
+      "name": "Dark Magcargo",
+      "types": [
+        "Darkness",
+        "Fire"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Slugma",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Energy Press",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "Does 10 damage plus 10 more damage for each basic Energy card attached to all of your Active Pokémon."
+        },
+        {
+          "name": "Linear Attack",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "This Pokémon is both Fire Darkness type"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Dark",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Nakaoka",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/35438",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 87043720,
+      "prices": [
+        {
+          "priceAmount": 498,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-magcargo-1st-edition-5",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 1350,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-magcargo-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-magcargo-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15615,
+      "setData": {
+        "name": "Black Deck Kit",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/black-deck-kit"
+      },
+      "name": "Dark Houndoom",
+      "types": [
+        "Darkness",
+        "Fire"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Houndour",
+      "effect": [
+        {
+          "name": "Fire Breath",
+          "text": "Once during your turn (before your attack), if Dark Houndoom is your Active Pokémon, you may flip a coin. If heads, the Defending Pokémon (choose 1 if there are 2) is now Burned. This power can't be used if Dark Houndoom is affected by a Special Condition.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fire Payback",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40+",
+          "text": "If you have less Benched Pokémon than your opponent, this attack does 40 damage plus 20 more damage."
+        }
+      ],
+      "rules": [
+        "This Pokémon is both Fire Darkness type"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Dark",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Nakaoka",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/35439",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 30858654,
+      "prices": [
+        {
+          "priceAmount": 6967,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-houndoom-1st-edition-6",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-houndoom-1st-edition-6",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-houndoom-1st-edition-6",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 299,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-houndoom-1st-edition-6",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 4600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-houndoom-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2229,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-houndoom-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-houndoom-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 498,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-houndoom-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15616,
+      "setData": {
+        "name": "Black Deck Kit",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/black-deck-kit"
+      },
+      "name": "Larvitar",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fury Attack",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/35440",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 16023628,
+      "prices": [
+        {
+          "priceAmount": 5200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/larvitar-1st-edition-7",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 4364,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/larvitar-1st-edition-7",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 4800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/larvitar-1st-edition-7",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 413,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/larvitar-1st-edition-7",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 1900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/larvitar-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/larvitar-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15617,
+      "setData": {
+        "name": "Black Deck Kit",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/black-deck-kit"
+      },
+      "name": "Larvitar",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Light Punch",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Dig Drain",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Remove 1 damage counter from Larvitar."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Midori Harada",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/35441",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 1891112,
+      "prices": [
+        {
+          "priceAmount": 550,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/larvitar-1st-edition-8",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/larvitar-1st-edition-8",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 650,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/larvitar-1st-edition-8",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 198,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/larvitar-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15618,
+      "setData": {
+        "name": "Black Deck Kit",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/black-deck-kit"
+      },
+      "name": "Dark Pupitar",
+      "types": [
+        "Darkness",
+        "Fighting"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Larvitar",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Explosive Evolution",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance.) Then, search your deck for a card that evolves from Dark Pupitar and put it on Dark Pupitar. (This counts as evolving Dark Pupitar.) Shuffle your deck afterward."
+        },
+        {
+          "name": "Double Tackle",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Does 20 damage to each Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "This Pokémon is both Fighting Darkness type"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Dark",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Tomoaki Imakuni",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/35442",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 72454637,
+      "prices": [
+        {
+          "priceAmount": 543,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-pupitar-1st-edition-9",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 1050,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-pupitar-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 198,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-pupitar-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15619,
+      "setData": {
+        "name": "Black Deck Kit",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/black-deck-kit"
+      },
+      "name": "Dark Pupitar",
+      "types": [
+        "Darkness",
+        "Fighting"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Larvitar",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dark Streak",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, each Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Rock Tumble",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "This attack's damage is not affected by Resistance."
+        }
+      ],
+      "rules": [
+        "This Pokémon is both Fighting Darkness type"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Dark",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Emi Miwa",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/35443",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 11486390,
+      "prices": []
+    },
+    {
+      "id": 15620,
+      "setData": {
+        "name": "Black Deck Kit",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/black-deck-kit"
+      },
+      "name": "Dark Tyranitar",
+      "types": [
+        "Darkness",
+        "Fighting"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Dark Pupitar",
+      "effect": [
+        {
+          "name": "Sand Damage",
+          "text": "As long as Dark Tyranitar is your Active Pokémon, put 1 damage counter on each of your opponent's Benched Basic Pokémon between turns. You can't use more than 1 Sand Damage Poké-Body between turns.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Second Strike",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50+",
+          "text": "If the Defending Pokémon already has at least 2 damage counters on it, this attack does 50 damage plus 20 more damage."
+        }
+      ],
+      "rules": [
+        "This Pokémon is both Fighting Darkness type"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Dark",
+        "Stage 2"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kyoko Koizumi",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/35444",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 52242861,
+      "prices": [
+        {
+          "priceAmount": 8794,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-tyranitar-1st-edition-11",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 6864,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-tyranitar-1st-edition-11",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 7600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-tyranitar-1st-edition-11",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 709,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-tyranitar-1st-edition-11",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 4722,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-tyranitar-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1383,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-tyranitar-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-tyranitar-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15621,
+      "setData": {
+        "name": "Black Deck Kit",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/black-deck-kit"
+      },
+      "name": "Dark Tyranitar",
+      "types": [
+        "Darkness",
+        "Fighting"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Dark Pupitar",
+      "effect": [
+        {
+          "name": "Sand Damage",
+          "text": "As long as Dark Tyranitar is your Active Pokémon, put 1 damage counter on each of your opponent's Benched Basic Pokémon between turns. You can't use more than 1 Sand Damage Poké-Body between turns.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Second Strike",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50+",
+          "text": "If the Defending Pokémon already has at least 2 damage counters on it, this attack does 50 damage plus 20 more damage."
+        }
+      ],
+      "rules": [
+        "This Pokémon is both Fighting Darkness type"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Dark",
+        "Stage 2"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kyoko Koizumi",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/35445",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 20656855,
+      "prices": [
+        {
+          "priceAmount": 8674,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-tyranitar-1st-edition-12",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 6995,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-tyranitar-1st-edition-12",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 8500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-tyranitar-1st-edition-12",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 649,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-tyranitar-1st-edition-12",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 9100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-tyranitar-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2562,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-tyranitar-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 6332,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-tyranitar-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 7000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-tyranitar-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/dark-tyranitar-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15622,
+      "setData": {
+        "name": "Black Deck Kit",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/black-deck-kit"
+      },
+      "name": "Rattata",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Snarl",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, this attack does 10 damage to the Defending Pokémon. If tails, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoyo Kimura",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/35446",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 83741115,
+      "prices": []
+    },
+    {
+      "id": 15623,
+      "setData": {
+        "name": "Black Deck Kit",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/black-deck-kit"
+      },
+      "name": "Rocket's Moltres ex",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 100,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Dark Lift",
+          "text": "If Rocket's Moltres ex has any Darkness Energy attached to it, the Retreat Cost for Rocket's Moltres ex is 0.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fire Dance",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Search your discard pile for a Fire Energy card and attach it to 1 of your Pokémon."
+        },
+        {
+          "name": "Combustion",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50"
+        }
+      ],
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/35447",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 29440087,
+      "prices": [
+        {
+          "priceAmount": 32500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/rocket's-moltres-ex-1st-edition-14",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 14063,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/rocket's-moltres-ex-1st-edition-14",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 15500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/rocket's-moltres-ex-1st-edition-14",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 2000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/rocket's-moltres-ex-1st-edition-14",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 20908,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/rocket's-moltres-ex-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 4504,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/rocket's-moltres-ex-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 5706,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/rocket's-moltres-ex-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 8100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/rocket's-moltres-ex-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 8900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/rocket's-moltres-ex-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 2549,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/rocket's-moltres-ex-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15624,
+      "setData": {
+        "name": "Black Deck Kit",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/black-deck-kit"
+      },
+      "name": "Energy Search",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Search your deck for a basic Energy card, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/35448",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 37249671,
+      "prices": []
+    },
+    {
+      "id": 15625,
+      "setData": {
+        "name": "Black Deck Kit",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/black-deck-kit"
+      },
+      "name": "Potion",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Heal 30 damage from 1 of your Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/35449",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 35273374,
+      "prices": [
+        {
+          "priceAmount": 225,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/potion-1st-edition-16",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15626,
+      "setData": {
+        "name": "Black Deck Kit",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/black-deck-kit"
+      },
+      "name": "Rocket's Poké Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Search your deck for a Pokémon with Dark in its name, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/35450",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 19288847,
+      "prices": [
+        {
+          "priceAmount": 7856,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/rocket's-poke-ball-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2613,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/rocket's-poke-ball-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/rocket's-poke-ball-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 198,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/rocket's-poke-ball-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15627,
+      "setData": {
+        "name": "Black Deck Kit",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/black-deck-kit"
+      },
+      "name": "Rocket's Admin.",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+        "Each player shuffles his or her hand into his or her deck. Then, each player counts his or her Prize cards left and draws up to that many cards. (You draw your cards first.)"
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/35451",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 26193058,
+      "prices": [
+        {
+          "priceAmount": 398,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/rocket's-admin-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15628,
+      "setData": {
+        "name": "Black Deck Kit",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/black-deck-kit"
+      },
+      "name": "Rocket's Mission",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+        "\"Discard a card from your hand. Then, draw 3 cards. If you discarded a Pokémon that has Dark or Rockets in its name, draw 4 cards instead.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/35452",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 26439481,
+      "prices": [
+        {
+          "priceAmount": 4699,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/rocket's-mission-1st-edition-19",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/rocket's-mission-1st-edition-19",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 3656,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/rocket's-mission-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 550,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/rocket's-mission-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/rocket's-mission-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-black-deck-kit/rocket's-mission-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15629,
+      "setData": {
+        "name": "Black Deck Kit",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/black-deck-kit"
+      },
+      "name": "R Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"R Energy can be attached only to a Pokémon that has Dark or Rockets in its name. While in play, R Energy provides 2 Darkness Energy. (Doesnt count as a basic Energy card.) If the Pokémon R Energy is attached to attacks, the attack does 10 more damage to the Active Pokémon (before applying Weakness and Resistance). When your turn ends, discard R Energy.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Takumi Akabane",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/35453",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 89736222,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 20,
+  "totalCount": 20
+}

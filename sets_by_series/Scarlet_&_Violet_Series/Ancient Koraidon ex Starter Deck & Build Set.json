@@ -1,0 +1,2736 @@
+{
+  "data": [
+    {
+      "id": 23769,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Ponyta",
+      "types": [
+        "Fire"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Charge Energy",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for a Basic Energy card, reveal it, and put it into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Flame Tail",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "takashi shiraishi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/59/ab/32/59ab3263fac51afa6714969f2429eaf77b20857380741df742a114253fecca9d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44312",
+      "sequenceNumber": 1,
+      "printedNumber": "001",
+      "uuid": 57116986,
+      "prices": []
+    },
+    {
+      "id": 23770,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Rapidash",
+      "types": [
+        "Fire"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Ponyta",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Combustion",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        },
+        {
+          "name": "Inferno Onrush",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "120",
+          "text": "This Pokémon also does 30 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryota Murayama",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/3d/b8/aa/3db8aa23ed1ee49a0281316b0af270a186335fbf942196515f5b0b699fb4cb61.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44313",
+      "sequenceNumber": 2,
+      "printedNumber": "002",
+      "uuid": 14939168,
+      "prices": []
+    },
+    {
+      "id": 23771,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Turtonator",
+      "types": [
+        "Fire"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Spit-Out Shot",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "This attack does 40 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Steam Artillery",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shigenori Negishi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/e5/47/1d/e5471db24665cff4e488cef946b22fa424cc62d8c385218c261fd9f212c515ce.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44314",
+      "sequenceNumber": 3,
+      "printedNumber": "003",
+      "uuid": 25204277,
+      "prices": []
+    },
+    {
+      "id": 23772,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Lumineon V",
+      "types": [
+        "Water"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Luminous Sign",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Aqua Return",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120",
+          "text": "Shuffle this Pokémon and all attached cards into your deck."
+        }
+      ],
+      "rules": [
+        "When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "V",
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "takuyoa",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/e4/b9/32/e4b9323a7064d7a04eca87e40fef69b45439c309916e0871459c564b8c290501.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44315",
+      "sequenceNumber": 4,
+      "printedNumber": "004",
+      "uuid": 65349971,
+      "prices": []
+    },
+    {
+      "id": 23773,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Manaphy",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Wave Veil",
+          "text": "Prevent all damage done to your Benched Pokémon by attacks from your opponent's Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Rain Splash",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "HYOGONOSUKE",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/52/05/34/520534a3bb41045fc10d5e89df72eacadb198a9a25cc7db1de61f31183200cac.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44316",
+      "sequenceNumber": 5,
+      "printedNumber": "005",
+      "uuid": 7853318,
+      "prices": []
+    },
+    {
+      "id": 23774,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Radiant Greninja",
+      "types": [
+        "Water"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Concealed Cards",
+          "text": "You must discard an Energy card from your hand in order to use this Ability. Once during your turn, you may draw 2 cards.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Moonlight Shuriken",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Discard 2 Energy from this Pokémon. This attack does 90 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "\"You cant have more than 1 Radiant Pokémon in your deck.\""
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Radiant",
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Souichirou Gunjima",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/f0/44/a9/f044a945414ebeccd44f075cc9065befee2568ed8fb802bd34823b35d3973e97.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44317",
+      "sequenceNumber": 6,
+      "printedNumber": "006",
+      "uuid": 60034615,
+      "prices": []
+    },
+    {
+      "id": 23775,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Scream Tail",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Encouraging Song",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Heal 100 damage from 1 of your Benched Ancient Pokémon."
+        },
+        {
+          "name": "Hyper Voice",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Ancient"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kawayoo",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/68/73/ef/6873ef9762368b7bbbb74114c2f48835d6fa8e83f03854c6e17943aaa4b11476.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44318",
+      "sequenceNumber": 7,
+      "printedNumber": "007",
+      "uuid": 33840788,
+      "prices": []
+    },
+    {
+      "id": 23776,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Rockruff",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Paw Shake Punch",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "sui",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/4e/ab/00/4eab00c1f1f34460417b74f5a711655df3fdd546727f2cf5b117e973ab55fef5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44319",
+      "sequenceNumber": 8,
+      "printedNumber": "008",
+      "uuid": 27099086,
+      "prices": []
+    },
+    {
+      "id": 23777,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Lycanroc",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Rockruff",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Turbo Edge",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "50",
+          "text": "Attach up to 2 Basic Fighting Energy cards from your discard pile to your Benched Pokémon in any way you like."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yoshioka",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/ec/e0/c0/ece0c08b3247867a17d72f266529fdf9b7c626b993dbcdb9318ff7ddf2d5fec4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44320",
+      "sequenceNumber": 9,
+      "printedNumber": "009",
+      "uuid": 89117974,
+      "prices": []
+    },
+    {
+      "id": 23778,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Great Tusk",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 140,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Lunge Out",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        },
+        {
+          "name": "Raging Charge",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80+",
+          "text": "If your Benched Pokémon have any damage counters on them, this attack does 80 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Ancient"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/1b/2d/60/1b2d602dd93de09d2bd954e341c25d6a9cdee44bd79632b6dac0edf485eca14c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44321",
+      "sequenceNumber": 10,
+      "printedNumber": "010",
+      "uuid": 49291771,
+      "prices": []
+    },
+    {
+      "id": 23779,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Sandy Shocks",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Magnetic Field Burst",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20+",
+          "text": "If 3 or more Energy are attached to your Pokémon, this attack does 70 more damage. This attack's damage isn't affected by Weakness."
+        },
+        {
+          "name": "Power Gem",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Ancient"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "DOM",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/26/a2/4a/26a24a31f1fd73f397b2d535764ec5da6369a37bd664da50c358e0db87ff4a4b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44322",
+      "sequenceNumber": 11,
+      "printedNumber": "011",
+      "uuid": 9606467,
+      "prices": []
+    },
+    {
+      "id": 23780,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Koraidon ex",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 230,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Comeuppance Whack",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "This attack does 10 more damage for each damage counter on this Pokémon."
+        },
+        {
+          "name": "Kaiser Tackle",
+          "cost": [
+            "Fire",
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "280",
+          "text": "This Pokémon also does 60 damage to itself."
+        }
+      ],
+      "rules": [
+        "When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex (SV)",
+        "Ancient"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "PLANETA Igarashi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/71/3f/89/713f895f86564ab9fc7c47a5c1d61b64c4c53ea1b1269f28a3d5adf08c7fdf5c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44323",
+      "sequenceNumber": 12,
+      "printedNumber": "012",
+      "uuid": 97781524,
+      "prices": []
+    },
+    {
+      "id": 23781,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Pidgey",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
+        },
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Oswaldo KATO",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/fb/ee/70/fbee70dffa74db33b2ce6280f4704b85ba81346ee9a98e6632b00389b8056825.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44324",
+      "sequenceNumber": 13,
+      "printedNumber": "013",
+      "uuid": 30764190,
+      "prices": []
+    },
+    {
+      "id": 23782,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Pidgeotto",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Pidgey",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Flap",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Oswaldo KATO",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/45/65/a9/4565a9dfe971fd38ba358b5f754b041f2c0b918b9b58b92a16b19aeabb877429.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44325",
+      "sequenceNumber": 14,
+      "printedNumber": "014",
+      "uuid": 38090688,
+      "prices": []
+    },
+    {
+      "id": 23783,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Pidgeot ex",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 280,
+      "evolvesFrom": "Pidgeotto",
+      "effect": [
+        {
+          "name": "Quick Search",
+          "text": "Once during your turn, you may search your deck for a card and put it into your hand. Then, shuffle your deck. You can't use more than 1 Quick Search Ability each turn.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Blustery Wind",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "120",
+          "text": "You may discard a Stadium in play."
+        }
+      ],
+      "rules": [
+        "When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex (SV)"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "takuyoa",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/97/1b/5f/971b5f4c48cc4730478abe564df49ab1f1b4fd2c74108009b8d98210bb0650f7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44326",
+      "sequenceNumber": 15,
+      "printedNumber": "015",
+      "uuid": 68790428,
+      "prices": []
+    },
+    {
+      "id": 23784,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Bidoof",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Carefree Countenance",
+          "text": "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hyper Fang",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoyo Kimura",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/2f/8d/35/2f8d35098f3f177b947172171540532b418327ecb49f367342f6f57748194ed0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44327",
+      "sequenceNumber": 16,
+      "printedNumber": "016",
+      "uuid": 18148626,
+      "prices": []
+    },
+    {
+      "id": 23785,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Bibarel",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Bidoof",
+      "effect": [
+        {
+          "name": "Industrious Incisors",
+          "text": "Once during your turn, you may draw cards until you have 5 cards in your hand.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Tail Smash",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "OKACHEKE",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/56/58/61/5658617152cc6aa211b11e8ffbefa3c1860f619ec0a2ce676f4bb196c15ddb84.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44328",
+      "sequenceNumber": 17,
+      "printedNumber": "017",
+      "uuid": 76266053,
+      "prices": []
+    },
+    {
+      "id": 23786,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Switch Cart",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Switch your Active Basic Pokémon with 1 of your Benched Pokémon. If you do, heal 30 damage from the Pokémon you moved to your Bench."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/dd/be/03/ddbe03f5206dee6a8663faffecdbfc69b78b3bc4976327b9aa35b429b6935fd2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44329",
+      "sequenceNumber": 18,
+      "printedNumber": "018",
+      "uuid": 72678187,
+      "prices": []
+    },
+    {
+      "id": 23787,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Energy Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Move a Basic Energy from 1 of your Pokémon to another of your Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Studio Bora Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/0c/6e/e5/0c6ee5c4fc17c388c2ac65007c06223b49c7624b68b98387ca9b47abebe1d422.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44330",
+      "sequenceNumber": 19,
+      "printedNumber": "019",
+      "uuid": 19082113,
+      "prices": []
+    },
+    {
+      "id": 23788,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Electric Generator",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Look at the top 5 cards of your deck and attach up to 2 Basic Lightning Energy cards you find there to your Benched Lightning Pokémon in any way you like. Shuffle the other cards back into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/89/69/a9/8969a9eaab19d7c92bd31980fbbd45fdd2ca1b26befc2dae981f92627d594ed6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44331",
+      "sequenceNumber": 20,
+      "printedNumber": "020",
+      "uuid": 68746774,
+      "prices": []
+    },
+    {
+      "id": 23789,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Counter Catcher",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "\"You can use this card only if you have more Prize cards remaining than your opponent.\\nSwitch in 1 of your opponents Benched Pokémon to the Active Spot.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/67/22/fb/6722fb206dd849af75bed53f3a3276b4fc40002eaf9dc00ea174e2b95dd269d6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44332",
+      "sequenceNumber": 21,
+      "printedNumber": "021",
+      "uuid": 59467492,
+      "prices": []
+    },
+    {
+      "id": 23790,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Gutsy Pickaxe",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Reveal the top card of your deck. If that card is a Fighting Energy card, attach it to 1 of your Benched Pokémon. If it is not a Fighting Energy card, put it into your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Eske Yoshinob",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/4c/10/ad/4c10ad8a07bdeec7dafe9db5b176300abec1e9f8c3ba0a025e2770d5efa98f6e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44333",
+      "sequenceNumber": 22,
+      "printedNumber": "022",
+      "uuid": 52573203,
+      "prices": []
+    },
+    {
+      "id": 23791,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Super Rod",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Shuffle up to 3 in any combination of Pokémon and Basic Energy cards from your discard pile into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/6b/aa/95/6baa95d48da8d938aa396a4e7e9f155532000a7707dbb75d53f1768c9a86e7b4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44334",
+      "sequenceNumber": 23,
+      "printedNumber": "023",
+      "uuid": 68444724,
+      "prices": []
+    },
+    {
+      "id": 23792,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Dark Patch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Attach a basic Darkness Energy card from your discard pile to 1 of your Benched Darkness Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/d4/58/75/d45875664a245764b638bde915b00de156a5223215dcaf25d807184ca23ec890.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44335",
+      "sequenceNumber": 24,
+      "printedNumber": "024",
+      "uuid": 11540942,
+      "prices": []
+    },
+    {
+      "id": 23793,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Earthen Vessel",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "You can use this card only if you discard another card from your hand.\\nSearch your deck for up to 2 Basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Ancient Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "AYUMI ODASHIMA",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/0f/8c/25/0f8c25ec0fba09ae7c4dcff44b5e17686949ea608f5627009b91918ab98d3589.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44336",
+      "sequenceNumber": 25,
+      "printedNumber": "025",
+      "uuid": 78808469,
+      "prices": []
+    },
+    {
+      "id": 23794,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Trekking Shoes",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "\"Look at the top card of your deck. You may put that card into your hand. If you dont, discard that card and draw a card.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/67/40/a2/6740a2a40cbbd68906a7f1c7423e0754576336fe54eb463cfc402d5e05f0328f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44337",
+      "sequenceNumber": 26,
+      "printedNumber": "026",
+      "uuid": 39742960,
+      "prices": []
+    },
+    {
+      "id": 23795,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Nest Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/3f/78/b5/3f78b53a06f46d3fa95a896b3b746f77b2038b3d2ea83c61cd6b624e010dac4e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44338",
+      "sequenceNumber": 27,
+      "printedNumber": "027",
+      "uuid": 57017880,
+      "prices": []
+    },
+    {
+      "id": 23796,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Ultra Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "You can use this card only if you discard 2 other cards from your hand.\\nSearch your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ayaka Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/6d/8e/ed/6d8eed72eaad35367531371fd76a326459ce88d89323428b3618d4704b3b8e6c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44339",
+      "sequenceNumber": 28,
+      "printedNumber": "028",
+      "uuid": 88415594,
+      "prices": []
+    },
+    {
+      "id": 23797,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Hisuian Heavy Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "\"Look at your face-down Prize cards. You may reveal a Basic Pokémon you find there, put it into your hand, and put this Hisuian Heavy Ball in its place as a face-down Prize card. (If you dont reveal a Basic Pokémon, put this card in the discard pile.) Then, shuffle your face-down Prize cards.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Studio Bora Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/fa/58/9e/fa589e256f3c1fc5a86b1cece07a33a4d8f1ec8143ceaf6a5c86f65243f22b2c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44340",
+      "sequenceNumber": 29,
+      "printedNumber": "029",
+      "uuid": 99205083,
+      "prices": []
+    },
+    {
+      "id": 23798,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Rare Candy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "\"Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it, skipping the Stage 1. You cant use this card during your first turn or on a Basic Pokémon that was put into play this turn.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Studio Bora Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/20/db/51/20db51919b6cd21757f38f8cef6b1ae4260ac651e0b7d84e85de1faa3533670e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44341",
+      "sequenceNumber": 30,
+      "printedNumber": "030",
+      "uuid": 38534322,
+      "prices": []
+    },
+    {
+      "id": 23799,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Switch your Active Pokémon with 1 of your Benched Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Studio Bora Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/46/5b/fa/465bfa37f08a6a71eb9444f6d7d9091c69bc0c3a09a5ed1c9a9b1f5f379d56b1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44342",
+      "sequenceNumber": 31,
+      "printedNumber": "031",
+      "uuid": 7122672,
+      "prices": []
+    },
+    {
+      "id": 23800,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Master Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"You cant have more than 1 ACE SPEC card in your deck.\", You may play any number of Item cards during your turn.",
+        "Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "ACE SPEC Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Studio Bora Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/5e/7e/6a/5e7e6a32a65d52a1a33692f13c399b9dba6d23384e5213a3d750cbce7262ea52.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44343",
+      "sequenceNumber": 32,
+      "printedNumber": "032",
+      "uuid": 85442211,
+      "prices": []
+    },
+    {
+      "id": 23801,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Lost Vacuum",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "You can use this card only if you put another card from your hand in the Lost Zone.\\nChoose a Pokémon Tool attached to any Pokémon, or any Stadium in play, and put it in the Lost Zone."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/1f/a8/e7/1fa8e750f9bda401ae92b298ba51b4cba0a31cba48e9693849dc8ac07f745755.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44344",
+      "sequenceNumber": 33,
+      "printedNumber": "033",
+      "uuid": 93081776,
+      "prices": []
+    },
+    {
+      "id": 23802,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Rigid Band",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached.",
+        "\"The Stage 1 Pokémon this card is attached to takes 30 less damage from attacks from your opponents Pokémon (after applying Weakness and Resistance).\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Tool"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/8e/81/57/8e8157fa95c5a0a8644e5dd483ada7aae031aac1a14392d7b9145a9fc4bb7c95.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44345",
+      "sequenceNumber": 34,
+      "printedNumber": "034",
+      "uuid": 68019714,
+      "prices": []
+    },
+    {
+      "id": 23803,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Ancient Booster Energy Capsule",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached.",
+        "\"The Ancient Pokémon this card is attached to gets +60 HP, recovers from all Special Conditions, and cant be affected by any Special Conditions.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Tool",
+        "Ancient Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/91/27/b9/9127b965b104b44bcbb02fc1e75e5af5f8ba82c268204da36da9fe1eddd7af40.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44346",
+      "sequenceNumber": 35,
+      "printedNumber": "035",
+      "uuid": 24439225,
+      "prices": []
+    },
+    {
+      "id": 23804,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Forest Seal Stone",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [
+        {
+          "name": "Star Alchemy",
+          "text": "During your turn, you may search your deck for a card and put it into your hand. Then, shuffle your deck. (You can't use more than 1 VSTAR Power in a game.)",
+          "type": "Ability"
+        }
+      ],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached.\", You may play any number of Item cards during your turn.",
+        "The Pokémon V this card is attached to can use the VSTAR Power on this card."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "AYUMI ODASHIMA",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/d6/f0/91/d6f0911406f8dda08b9b7c0ef27e70517a23b4c4ac1c2a1887434108eb3b27e7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44347",
+      "sequenceNumber": 36,
+      "printedNumber": "036",
+      "uuid": 80018324,
+      "prices": []
+    },
+    {
+      "id": 23805,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Bravery Charm",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached.",
+        "The Basic Pokémon this card is attached to gets +50 HP."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Tool"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/8d/c0/12/8dc01268250050b15446d949cd03b8a04241970e00875d904783760495ddf6d0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44348",
+      "sequenceNumber": 37,
+      "printedNumber": "037",
+      "uuid": 88308015,
+      "prices": []
+    },
+    {
+      "id": 23806,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Professor Sada's Vitality",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Choose up to 2 of your Ancient Pokémon and attach a Basic Energy card from your discard pile to each of them. If you attached any Energy in this way, draw 3 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter",
+        "Ancient Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Megumi Mizutani",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/57/63/8f/57638fcbd1611796976f7aa21fdf77d25ae6e13aea609ed502197aadb85bc8fb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44349",
+      "sequenceNumber": 38,
+      "printedNumber": "038",
+      "uuid": 54798444,
+      "prices": []
+    },
+    {
+      "id": 23807,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Irida",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Search your deck for a Water Pokémon and an Item card, reveal them, and put them into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kirisAki",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/b9/4f/39/b94f39a087cb046404524e5bd39505636bfcfc916097c8c9c80d0613869ab4b9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44350",
+      "sequenceNumber": 39,
+      "printedNumber": "039",
+      "uuid": 93055735,
+      "prices": []
+    },
+    {
+      "id": 23808,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Cynthia's Ambition",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "\"Draw cards until you have 5 cards in your hand. If any of your Pokémon were Knocked Out during your opponents last turn, draw cards until you have 8 cards in your hand instead.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Megumi Mizutani",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/8c/af/19/8caf19ee4cf71dd4d2709cf3a3fd994d806465977dcaf30fa60051cb66dfb5f9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44351",
+      "sequenceNumber": 40,
+      "printedNumber": "040",
+      "uuid": 81108329,
+      "prices": []
+    },
+    {
+      "id": 23809,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Gardenia's Vigor",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Draw 2 cards. If you drew any cards in this way, attach up to 2 Grass Energy cards from your hand to 1 of your Benched Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yuu Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/0b/1d/42/0b1d42011d622f5a0de7a31ed06de426de1fb3e27432798be9bb4a10cedffe22.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44352",
+      "sequenceNumber": 41,
+      "printedNumber": "041",
+      "uuid": 22204165,
+      "prices": []
+    },
+    {
+      "id": 23810,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Iono",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Each players shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, each player draws a card for each of their remaining Prize cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sanosuke Sakuma",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/47/79/25/4779250a7b9d6ff92ca1e8a8854e6023c183cda92186e667e57ac86ac5a00d1f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44353",
+      "sequenceNumber": 42,
+      "printedNumber": "042",
+      "uuid": 27681069,
+      "prices": []
+    },
+    {
+      "id": 23811,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Nemona",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Draw 3 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sanosuke Sakuma",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/a0/bb/fd/a0bbfd8c28630891a2d0be4bb5a9bacb5e97d79c9d91c96f3c129173af84bebe.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44354",
+      "sequenceNumber": 43,
+      "printedNumber": "043",
+      "uuid": 28263112,
+      "prices": []
+    },
+    {
+      "id": 23812,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Professor's Research",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Discard your hand and draw 7 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kirisAki",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/0b/71/9f/0b719f904fbbf95a73d472243330b1b47fc2ffcf29c00abadb005175501da281.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44355",
+      "sequenceNumber": 44,
+      "printedNumber": "044",
+      "uuid": 98624152,
+      "prices": []
+    },
+    {
+      "id": 23813,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Arven",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Search your deck for an Item card and a Pokémon Tool card, reveal them, and put them into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "GIDORA",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/89/fc/47/89fc47914535f88bc0538706c69531c60dc930a3f7d1495033e13eb4de226dc8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44356",
+      "sequenceNumber": 45,
+      "printedNumber": "045",
+      "uuid": 63564831,
+      "prices": []
+    },
+    {
+      "id": 23814,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Boss's Orders",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "\"Switch in 1 of your opponents Benched Pokémon to the Active Spot.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "NC Empire",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/2d/e3/e1/2de3e1f89f2652e73d4b83feac20216fbf655cee3c642a9fb0e25c6cf8720138.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44357",
+      "sequenceNumber": 46,
+      "printedNumber": "046",
+      "uuid": 81647148,
+      "prices": []
+    },
+    {
+      "id": 23815,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Temple of Sinnoh",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"This Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you cant play this card.\", \"All Special Energy attached to Pokémon (both yours and your opponents) provide Colorless Energy and have no other effect.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Oswaldo KATO",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/2d/c0/c6/2dc0c6c7eeeef103e0e7e519eaa169ad5d8be12b421c3c62197f32eb5fa56f5e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44358",
+      "sequenceNumber": 47,
+      "printedNumber": "047",
+      "uuid": 60640598,
+      "prices": []
+    },
+    {
+      "id": 23816,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Beach Court",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name cant be played.\", \"The Retreat Cost of each Basic Pokémon in play (both yours and your opponents) is Colorless less.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Oswaldo KATO",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/b6/a1/92/b6a1929286f5a5d86e5696f26041a926d0b68f4a12b169de8b067ee9b377238a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44359",
+      "sequenceNumber": 48,
+      "printedNumber": "048",
+      "uuid": 41608710,
+      "prices": []
+    },
+    {
+      "id": 23817,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Artazon",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name cant be played.\", \"Once during each players turn, that player may search their deck for a Basic Pokémon that doesnt have a Rule Box and put it onto their Bench. Then, that player shuffles their deck. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Oswaldo KATO",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/1c/60/61/1c60611aa56d6211eb5312d6f8d954476127b3dd1651c9f4ae7990395a344265.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44360",
+      "sequenceNumber": 49,
+      "printedNumber": "049",
+      "uuid": 58854893,
+      "prices": []
+    },
+    {
+      "id": 23818,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Magma Basin",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"This Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you cant play this card.\", \"Once during each players turn, that player may attach a Fire Energy card from their discard pile to 1 of their Benched Fire Pokémon. If a player attached Energy to a Pokémon in this way, put 2 damage counters on that Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "ORBITALLINK Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/95/cc/89/95cc890705f0a813c1c6fff81d821a95c09dd091f2fb12c07b0ef4480012899f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44361",
+      "sequenceNumber": 50,
+      "printedNumber": "050",
+      "uuid": 87561082,
+      "prices": []
+    },
+    {
+      "id": 23819,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Double Turbo Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"As long as this card is attached to a Pokémon, it provides ColorlessColorless Energy.\\nThe attacks of the Pokémon this card is attached to do 20 less damage to your opponents Pokémon (before applying Weakness and Resistance).\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/c4/fb/23/c4fb238d2d8ea8909ca1d3294740f4a27eeb9dffb8ac3fd5b7d06f9d1fab5c11.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44362",
+      "sequenceNumber": 51,
+      "printedNumber": "051",
+      "uuid": 91045889,
+      "prices": []
+    },
+    {
+      "id": 23820,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Reversal Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"As long as this card is attached to a Pokémon, it provides Colorless Energy.\\nIf you have more Prize cards remaining than your opponent, and if this card is attached to an Evolution Pokémon that doesnt have a Rule Box (Pokémon ex, Pokémon V, etc. have Rule Boxes), this card provides every type of Energy but provides only 3 Energy at a time.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/bd/cb/11/bdcb11aa5d94130b16b137774927fa31a3ef8e18be0cd1f3b869a0980220e2e2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44363",
+      "sequenceNumber": 52,
+      "printedNumber": "052",
+      "uuid": 37472845,
+      "prices": []
+    },
+    {
+      "id": 23821,
+      "setData": {
+        "name": "Ancient Koraidon ex Starter Deck & Build Set",
+        "printed_count": "053",
+        "card_count": 53,
+        "year": "2024",
+        "image_url": "https://static.tcgcollector.com/content/content/images/ec/fc/31/ecfc311e351955499389dae1d2c43a4ec43fe614a19d794b611df430cc779912.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ancient-koraidon-ex-starter-deck-and-build-set"
+      },
+      "name": "Luminous Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "As long as this card is attached to a Pokémon, it provides every type of Energy but provides only 1 Energy at a time.\\nIf the Pokémon this card is attached to has any other Special Energy attached, this card provides Colorless Energy instead."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/37/81/e9/3781e9ebfd315136d8bde2033212b5614c9ca909a724a3f912f7be45be428300.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/44364",
+      "sequenceNumber": 53,
+      "printedNumber": "053",
+      "uuid": 20184023,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 53,
+  "totalCount": 53
+}

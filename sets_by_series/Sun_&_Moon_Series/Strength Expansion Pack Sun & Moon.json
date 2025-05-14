@@ -1,0 +1,4908 @@
+{
+  "data": [
+    {
+      "id": 8973,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Rowlet",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Leafage",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Megumi Mizutani",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8a/a1/f2/8aa1f20e60749c3683a911b08689786d6819280d293743fd2b5acb9067a86757.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22180",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 77465227,
+      "prices": []
+    },
+    {
+      "id": 8974,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Dartrix",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Rowlet",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sharp Blade Quill",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "This attack does 20 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Leaf Blade",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mizue",
+      "imageUrl": "https://static.tcgcollector.com/content/images/45/9e/f8/459ef86deff19d78200af197bbe707e61c3bd76c09d13c30e4e3434228e8a1dd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22181",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 93522184,
+      "prices": []
+    },
+    {
+      "id": 8975,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Decidueye-GX",
+      "types": [
+        "Grass"
+      ],
+      "hp": 240,
+      "evolvesFrom": "Dartrix",
+      "effect": [
+        {
+          "name": "Feather Arrow",
+          "text": "Once during your turn (before your attack), you may put 2 damage counters on 1 of your opponent's Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Razor Leaf",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90"
+        },
+        {
+          "name": "Hollow Hunt-GX",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Put 3 cards from your discard pile into your hand. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 2"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/83/f5/bf/83f5bf5b412a053a76d158069b2c9614bb1b0e60bc324b96d6952dc671c45a6a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22182",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 56310773,
+      "prices": []
+    },
+    {
+      "id": 8976,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Grubbin",
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Vice Grip",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Akira Komayama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/58/90/25/5890256efa27744b98a8b81e49956bcce268391b54ddb6a92464448f32fa7b60.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22183",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 35212743,
+      "prices": []
+    },
+    {
+      "id": 8977,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Fomantis",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Synthesis",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for a Grass Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck."
+        },
+        {
+          "name": "Leafage",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9a/00/9b/9a009b94fd727c7f15fd5095bb1eccb16ed4d4939e797e9e575f6df75a45117f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22184",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 54532125,
+      "prices": []
+    },
+    {
+      "id": 8978,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Lurantis",
+      "types": [
+        "Grass"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Fomantis",
+      "effect": [
+        {
+          "name": "Sunny Day",
+          "text": "Each of your Grass Pokémon's and Fire Pokémon's attacks does 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Solar Beam",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/97/c3/51/97c351354af3ba157b682d8b9fcebbcce8850bf81766e7234f57a9e94c8f4827.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22185",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 84501070,
+      "prices": []
+    },
+    {
+      "id": 8979,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Litten",
+      "types": [
+        "Fire"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bite",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Flare",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Akira Komayama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/90/a3/b5/90a3b5692e871b16de4588d0d5b4c63ec0d737f7f1ad18aecc582c66b6c1c197.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22186",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 54518961,
+      "prices": []
+    },
+    {
+      "id": 8980,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Torracat",
+      "types": [
+        "Fire"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Litten",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20×",
+          "text": "Flip 3 coins. This attack does 20 damage for each heads."
+        },
+        {
+          "name": "Flamethrower",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "Discard an Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "TOKIYA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b7/f5/2c/b7f52c2ed151bc0bb4d19f7471dceb779e34872b0fea893f8ba2461e9424cc04.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22187",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 19372353,
+      "prices": []
+    },
+    {
+      "id": 8981,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Incineroar-GX",
+      "types": [
+        "Fire"
+      ],
+      "hp": 250,
+      "evolvesFrom": "Torracat",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hustling Strike",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "This attack does 20 more damage for each of your Benched Fire Pokémon."
+        },
+        {
+          "name": "Tiger Swing",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80+",
+          "text": "Flip 2 coins. This attack does 50 more damage for each heads."
+        },
+        {
+          "name": "Burning Slam-GX",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "200",
+          "text": "Your opponent's Active Pokémon is now Burned. (You can't use more than 1 GX attack per game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 2"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/08/fa/bc/08fabc56cb821b5df85f65c6b2268519efa8bdeb70d2baf4ccf1f3ef1b5d2017.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22188",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 72729314,
+      "prices": []
+    },
+    {
+      "id": 8982,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Oricorio",
+      "types": [
+        "Fire"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Passionate Dance",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 3 Basic Fire Pokémon and put them onto your Bench. Then, shuffle your deck."
+        },
+        {
+          "name": "Kindle",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Discard an Energy from this Pokémon. If you do, discard an Energy from your opponent's Active Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/01/2c/67/012c674e494d4d116443d40876bd48d0612434ab252daa4e469088e1d238a57d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22189",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 40982767,
+      "prices": []
+    },
+    {
+      "id": 8983,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Poliwag",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Hydro Pump",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30+",
+          "text": "This attack does 10 more damage times the amount of Water Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Asako Ito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fb/b8/35/fbb835dbff975a230a874bd09f202ba3b5103789904a4d3c78bd167dafef207a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22190",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 56215305,
+      "prices": []
+    },
+    {
+      "id": 8984,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Poliwhirl",
+      "types": [
+        "Water"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Poliwag",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Double Slap",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30×",
+          "text": "Flip 2 coins. This attack does 30 damage for each heads."
+        },
+        {
+          "name": "Wave Splash",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5f/67/55/5f6755c9b986d69e378caac8b724a016c3944564355301181355803780778fed.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22191",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 22377957,
+      "prices": []
+    },
+    {
+      "id": 8985,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Politoed",
+      "types": [
+        "Water"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Poliwhirl",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Roll Call",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for a Poliwag, a Poliwhirl, and a Poliwrath, and put them onto your Bench. Then, shuffle your deck."
+        },
+        {
+          "name": "Hyper Jump",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100",
+          "text": "You may shuffle this Pokémon and all cards attached to it into your deck."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Saya Tsuruta",
+      "imageUrl": "https://static.tcgcollector.com/content/images/35/bc/ff/35bcff7155db935275293eccd289ce7774f37262dfea29931232f002456c2bab.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22192",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 29865062,
+      "prices": [
+        {
+          "priceAmount": 752,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "05/15/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-strength-expansion-pack-sun-&-moon/politoed-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "05/15/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-strength-expansion-pack-sun-&-moon/politoed-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        }
+      ]
+    },
+    {
+      "id": 8986,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Popplio",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Pound",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Water Gun",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3d/e0/7e/3de07e6a299af0c4b2f9fe93793ffc5220682b3714ee131b0423f84eacb9ed6d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22193",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 23251739,
+      "prices": []
+    },
+    {
+      "id": 8987,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Brionne",
+      "types": [
+        "Water"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Popplio",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Wave Splash",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        },
+        {
+          "name": "Disarming Voice",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Saya Tsuruta",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3c/75/e1/3c75e164cb9fe7c07e4ec5a5776b9d2e7806b6cab08885f3da621d7aca213d20.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22194",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 68117216,
+      "prices": []
+    },
+    {
+      "id": 8988,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Primarina-GX",
+      "types": [
+        "Water"
+      ],
+      "hp": 250,
+      "evolvesFrom": "Brionne",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bubble Beat",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "This attack does 20 more damage times the amount of Water Energy attached to your Pokémon."
+        },
+        {
+          "name": "Roaring Seas",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120",
+          "text": "Discard an Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Grand Echo-GX",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Heal all damage from all of your Pokémon. (You can't use more than 1 GX attack per game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 2"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ff/95/9f/ff959fe4e54f53368e24fd500ac29938e267bb6537009b7d99cb8b97665b34b8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22195",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 51523676,
+      "prices": []
+    },
+    {
+      "id": 8989,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Dewpider",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bubble",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4b/88/61/4b8861e9cdf7f0ff4d2f19ac195bbbf73cb64a97002fdbe8f745277fe7394f4d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22196",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 42733336,
+      "prices": []
+    },
+    {
+      "id": 8990,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Araquanid",
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Dewpider",
+      "effect": [
+        {
+          "name": "Water Bubble",
+          "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Fire Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Aqua Edge",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "match",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0c/bd/4b/0cbd4ba39c01585c4ef1f538f7a75f75ac64c6b712e1d332960b41f62f76a2c7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22197",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 54703740,
+      "prices": []
+    },
+    {
+      "id": 8991,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Pyukumuku",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Innards Out",
+          "text": "If this Pokémon is your Active Pokémon and is Knocked Out by damage from an opponent's attack, put 6 damage counters on the Attacking Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Continuous Tumble",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30×",
+          "text": "Flip a coin until you get tails. This attack does 30 damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "You Iribi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ef/bd/26/efbd262a35bdaebbf995b6d92b9c40f1af2cde5f69e471ecdc4fba93b1d3a26a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22198",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 59320239,
+      "prices": []
+    },
+    {
+      "id": 8992,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Charjabug",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Grubbin",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Shocking Jaws",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Electric Ball",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoki Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e0/07/d8/e007d863281848048f070be5b13fb6ad60418fa3daf1d9f320abf8fd4c95d400.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22199",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 67610560,
+      "prices": []
+    },
+    {
+      "id": 8993,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Vikavolt-GX",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 240,
+      "evolvesFrom": "Charjabug",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Charge Beam",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "50",
+          "text": "Attach an Energy card from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Super Zap Cannon",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "180",
+          "text": "Discard 2 Energy from this Pokémon."
+        },
+        {
+          "name": "Gigatron-GX",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "text": "This attack does 60 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 2"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/20/de/8e/20de8ee58b3dee7d5fef2c750d62a952a9a5eb5a72caa61eefb8d70f07227f8f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22200",
+      "sequenceNumber": 21,
+      "printedNumber": "21",
+      "uuid": 10644363,
+      "prices": []
+    },
+    {
+      "id": 8994,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Oricorio",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Feather Dance",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "During your next turn, this Pokémon's Pom-Pom Punch attack's base damage is 100."
+        },
+        {
+          "name": "Pom-Pom Punch",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoki Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d7/0b/b1/d70bb1209554c3c0c3031e8b84aef091b4d812c6d45ec5581a3e878a808e0962.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22201",
+      "sequenceNumber": 22,
+      "printedNumber": "22",
+      "uuid": 18460654,
+      "prices": []
+    },
+    {
+      "id": 8995,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Oricorio",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Vital Dance",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for up to 2 basic Energy cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Casual Slap",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9b/d5/9b/9bd59bd07a06eb8297f30cc32730a3d899c002aa4302835d3ba6d09db0bc0e40.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22202",
+      "sequenceNumber": 23,
+      "printedNumber": "23",
+      "uuid": 40078985,
+      "prices": []
+    },
+    {
+      "id": 8996,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Oricorio",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Supernatural Dance",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "For each Pokémon in your opponent's discard pile, but 1 damage counter on your opponent's Pokémon in any way you like."
+        },
+        {
+          "name": "Revelation Dance",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "If there is no Stadium card in play, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "TOKIYA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/eb/f8/67/ebf867dd35cd24e74268ed9b82d9fe34b1fbd6a08b4696929ae1d9fda8f45bbf.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22203",
+      "sequenceNumber": 24,
+      "printedNumber": "24",
+      "uuid": 47660089,
+      "prices": []
+    },
+    {
+      "id": 8997,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Mareanie",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Poison Sting",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "match",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e3/c8/dd/e3c8ddf48f7e8e6176a76e9030e8f6a6c8e2bf81d5372369ba3a3b3bd3718337.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22204",
+      "sequenceNumber": 25,
+      "printedNumber": "25",
+      "uuid": 97833388,
+      "prices": []
+    },
+    {
+      "id": 8998,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Toxapex-GX",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 210,
+      "evolvesFrom": "Mareanie",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Spike Cannon",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30×",
+          "text": "Flip 4 coins. This attack does 30 damage for each heads."
+        },
+        {
+          "name": "Super Intense Poison",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Your opponent's Active Pokémon is now Poisoned. Put 10 damage counters instead of 1 on that Pokémon between turns."
+        },
+        {
+          "name": "Total Shelter-GX",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "150",
+          "text": "Prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 1"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fa/06/70/fa06700ff291c6947d80d414d302f23c120792ba74ac984134ba4e0772744001.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22205",
+      "sequenceNumber": 26,
+      "printedNumber": "26",
+      "uuid": 57686514,
+      "prices": []
+    },
+    {
+      "id": 8999,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Cosmog",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dust Gathering",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Draw a card."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Megumi Mizutani",
+      "imageUrl": "https://static.tcgcollector.com/content/images/da/b6/5b/dab65bab36e9d92e5fcb088aa18772b6de7eb9e0f5765db663b2076edf2b4ec6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22206",
+      "sequenceNumber": 27,
+      "printedNumber": "27",
+      "uuid": 74023758,
+      "prices": []
+    },
+    {
+      "id": 9000,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Cosmoem",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Cosmog",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Teleport",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sanosuke Sakuma",
+      "imageUrl": "https://static.tcgcollector.com/content/images/32/cc/0c/32cc0c964f5831fc6e892d47b2f2af4297c836f63c548c33891521426e924885.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22207",
+      "sequenceNumber": 28,
+      "printedNumber": "28",
+      "uuid": 48579593,
+      "prices": []
+    },
+    {
+      "id": 9001,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Lunala",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 160,
+      "evolvesFrom": "Cosmoem",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Shatter Shot",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "40×",
+          "text": "This attack does 40 damage times the amount of Psychic Energy attached to this Pokémon."
+        },
+        {
+          "name": "Wings of the Moone",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "130",
+          "text": "Move all Energy from this Pokémon to your Benched Pokémon in any way you like."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cf/6b/8e/cf6b8eff1fe9b73a8a5c56be1c9630b3a66c215cf8c07f17271191091fb22351.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22208",
+      "sequenceNumber": 29,
+      "printedNumber": "29",
+      "uuid": 88934321,
+      "prices": []
+    },
+    {
+      "id": 9002,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Sudowoodo",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 100,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Roadblock",
+          "text": "Your opponent can't have more than 4 Benched Pokémon. If they have 5 or more Benched Pokémon, they discard Benched Pokémon until they have 4 Pokémon on the Bench. If more than one effect changes the number of Benched Pokémon allowed, use the smaller number.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Rock Throw",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hajime Kusajima",
+      "imageUrl": "https://static.tcgcollector.com/content/images/37/0c/54/370c5436067e05612671e77c9525527a540426963356dcdb5ccb234027530ab0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22209",
+      "sequenceNumber": 30,
+      "printedNumber": "30",
+      "uuid": 29608108,
+      "prices": []
+    },
+    {
+      "id": 9003,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Mudbray",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Double Kick",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30×",
+          "text": "Flip 2 coins. This attack does 30 damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4e/ae/e8/4eaee8e0ec996e0f6098112ccc8a1513e64f62e2c6ee283a05b70770be2a0430.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22210",
+      "sequenceNumber": 31,
+      "printedNumber": "31",
+      "uuid": 38964739,
+      "prices": []
+    },
+    {
+      "id": 9004,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Mudsdale",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Mudbray",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Enhanced Stomp",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60+",
+          "text": "If this Pokémon has a Pokémon Tool card attached to it, this attack does 60 more damage."
+        },
+        {
+          "name": "High Horsepower",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "180",
+          "text": "This Pokémon does 40 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c9/d7/68/c9d7687dfc3cba922a3f8d713bdfab26e9fa98a1951c584ff84fcb3d117697cc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22211",
+      "sequenceNumber": 32,
+      "printedNumber": "32",
+      "uuid": 31626554,
+      "prices": []
+    },
+    {
+      "id": 9005,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Passimian",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 110,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fling",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Team Play",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "This attack does 30 more damage for each of your Benched Passimian."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoki Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/20/a8/cf/20a8cf61d1ccae432cba2d6480bdc77f87a376abfee1501c0b3e6ecbc035234b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22212",
+      "sequenceNumber": 33,
+      "printedNumber": "33",
+      "uuid": 67268360,
+      "prices": []
+    },
+    {
+      "id": 9006,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Sandygast",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Shore Up",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Attach a Fighting Energy card from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Sand Tomb",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Akira Komayama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/81/70/d8/8170d87d20562b3c1a4bab34913d70b535c8a67c56c0d2c330bf1bd50fedf8bb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22213",
+      "sequenceNumber": 34,
+      "printedNumber": "34",
+      "uuid": 59079937,
+      "prices": []
+    },
+    {
+      "id": 9007,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Palossand",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Sandygast",
+      "effect": [
+        {
+          "name": "Wall of Sand",
+          "text": "This Pokémon takes 20 less damage from attacks (after applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Absorb Vitality",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "50",
+          "text": "Heal from this Pokémon the same amount of damage you did to your opponent's Active Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a4/68/97/a4689770d8f9500806880b95413c8adb2fb8072db9483278fd0be222fb12ef61.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22214",
+      "sequenceNumber": 35,
+      "printedNumber": "35",
+      "uuid": 83013824,
+      "prices": []
+    },
+    {
+      "id": 9008,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Alolan Rattata",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "cost": [],
+          "convertedEnergyCost": 0,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Alolan",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a4/3a/8b/a43a8b6b4eedefc80bea365119a8b7a83446f3f3b527ccb492953c030b903fe9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22215",
+      "sequenceNumber": 36,
+      "printedNumber": "36",
+      "uuid": 39879014,
+      "prices": []
+    },
+    {
+      "id": 9009,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Alolan Raticate",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Alolan Rattata",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Evil Orders",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Search your deck for a number of cards up to the number of your Benched Pokémon and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Endeavor",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60+",
+          "text": "Flip 2 coins. This attack does 30 more damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Alolan",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "match",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f6/91/15/f69115cc6fbe941ac83e02439f1644f50d0481443de998471aa4db27721f609b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22216",
+      "sequenceNumber": 37,
+      "printedNumber": "37",
+      "uuid": 4969690,
+      "prices": []
+    },
+    {
+      "id": 9010,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Absol",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 100,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Future Sight",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Look at the top 4 cards of either player's deck and put them back in any order."
+        },
+        {
+          "name": "Doom News",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Put all Energy attached to this Pokémon into your hand. At the end of your opponent's next turn, the Defending Pokémon will be Knocked Out."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Anesaki Dynamic",
+      "imageUrl": "https://static.tcgcollector.com/content/images/12/dd/0c/12dd0c6d6c47ff1cdf3dfaba7555bd643971df1bd82e39c30f9217a4cd1acdac.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22217",
+      "sequenceNumber": 38,
+      "printedNumber": "38",
+      "uuid": 73986575,
+      "prices": [
+        {
+          "priceAmount": 1850,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "05/15/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-strength-expansion-pack-sun-&-moon/absol-38",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        }
+      ]
+    },
+    {
+      "id": 9011,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Solgaleo",
+      "types": [
+        "Metal"
+      ],
+      "hp": 160,
+      "evolvesFrom": "Cosmoem",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Shining Arrow",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Fangs of the Sunne",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "170",
+          "text": "This Pokémon can't use Fangs of the Sunne during your next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/df/60/0c/df600c13dd179db127534d8a15c0af86304d81c41bfbe3a3b72126b93b6c205f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22218",
+      "sequenceNumber": 39,
+      "printedNumber": "39",
+      "uuid": 3821804,
+      "prices": []
+    },
+    {
+      "id": 9012,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Sylveon-GX",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Eevee",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Magical Ribbon",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 3 cards and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Fairy Wind",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "110"
+        },
+        {
+          "name": "Plea-GX",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Put 2 of your opponent's Benched Pokémon and all cards attached to them into your opponent's hand. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 1"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8d/99/34/8d99343213f1b9bdd091477732a5477c50305658fdeef0f7e8c9076202465b17.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22219",
+      "sequenceNumber": 40,
+      "printedNumber": "40",
+      "uuid": 29970281,
+      "prices": [
+        {
+          "priceAmount": 2500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "05/15/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-strength-expansion-pack-sun-&-moon/sylveon-gx-40",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        }
+      ]
+    },
+    {
+      "id": 9013,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Eevee",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Energy Evolution",
+          "text": "When you attach a basic Energy card from your hand to this Pokémon during your turn, you may search your deck for a card that evolves from this Pokémon that is the same type as that Energy card and put it onto this Pokémon to evolve it. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Quick Draw",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, draw a card."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shibuzoh.",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f4/27/a2/f427a22d8d1f3bb9a147424f7bc4a4860b48fc61e5cbe3738c585b42b5fbaf81.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22220",
+      "sequenceNumber": 41,
+      "printedNumber": "41",
+      "uuid": 42169180,
+      "prices": [
+        {
+          "priceAmount": 2549,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "05/15/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-strength-expansion-pack-sun-&-moon/eevee-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        }
+      ]
+    },
+    {
+      "id": 9014,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Drampa-GX",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Righteous Edge",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Discard a Special Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Berserk",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80+",
+          "text": "If your Benched Pokémon have any damage counters on them, this attack does 70 more damage."
+        },
+        {
+          "name": "Big Wheel-GX",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Shuffle your hand into your deck. Then, draw 10 cards. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2c/23/f6/2c23f6b44f12982828e4d83e975c996f5fcc00174056c5893630c7c9587154b0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22221",
+      "sequenceNumber": 42,
+      "printedNumber": "42",
+      "uuid": 46053190,
+      "prices": []
+    },
+    {
+      "id": 9015,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Energy Recycler",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Shuffle 5 basic Energy cards from your discard pile into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1d/25/30/1d253094b733cf09672aebfb55283e4c7c31d817120aa9cad728196db308bb5d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22222",
+      "sequenceNumber": 43,
+      "printedNumber": "43",
+      "uuid": 79457069,
+      "prices": []
+    },
+    {
+      "id": 9016,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Enhanced Hammer",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Discard a Special Energy attached to 1 of your opponents Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yoshinobu Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7f/71/50/7f715042cf0b11bccfbe50d46537268d3282c40f34686d93f9f6d2e6f9187f2e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22223",
+      "sequenceNumber": 44,
+      "printedNumber": "44",
+      "uuid": 59062005,
+      "prices": []
+    },
+    {
+      "id": 9017,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Ultra Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Discard 2 cards from your hand. (If you cant discard 2 cards, you cant play this card.) Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5d/52/0c/5d520c507a7b6ea82d2e013e9c8e2c97423994e53adaed550d6c822e647baf9f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22224",
+      "sequenceNumber": 45,
+      "printedNumber": "45",
+      "uuid": 1335027,
+      "prices": []
+    },
+    {
+      "id": 9018,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Rare Candy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card that evolves from that Pokémon in your hand, put that card on the Basic Pokémon. (This counts as evolving that Pokémon.) You cant use this card during your first turn or on a Basic Pokémon that was put into play this turn.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/13/af/82/13af82ef149483a9355267312f0fcecd8ca92b2a4504ae90da667728cd9df9a6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22225",
+      "sequenceNumber": 46,
+      "printedNumber": "46",
+      "uuid": 36905230,
+      "prices": []
+    },
+    {
+      "id": 9019,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Multi Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Move an Energy from 1 of your Benched Pokémon to your Active Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/25/21/59/252159f7cdc32db2048576b5949e990e4c3470a1e33c415cf430e5f0e7e06ab0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22226",
+      "sequenceNumber": 47,
+      "printedNumber": "47",
+      "uuid": 21310291,
+      "prices": []
+    },
+    {
+      "id": 9020,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Max Potion",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Heal all damage from 1 of your Pokémon. If you do, discard all Energy attached to that Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c6/bc/6e/c6bc6ef99ab56da74840e156032e552cf997e7935110fea2e53db025033068c7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22227",
+      "sequenceNumber": 48,
+      "printedNumber": "48",
+      "uuid": 94734736,
+      "prices": []
+    },
+    {
+      "id": 9021,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Choice Band",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "\"The attacks of the Pokémon this card is attached to do 30 more damage to your opponents Active Pokémon-GX or Active Pokémon-EX (before applying Weakness and Resistance).\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Eske Yoshinob",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1b/5c/ee/1b5cee877b0c60f9b5f48cbbf121d3b1f3753acc80e2514b06b2b13370f8a12a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22228",
+      "sequenceNumber": 49,
+      "printedNumber": "49",
+      "uuid": 75932820,
+      "prices": []
+    },
+    {
+      "id": 9022,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Altar of the Moone",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you cant play this card.\", \"The Retreat Cost of each Pokémon (both yours and your opponents) that has any Psychic or Darkness Energy attached to it is Colorless Colorless less.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d8/cc/cf/d8cccf06c05c247cd00936106cddc2d17af09e13ba0dda3bbe229f309d142f74.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22229",
+      "sequenceNumber": 50,
+      "printedNumber": "50",
+      "uuid": 83402722,
+      "prices": []
+    },
+    {
+      "id": 9023,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Altar of the Sunne",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you cant play this card.\", \"Fire Pokémon and Metal Pokémon (both yours and your opponents) have no Weakness.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cb/6f/dc/cb6fdcddf591f4dd563f9a2e420059fc6707c7e6d09815d06fd8e30812abca74.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22230",
+      "sequenceNumber": 51,
+      "printedNumber": "51",
+      "uuid": 14023867,
+      "prices": []
+    },
+    {
+      "id": 9024,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Decidueye-GX",
+      "types": [
+        "Grass"
+      ],
+      "hp": 240,
+      "evolvesFrom": "Dartrix",
+      "effect": [
+        {
+          "name": "Feather Arrow",
+          "text": "Once during your turn (before your attack), you may put 2 damage counters on 1 of your opponent's Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Razor Leaf",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90"
+        },
+        {
+          "name": "Hollow Hunt-GX",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Put 3 cards from your discard pile into your hand. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 2"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/00/8f/8c/008f8c1781edfe640a53bf512e0dcee01074dbc8882c6cad38c16d418fac23c3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22231",
+      "sequenceNumber": 52,
+      "printedNumber": "52",
+      "uuid": 99858519,
+      "prices": []
+    },
+    {
+      "id": 9025,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Incineroar-GX",
+      "types": [
+        "Fire"
+      ],
+      "hp": 250,
+      "evolvesFrom": "Torracat",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hustling Strike",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "This attack does 20 more damage for each of your Benched Fire Pokémon."
+        },
+        {
+          "name": "Tiger Swing",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80+",
+          "text": "Flip 2 coins. This attack does 50 more damage for each heads."
+        },
+        {
+          "name": "Burning Slam-GX",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "200",
+          "text": "Your opponent's Active Pokémon is now Burned. (You can't use more than 1 GX attack per game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 2"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e3/f8/3f/e3f83f92a45e65a9222c2739330a2940ce2e279252617fa51c65dff66fb3f7c1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22232",
+      "sequenceNumber": 53,
+      "printedNumber": "53",
+      "uuid": 33193862,
+      "prices": []
+    },
+    {
+      "id": 9026,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Primarina-GX",
+      "types": [
+        "Water"
+      ],
+      "hp": 250,
+      "evolvesFrom": "Brionne",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bubble Beat",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "This attack does 20 more damage times the amount of Water Energy attached to your Pokémon."
+        },
+        {
+          "name": "Roaring Seas",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120",
+          "text": "Discard an Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Grand Echo-GX",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Heal all damage from all of your Pokémon. (You can't use more than 1 GX attack per game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 2"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/12/1c/8c/121c8cd255114e4fa1bd9a96919077f6479f9a963f1c8672c1642e89d9a1fc8d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22233",
+      "sequenceNumber": 54,
+      "printedNumber": "54",
+      "uuid": 15108397,
+      "prices": []
+    },
+    {
+      "id": 9027,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Vikavolt-GX",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 240,
+      "evolvesFrom": "Charjabug",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Charge Beam",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "50",
+          "text": "Attach an Energy card from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Super Zap Cannon",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "180",
+          "text": "Discard 2 Energy from this Pokémon."
+        },
+        {
+          "name": "Gigatron-GX",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "text": "This attack does 60 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 2"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/de/56/3a/de563a257f084d5fe511badf14c606a504308700d53f1e874bcd7f8da29f75f0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22234",
+      "sequenceNumber": 55,
+      "printedNumber": "55",
+      "uuid": 19554042,
+      "prices": []
+    },
+    {
+      "id": 9028,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Toxapex-GX",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 210,
+      "evolvesFrom": "Mareanie",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Spike Cannon",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30×",
+          "text": "Flip 4 coins. This attack does 30 damage for each heads."
+        },
+        {
+          "name": "Super Intense Poison",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Your opponent's Active Pokémon is now Poisoned. Put 10 damage counters instead of 1 on that Pokémon between turns."
+        },
+        {
+          "name": "Total Shelter-GX",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "150",
+          "text": "Prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 1"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ec/ed/1e/eced1ea0f50737cbe91daa5225dbdb0d576ad51eb2e86751b00c614300d3d596.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22235",
+      "sequenceNumber": 56,
+      "printedNumber": "56",
+      "uuid": 55750665,
+      "prices": []
+    },
+    {
+      "id": 9029,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Sylveon-GX",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Eevee",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Magical Ribbon",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 3 cards and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Fairy Wind",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "110"
+        },
+        {
+          "name": "Plea-GX",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Put 2 of your opponent's Benched Pokémon and all cards attached to them into your opponent's hand. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 1"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/27/cf/bd/27cfbd6c6f87e74c0bf1284ee7c6654d7bc1d02c0e512db1447034f81afe648e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22236",
+      "sequenceNumber": 57,
+      "printedNumber": "57",
+      "uuid": 40084414,
+      "prices": []
+    },
+    {
+      "id": 9030,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Drampa-GX",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Righteous Edge",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Discard a Special Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Berserk",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80+",
+          "text": "If your Benched Pokémon have any damage counters on them, this attack does 70 more damage."
+        },
+        {
+          "name": "Big Wheel-GX",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Shuffle your hand into your deck. Then, draw 10 cards. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/70/7c/02/707c024d98bc6ec9b84763c3ea4eccdf91090fcc6fc3734048ad6eea30d6c30a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22237",
+      "sequenceNumber": 58,
+      "printedNumber": "58",
+      "uuid": 20736530,
+      "prices": []
+    },
+    {
+      "id": 9031,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Decidueye-GX",
+      "types": [
+        "Grass"
+      ],
+      "hp": 240,
+      "evolvesFrom": "Dartrix",
+      "effect": [
+        {
+          "name": "Feather Arrow",
+          "text": "Once during your turn (before your attack), you may put 2 damage counters on 1 of your opponent's Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Razor Leaf",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90"
+        },
+        {
+          "name": "Hollow Hunt-GX",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Put 3 cards from your discard pile into your hand. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 2"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/63/2f/b9/632fb9538a8bcb287880ec51541a5a0e72370bc3bccc4a3837cad2162552b30e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22238",
+      "sequenceNumber": 59,
+      "printedNumber": "59",
+      "uuid": 91633128,
+      "prices": []
+    },
+    {
+      "id": 9032,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Incineroar-GX",
+      "types": [
+        "Fire"
+      ],
+      "hp": 250,
+      "evolvesFrom": "Torracat",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hustling Strike",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "This attack does 20 more damage for each of your Benched Fire Pokémon."
+        },
+        {
+          "name": "Tiger Swing",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80+",
+          "text": "Flip 2 coins. This attack does 50 more damage for each heads."
+        },
+        {
+          "name": "Burning Slam-GX",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "200",
+          "text": "Your opponent's Active Pokémon is now Burned. (You can't use more than 1 GX attack per game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 2"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/44/3d/0e/443d0ea76da324887054b96e1e0abdc131462acd3dbc4bdbd76e316a7a51e9e8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22239",
+      "sequenceNumber": 60,
+      "printedNumber": "60",
+      "uuid": 51535506,
+      "prices": []
+    },
+    {
+      "id": 9033,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Primarina-GX",
+      "types": [
+        "Water"
+      ],
+      "hp": 250,
+      "evolvesFrom": "Brionne",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bubble Beat",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "This attack does 20 more damage times the amount of Water Energy attached to your Pokémon."
+        },
+        {
+          "name": "Roaring Seas",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120",
+          "text": "Discard an Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Grand Echo-GX",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Heal all damage from all of your Pokémon. (You can't use more than 1 GX attack per game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 2"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9c/15/3c/9c153c9e47cb31da9df1d56d920b38ef97db75bb78aa85e0910a8aa8c38267b0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22240",
+      "sequenceNumber": 61,
+      "printedNumber": "61",
+      "uuid": 5094119,
+      "prices": []
+    },
+    {
+      "id": 9034,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Vikavolt-GX",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 240,
+      "evolvesFrom": "Charjabug",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Charge Beam",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "50",
+          "text": "Attach an Energy card from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Super Zap Cannon",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "180",
+          "text": "Discard 2 Energy from this Pokémon."
+        },
+        {
+          "name": "Gigatron-GX",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "text": "This attack does 60 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 2"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/69/ff/96/69ff96190dd06f59901ecb36db2afd6d03a03bc88319bba91dffd1610f0846f3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22241",
+      "sequenceNumber": 62,
+      "printedNumber": "62",
+      "uuid": 53228981,
+      "prices": []
+    },
+    {
+      "id": 9035,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Toxapex-GX",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 210,
+      "evolvesFrom": "Mareanie",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Spike Cannon",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30×",
+          "text": "Flip 4 coins. This attack does 30 damage for each heads."
+        },
+        {
+          "name": "Super Intense Poison",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Your opponent's Active Pokémon is now Poisoned. Put 10 damage counters instead of 1 on that Pokémon between turns."
+        },
+        {
+          "name": "Total Shelter-GX",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "150",
+          "text": "Prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 1"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f7/eb/c2/f7ebc2ef44efe1e9748ae3813daef05f0053027be3e5886fb4dce6af33532a35.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22242",
+      "sequenceNumber": 63,
+      "printedNumber": "63",
+      "uuid": 40436108,
+      "prices": []
+    },
+    {
+      "id": 9036,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Sylveon-GX",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Eevee",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Magical Ribbon",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 3 cards and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Fairy Wind",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "110"
+        },
+        {
+          "name": "Plea-GX",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Put 2 of your opponent's Benched Pokémon and all cards attached to them into your opponent's hand. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 1"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/12/29/2c/12292c894f8c58eb80e53d5c94c0b8e0dbdbfaeece6fb21143db038bb066a187.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22243",
+      "sequenceNumber": 64,
+      "printedNumber": "64",
+      "uuid": 82877155,
+      "prices": [
+        {
+          "priceAmount": 200000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "05/15/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-strength-expansion-pack-sun-&-moon/sylveon-gx-64",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        }
+      ]
+    },
+    {
+      "id": 9037,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Drampa-GX",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Righteous Edge",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Discard a Special Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Berserk",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80+",
+          "text": "If your Benched Pokémon have any damage counters on them, this attack does 70 more damage."
+        },
+        {
+          "name": "Big Wheel-GX",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Shuffle your hand into your deck. Then, draw 10 cards. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b3/79/16/b37916ef56d94ce34c9b176937bfd326c17bdbbae02a13fb6eb497f9ae144f9b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22244",
+      "sequenceNumber": 65,
+      "printedNumber": "65",
+      "uuid": 78567212,
+      "prices": []
+    },
+    {
+      "id": 9038,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Rare Candy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card that evolves from that Pokémon in your hand, put that card on the Basic Pokémon. (This counts as evolving that Pokémon.) You cant use this card during your first turn or on a Basic Pokémon that was put into play this turn.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7c/09/cd/7c09cdfc1b226c52002c5aec145130605b5ac175b34439dc84689b00fb1acbb5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22245",
+      "sequenceNumber": 66,
+      "printedNumber": "66",
+      "uuid": 52375155,
+      "prices": []
+    },
+    {
+      "id": 9039,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Double Colorless Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Double Colorless Energy provides Colorless Colorless Energy."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d2/75/d1/d275d16e81553007ac535b183b94fcbdf36344611fe9dd3899ea9748a3acd74f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22246",
+      "sequenceNumber": 67,
+      "printedNumber": "67",
+      "uuid": 78418232,
+      "prices": []
+    },
+    {
+      "id": 9040,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Grass Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b8/54/c4/b854c49033f9c3f1733588bfd23ead09ad9cbe39a597452156d074484c3ef629.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22247",
+      "sequenceNumber": 68,
+      "printedNumber": "68",
+      "uuid": 75530429,
+      "prices": []
+    },
+    {
+      "id": 9041,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Grass Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/22248",
+      "sequenceNumber": 69,
+      "printedNumber": "69",
+      "uuid": 38864344,
+      "prices": []
+    },
+    {
+      "id": 9042,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Fire Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/22249",
+      "sequenceNumber": 70,
+      "printedNumber": "70",
+      "uuid": 4260341,
+      "prices": []
+    },
+    {
+      "id": 9043,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Psychic Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/22250",
+      "sequenceNumber": 71,
+      "printedNumber": "71",
+      "uuid": 73779025,
+      "prices": []
+    },
+    {
+      "id": 9044,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Metal Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/22251",
+      "sequenceNumber": 72,
+      "printedNumber": "72",
+      "uuid": 68151268,
+      "prices": []
+    },
+    {
+      "id": 9045,
+      "setData": {
+        "name": "Strength Expansion Pack Sun & Moon",
+        "printed_count": "73",
+        "card_count": 73,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/strength-expansion-pack-sun-and-moon"
+      },
+      "name": "Fairy Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/22252",
+      "sequenceNumber": 73,
+      "printedNumber": "73",
+      "uuid": 37404546,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 73,
+  "totalCount": 73
+}

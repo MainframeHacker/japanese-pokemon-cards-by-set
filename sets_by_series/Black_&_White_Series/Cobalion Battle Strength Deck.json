@@ -1,0 +1,899 @@
+{
+  "data": [
+    {
+      "id": 12610,
+      "setData": {
+        "name": "Cobalion Battle Strength Deck",
+        "printed_count": "16",
+        "card_count": 16,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/cobalion-battle-strength-deck"
+      },
+      "name": "Zorua",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Ram",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Rising Lunge",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3e/53/41/3e5341a4557b51787909e8c6b17db52bac5c937056bf0befa5c3f49df010eb82.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25773",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 64740238,
+      "prices": []
+    },
+    {
+      "id": 12611,
+      "setData": {
+        "name": "Cobalion Battle Strength Deck",
+        "printed_count": "16",
+        "card_count": 16,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/cobalion-battle-strength-deck"
+      },
+      "name": "Zoroark",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Zorua",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20×",
+          "text": "Flip 3 coins. This attack does 20 damage times the number of heads."
+        },
+        {
+          "name": "Night Daze",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/eb/c8/f6/ebc8f612fa451fdc873f0d19d94ee7179b6efb701e8af685b1edd89763b12133.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25774",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 83430144,
+      "prices": []
+    },
+    {
+      "id": 12612,
+      "setData": {
+        "name": "Cobalion Battle Strength Deck",
+        "printed_count": "16",
+        "card_count": 16,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/cobalion-battle-strength-deck"
+      },
+      "name": "Ferroseed",
+      "types": [
+        "Metal"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Pierce",
+          "cost": [
+            "Metal",
+            "Metal"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "MAHOU",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ee/0b/6f/ee0b6fb933b96f113c1d7f6fdb3b8c8ce58fa490177923d6dd4669195439a47b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25775",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 47583038,
+      "prices": []
+    },
+    {
+      "id": 12613,
+      "setData": {
+        "name": "Cobalion Battle Strength Deck",
+        "printed_count": "16",
+        "card_count": 16,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/cobalion-battle-strength-deck"
+      },
+      "name": "Klink",
+      "types": [
+        "Metal"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Spinning Attack",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Gear Grind",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30×",
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b8/76/1e/b8761e938bcdf6cec95d5c04b402b311015569a27557cea2887fd95d9ed6af39.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25776",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 87015593,
+      "prices": []
+    },
+    {
+      "id": 12614,
+      "setData": {
+        "name": "Cobalion Battle Strength Deck",
+        "printed_count": "16",
+        "card_count": 16,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/cobalion-battle-strength-deck"
+      },
+      "name": "Klang",
+      "types": [
+        "Metal"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Klink",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Metal Sound",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "The Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Guard Press",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/77/38/ff/7738ffaca545f10b8cb0283bf518cbeb1f913caf2ecde50f6c311c9c2379e9e6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25777",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 54351653,
+      "prices": []
+    },
+    {
+      "id": 12615,
+      "setData": {
+        "name": "Cobalion Battle Strength Deck",
+        "printed_count": "16",
+        "card_count": 16,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/cobalion-battle-strength-deck"
+      },
+      "name": "Lillipup",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Knock Away",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10",
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mizue",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c1/5c/8c/c15c8c58fe601831de5bcdd11153d0ead6bcffa236484ef672372997bc2c0d07.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25778",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 55303309,
+      "prices": []
+    },
+    {
+      "id": 12616,
+      "setData": {
+        "name": "Cobalion Battle Strength Deck",
+        "printed_count": "16",
+        "card_count": 16,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/cobalion-battle-strength-deck"
+      },
+      "name": "Rufflet",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Peck",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Claw",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoyo Kimura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c7/37/d6/c737d619153ca2b9af6424ec5a1ed4f911ca455c550d5112ff66ddfb23fb9886.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25779",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 15702836,
+      "prices": []
+    },
+    {
+      "id": 12617,
+      "setData": {
+        "name": "Cobalion Battle Strength Deck",
+        "printed_count": "16",
+        "card_count": 16,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/cobalion-battle-strength-deck"
+      },
+      "name": "Energy Search",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fd/ab/d8/fdabd84e8146294b332c26a38bd5329712e989a852efcf8f749bf0499f077cc3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25780",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 93527589,
+      "prices": []
+    },
+    {
+      "id": 12618,
+      "setData": {
+        "name": "Cobalion Battle Strength Deck",
+        "printed_count": "16",
+        "card_count": 16,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/cobalion-battle-strength-deck"
+      },
+      "name": "Great Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e1/dd/37/e1dd37788aa5526a41e687141afda9bdb579ebdb34e08a8dfb49892fc586947c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25781",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 83348686,
+      "prices": []
+    },
+    {
+      "id": 12619,
+      "setData": {
+        "name": "Cobalion Battle Strength Deck",
+        "printed_count": "16",
+        "card_count": 16,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/cobalion-battle-strength-deck"
+      },
+      "name": "Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Switch 1 of your Active Pokémon with 1 of your Benched Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ayaka Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a6/32/40/a6324017d2b4bddc8c93c566d9f4e874b97ac105d478b6b4ce012975b350e48c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25782",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 34529228,
+      "prices": []
+    },
+    {
+      "id": 12620,
+      "setData": {
+        "name": "Cobalion Battle Strength Deck",
+        "printed_count": "16",
+        "card_count": 16,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/cobalion-battle-strength-deck"
+      },
+      "name": "Pokémon Catcher",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Switch your opponents Active Pokémon with 1 of his or her Benched Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/22/df/41/22df41dfa74cd3560eab0c4a19f13cd4e776dfd17866fe98a28568ca41d9944f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25783",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 15468215,
+      "prices": []
+    },
+    {
+      "id": 12621,
+      "setData": {
+        "name": "Cobalion Battle Strength Deck",
+        "printed_count": "16",
+        "card_count": 16,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/cobalion-battle-strength-deck"
+      },
+      "name": "Cheren",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Draw 3 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yusuke Ohmura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ae/ad/85/aead859158b507d5a046e91a21b842f537ca1a4856381ce1399e9b8785de16da.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25784",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 12365102,
+      "prices": []
+    },
+    {
+      "id": 12622,
+      "setData": {
+        "name": "Cobalion Battle Strength Deck",
+        "printed_count": "16",
+        "card_count": 16,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/cobalion-battle-strength-deck"
+      },
+      "name": "Cobalion",
+      "types": [
+        "Metal"
+      ],
+      "hp": 110,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Metal Horns",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Sacred Sword",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100",
+          "text": "This Pokémon can't use Sacred Sword during your next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7a/4d/cc/7a4dccc3eae94c670898ba6e02cdb9e278e021c45a2907a6551a747920323145.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25785",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 91228063,
+      "prices": []
+    },
+    {
+      "id": 12623,
+      "setData": {
+        "name": "Cobalion Battle Strength Deck",
+        "printed_count": "16",
+        "card_count": 16,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/cobalion-battle-strength-deck"
+      },
+      "name": "Bianca",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Draw cards until you have 6 cards in your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yusuke Ohmura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d0/a9/88/d0a988bd2394a00ceb2fbce3a9b63c66aa91f28964b2581e7d350ac74cc83f5e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25786",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 40958793,
+      "prices": []
+    },
+    {
+      "id": 12624,
+      "setData": {
+        "name": "Cobalion Battle Strength Deck",
+        "printed_count": "16",
+        "card_count": 16,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/cobalion-battle-strength-deck"
+      },
+      "name": "Metal Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/25787",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 55419603,
+      "prices": []
+    },
+    {
+      "id": 12625,
+      "setData": {
+        "name": "Cobalion Battle Strength Deck",
+        "printed_count": "16",
+        "card_count": 16,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/cobalion-battle-strength-deck"
+      },
+      "name": "Darkness Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/25788",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 17523533,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 16,
+  "totalCount": 16
+}

@@ -1,0 +1,1319 @@
+{
+  "data": [
+    {
+      "id": 3290,
+      "setData": {
+        "name": "Inteleon VMAX High-Class Deck",
+        "printed_count": "24",
+        "card_count": 24,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/inteleon-vmax-high-class-deck"
+      },
+      "name": "Lapras",
+      "types": [
+        "Water"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Icy Wind",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Splash Arch",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Put all Energy attached to this Pokémon into your hand. This attack does 100 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Rapid Strike",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoki Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1f/1a/8f/1f1a8f0b707b7c6dad8c508b60ca8d6551e26233cd0e5519406d377eea835fe4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34554",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 15229109,
+      "prices": []
+    },
+    {
+      "id": 3291,
+      "setData": {
+        "name": "Inteleon VMAX High-Class Deck",
+        "printed_count": "24",
+        "card_count": 24,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/inteleon-vmax-high-class-deck"
+      },
+      "name": "Remoraid",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Sharp Fin",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Rapid Strike",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "HYOGONOSUKE",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2c/46/f8/2c46f8fdaef33c7aca005f8dbf015301b012ebabc854a82e40c54e60da702b1e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34555",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 93561442,
+      "prices": []
+    },
+    {
+      "id": 3292,
+      "setData": {
+        "name": "Inteleon VMAX High-Class Deck",
+        "printed_count": "24",
+        "card_count": 24,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/inteleon-vmax-high-class-deck"
+      },
+      "name": "Octillery",
+      "types": [
+        "Water"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Remoraid",
+      "effect": [
+        {
+          "name": "Rapid Strike Search",
+          "text": "Once during your turn, you may search your deck for a Rapid Strike card, reveal it, and put it into your hand. Then, shuffle your deck. You can't use more than 1 Rapid Strike Search Ability each turn.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Waterfall",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Rapid Strike",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "KIYOTAKA OSHIYAMA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8f/38/a8/8f38a854fc687526a26ecde4512a7d6bd5b414b59b18b3430b73f5435500e441.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34556",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 9426315,
+      "prices": []
+    },
+    {
+      "id": 3293,
+      "setData": {
+        "name": "Inteleon VMAX High-Class Deck",
+        "printed_count": "24",
+        "card_count": 24,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/inteleon-vmax-high-class-deck"
+      },
+      "name": "Basculin",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Wound Swarm",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "This attack does 10 more damage for each damage counter on your opponent's Active Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Rapid Strike",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Souichirou Gunjima",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9f/1a/95/9f1a95073914c8512584482ddb53c71bd16ac354ec8feb7d876e6cdc57230129.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34557",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 70312162,
+      "prices": []
+    },
+    {
+      "id": 3294,
+      "setData": {
+        "name": "Inteleon VMAX High-Class Deck",
+        "printed_count": "24",
+        "card_count": 24,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/inteleon-vmax-high-class-deck"
+      },
+      "name": "Inteleon V",
+      "types": [
+        "Water"
+      ],
+      "hp": 200,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Surf",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40"
+        },
+        {
+          "name": "Aqua Bullet",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120",
+          "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "V",
+        "Rapid Strike",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/36/c2/1d/36c21d45587ca9cc2a90600e765adfffc3793ce1d94edaf5c83d6cb60fd3466c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34558",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 85482523,
+      "prices": []
+    },
+    {
+      "id": 3295,
+      "setData": {
+        "name": "Inteleon VMAX High-Class Deck",
+        "printed_count": "24",
+        "card_count": 24,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/inteleon-vmax-high-class-deck"
+      },
+      "name": "Inteleon VMAX",
+      "types": [
+        "Water"
+      ],
+      "hp": 320,
+      "evolvesFrom": "Inteleon V",
+      "effect": [
+        {
+          "name": "Double Shooter",
+          "text": "Once during your turn, you may discard a Water Energy from your hand. If you do, put 2 damage counters on 2 of your opponent's Benched Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "G-Max Whirlpool",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "70+",
+          "text": "You may put an Energy from this Pokémon into your hand. If you do, this attack does 70 more damage."
+        }
+      ],
+      "rules": [
+        "When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX",
+        "Rapid Strike",
+        "Gigantamax",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/09/bb/0d/09bb0db5b5500ef5f27cf07a9871eb379e99b8d80465cf33886778e9cf3103ed.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34559",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 34434150,
+      "prices": []
+    },
+    {
+      "id": 3296,
+      "setData": {
+        "name": "Inteleon VMAX High-Class Deck",
+        "printed_count": "24",
+        "card_count": 24,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/inteleon-vmax-high-class-deck"
+      },
+      "name": "Crobat V",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Dark Asset",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may draw cards until you have 6 cards in your hand. You can't use more than 1 Dark Asset Ability each turn.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Venomous Fang",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "70",
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "V",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "PLANETA Mochizuki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f6/c6/0c/f6c60cf34eefa2b44c37a5fc228646af27061200a1bba1e93e6dd6a20040cdd3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34560",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 27118334,
+      "prices": []
+    },
+    {
+      "id": 3297,
+      "setData": {
+        "name": "Inteleon VMAX High-Class Deck",
+        "printed_count": "24",
+        "card_count": 24,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/inteleon-vmax-high-class-deck"
+      },
+      "name": "Buneary",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Double Kick",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "Flip 2 coins. This attack does 20 damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Rapid Strike",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yuu Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5b/c6/48/5bc64831a33e784623522842a43fd60ae823cfe8dc33b58cff7448f171cb6e4a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34561",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 81466366,
+      "prices": []
+    },
+    {
+      "id": 3298,
+      "setData": {
+        "name": "Inteleon VMAX High-Class Deck",
+        "printed_count": "24",
+        "card_count": 24,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/inteleon-vmax-high-class-deck"
+      },
+      "name": "Lopunny",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Buneary",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hopping Shoot",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "70"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Rapid Strike",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "AKIRA EGAWA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4d/f8/cf/4df8cf8561ef466f0954f1dc94671c5941bf27fde4c673958aec9c07fb221b67.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34562",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 67583647,
+      "prices": []
+    },
+    {
+      "id": 3299,
+      "setData": {
+        "name": "Inteleon VMAX High-Class Deck",
+        "printed_count": "24",
+        "card_count": 24,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/inteleon-vmax-high-class-deck"
+      },
+      "name": "Hawlucha",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Flying Stomp",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Discard a Special Energy from your opponent's Active Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Rapid Strike",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Taira Akitsu",
+      "imageUrl": "https://static.tcgcollector.com/content/images/66/c0/3c/66c03c60f390e0bfb6f802b70d7634d38ed46169188546dc58c3d140a1d6cbb1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34563",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 42897931,
+      "prices": []
+    },
+    {
+      "id": 3300,
+      "setData": {
+        "name": "Inteleon VMAX High-Class Deck",
+        "printed_count": "24",
+        "card_count": 24,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/inteleon-vmax-high-class-deck"
+      },
+      "name": "Energy Retrieval",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Put up to 2 basic Energy cards from your discard pile into your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/20/da/50/20da50105f9fad94b81ba6931e54a554c537cef33758e41c6c948a7ec630ec1a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34564",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 54879296,
+      "prices": []
+    },
+    {
+      "id": 3301,
+      "setData": {
+        "name": "Inteleon VMAX High-Class Deck",
+        "printed_count": "24",
+        "card_count": 24,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/inteleon-vmax-high-class-deck"
+      },
+      "name": "Quick Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "You can play this card only if you discard another card from your hand.    Search your deck for a Basic Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d9/72/66/d9726673e9acda37b4c4de22b2cdde899884f8d7ccd0fadc9a5f556f86f4e92e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34565",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 83781643,
+      "prices": []
+    },
+    {
+      "id": 3302,
+      "setData": {
+        "name": "Inteleon VMAX High-Class Deck",
+        "printed_count": "24",
+        "card_count": 24,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/inteleon-vmax-high-class-deck"
+      },
+      "name": "Evolution Incense",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Search your deck for an Evolution Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e1/96/7d/e1967d843454b3498db3615edd36e71c5a3d0cca0074cd2e7b3892356d2c9af9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34566",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 24776484,
+      "prices": []
+    },
+    {
+      "id": 3303,
+      "setData": {
+        "name": "Inteleon VMAX High-Class Deck",
+        "printed_count": "24",
+        "card_count": 24,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/inteleon-vmax-high-class-deck"
+      },
+      "name": "Pokégear 3.0",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Look at the top 7 cards of your deck. You may reveal a Supporter card you find there and put it into your hand. Shuffle the other cards back into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/45/dc/69/45dc6965f6e4ce3f27b95c1dc61012be1d22ddca1aa470e22a7df0b4802453da.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34567",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 14819378,
+      "prices": []
+    },
+    {
+      "id": 3304,
+      "setData": {
+        "name": "Inteleon VMAX High-Class Deck",
+        "printed_count": "24",
+        "card_count": 24,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/inteleon-vmax-high-class-deck"
+      },
+      "name": "Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Switch your Active Pokémon with 1 of your Benched Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Studio Bora Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b6/2f/7c/b62f7c6aac7057a1307b3c049a6c0ca81b71dbb4d40480f42d83d23f36a9532b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34568",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 44018387,
+      "prices": []
+    },
+    {
+      "id": 3305,
+      "setData": {
+        "name": "Inteleon VMAX High-Class Deck",
+        "printed_count": "24",
+        "card_count": 24,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/inteleon-vmax-high-class-deck"
+      },
+      "name": "Korrina's Focus",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Draw cards until you have 6 cards in your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter",
+        "Rapid Strike Trainer"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kirisAki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5b/12/82/5b12826221d809483960eee4e6d9ece647ceff5d12a648e829d8232ee4d1d4fa.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34569",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 90832949,
+      "prices": []
+    },
+    {
+      "id": 3306,
+      "setData": {
+        "name": "Inteleon VMAX High-Class Deck",
+        "printed_count": "24",
+        "card_count": 24,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/inteleon-vmax-high-class-deck"
+      },
+      "name": "Professor's Research",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Discard your hand and draw 7 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hideki Ishikawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ff/1d/d6/ff1dd67687eb4a38509d11826723fdbd2737557a65567779dd70d9b9508e8694.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34570",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 71894457,
+      "prices": []
+    },
+    {
+      "id": 3307,
+      "setData": {
+        "name": "Inteleon VMAX High-Class Deck",
+        "printed_count": "24",
+        "card_count": 24,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/inteleon-vmax-high-class-deck"
+      },
+      "name": "Adventurer's Discovery",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Search your deck for up to 3 Pokémon V, reveal them, and put them into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Taira Akitsu",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0b/7d/2e/0b7d2e84d81de58bf32f25390245095f6326001d03edede6bbfaf42b215aa445.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34571",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 73490994,
+      "prices": []
+    },
+    {
+      "id": 3308,
+      "setData": {
+        "name": "Inteleon VMAX High-Class Deck",
+        "printed_count": "24",
+        "card_count": 24,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/inteleon-vmax-high-class-deck"
+      },
+      "name": "Boss's Orders",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "\"Switch 1 of your opponents Benched Pokémon with their Active Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryuta Fuse",
+      "imageUrl": "https://static.tcgcollector.com/content/images/88/63/96/8863961dc52fc869209015b65c942d8b0209fffddddb8495154497890a01cbce.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34572",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 73376653,
+      "prices": []
+    },
+    {
+      "id": 3309,
+      "setData": {
+        "name": "Inteleon VMAX High-Class Deck",
+        "printed_count": "24",
+        "card_count": 24,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/inteleon-vmax-high-class-deck"
+      },
+      "name": "Marnie",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, you draw 5 cards, and your opponent draws 4 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kirisAki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e5/15/2c/e5152c47540716b24ecb9f4e29311351a6826e36fc4638e922588b2539f87e32.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34573",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 56733311,
+      "prices": []
+    },
+    {
+      "id": 3310,
+      "setData": {
+        "name": "Inteleon VMAX High-Class Deck",
+        "printed_count": "24",
+        "card_count": 24,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/inteleon-vmax-high-class-deck"
+      },
+      "name": "Tower of Waters",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"This Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you cant play this card.\", \"The Retreat Cost of each Rapid Strike Pokémon in play (both yours and your opponents) is Colorless Colorless less.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium",
+        "Rapid Strike Trainer"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b3/4f/11/b34f1119ec5b1958f71f3db80e17dfdf370b8614e9833e9d48513e9f99e669e7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34574",
+      "sequenceNumber": 21,
+      "printedNumber": "21",
+      "uuid": 57441550,
+      "prices": []
+    },
+    {
+      "id": 3311,
+      "setData": {
+        "name": "Inteleon VMAX High-Class Deck",
+        "printed_count": "24",
+        "card_count": 24,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/inteleon-vmax-high-class-deck"
+      },
+      "name": "Rapid Strike Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "This card can only be attached to a Rapid Strike Pokémon. If this card is attached to anything other than a Rapid Strike Pokémon, discard this card.    As long as this card is attached to a Pokémon, it provides 2 in any combination of Water Energy and Fighting Energy."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy",
+        "Rapid Strike Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/20/93/1f/20931f14b1f2be23c9fbfa3101ef0e7b0fa30764c3eb619c8137f9c2ef48c9e7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34575",
+      "sequenceNumber": 22,
+      "printedNumber": "22",
+      "uuid": 29111348,
+      "prices": []
+    },
+    {
+      "id": 3312,
+      "setData": {
+        "name": "Inteleon VMAX High-Class Deck",
+        "printed_count": "24",
+        "card_count": 24,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/inteleon-vmax-high-class-deck"
+      },
+      "name": "Inteleon VMAX",
+      "types": [
+        "Water"
+      ],
+      "hp": 320,
+      "evolvesFrom": "Inteleon V",
+      "effect": [
+        {
+          "name": "Double Shooter",
+          "text": "Once during your turn, you may discard a Water Energy from your hand. If you do, put 2 damage counters on 2 of your opponent's Benched Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "G-Max Whirlpool",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "70+",
+          "text": "You may put an Energy from this Pokémon into your hand. If you do, this attack does 70 more damage."
+        }
+      ],
+      "rules": [
+        "When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX",
+        "Rapid Strike",
+        "Gigantamax",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/31/77/5d/31775d9beba0069bc42192c6b05feeb0a5704663aee3c6bd7cd6819f451cd43d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34576",
+      "sequenceNumber": 23,
+      "printedNumber": "23",
+      "uuid": 29536324,
+      "prices": []
+    },
+    {
+      "id": 3313,
+      "setData": {
+        "name": "Inteleon VMAX High-Class Deck",
+        "printed_count": "24",
+        "card_count": 24,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/inteleon-vmax-high-class-deck"
+      },
+      "name": "Water Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/54/91/91/54919186963c061690a1d087357988e0e1de22ce672c3f703e9d62e95c7d4212.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34577",
+      "sequenceNumber": 24,
+      "printedNumber": "24",
+      "uuid": 15002526,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 24,
+  "totalCount": 24
+}

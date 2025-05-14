@@ -1,0 +1,1369 @@
+{
+  "data": [
+    {
+      "id": 25585,
+      "setData": {
+        "name": "Hanada City Gym Deck",
+        "printed_count": 24,
+        "card_count": 24,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/74/b1/8b/74b18b29f9f028bc2f57e0bbce68f9c1cb1e48508daa62078c10f27f7bfcc1ab.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12116/hanada-city-gym-deck"
+      },
+      "name": "Misty's Horsea",
+      "types": [
+        "Water"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Smokescreen",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/db/3c/a9/db3ca9a34f5c56e6e78329972e47dd861273375896dd21bc0a4b296a7af5d427.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29752",
+      "sequenceNumber": 25,
+      "printedNumber": "025",
+      "uuid": 22070588,
+      "prices": []
+    },
+    {
+      "id": 25586,
+      "setData": {
+        "name": "Hanada City Gym Deck",
+        "printed_count": 24,
+        "card_count": 24,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/74/b1/8b/74b18b29f9f028bc2f57e0bbce68f9c1cb1e48508daa62078c10f27f7bfcc1ab.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12116/hanada-city-gym-deck"
+      },
+      "name": "Misty's Goldeen",
+      "types": [
+        "Water"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fury Attack",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Supersonic",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/06/cb/46/06cb466e171a9610b6d7a449ceb87551090a50ff2e4967b54f8958f79013273a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29753",
+      "sequenceNumber": 26,
+      "printedNumber": "026",
+      "uuid": 86868227,
+      "prices": []
+    },
+    {
+      "id": 25587,
+      "setData": {
+        "name": "Hanada City Gym Deck",
+        "printed_count": 24,
+        "card_count": 24,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/74/b1/8b/74b18b29f9f028bc2f57e0bbce68f9c1cb1e48508daa62078c10f27f7bfcc1ab.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12116/hanada-city-gym-deck"
+      },
+      "name": "Misty's Staryu",
+      "types": [
+        "Water"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Star Boomerang",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Flip a coin. If heads, return Misty's Staryu and all cards attached to it to your hand. (Either way, this attack does its damage.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/31/62/a0/3162a090c61c67f7081519fd3b0b2e2caf2cc1b21abdd3698858da897aa61edf.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29754",
+      "sequenceNumber": 27,
+      "printedNumber": "027",
+      "uuid": 96582762,
+      "prices": []
+    },
+    {
+      "id": 25588,
+      "setData": {
+        "name": "Hanada City Gym Deck",
+        "printed_count": 24,
+        "card_count": 24,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/74/b1/8b/74b18b29f9f028bc2f57e0bbce68f9c1cb1e48508daa62078c10f27f7bfcc1ab.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12116/hanada-city-gym-deck"
+      },
+      "name": "Misty's Tentacruel",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Misty's Tentacool",
+      "effect": [
+        {
+          "name": "Flee",
+          "text": "If an attack does damage to Misty's Tentacruel while it's your Active Pokémon, you may switch it with 1 of your Benched Pokémon, which prevents all other effects of that attack on Misty's Tentacruel. This power can't be used if Misty's Tentacruel is already Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Jellyfish Poison",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "30",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned. If tails, the Defending Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Stage 1"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/40/bf/d8/40bfd827c5b880ae13f898c35758a73621148b6286d97d192c021f2d8b6a30bb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29760",
+      "sequenceNumber": 33,
+      "printedNumber": "033",
+      "uuid": 88898132,
+      "prices": []
+    },
+    {
+      "id": 25589,
+      "setData": {
+        "name": "Hanada City Gym Deck",
+        "printed_count": 24,
+        "card_count": 24,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/74/b1/8b/74b18b29f9f028bc2f57e0bbce68f9c1cb1e48508daa62078c10f27f7bfcc1ab.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12116/hanada-city-gym-deck"
+      },
+      "name": "Misty's Duel",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"You and your opponent play a game of Rock-Paper-Scissors. The winner shuffles his or her hand into his or her deck and draws a new hand of 5 cards. (If you dont know how to play Rock-Paper-Scissors, flip a coin to decide whos the winner.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/92/18/01/921801692ae6989fb0ba0e86d920668b1b7da8d44ae59258c7377b6fcbc66ab0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29795",
+      "sequenceNumber": 68,
+      "printedNumber": "068",
+      "uuid": 36219210,
+      "prices": []
+    },
+    {
+      "id": 25590,
+      "setData": {
+        "name": "Hanada City Gym Deck",
+        "printed_count": 24,
+        "card_count": 24,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/74/b1/8b/74b18b29f9f028bc2f57e0bbce68f9c1cb1e48508daa62078c10f27f7bfcc1ab.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12116/hanada-city-gym-deck"
+      },
+      "name": "Misty's Tears",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Discard 1 of the other cards in your hand in order to search your deck for up to 2 Water Energy cards. Show those cards to your opponent, then put them into your hand. Shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/dc/03/00/dc0300e5c248faf4f3223c0630abf7b1c0b1dc791fdbf5ab9b0e6a51a9cff6ba.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29796",
+      "sequenceNumber": 69,
+      "printedNumber": "069",
+      "uuid": 50307635,
+      "prices": []
+    },
+    {
+      "id": 25591,
+      "setData": {
+        "name": "Hanada City Gym Deck",
+        "printed_count": 24,
+        "card_count": 24,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/74/b1/8b/74b18b29f9f028bc2f57e0bbce68f9c1cb1e48508daa62078c10f27f7bfcc1ab.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12116/hanada-city-gym-deck"
+      },
+      "name": "Misty's Wrath",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Look at the top 7 cards of your deck. Choose 2 of those cards and put them into your hand. Discard the rest."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/75/2e/53/752e53cf6966f4d82c4b08da008f5635614373d675a11118da53ef0ec3af0b7b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29802",
+      "sequenceNumber": 75,
+      "printedNumber": "075",
+      "uuid": 95179242,
+      "prices": []
+    },
+    {
+      "id": 25592,
+      "setData": {
+        "name": "Hanada City Gym Deck",
+        "printed_count": 24,
+        "card_count": 24,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/74/b1/8b/74b18b29f9f028bc2f57e0bbce68f9c1cb1e48508daa62078c10f27f7bfcc1ab.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12116/hanada-city-gym-deck"
+      },
+      "name": "Cerulean City Gym",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "This card stays in play when you play it. Discard this card if another Stadium card comes into play.",
+        "Each player pays Colorless less to retreat his or her Pokémon if it has Misty in its name."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/54/18/5f/54185fd3c65d3ae309b082fa16b8c86a6c9fd07cf724244a956e88e42a975ef0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29807",
+      "sequenceNumber": 80,
+      "printedNumber": "080",
+      "uuid": 21977033,
+      "prices": []
+    },
+    {
+      "id": 25593,
+      "setData": {
+        "name": "Hanada City Gym Deck",
+        "printed_count": 24,
+        "card_count": 24,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/74/b1/8b/74b18b29f9f028bc2f57e0bbce68f9c1cb1e48508daa62078c10f27f7bfcc1ab.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12116/hanada-city-gym-deck"
+      },
+      "name": "Misty's Psyduck",
+      "types": [
+        "Water"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Scratch",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Call for Friend",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, you may search your deck for a Basic Pokémon with Misty in its name and put it onto your Bench. (You can't use this attack if your Bench is full.) Shuffle your deck afterward."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/19/71/a5/1971a5627b5c7034d2c4c43afe4bd0c84c77751ea1f0f992ced4466adcae0607.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47494",
+      "sequenceNumber": 12,
+      "printedNumber": "012",
+      "uuid": 89892268,
+      "prices": []
+    },
+    {
+      "id": 25594,
+      "setData": {
+        "name": "Hanada City Gym Deck",
+        "printed_count": 24,
+        "card_count": 24,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/74/b1/8b/74b18b29f9f028bc2f57e0bbce68f9c1cb1e48508daa62078c10f27f7bfcc1ab.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12116/hanada-city-gym-deck"
+      },
+      "name": "Misty's Poliwag",
+      "types": [
+        "Water"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hypnotic Stare",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Tail Rap",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/d0/85/42/d0854263a8e5fd77182eec7c50b6c4009592f2c30607addff00d5017009f74db.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47495",
+      "sequenceNumber": 13,
+      "printedNumber": "013",
+      "uuid": 80885746,
+      "prices": []
+    },
+    {
+      "id": 25595,
+      "setData": {
+        "name": "Hanada City Gym Deck",
+        "printed_count": 24,
+        "card_count": 24,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/74/b1/8b/74b18b29f9f028bc2f57e0bbce68f9c1cb1e48508daa62078c10f27f7bfcc1ab.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12116/hanada-city-gym-deck"
+      },
+      "name": "Misty's Tentacool",
+      "types": [
+        "Water"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Mysterious Light",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Jellyfish Pod",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Search your deck for any number of Pokémon named Tentacool, Tentacruel, Misty's Tentacool, and/or Misty's Tentacruel. Show those cards to your opponent, then put them into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/1f/67/cd/1f67cda80725cd44f4237e66d3fd0b75a377ae03a0a87ea5e4d0706ec30e67da.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47496",
+      "sequenceNumber": 14,
+      "printedNumber": "014",
+      "uuid": 47587589,
+      "prices": []
+    },
+    {
+      "id": 25596,
+      "setData": {
+        "name": "Hanada City Gym Deck",
+        "printed_count": 24,
+        "card_count": 24,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/74/b1/8b/74b18b29f9f028bc2f57e0bbce68f9c1cb1e48508daa62078c10f27f7bfcc1ab.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12116/hanada-city-gym-deck"
+      },
+      "name": "Misty's Seel",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Aurora Beam",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/87/4e/d3/874ed32008bb81af89949d29825c58c57a52c37605fd57bee3b5c7302a64b32b.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47497",
+      "sequenceNumber": 15,
+      "printedNumber": "015",
+      "uuid": 71001639,
+      "prices": []
+    },
+    {
+      "id": 25597,
+      "setData": {
+        "name": "Hanada City Gym Deck",
+        "printed_count": 24,
+        "card_count": 24,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/74/b1/8b/74b18b29f9f028bc2f57e0bbce68f9c1cb1e48508daa62078c10f27f7bfcc1ab.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12116/hanada-city-gym-deck"
+      },
+      "name": "Misty's Shellder",
+      "types": [
+        "Water"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Clamp",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, this attack does nothing (not even damage)."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\""
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/79/24/b8/7924b8e3a29f413e7f7767d8211d7901f9d762142008e308297b568b65b73c15.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47498",
+      "sequenceNumber": 16,
+      "printedNumber": "016",
+      "uuid": 99366861,
+      "prices": []
+    },
+    {
+      "id": 25598,
+      "setData": {
+        "name": "Hanada City Gym Deck",
+        "printed_count": 24,
+        "card_count": 24,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/74/b1/8b/74b18b29f9f028bc2f57e0bbce68f9c1cb1e48508daa62078c10f27f7bfcc1ab.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12116/hanada-city-gym-deck"
+      },
+      "name": "Misty's Cloyster",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Misty's Shellder",
+      "effect": [
+        {
+          "name": "Shell Armor",
+          "text": "You may reduce all damage done by attacks to Misty's Cloyster by 10 (after applying Weakness and Resistance). (Any other effects of attacks still happen.) This power can't be used if Misty's Cloyster is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Triple Cannon",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20×",
+          "text": "Flip 3 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\""
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/01/9d/f1/019df130c6663fd2aeb4987d6713ad4f2a6c02b0e8e41929bb683dee2c7f79d0.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47499",
+      "sequenceNumber": 17,
+      "printedNumber": "017",
+      "uuid": 26678682,
+      "prices": []
+    },
+    {
+      "id": 25599,
+      "setData": {
+        "name": "Hanada City Gym Deck",
+        "printed_count": 24,
+        "card_count": 24,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/74/b1/8b/74b18b29f9f028bc2f57e0bbce68f9c1cb1e48508daa62078c10f27f7bfcc1ab.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12116/hanada-city-gym-deck"
+      },
+      "name": "Misty's Goldeen",
+      "types": [
+        "Water"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Horn Hazard",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/5b/55/b7/5b55b7436142c7f8491a93c0d987a595b99c923a1c6cc25e04ab7fc388438fe0.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47500",
+      "sequenceNumber": 18,
+      "printedNumber": "018",
+      "uuid": 56882911,
+      "prices": []
+    },
+    {
+      "id": 25600,
+      "setData": {
+        "name": "Hanada City Gym Deck",
+        "printed_count": 24,
+        "card_count": 24,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/74/b1/8b/74b18b29f9f028bc2f57e0bbce68f9c1cb1e48508daa62078c10f27f7bfcc1ab.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12116/hanada-city-gym-deck"
+      },
+      "name": "Misty's Seaking",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Misty's Goldeen",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Horn Attack",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Mud Splash",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and flip a coin. If heads, this attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\""
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/eb/d3/22/ebd322f2826ba26c7bb8b30f7de7df4a403d0fa28e190658f4cf5f4975152ead.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47501",
+      "sequenceNumber": 19,
+      "printedNumber": "019",
+      "uuid": 88717977,
+      "prices": []
+    },
+    {
+      "id": 25601,
+      "setData": {
+        "name": "Hanada City Gym Deck",
+        "printed_count": 24,
+        "card_count": 24,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/74/b1/8b/74b18b29f9f028bc2f57e0bbce68f9c1cb1e48508daa62078c10f27f7bfcc1ab.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12116/hanada-city-gym-deck"
+      },
+      "name": "Misty's Staryu",
+      "types": [
+        "Water"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Swift",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "This attack's damage isn't affected by Weakness, Resistance, Pokémon Powers, or any other effects on the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/f1/88/2c/f1882ce1d4abde21df67a0809da2986312227435df3dece1cd39d592b348e4a1.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47502",
+      "sequenceNumber": 20,
+      "printedNumber": "020",
+      "uuid": 99634633,
+      "prices": []
+    },
+    {
+      "id": 25602,
+      "setData": {
+        "name": "Hanada City Gym Deck",
+        "printed_count": 24,
+        "card_count": 24,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/74/b1/8b/74b18b29f9f028bc2f57e0bbce68f9c1cb1e48508daa62078c10f27f7bfcc1ab.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12116/hanada-city-gym-deck"
+      },
+      "name": "Misty's Starmie",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Misty's Staryu",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "Does 10 damage plus 10 more damage for each Water Energy attached to Misty's Starmie but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        },
+        {
+          "name": "Bubblebeam",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\""
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/c4/f6/c1/c4f6c1b74432bc930d1eda4cb03551cc6768117b128ae6076e64064d540254a6.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47503",
+      "sequenceNumber": 21,
+      "printedNumber": "021",
+      "uuid": 12205578,
+      "prices": []
+    },
+    {
+      "id": 25603,
+      "setData": {
+        "name": "Hanada City Gym Deck",
+        "printed_count": 24,
+        "card_count": 24,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/74/b1/8b/74b18b29f9f028bc2f57e0bbce68f9c1cb1e48508daa62078c10f27f7bfcc1ab.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12116/hanada-city-gym-deck"
+      },
+      "name": "Misty",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Discard 2 of the other cards in your hand in order to play this card. If this turns attack does damage to the Defending Pokémon (after applying Weakness and Resistance), and if the attacking Pokémon has Misty in its name, the attack does 20 more damage to the Defending Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/a4/38/85/a4388515c0a6f8ff28ad9894e3fc7e0819406fe25a654c98ab0a6cb7ae72fb90.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47531",
+      "sequenceNumber": 49,
+      "printedNumber": "049",
+      "uuid": 46362004,
+      "prices": []
+    },
+    {
+      "id": 25604,
+      "setData": {
+        "name": "Hanada City Gym Deck",
+        "printed_count": 24,
+        "card_count": 24,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/74/b1/8b/74b18b29f9f028bc2f57e0bbce68f9c1cb1e48508daa62078c10f27f7bfcc1ab.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12116/hanada-city-gym-deck"
+      },
+      "name": "Potion",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Remove up to 2 damage counters from 1 of your Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/31/af/15/31af1597ba31d8a16217e4c5c41286e28747c841fb8ee46e3ede7d654b43ced3.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47532",
+      "sequenceNumber": 50,
+      "printedNumber": "050",
+      "uuid": 48074388,
+      "prices": []
+    },
+    {
+      "id": 25605,
+      "setData": {
+        "name": "Hanada City Gym Deck",
+        "printed_count": 24,
+        "card_count": 24,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/74/b1/8b/74b18b29f9f028bc2f57e0bbce68f9c1cb1e48508daa62078c10f27f7bfcc1ab.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12116/hanada-city-gym-deck"
+      },
+      "name": "Defender",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach Defender to 1 of your Pokémon. At the end of your opponents next turn, discard Defender. Damage done to that Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance).\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/b9/1e/40/b91e40fce2ee82292e555156e3ff7a8932d6124bf42047f00aab83ee892e68c5.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47556",
+      "sequenceNumber": 53,
+      "printedNumber": "053",
+      "uuid": 6127709,
+      "prices": []
+    },
+    {
+      "id": 25606,
+      "setData": {
+        "name": "Hanada City Gym Deck",
+        "printed_count": 24,
+        "card_count": 24,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/74/b1/8b/74b18b29f9f028bc2f57e0bbce68f9c1cb1e48508daa62078c10f27f7bfcc1ab.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12116/hanada-city-gym-deck"
+      },
+      "name": "Gust of Wind",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Choose 1 of your opponents Benched Pokémon and switch it with his or her Active Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/7e/f5/f8/7ef5f867a7cdd38866a6bbec299764aad658aa6cbc345560047a4ca6a3225331.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47557",
+      "sequenceNumber": 54,
+      "printedNumber": "054",
+      "uuid": 40492205,
+      "prices": []
+    },
+    {
+      "id": 25607,
+      "setData": {
+        "name": "Hanada City Gym Deck",
+        "printed_count": 24,
+        "card_count": 24,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/74/b1/8b/74b18b29f9f028bc2f57e0bbce68f9c1cb1e48508daa62078c10f27f7bfcc1ab.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12116/hanada-city-gym-deck"
+      },
+      "name": "Poké Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Flip a coin. If heads, you may search your deck for any Basic Pokémon or Evolution card. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/c0/e6/c1/c0e6c1bdd2f0166a4ada5fee9bee6609d34633fce18b4ca2edcca906e574f58f.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47567",
+      "sequenceNumber": 64,
+      "printedNumber": "064",
+      "uuid": 17823980,
+      "prices": []
+    },
+    {
+      "id": 25608,
+      "setData": {
+        "name": "Hanada City Gym Deck",
+        "printed_count": 24,
+        "card_count": 24,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/74/b1/8b/74b18b29f9f028bc2f57e0bbce68f9c1cb1e48508daa62078c10f27f7bfcc1ab.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12116/hanada-city-gym-deck"
+      },
+      "name": "Double Colorless Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Provides Colorless Colorless energy. Doesnt count as a basic Energy card.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/06/fd/4e/06fd4eac44af8664165fdf278d5124950016a0fa138109a5362422ecabffc03b.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47574",
+      "sequenceNumber": 71,
+      "printedNumber": "071",
+      "uuid": 71357902,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 24,
+  "totalCount": 24
+}

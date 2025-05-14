@@ -1,0 +1,2426 @@
+{
+  "data": [
+    {
+      "id": 25445,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Bulbasaur",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "First Aid",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Remove 1 damage counter from Bulbasaur."
+        },
+        {
+          "name": "Poison Seed",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sumiyoshi Kizuki",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/2c/57/2b/2c572b793c80ba7d91a05f900d20f4a6411098fa20c7f24819a6da3a91612016.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47376",
+      "sequenceNumber": 1,
+      "printedNumber": "001",
+      "uuid": 48417055,
+      "prices": []
+    },
+    {
+      "id": 25446,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Caterpie",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "String Wrap",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, until the end of your opponent's next turn, the Defending Pokémon can't retreat, and if the effect of an attack, Pokémon Power, Energy card, or Trainer card would change that player's Active Pokémon, that part of the effect does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Aya Kusube",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/cc/e0/c0/cce0c0b40781892f8ee56ba8ac572d033e4155bf04fa5cd5ceddcb59e6578e37.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47377",
+      "sequenceNumber": 2,
+      "printedNumber": "002",
+      "uuid": 3674329,
+      "prices": []
+    },
+    {
+      "id": 25447,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Metapod",
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Caterpie",
+      "effect": [
+        {
+          "name": "Green Shield",
+          "text": "As long as Metapod is in play, ignore Weakness when any of your Grass Pokémon are damaged. This power stops working while Metapod is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Mysterious Powder",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Aya Kusube",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/f2/db/f7/f2dbf75847ef9b249eef382b5470363e58d27b310ebc0f24806a9f241ec381e8.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47378",
+      "sequenceNumber": 3,
+      "printedNumber": "003",
+      "uuid": 89242195,
+      "prices": []
+    },
+    {
+      "id": 25448,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Weedle",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Peck",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Poison Horn",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Tomokazu Komiya",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/d7/69/c1/d769c17da1c613e4a0f36147d4b67a50beb905281dcd56112e34c370757ac723.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47379",
+      "sequenceNumber": 4,
+      "printedNumber": "004",
+      "uuid": 1137387,
+      "prices": []
+    },
+    {
+      "id": 25449,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Kakuna",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Weedle",
+      "effect": [
+        {
+          "name": "Poison Fluid",
+          "text": "If Kakuna is damaged by an opponent's attack (even if Kakuna is Knocked Out), the Attacking Pokémon is now Poisoned. This power stops working while Kakuna is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Rollout",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/c2/5c/95/c25c95233097849e05bf9ee585b95331ffa11b06c17b40df2f228ef2a93826de.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47380",
+      "sequenceNumber": 5,
+      "printedNumber": "005",
+      "uuid": 2028601,
+      "prices": []
+    },
+    {
+      "id": 25450,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Nidoran ?",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tail Whip",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon can't attack Nidoran ? during your opponent's next turn. (Benching either Pokémon ends this effect.)"
+        },
+        {
+          "name": "Poison Sting",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/fc/46/8a/fc468acf49b810ea08dcde80ae0e7a4c14e75f076d1681be35dbe478967d55df.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47381",
+      "sequenceNumber": 6,
+      "printedNumber": "006",
+      "uuid": 99735929,
+      "prices": []
+    },
+    {
+      "id": 25451,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Nidoran ?",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Focus Energy",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "During your next turn, Nidoran?'s Horn Rush attack's base damage is doubled."
+        },
+        {
+          "name": "Horn Rush",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/4c/73/37/4c733789cd0fe5d1579ce776db8104ae2b677867b4694de44982a7dbf4c3c6a0.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47382",
+      "sequenceNumber": 7,
+      "printedNumber": "007",
+      "uuid": 31574093,
+      "prices": []
+    },
+    {
+      "id": 25452,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Zubat",
+      "types": [
+        "Grass"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bite",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Suspicious Soundwave",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Aya Kusube",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/3a/0d/bd/3a0dbd57c0b0531f555dd24ad10f75152db03c11d7fa0a91e842d392c81829d2.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47383",
+      "sequenceNumber": 8,
+      "printedNumber": "008",
+      "uuid": 71580079,
+      "prices": []
+    },
+    {
+      "id": 25453,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Golbat",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "Zubat",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Leech Life",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20",
+          "text": "Heal from this Pokémon the same amount of damage you did to the Defending Pokémon."
+        },
+        {
+          "name": "Nosedive",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "60",
+          "text": "Flip a coin. If tails, this Pokémon does 40 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/a9/16/2a/a9162a004e2f70d2922712e84f502f7381fd036aa24c042cd26cd79f2953b2a6.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47384",
+      "sequenceNumber": 9,
+      "printedNumber": "009",
+      "uuid": 62386131,
+      "prices": []
+    },
+    {
+      "id": 25454,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Paras",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Scratch",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Scatter Spores",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for a Basic Pokémon named Paras and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/e0/de/8a/e0de8ae91801e996f95abf684bd6c194ace8d2d4b86cffe79b4927d8cb1a2c07.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47385",
+      "sequenceNumber": 10,
+      "printedNumber": "010",
+      "uuid": 48324951,
+      "prices": []
+    },
+    {
+      "id": 25455,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Parasect",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Paras",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Toxic Spore",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10",
+          "text": "The Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Leech Life",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20",
+          "text": "Heal from this Pokémon the same amount of damage you did to the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/20/64/18/206418bff9d27100b19406e203d800206417e8828d457d6ad6db4f16525f6833.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47386",
+      "sequenceNumber": 11,
+      "printedNumber": "011",
+      "uuid": 92219317,
+      "prices": []
+    },
+    {
+      "id": 25456,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Pinsir",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Slicing Throw",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        },
+        {
+          "name": "Slash",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/5f/55/de/5f55ded4e1c38cd39008efb201e02364bb9e2a9aa3c64243958e02a21ce7771a.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47387",
+      "sequenceNumber": 12,
+      "printedNumber": "012",
+      "uuid": 86430697,
+      "prices": []
+    },
+    {
+      "id": 25457,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Charmander",
+      "types": [
+        "Fire"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Growl",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 10 (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Flame Tail",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/b8/ad/32/b8ad32f16120cd11cf7fd0a4819dda29bcf682373df1a8390eb22948cbfcac8e.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47388",
+      "sequenceNumber": 13,
+      "printedNumber": "013",
+      "uuid": 18308480,
+      "prices": []
+    },
+    {
+      "id": 25458,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Rapidash",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Ponyta",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Flame Inferno",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "You may discard up to 2 Fire Energy cards attached to this Pokémon. If you do, this attack does 20 more damage for each Fire Energy card you discarded."
+        },
+        {
+          "name": "Kick Away",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/12/c7/d0/12c7d025fa97026b5e8f82550dff0ae6831fdcfed40d49cd54b17a087e1bb550.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47389",
+      "sequenceNumber": 14,
+      "printedNumber": "014",
+      "uuid": 31487942,
+      "prices": []
+    },
+    {
+      "id": 25459,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Squirtle",
+      "types": [
+        "Water"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Water Power",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "During your next turn, this Pokémon's Pound attack's base damage is tripled."
+        },
+        {
+          "name": "Pound",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/85/87/d9/8587d9573cbc53ab162d8dd0590c0c1486e8e6181b315c537dea748065b93e5e.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47390",
+      "sequenceNumber": 15,
+      "printedNumber": "015",
+      "uuid": 12100998,
+      "prices": []
+    },
+    {
+      "id": 25460,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Poliwag",
+      "types": [
+        "Water"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bubble",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/f6/46/04/f64604f84db2ba08c4147b937dc17b5a179c7449cbe63330a127a9050e20975d.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47391",
+      "sequenceNumber": 16,
+      "printedNumber": "016",
+      "uuid": 83437094,
+      "prices": []
+    },
+    {
+      "id": 25461,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Poliwhirl",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Poliwag",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Twiddle",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused. If tails, the Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Body Slam",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/1b/86/39/1b863910a9077e0e5319556d041c68df2953a0bda8fc746f55cc36d078a0ce77.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47392",
+      "sequenceNumber": 17,
+      "printedNumber": "017",
+      "uuid": 8263502,
+      "prices": []
+    },
+    {
+      "id": 25462,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Poliwrath",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Poliwhirl",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Mega Punch",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        },
+        {
+          "name": "Hydro Pump",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40+",
+          "text": "Does 10 more damage for each Water Energy attached to this Pokémon but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yuuki Kawamura",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/16/a2/b4/16a2b47fae21851dd40b740fd4cff48afc7bae2e9c3f5471728df2f6f8b0eb78.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47393",
+      "sequenceNumber": 18,
+      "printedNumber": "018",
+      "uuid": 2048192,
+      "prices": []
+    },
+    {
+      "id": 25463,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Pikachu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Thundershock",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Agility",
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Pikachu."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/ca/dd/9d/cadd9d1bce6a6a7282615e9deae233a1a99c99780c268cb5c51eb07c7f0254a7.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47394",
+      "sequenceNumber": 19,
+      "printedNumber": "019",
+      "uuid": 14116799,
+      "prices": []
+    },
+    {
+      "id": 25464,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Abra",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Psychic Beam",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Does 10 damage to 1 of your opponent's Pokémon. Don't apply Weakness or Resistance."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Aya Kusube",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/a3/2f/47/a32f47660471b611e73f977a08dd70d9e5d63d29c4082426df1cb5fb114661c4.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47395",
+      "sequenceNumber": 20,
+      "printedNumber": "020",
+      "uuid": 93332395,
+      "prices": []
+    },
+    {
+      "id": 25465,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Mr. Mime",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Neutral Damage",
+          "text": "As long as this Pokémon is on your Bench, each Active Pokémon has no Weakness or Resistance.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Juggling",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10×",
+          "text": "Flip 4 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kasumi Matsuda",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/06/f6/19/06f619c6e0067334d42e8b946cc34a396ab84b8b98f445f420a653d8be5184df.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47396",
+      "sequenceNumber": 21,
+      "printedNumber": "021",
+      "uuid": 6216897,
+      "prices": []
+    },
+    {
+      "id": 25466,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Mewtwo",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Psy Crush",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Does 10 damage times the total number of Psychic Energy cards attached to all of your opponent's Pokémon."
+        },
+        {
+          "name": "Super Psy",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/01/66/7a/01667a33b96731952e594d760b5660633a37945da463fe38bb9bd7b4c784722b.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47397",
+      "sequenceNumber": 22,
+      "printedNumber": "022",
+      "uuid": 13685787,
+      "prices": []
+    },
+    {
+      "id": 25467,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Geodude",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Harden",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "During your opponent's next turn, if this Pokémon would be damaged by an attack, prevent that attack's damage done to this Pokémon if that damage is 20 or less."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ai Kurihara",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/32/88/48/3288488d64a186362ee4c66a633f9a8f47e91e546549544e87af3fee9dbe3a6c.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47398",
+      "sequenceNumber": 23,
+      "printedNumber": "023",
+      "uuid": 36546510,
+      "prices": []
+    },
+    {
+      "id": 25468,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Pidgey",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Gust",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Quick Attack",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Aya Kusube",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/fd/24/32/fd24321889188808e4961059d9afc1486686993747ddb590a75f60c1dafcc2c6.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47399",
+      "sequenceNumber": 24,
+      "printedNumber": "024",
+      "uuid": 26958506,
+      "prices": []
+    },
+    {
+      "id": 25469,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Rattata",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Scratch",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Tail Whip",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon can't attack during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/c3/ce/f7/c3cef7ea26f5e4aa87fcbcc9810c541a083d6976c3d8e797ef841eca2839f8d9.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47400",
+      "sequenceNumber": 25,
+      "printedNumber": "025",
+      "uuid": 90703106,
+      "prices": []
+    },
+    {
+      "id": 25470,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Clefairy",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Follow Me",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Switch the Defending Pokémon with 1 of your opponent's Benched Pokémon."
+        },
+        {
+          "name": "Shining Fingers",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10",
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/15/f9/31/15f9315257e01aa478bc6310d2249f96c6038cc0c241bcf8b183211cf25c32f5.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47401",
+      "sequenceNumber": 26,
+      "printedNumber": "026",
+      "uuid": 51385973,
+      "prices": []
+    },
+    {
+      "id": 25471,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Wigglytuff",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Jigglypuff",
+      "effect": [
+        {
+          "name": "Helping Hand",
+          "text": "Once during your turn (before your attack), if this Pokémon is on your Bench, you may flip a coin. If heads, remove 1 Special Condition from your Active Pokémon.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Expand",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "20",
+          "text": "All damage done to this Pokémon by attacks during your opponent's next turn is reduced by 10 (after applying Weakness and Resistance.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/3c/4c/56/3c4c56379c6b040994a5739e0c435a2ba874dc32381f4e41f70fc2b51e5ec849.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47402",
+      "sequenceNumber": 27,
+      "printedNumber": "027",
+      "uuid": 30936726,
+      "prices": []
+    },
+    {
+      "id": 25472,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Doduo",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Growl",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 10 (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Peck",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Tomokazu Komiya",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/88/ba/e2/88bae29e682b2518146d75f9982dfc09ff695cbbfff750facdc9f43d34a2838a.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47403",
+      "sequenceNumber": 28,
+      "printedNumber": "028",
+      "uuid": 98148061,
+      "prices": []
+    },
+    {
+      "id": 25473,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Dodrio",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Doduo",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Smash Kick",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        },
+        {
+          "name": "Tri Attack",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20×",
+          "text": "Flip 3 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ai Kurihara",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/19/87/2a/19872a53b9b081f006433646abe44f177ebb56e4b8958d17f5ad1a263ed9e7e6.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47404",
+      "sequenceNumber": 29,
+      "printedNumber": "029",
+      "uuid": 31727629,
+      "prices": []
+    },
+    {
+      "id": 25474,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Lickitung",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Lick",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Stomp",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/45/8c/9a/458c9a01e5105fee56cd17e07e946c89fdebe83555e89bf06251ab06dc36734a.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47405",
+      "sequenceNumber": 30,
+      "printedNumber": "030",
+      "uuid": 27768420,
+      "prices": []
+    },
+    {
+      "id": 25475,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Chansey",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 100,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sing",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Double Slap",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20×",
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Tomokazu Komiya",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/7f/15/7b/7f157b350c7490b38eab5fa6e914ae1ed8dbc10efe3e547846ab8e917af103ca.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47406",
+      "sequenceNumber": 31,
+      "printedNumber": "031",
+      "uuid": 76477932,
+      "prices": []
+    },
+    {
+      "id": 25476,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Eevee",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Lunge",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/f1/b7/00/f1b700bd99005745d0b2455125e93f0d2deecd89149489c074ec719d80a82273.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47407",
+      "sequenceNumber": 32,
+      "printedNumber": "032",
+      "uuid": 68404314,
+      "prices": []
+    },
+    {
+      "id": 25477,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Porygon",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "3-D Attack",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Conversion 2",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Change this Pokémon Resistance to a type of your choice other than Colorless."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sumiyoshi Kizuki",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/58/ed/27/58ed272f70e15af22b1062fad3a69255b7369b64f8c1c402ac2f151c7b6e700e.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47408",
+      "sequenceNumber": 33,
+      "printedNumber": "033",
+      "uuid": 97069913,
+      "prices": []
+    },
+    {
+      "id": 25478,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Snorlax",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Guard",
+          "text": "As long as Snorlax is your Active Pokémon, the Defending Pokémon can't Retreat. This power stops working when Snorlax is affected by a Special Condition.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Roll Over",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "30",
+          "text": "Snorlax is now Asleep. Flip a coin. If heads, the Defending Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keita Takahashi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/7e/fb/c5/7efbc5a8012994c3bbf8bc615a11968ec0006634de92d2f9dbec3631209d3802.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47409",
+      "sequenceNumber": 34,
+      "printedNumber": "034",
+      "uuid": 81326799,
+      "prices": []
+    },
+    {
+      "id": 25479,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Moon Stone",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may search your deck for a Colorless Evolution card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/38/81/12/3881123c55cee5dc9eedfeea9137fef75933d560ede4b2575a194cc542ea2f03.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47410",
+      "sequenceNumber": 35,
+      "printedNumber": "035",
+      "uuid": 21897595,
+      "prices": []
+    },
+    {
+      "id": 25480,
+      "setData": {
+        "name": "Vending Machine Series 1 (Blue)",
+        "printed_count": 36,
+        "card_count": 36,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11470/vending-machine-series-1-blue"
+      },
+      "name": "Fossil Excavation",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may search your deck for a Mysterious Fossil or choose 1 Mysterious Fossil in your discard pile. Show that card to your opponent and put it into your hand. Either way, shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sumiyoshi Kizuki",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/1c/06/37/1c06377d538feb907f2e1b9b68e1835f50c3c1ecd7c1e726e2d609dd4738b140.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47411",
+      "sequenceNumber": 36,
+      "printedNumber": "036",
+      "uuid": 78266887,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 36,
+  "totalCount": 36
+}

@@ -1,0 +1,4181 @@
+{
+  "data": [
+    {
+      "id": 25950,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Brock's Zubat",
+      "types": [
+        "Grass"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Alert",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Draw a card. Then, switch Brock's Zubat with 1 of your Benched Pokémon. You can't use this attack if your Bench is empty."
+        },
+        {
+          "name": "Wing Attack",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5c/76/27/5c76271bc241dd9383c19b333d6149480f40dd470844fa1065ee1eedfa65f1e9.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47483",
+      "sequenceNumber": 1,
+      "printedNumber": "001",
+      "uuid": 40859351,
+      "prices": []
+    },
+    {
+      "id": 25951,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Erika's Oddish",
+      "types": [
+        "Grass"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Photosynthesis",
+          "text": "All Energy cards attached to Erika's Oddish provide Grass Energy instead of their usual type. This power works even while Erika's Oddish is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Poisonpowder",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7b/1f/4b/7b1f4b76b29530b7b3b60cfe982a03b25453205e81905ba6163a0255a25db1ec.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47484",
+      "sequenceNumber": 2,
+      "printedNumber": "002",
+      "uuid": 34099683,
+      "prices": []
+    },
+    {
+      "id": 25952,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Erika's Gloom",
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Erika's Oddish",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dream Dance",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10",
+          "text": "Both the Defending Pokémon and Erika's Gloom are now Asleep (after doing damage)."
+        },
+        {
+          "name": "Vile Smell",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "Both the Defending Pokémon and Erika's Gloom are now Confused (after doing damage)."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e5/d5/e9/e5d5e95a38d2d68e1e735c0bc8eddabaad73882177499f2d66ea7869d5c1e9f7.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47485",
+      "sequenceNumber": 3,
+      "printedNumber": "003",
+      "uuid": 82111378,
+      "prices": []
+    },
+    {
+      "id": 25953,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Erika's Bellsprout",
+      "types": [
+        "Grass"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Poison Vine",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Vine Whip",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/98/23/02/9823025681c14373be0bcdeb9eda9fa0879e5754bf652de864b19406e9fb14ae.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47486",
+      "sequenceNumber": 4,
+      "printedNumber": "004",
+      "uuid": 9721703,
+      "prices": []
+    },
+    {
+      "id": 25954,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Erika's Weepinbell",
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Erika's Bellsprout",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sleep Poison",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "The Defending Pokémon is now Asleep and Poisoned."
+        },
+        {
+          "name": "Vine Whip",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9b/4e/59/9b4e595acb6b79df4ab0998dbe8087aea036d30a4175cc0272de3d49097f88cd.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47487",
+      "sequenceNumber": 5,
+      "printedNumber": "005",
+      "uuid": 77913934,
+      "prices": []
+    },
+    {
+      "id": 25955,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Erika's Exeggcute",
+      "types": [
+        "Grass"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Eggsplosion",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip a number of coins equal to the number of Energy attached to Erika's Exeggcute. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Psychic",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "Does 10 damage plus 10 more damage for each Energy card attached to the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/65/ed/7f/65ed7fb46fb2329ea8e4c5316d4cf3fb3e4a13160efbba385e6ad57081aa7140.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47488",
+      "sequenceNumber": 6,
+      "printedNumber": "006",
+      "uuid": 27849104,
+      "prices": []
+    },
+    {
+      "id": 25956,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Blaine's Charmander",
+      "types": [
+        "Fire"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fire Tail Slap",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Use this attack only if there are any Fire Energy cards attached to Blaine's Charmander. Flip a coin. If tails, discard 1 of those cards."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/31/c2/ef/31c2efdf3a2107f5ce922a551d05b29ad6b57b0abbcf18eed04081ccb9ccba81.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47489",
+      "sequenceNumber": 7,
+      "printedNumber": "007",
+      "uuid": 4209126,
+      "prices": []
+    },
+    {
+      "id": 25957,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Blaine's Vulpix",
+      "types": [
+        "Fire"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bite",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Call Will-o'-the-wisp",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip 3 coins. For each heads, if you have a Fire Energy card in your discard pile, put it into your hand."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c0/70/16/c070168503608a6ef737db15605f30a43ae1861d303310db6edcfa60ea5eea54.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47490",
+      "sequenceNumber": 8,
+      "printedNumber": "008",
+      "uuid": 48598413,
+      "prices": []
+    },
+    {
+      "id": 25958,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Blaine's Growlithe",
+      "types": [
+        "Fire"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Shake",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)"
+        },
+        {
+          "name": "Fire Tackle",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Blaine's Growlithe does 10 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/77/34/ca/7734ca10283c98eef8410f824f32ed1103b633dbaf96d9b0d9a3b768f079195e.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47491",
+      "sequenceNumber": 9,
+      "printedNumber": "009",
+      "uuid": 33565416,
+      "prices": []
+    },
+    {
+      "id": 25959,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Blaine's Growlithe",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Stoke",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for a Fire Energy card and attach it to Blaine's Growlithe. Shuffle your deck afterward."
+        },
+        {
+          "name": "Body Slam",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b6/35/8a/b6358ae28b43919e1f387d10fd45d383b1884d9a4431c28b0cd4effe4b0be0fd.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47492",
+      "sequenceNumber": 10,
+      "printedNumber": "010",
+      "uuid": 50903725,
+      "prices": []
+    },
+    {
+      "id": 25960,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Blaine's Ponyta",
+      "types": [
+        "Fire"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Agility",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Blaine's Ponyta."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/74/15/3a/74153a49f312ba406cf6177b04bea1abcd7d21064261247420ef208d998fd22d.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47493",
+      "sequenceNumber": 11,
+      "printedNumber": "011",
+      "uuid": 68580775,
+      "prices": []
+    },
+    {
+      "id": 25961,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Misty's Psyduck",
+      "types": [
+        "Water"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Scratch",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Call for Friend",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, you may search your deck for a Basic Pokémon with Misty in its name and put it onto your Bench. (You can't use this attack if your Bench is full.) Shuffle your deck afterward."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/19/71/a5/1971a5627b5c7034d2c4c43afe4bd0c84c77751ea1f0f992ced4466adcae0607.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47494",
+      "sequenceNumber": 12,
+      "printedNumber": "012",
+      "uuid": 89892268,
+      "prices": []
+    },
+    {
+      "id": 25962,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Misty's Poliwag",
+      "types": [
+        "Water"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hypnotic Stare",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, the Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Tail Rap",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d0/85/42/d0854263a8e5fd77182eec7c50b6c4009592f2c30607addff00d5017009f74db.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47495",
+      "sequenceNumber": 13,
+      "printedNumber": "013",
+      "uuid": 80885746,
+      "prices": []
+    },
+    {
+      "id": 25963,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Misty's Tentacool",
+      "types": [
+        "Water"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Mysterious Light",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Jellyfish Pod",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Search your deck for any number of Pokémon named Tentacool, Tentacruel, Misty's Tentacool, and/or Misty's Tentacruel. Show those cards to your opponent, then put them into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1f/67/cd/1f67cda80725cd44f4237e66d3fd0b75a377ae03a0a87ea5e4d0706ec30e67da.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47496",
+      "sequenceNumber": 14,
+      "printedNumber": "014",
+      "uuid": 47587589,
+      "prices": []
+    },
+    {
+      "id": 25964,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Misty's Seel",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Aurora Beam",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/87/4e/d3/874ed32008bb81af89949d29825c58c57a52c37605fd57bee3b5c7302a64b32b.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47497",
+      "sequenceNumber": 15,
+      "printedNumber": "015",
+      "uuid": 71001639,
+      "prices": []
+    },
+    {
+      "id": 25965,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Misty's Shellder",
+      "types": [
+        "Water"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Clamp",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, this attack does nothing (not even damage)."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\""
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/79/24/b8/7924b8e3a29f413e7f7767d8211d7901f9d762142008e308297b568b65b73c15.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47498",
+      "sequenceNumber": 16,
+      "printedNumber": "016",
+      "uuid": 99366861,
+      "prices": []
+    },
+    {
+      "id": 25966,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Misty's Cloyster",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Misty's Shellder",
+      "effect": [
+        {
+          "name": "Shell Armor",
+          "text": "You may reduce all damage done by attacks to Misty's Cloyster by 10 (after applying Weakness and Resistance). (Any other effects of attacks still happen.) This power can't be used if Misty's Cloyster is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Triple Cannon",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20×",
+          "text": "Flip 3 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\""
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/01/9d/f1/019df130c6663fd2aeb4987d6713ad4f2a6c02b0e8e41929bb683dee2c7f79d0.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47499",
+      "sequenceNumber": 17,
+      "printedNumber": "017",
+      "uuid": 26678682,
+      "prices": []
+    },
+    {
+      "id": 25967,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Misty's Goldeen",
+      "types": [
+        "Water"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Horn Hazard",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5b/55/b7/5b55b7436142c7f8491a93c0d987a595b99c923a1c6cc25e04ab7fc388438fe0.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47500",
+      "sequenceNumber": 18,
+      "printedNumber": "018",
+      "uuid": 56882911,
+      "prices": []
+    },
+    {
+      "id": 25968,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Misty's Seaking",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Misty's Goldeen",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Horn Attack",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Mud Splash",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and flip a coin. If heads, this attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\""
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/eb/d3/22/ebd322f2826ba26c7bb8b30f7de7df4a403d0fa28e190658f4cf5f4975152ead.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47501",
+      "sequenceNumber": 19,
+      "printedNumber": "019",
+      "uuid": 88717977,
+      "prices": []
+    },
+    {
+      "id": 25969,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Misty's Staryu",
+      "types": [
+        "Water"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Swift",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "This attack's damage isn't affected by Weakness, Resistance, Pokémon Powers, or any other effects on the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f1/88/2c/f1882ce1d4abde21df67a0809da2986312227435df3dece1cd39d592b348e4a1.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47502",
+      "sequenceNumber": 20,
+      "printedNumber": "020",
+      "uuid": 99634633,
+      "prices": []
+    },
+    {
+      "id": 25970,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Misty's Starmie",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Misty's Staryu",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "Does 10 damage plus 10 more damage for each Water Energy attached to Misty's Starmie but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        },
+        {
+          "name": "Bubblebeam",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\""
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c4/f6/c1/c4f6c1b74432bc930d1eda4cb03551cc6768117b128ae6076e64064d540254a6.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47503",
+      "sequenceNumber": 21,
+      "printedNumber": "021",
+      "uuid": 12205578,
+      "prices": []
+    },
+    {
+      "id": 25971,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Lt. Surge's Pikachu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Charge",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Take 1 Lightning Energy card from your discard pile and attach it to Lt. Surge's Pikachu."
+        },
+        {
+          "name": "Lightning Tail",
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b9/3f/3b/b93f3b526a0a81f4e0b2c457a5c84bc5ced5801568218b4ee48f60b0428ab286.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47504",
+      "sequenceNumber": 22,
+      "printedNumber": "022",
+      "uuid": 82236936,
+      "prices": []
+    },
+    {
+      "id": 25972,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Lt. Surge's Raichu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Lt. Surge's Pikachu",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Mega Punch",
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        },
+        {
+          "name": "Thunderbolt",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "100",
+          "text": "Discard all Energy cards attached to Lt. Surge's Raichu in order to use this attack."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/43/d2/d5/43d2d5f6a422c744e0e4c608f7c00ca60f085f8021bb902fe998ffcfed073a9e.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47505",
+      "sequenceNumber": 23,
+      "printedNumber": "023",
+      "uuid": 1107198,
+      "prices": []
+    },
+    {
+      "id": 25973,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Lt. Surge's Voltorb",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bouncing Ball",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If tails, Lt. Surge's Voltorb does 10 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6b/12/16/6b1216b26c28d7e9c2f8953094d30ce5967200679ac5c74db7fcc59ec4421acf.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47506",
+      "sequenceNumber": 24,
+      "printedNumber": "024",
+      "uuid": 26244757,
+      "prices": []
+    },
+    {
+      "id": 25974,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Lt. Surge's Electrode",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Lt. Surge's Voltorb",
+      "effect": [
+        {
+          "name": "Shock Blast",
+          "text": "If Lt. Surge's Electrode is your Active Pokémon and gets damaged (even if it's Knocked Out), flip a coin. If tails, this power does 20 damage to each Active Pokémon. This power works even if Lt. Surge's Electrode is already Asleep, Confused, or Paralyzed when it takes damage.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Power Ball",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30+",
+          "text": "Flip 3 coins. This attack does 30 damage plus 10 more damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\""
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/47/88/65/478865a471d67e7a15699dbc47b63a2e4116dd67f907d4f98544587623662042.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47507",
+      "sequenceNumber": 25,
+      "printedNumber": "025",
+      "uuid": 96969999,
+      "prices": []
+    },
+    {
+      "id": 25975,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Lt. Surge's Electabuzz",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Charge",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Take up to 2 Lightning Energy cards from your discard pile and attach them to Lt. Surge's Electabuzz."
+        },
+        {
+          "name": "Electric Current",
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Take 1 Lightning Energy card attached to Lt. Surge's Electabuzz and attach it to 1 of your Benched Pokémon. If you have no Benched Pokémon, discard that Energy card."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/62/e3/61/62e36132cbe8da6ac0608117fe516cbe19e83b869e1bc7cc82a9902db432bcd2.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47508",
+      "sequenceNumber": 26,
+      "printedNumber": "026",
+      "uuid": 69122253,
+      "prices": []
+    },
+    {
+      "id": 25976,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Sabrina's Abra",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Pound",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Synchronize",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40",
+          "text": "This attack can't be used unless Sabrina's Abra and the Defending Pokémon have the same number of Energy cards attached to them."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/47/8c/c1/478cc164e1728c881a7ab16f752393246636f24116467bb9a8cbf770cee8d298.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47509",
+      "sequenceNumber": 27,
+      "printedNumber": "027",
+      "uuid": 15702609,
+      "prices": []
+    },
+    {
+      "id": 25977,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Sabrina's Abra",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Psyscan",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Look at your opponent's hand."
+        },
+        {
+          "name": "Quick Attack",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c2/58/70/c2587076df8d526e80c06712a130c41fbcbbc7c2bccd8361d856ad87edb77408.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47510",
+      "sequenceNumber": 28,
+      "printedNumber": "028",
+      "uuid": 54439391,
+      "prices": []
+    },
+    {
+      "id": 25978,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Sabrina's Gastly",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Lick",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Fade Out",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Return Sabrina's Gastly and all Energy cards attached to it to your hand. (Discard all other cards attached to Sabrina's Gastly.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/77/0d/45/770d451d89caa3fc31be2388b0d8cae0185714e7d421ef4ff4e94ce97780b1ee.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47511",
+      "sequenceNumber": 29,
+      "printedNumber": "029",
+      "uuid": 39795662,
+      "prices": []
+    },
+    {
+      "id": 25979,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Sabrina's Gastly",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Spook",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/45/77/37/457737b68199ff3f9ba5356524b22141aa36e9fa422a2b7794fbdcca2ef36a75.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47512",
+      "sequenceNumber": 30,
+      "printedNumber": "030",
+      "uuid": 91213025,
+      "prices": []
+    },
+    {
+      "id": 25980,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Sabrina's Haunter",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Sabrina's Gastly",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Nightmare",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Shadow Attack",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Flip a coin. If heads, and if your opponent has any Benched Pokémon, choose 1 of them and this attack does 30 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/df/0c/af/df0caf9030b303ac935e049af21c115ce97273fab629ac20c70f372bbc8c5f07.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47513",
+      "sequenceNumber": 31,
+      "printedNumber": "031",
+      "uuid": 44531706,
+      "prices": []
+    },
+    {
+      "id": 25981,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Sabrina's Gengar",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Sabrina's Haunter",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dark Wave",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "All Pokémon Powers stop working until the end of your opponent's next turn."
+        },
+        {
+          "name": "Shadow Bind",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Stage 2"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3e/94/77/3e9477d9e23ef7ddc34a5a2febff4df180a66b110d09450ac224f98f07d62a41.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47514",
+      "sequenceNumber": 32,
+      "printedNumber": "032",
+      "uuid": 7060530,
+      "prices": []
+    },
+    {
+      "id": 25982,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Sabrina's Drowzee",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Energy Support",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for a Psychic Energy card and attach it to one of your Benched Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Mind Shock",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e1/e7/f8/e1e7f837d0e663dc1ccf3f4d9f80477507149adc61ee9e9cf50e5abdc075fc2f.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47515",
+      "sequenceNumber": 33,
+      "printedNumber": "033",
+      "uuid": 57159624,
+      "prices": []
+    },
+    {
+      "id": 25983,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Sabrina's Mr. Mime",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Magic Darts",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Choose 1 of your opponent's Pokémon and flip 3 coins. This attack does 10 damage times the number of heads to that Pokémon. Don't apply Weakness and Resistance for this attack."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1c/5f/f0/1c5ff0798c1c39fd4087164f3bf57b308f4ece7c12c9a286a197c6f4b9375c6a.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47516",
+      "sequenceNumber": 34,
+      "printedNumber": "034",
+      "uuid": 70833282,
+      "prices": []
+    },
+    {
+      "id": 25984,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Sabrina's Jynx",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Good Night",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Good Morning",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "If the Defending Pokémon was Asleep, it is no longer Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/23/3b/5f/233b5f362a551e755c967690ebff5ed3dd46c43fcd8a83d7c58e1cbc078e8bc0.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47517",
+      "sequenceNumber": 35,
+      "printedNumber": "035",
+      "uuid": 67709696,
+      "prices": []
+    },
+    {
+      "id": 25985,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Brock's Sandshrew",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Defense Curl",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, prevent all damage done to Brock's Sandshrew during your opponent's next turn. (Any other effects of attacks still happen.)"
+        },
+        {
+          "name": "Rolling Attack",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7f/61/cb/7f61cb2ebd4b81f28ffe67e5e2f1fb90bb8ca6af168159bcefb151c1fe9166e3.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47518",
+      "sequenceNumber": 36,
+      "printedNumber": "036",
+      "uuid": 99240933,
+      "prices": []
+    },
+    {
+      "id": 25986,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Brock's Sandslash",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Brock's Sandshrew",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Needles",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed and Poisoned."
+        },
+        {
+          "name": "Sandstorm",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b2/c7/aa/b2c7aa134a462529a8fbbc36e40db807063383909a3ad2528a9824b2c47f5a57.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47519",
+      "sequenceNumber": 37,
+      "printedNumber": "037",
+      "uuid": 13761367,
+      "prices": []
+    },
+    {
+      "id": 25987,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Brock's Mankey",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Taunt",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and switch it with the Defending Pokémon."
+        },
+        {
+          "name": "Light Kick",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ae/b5/91/aeb59126a8cd3c380a08f974703a5812adf7aa64665d2234cc5b341fd3f31ef2.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47520",
+      "sequenceNumber": 38,
+      "printedNumber": "038",
+      "uuid": 80957122,
+      "prices": []
+    },
+    {
+      "id": 25988,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Brock's Geodude",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Lucky Shot",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Choose 1 of your opponent's Benched Pokémon and flip a coin. If heads, this attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) This attack can't be used if your opponent has no Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f8/f7/a8/f8f7a8f5f5e03520a0df949c81d70c03e6b3ac098f190485313a59b3a7a6d448.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47521",
+      "sequenceNumber": 39,
+      "printedNumber": "039",
+      "uuid": 24081756,
+      "prices": []
+    },
+    {
+      "id": 25989,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Brock's Graveler",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Brock's Geodude",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Rock Toss",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20×",
+          "text": "Flip 3 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e2/f8/4b/e2f84b04411432d67b650b75fcfc165ca805cc493f23ca15fa074303b20806be.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47522",
+      "sequenceNumber": 40,
+      "printedNumber": "040",
+      "uuid": 72658182,
+      "prices": []
+    },
+    {
+      "id": 25990,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Brock's Onix",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bind",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Tunneling",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "If your opponent has any Benched Pokémon, choose up to 2 of them. This attack does 20 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.) Brock's Onix can't attack during your next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Benimaru Itoh",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f3/ee/80/f3ee807ba642e9f249abdf8dee905f284b7194537661de1c90beea5ab3104264.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47523",
+      "sequenceNumber": 41,
+      "printedNumber": "041",
+      "uuid": 80957678,
+      "prices": []
+    },
+    {
+      "id": 25991,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Brock's Rhyhorn",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Horn Toss",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)"
+        },
+        {
+          "name": "Take Down",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "Brock's Rhyhorn does 10 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e7/b5/52/e7b552340166a524b3a1180f0efe6daad35596ae875d6905feeec59f895ead2d.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47524",
+      "sequenceNumber": 42,
+      "printedNumber": "042",
+      "uuid": 9893277,
+      "prices": []
+    },
+    {
+      "id": 25992,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Erika's Clefairy",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Moonwatching",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for a basic Energy card. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Comet Slap",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10×",
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/49/d8/cd/49d8cd0b967db11af43204e4e94e9f9908c9dd2af1a27fa495e0c764a5bda585.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47525",
+      "sequenceNumber": 43,
+      "printedNumber": "043",
+      "uuid": 69232399,
+      "prices": []
+    },
+    {
+      "id": 25993,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Lt. Surge's Rattata",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Focus Energy",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "During your next turn, Lt. Surge's Rattata's Gnaw attack's base damage is doubled."
+        },
+        {
+          "name": "Gnaw",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/46/5b/08/465b08ff309dbe6a884f691781c40c98cbeba8e587a112339ad7cb6384843d20.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47526",
+      "sequenceNumber": 44,
+      "printedNumber": "044",
+      "uuid": 22834709,
+      "prices": []
+    },
+    {
+      "id": 25994,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Lt. Surge's Raticate",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Lt. Surge's Rattata",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Super Fang",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "?",
+          "text": "Does damage to the Defending Pokémon equal to half the Defending Pokémon's remaining HP (rounded up to the nearest 10)."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6d/ec/33/6dec3310ac0487a38cd9ad6ad7da78f7239cf8889507e83b6380a310e788a1b6.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47527",
+      "sequenceNumber": 45,
+      "printedNumber": "045",
+      "uuid": 69446729,
+      "prices": []
+    },
+    {
+      "id": 25995,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Lt. Surge's Spearow",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Drill Peck",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c8/7e/db/c87edbcff903180fc5ef9e025a85714b426457c9cc0f6e87aadcb9404f9cdb2d.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47528",
+      "sequenceNumber": 46,
+      "printedNumber": "046",
+      "uuid": 25697492,
+      "prices": []
+    },
+    {
+      "id": 25996,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Blaine's Dodrio",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Blaine's Doduo",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Mega Peck",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\""
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ff/c9/3d/ffc93d9efcdf58d849e8f523c41135a8b73e3b0888e2ff874d2f20b2e86c328f.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47529",
+      "sequenceNumber": 47,
+      "printedNumber": "047",
+      "uuid": 2495396,
+      "prices": []
+    },
+    {
+      "id": 25997,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Energy Retrieval",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"You may use this card only if you discard a card from your hand. Choose up to 2 basic Energy cards from your discard pile, and put them into your hand. (You cant choose the card you discarded with the effect of this card.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/12/2c/4b/122c4b74d5ee4330fb777bfff85cfef0fa164a25b5338f7a50096fb01365657d.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47530",
+      "sequenceNumber": 48,
+      "printedNumber": "048",
+      "uuid": 8262647,
+      "prices": []
+    },
+    {
+      "id": 25998,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Misty",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Discard 2 of the other cards in your hand in order to play this card. If this turns attack does damage to the Defending Pokémon (after applying Weakness and Resistance), and if the attacking Pokémon has Misty in its name, the attack does 20 more damage to the Defending Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a4/38/85/a4388515c0a6f8ff28ad9894e3fc7e0819406fe25a654c98ab0a6cb7ae72fb90.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47531",
+      "sequenceNumber": 49,
+      "printedNumber": "049",
+      "uuid": 46362004,
+      "prices": []
+    },
+    {
+      "id": 25999,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Potion",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Remove up to 2 damage counters from 1 of your Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/31/af/15/31af1597ba31d8a16217e4c5c41286e28747c841fb8ee46e3ede7d654b43ced3.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47532",
+      "sequenceNumber": 50,
+      "printedNumber": "050",
+      "uuid": 48074388,
+      "prices": []
+    },
+    {
+      "id": 26000,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Revive",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Put 1 Basic Pokémon card from your discard pile onto your Bench. Put damage counters on that Pokémon equal to half its HP (rounded down to the nearest 10). (You cant play Revive if your discard pile does not have any Basic Pokémon or if your Bench is full.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6b/fb/51/6bfb512a1d0bb2ddd565236156d175256bd0c192ba613d956b056ad315759f95.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47533",
+      "sequenceNumber": 51,
+      "printedNumber": "051",
+      "uuid": 41768935,
+      "prices": []
+    },
+    {
+      "id": 26001,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Brock",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Remove 1 damage counter from each of your Pokémon that has any damage counters on it."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e6/d5/8d/e6d58d7783d8fdc0b564f80537b3f4fe60965d909049701320684e9c2e139268.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47555",
+      "sequenceNumber": 52,
+      "printedNumber": "052",
+      "uuid": 86601150,
+      "prices": []
+    },
+    {
+      "id": 26002,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Defender",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach Defender to 1 of your Pokémon. At the end of your opponents next turn, discard Defender. Damage done to that Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance).\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b9/1e/40/b91e40fce2ee82292e555156e3ff7a8932d6124bf42047f00aab83ee892e68c5.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47556",
+      "sequenceNumber": 53,
+      "printedNumber": "053",
+      "uuid": 6127709,
+      "prices": []
+    },
+    {
+      "id": 26003,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Gust of Wind",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Choose 1 of your opponents Benched Pokémon and switch it with his or her Active Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7e/f5/f8/7ef5f867a7cdd38866a6bbec299764aad658aa6cbc345560047a4ca6a3225331.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47557",
+      "sequenceNumber": 54,
+      "printedNumber": "054",
+      "uuid": 40492205,
+      "prices": []
+    },
+    {
+      "id": 26004,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Full Heal",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Your Active Pokémon is no longer Asleep, Confused, Paralyzed, or Poisoned."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/21/57/f9/2157f95eae558325284ef0c1d15ddf14f3440462afd1c4079db0508bdcae92b5.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47558",
+      "sequenceNumber": 55,
+      "printedNumber": "055",
+      "uuid": 6718283,
+      "prices": []
+    },
+    {
+      "id": 26005,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Switch 1 of your Benched Pokémon with your Active Pokémon"
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f6/e5/c4/f6e5c441ba8d6300cc118793b7d9f98575f8f666b7e7419e356ae234c7a43b15.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47559",
+      "sequenceNumber": 56,
+      "printedNumber": "056",
+      "uuid": 94221959,
+      "prices": []
+    },
+    {
+      "id": 26006,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Pokémon Center",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Remove all damage counters from all of your own Pokémon with damage counters on them, then discard all Energy cards attached to those Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/97/41/eb/9741ebc9b7c97f0415fe28d434b84a4dcaa4b390baeb4ac1b57276030139cad2.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47560",
+      "sequenceNumber": 57,
+      "printedNumber": "057",
+      "uuid": 61952480,
+      "prices": []
+    },
+    {
+      "id": 26007,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Pokédex",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Look at up to 5 cards from the top of your deck and rearrange them as you like."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0b/7e/1c/0b7e1cdee996001773514e7a70ff211bcf6aeec9c5deb463af5b564fe58b6929.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47561",
+      "sequenceNumber": 58,
+      "printedNumber": "058",
+      "uuid": 34450859,
+      "prices": []
+    },
+    {
+      "id": 26008,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Super Potion",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Discard 1 Energy card attached to 1 of your own Pokémon in order to remove up to 4 damage counters from that Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/69/86/b1/6986b10d5862df97bb37ed7c8b0ac4166b54ab5d14bab9c2b8871aa0c661bf94.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47562",
+      "sequenceNumber": 59,
+      "printedNumber": "059",
+      "uuid": 17135758,
+      "prices": []
+    },
+    {
+      "id": 26009,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Energy Search",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Search your deck for a basic Energy card and put it into your hand. Shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f9/cb/5c/f9cb5ccdb3c3dbe159dd9d19b2d1aca0cb96c7c281810938a0fb4fa31f89a4a7.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47563",
+      "sequenceNumber": 60,
+      "printedNumber": "060",
+      "uuid": 88574202,
+      "prices": []
+    },
+    {
+      "id": 26010,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Erika",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may draw up to 3 cards, then your opponent may draw up to 3 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9d/33/c6/9d33c6ffe701da03266dd5a65c6ee9537c7043b63b880cf3889f644e1c66aa6f.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47564",
+      "sequenceNumber": 61,
+      "printedNumber": "061",
+      "uuid": 74471182,
+      "prices": []
+    },
+    {
+      "id": 26011,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "PlusPower",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach PlusPower to your Active Pokémon. At the end of your turn, discard PlusPower. If this Pokémons attack does damage to the Defending Pokémon (after applying Weakness and Resistance), the attack does 10 more damage to the Defending Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/90/f0/79/90f0791889904556a8d16b889ac23fae61741d3f2b9db73599133fe71ffad394.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47565",
+      "sequenceNumber": 62,
+      "printedNumber": "062",
+      "uuid": 26926546,
+      "prices": []
+    },
+    {
+      "id": 26012,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Lt. Surge",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"You can play this card only if you have at least 1 Basic Pokémon card in your hand. Put a Basic Pokémon card from your hand into play as your Active Pokémon. Put your old Active Pokémon onto your Bench. (You cant play this card if your Bench is full.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/63/45/03/634503766becfa3e263511fa6cdfb9f1d13089731760abda957d9447dcdb15c3.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47566",
+      "sequenceNumber": 63,
+      "printedNumber": "063",
+      "uuid": 19657063,
+      "prices": []
+    },
+    {
+      "id": 26013,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Poké Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Flip a coin. If heads, you may search your deck for any Basic Pokémon or Evolution card. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c0/e6/c1/c0e6c1bdd2f0166a4ada5fee9bee6609d34633fce18b4ca2edcca906e574f58f.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47567",
+      "sequenceNumber": 64,
+      "printedNumber": "064",
+      "uuid": 17823980,
+      "prices": []
+    },
+    {
+      "id": 26014,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Recycle",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Flip a coin. If heads, put a card in your discard pile on top of your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b4/dc/bb/b4dcbb2fad39bbc332630c716418d88953a139a079bd601d66a0ca9dbcf3b983.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47568",
+      "sequenceNumber": 65,
+      "printedNumber": "065",
+      "uuid": 82353173,
+      "prices": []
+    },
+    {
+      "id": 26015,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Blaine's Quiz #1",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Put a Basic Pokémon or Evolution card from your hand face down in front of you and tell your opponent its name. Your opponent guesses the length of that Pokémon. Flip the card over. If your opponent guessed right, he or she draws 2 cards. If your opponent guessed wrong, you draw 2 cards. Either way, return the card to your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e4/11/a0/e411a058c841cc2b4aaf2c825c79b1315b5c307422df213e9e46c3711ce6bfd9.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47569",
+      "sequenceNumber": 66,
+      "printedNumber": "066",
+      "uuid": 25460118,
+      "prices": []
+    },
+    {
+      "id": 26016,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Blaine's Quiz #2",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Put a card from your hand face down in front of you. Your opponent guesses whether it is an Energy card, a Trainer card, or a Pokémon (Basic or Evolution) card. Flip the card over. If your opponent guessed right, he or she draws 2 cards. If your opponent guessed wrong, you draw 2 cards. Either way, return the card to your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e8/c6/e8/e8c6e82fdb56d32de624fe4ea51f50875eb6182f808c7c437c01019ab6b4677c.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47570",
+      "sequenceNumber": 67,
+      "printedNumber": "067",
+      "uuid": 61839138,
+      "prices": []
+    },
+    {
+      "id": 26017,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Max Revive",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Discard 2 Energy cards from your hand in order to put 1 Basic Pokémon from your discard pile onto your Bench. (You cant play Max Revive if your Bench is full.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hikaru Koike",
+      "imageUrl": "https://static.tcgcollector.com/content/images/17/6b/b3/176bb311545f5ca2bfc3838ac0dff5f017d1d61d98552439a2670181ac6cadb0.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47571",
+      "sequenceNumber": 68,
+      "printedNumber": "068",
+      "uuid": 79152215,
+      "prices": []
+    },
+    {
+      "id": 26018,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Fervor",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Show the top 3 cards of your deck to all players. Put any Fire Energy cards there into your hand and discard the rest."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/96/cd/f2/96cdf292f91d1dbf8990770739418834a00bd2770e9f65a2da95a86eee6305fc.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47572",
+      "sequenceNumber": 69,
+      "printedNumber": "069",
+      "uuid": 23159024,
+      "prices": []
+    },
+    {
+      "id": 26019,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Master Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Look at 7 cards from the top of your deck. You may choose a Basic Pokémon or Evolution card from those cards, show it your opponent, then put it into your hand. Shuffle the rest into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/69/dc/d5/69dcd588949b7f908e109815edd3e6d0ef1c1c6ebbc7a739d615f7fe30f41767.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47573",
+      "sequenceNumber": 70,
+      "printedNumber": "070",
+      "uuid": 23170478,
+      "prices": []
+    },
+    {
+      "id": 26020,
+      "setData": {
+        "name": "City Gym Decks",
+        "printed_count": 71,
+        "card_count": 71,
+        "year": "1998",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/sets/11473/city-gym-decks"
+      },
+      "name": "Double Colorless Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Provides Colorless Colorless energy. Doesnt count as a basic Energy card.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/06/fd/4e/06fd4eac44af8664165fdf278d5124950016a0fa138109a5362422ecabffc03b.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47574",
+      "sequenceNumber": 71,
+      "printedNumber": "071",
+      "uuid": 71357902,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 71,
+  "totalCount": 71
+}

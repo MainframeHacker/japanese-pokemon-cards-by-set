@@ -1,0 +1,5797 @@
+{
+  "data": [
+    {
+      "id": 7875,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Alolan Sandshrew",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "cost": [],
+          "convertedEnergyCost": 0,
+          "damage": "10×",
+          "text": "Flip 3 coins. This attack does 10 damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Alolan",
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/63/ec/9f/63ec9f4cbd7783d9b623f36f7df6ab505635aa7cf6301acdf912af6539768148.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21109",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 3710822,
+      "prices": [
+        {
+          "priceAmount": 104,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/alolan-sandshrew-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7876,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Alolan Sandslash",
+      "types": [
+        "Water"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Alolan Sandshrew",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Spike Armor",
+          "cost": [],
+          "convertedEnergyCost": 0,
+          "damage": "30",
+          "text": "During your opponent's next turn, if this Pokémon is damaged by an attack (even if this Pokémon is Knocked Out), put 6 damage counters on the Attacking Pokémon."
+        },
+        {
+          "name": "Frost Breath",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Alolan",
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Anesaki Dynamic",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3c/3c/0a/3c3c0ae3b463c8602d2493590e7c0a569af59430ac3f0a38b3931a0c320d1a1a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21110",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 66856639,
+      "prices": [
+        {
+          "priceAmount": 100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/alolan-sandslash-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7877,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Piplup",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Splatter",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "This attack does 20 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4b/9d/20/4b9d2023ce71b08d6e5625cae928226ff15fa8a97760e850da64acf85a47f68a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21111",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 25279868,
+      "prices": [
+        {
+          "priceAmount": 109,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/piplup-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7878,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Piplup",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Peck",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Wave Splash",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shibuzoh.",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fe/20/c1/fe20c12ff761605b908d7f4ef57e7ca8ee9246b04faeeb6fc25fdbdce87fce2d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21112",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 79827653,
+      "prices": [
+        {
+          "priceAmount": 465,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/piplup-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7879,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Prinplup",
+      "types": [
+        "Water"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Piplup",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bubble Beam",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Wave Splash",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mizue",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bd/14/0d/bd140d13e8f23ca544c79f9740fb80084aa1166de4c555a0e9791833020f1921.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21113",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 92283064,
+      "prices": [
+        {
+          "priceAmount": 399,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/prinplup-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7880,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Empoleon",
+      "types": [
+        "Water"
+      ],
+      "hp": 160,
+      "evolvesFrom": "Prinplup",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Total Command",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "This attack does 20 damage for each Benched Pokémon (both yours and your opponent's)."
+        },
+        {
+          "name": "Whirlpool",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "Discard an Energy from your opponent's Active Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "nagimiso",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ff/3b/1f/ff3b1f8fa261ebdaadf05d52d0d9f5ab9912ab9dafad65d59b93038d7bd90bd8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21114",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 73507420,
+      "prices": [
+        {
+          "priceAmount": 351,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/empoleon-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7881,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Buizel",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "so-taro",
+      "imageUrl": "https://static.tcgcollector.com/content/images/89/7c/61/897c6145b39705d7fa34315636fce3dbf657764e561ba8dde75853b78a7658e7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21115",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 84603118,
+      "prices": [
+        {
+          "priceAmount": 500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/buizel-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7882,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Floatzel",
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Buizel",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Agility",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        },
+        {
+          "name": "Aqua Blast",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "80",
+          "text": "Discard a Water Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoyo Kimura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/80/f6/e3/80f6e3faef6ad60992410f7ec7da96bd65c327c81ff4e7d4055505f3577642d2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21116",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 70298871,
+      "prices": []
+    },
+    {
+      "id": 7883,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Snover",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Ice Shard",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "If your opponent's Active Pokémon is a Fighting Pokémon, this attack does 40 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "-20"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "match",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ef/59/59/ef5959cb15521059c0c1d2e62de8ecfa2cbad087004305585a84ec217aa8836e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21117",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 30295055,
+      "prices": []
+    },
+    {
+      "id": 7884,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Abomasnow",
+      "types": [
+        "Water"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Snover",
+      "effect": [
+        {
+          "name": "Blessings of the Frost",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may attach a Water Energy card from your discard pile to 1 of your Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hypno Hammer",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "80",
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bf/83/65/bf8365e5a93e722c79a61fe50e765bee3c4e1c182244ead930e25994a251ec3a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21118",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 30718593,
+      "prices": []
+    },
+    {
+      "id": 7885,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Glaceon-GX",
+      "types": [
+        "Water"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Eevee",
+      "effect": [
+        {
+          "name": "Freezing Gaze",
+          "text": "As long as this Pokémon is your Active Pokémon, your opponent's Pokémon-GX and Pokémon-EX in play, in their hand, and in their discard pile have no Abilities, except for Freezing Gaze.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Frost Bullet",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Polar Spear-GX",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50×",
+          "text": "This attack does 50 damage for each damage counter on your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 1"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8d/8d/14/8d8d14cae752d972992888dc676db1c36ad29f3a5c9f1171553ef4c7b5d0dc14.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21119",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 35189187,
+      "prices": [
+        {
+          "priceAmount": 2826,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/glaceon-gx-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 425,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/glaceon-gx-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 898,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/glaceon-gx-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/glaceon-gx-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 357,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/glaceon-gx-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7886,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Wash Rotom",
+      "types": [
+        "Water"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Roto Motor",
+          "text": "If you have 9 or more Pokémon Tool cards in your discard pile, ignore all Energy in the attack cost of each of this Pokémon's attacks.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Wash Arrow",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "This attack does 50 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shigenori Negishi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bc/47/d3/bc47d32c718d157e93d52c0c4db5606dea1822587404431d19e0445a19ff6855.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21120",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 59554596,
+      "prices": []
+    },
+    {
+      "id": 7887,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Frost Rotom",
+      "types": [
+        "Water"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Roto Motor",
+          "text": "If you have 9 or more Pokémon Tool cards in your discard pile, ignore all Energy in the attack cost of each of this Pokémon's attacks.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Frost Crush",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "This attack does 20 more damage times the amount of Energy attached to all of your opponent's Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "MAHOU",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4a/5a/ea/4a5aea37304295414b19bce63df49c422c85f4de30b06962699d49659a627d70.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21121",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 57501046,
+      "prices": []
+    },
+    {
+      "id": 7888,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Manaphy",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Deep Currents",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Shuffle 5 Water Energy cards from your discard pile into your deck."
+        },
+        {
+          "name": "Water Pulse",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kawayoo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/83/b6/4a/83b64a941d46540222070631d8b2e64f5c1c31c74b35a83f8008192f9b06c1e4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21122",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 64898356,
+      "prices": [
+        {
+          "priceAmount": 299,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/manaphy-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7889,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Electabuzz",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Low Kick",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        },
+        {
+          "name": "Thunder",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "This Pokémon does 30 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2a/b3/d1/2ab3d10cf5957d9db9d1fd1f9b33aab5e3eb795fdcff1de16d14b95862f1634e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21123",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 55313105,
+      "prices": []
+    },
+    {
+      "id": 7890,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Electivire",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Electabuzz",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Steel Short",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "If your opponent's Active Pokémon is a Metal Pokémon, it is now Paralyzed."
+        },
+        {
+          "name": "Volt Knuckle",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "130"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Anesaki Dynamic",
+      "imageUrl": "https://static.tcgcollector.com/content/images/43/86/f2/4386f2c152a35d885e13ab44c09a565550fcb18d6acea071db426217a37f312c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21124",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 92472356,
+      "prices": []
+    },
+    {
+      "id": 7891,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Shinx",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Evolutionary Advantage",
+          "text": "If you go second, this Pokémon can evolve during your first turn.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Static Shock",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shibuzoh.",
+      "imageUrl": "https://static.tcgcollector.com/content/images/08/5d/f3/085df392397e3774fb067c883625d81f4d94f351bede6551beb29bbb0b474b05.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21125",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 76874718,
+      "prices": [
+        {
+          "priceAmount": 109,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/shinx-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7892,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Shinx",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Charge",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for a Lightning Energy card and attach it to this Pokémon. Then, shuffle your deck."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/28/8d/3d/288d3d89ea49f5d734406bbc6d1e51e2a79eb74d7c882a7c64c3ae3e33fab1f9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21126",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 66607182,
+      "prices": [
+        {
+          "priceAmount": 109,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/shinx-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7893,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Luxio",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Shinx",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Disconnect",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "Your opponent can't play any Item cards from their hand during their next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "tetsuya koizumi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/87/6e/90/876e90dbd66f5f3af7c2c45c5645597f8e528dcc6f2545f2ffa40d9bf15eff46.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21127",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 68156882,
+      "prices": []
+    },
+    {
+      "id": 7894,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Luxray",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 150,
+      "evolvesFrom": "Luxio",
+      "effect": [
+        {
+          "name": "Intimidating Fang",
+          "text": "As long as this Pokémon is your Active Pokémon, your opponent's Active Pokémon's attacks do 30 less damage (before applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Volt Bolt",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Discard all Lightning Energy from this Pokémon. This attack does 150 damage to 1 of your opponent's Pokémon. (Don't apply Weakness or Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Akira Komayama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/16/84/09/16840981310ff56a51e3428945ab4f43be9d088c3bf68b5470dff88dbc1dc30d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21128",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 39089324,
+      "prices": [
+        {
+          "priceAmount": 199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/luxray-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7895,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Pachirisu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Snuggly Generator",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "For each of your Benched Pokémon that has the Nuzzle attack, search your deck for a Lightning Energy card and attach it to that Pokémon. Then, shuffle your deck."
+        },
+        {
+          "name": "Nuzzle",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "OOYAMA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/38/c6/6e/38c66e2a7e22dc95ead081dd4264df56e2a2a40de9b8118a26541b74b40a6f44.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21129",
+      "sequenceNumber": 21,
+      "printedNumber": "21",
+      "uuid": 44739893,
+      "prices": []
+    },
+    {
+      "id": 7896,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Rotom",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Roto Motor",
+          "text": "If you have 9 or more Pokémon Tool cards in your discard pile, ignore all Energy in the attack cost of each of this Pokémon's attacks.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Plasma Slice",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120",
+          "text": "This Pokémon can't attack during your next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoyo Kimura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a0/53/2b/a0532b5530c5e5a74d12f48a1eb306c267c1e1625e927d6945704065f3f90ad0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21130",
+      "sequenceNumber": 22,
+      "printedNumber": "22",
+      "uuid": 38192396,
+      "prices": []
+    },
+    {
+      "id": 7897,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Drifloon",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Creepy Wind",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent's Active Pokémon is now Confused."
+        },
+        {
+          "name": "Hang Down",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Asako Ito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ac/c8/d6/acc8d615a71c10754246b8cb508d9979db09e289fdbacfabb49f1ba4336fb4e6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21131",
+      "sequenceNumber": 23,
+      "printedNumber": "23",
+      "uuid": 31041449,
+      "prices": [
+        {
+          "priceAmount": 4853,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "12/17/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/drifloon-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2116,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "12/17/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/drifloon-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "12/17/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/drifloon-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 413,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/drifloon-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7898,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Drifblim",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Drifloon",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Damage Transport",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Move 4 damage counters from each of your Pokémon to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Wind Wheel",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yumi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d3/a0/3a/d3a03a0ee0ea27e8b8e925a684e59b9d7f2bf611e28713e507cd46f758c4ef61.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21132",
+      "sequenceNumber": 24,
+      "printedNumber": "24",
+      "uuid": 37146068,
+      "prices": []
+    },
+    {
+      "id": 7899,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Spiritomb",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Lightless World",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Put 2 Supporter cards from your discard pile into your hand."
+        },
+        {
+          "name": "Terrify",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "If the Defending Pokémon is a Basic Pokémon, it can't attack during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b7/7e/91/b77e9192044404b71b08f6326f0ec348ed6a19433ec11b3708cd8a6f4e6635f3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21133",
+      "sequenceNumber": 25,
+      "printedNumber": "25",
+      "uuid": 16571844,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/spiritomb-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7900,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Skorupi",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hone Claws",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "During your next turn, this Pokémon's Pierce attack's base damage is 90."
+        },
+        {
+          "name": "Pierce",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Misa Tsutsui",
+      "imageUrl": "https://static.tcgcollector.com/content/images/52/7f/ef/527fef2239f8d0f0aa67fc8854f66922998f5405425d50483c8fdc7aafec3f11.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21134",
+      "sequenceNumber": 26,
+      "printedNumber": "26",
+      "uuid": 60977803,
+      "prices": []
+    },
+    {
+      "id": 7901,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Drapion",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Skorupi",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dangerous Stinger",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "100",
+          "text": "Your opponent's Active Pokémon is now Paralyzed and Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Studio Bora Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e8/04/01/e80401d4585f3dffdd8b7207e8016c9a99409983f03787d3d62e2654d0ded47e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21135",
+      "sequenceNumber": 27,
+      "printedNumber": "27",
+      "uuid": 20566757,
+      "prices": []
+    },
+    {
+      "id": 7902,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Croagunk",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Swagger",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "SATOSHI NAKAI",
+      "imageUrl": "https://static.tcgcollector.com/content/images/56/66/d2/5666d23edd7bb9d9a493bd38f860383681f043cfd021bd4074fa5da377a25365.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21136",
+      "sequenceNumber": 28,
+      "printedNumber": "28",
+      "uuid": 52660684,
+      "prices": []
+    },
+    {
+      "id": 7903,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Toxicroak",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Croagunk",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Poison Jab",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        },
+        {
+          "name": "Exact Revenge",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50+",
+          "text": "If any of your Fighting Pokémon were Knocked Out by damage from an opponent's attack during their last turn, this attack does 70 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hasuno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/77/7b/c4/777bc4d27483b35aac35a37fe7f1115a24422996fdcb885d905f7fb6763020e9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21137",
+      "sequenceNumber": 29,
+      "printedNumber": "29",
+      "uuid": 31269907,
+      "prices": [
+        {
+          "priceAmount": 500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/toxicroak-29",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7904,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Giratina ?",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 160,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Chaotic Star",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may attach 2 Psychic Energy cards from your hand to it.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Crisis Dive",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "160",
+          "text": "Discard 2 Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "\"You cant have more than 1 ? card with the same name in your deck. If a ? card would go to the discard pile, put it in the Lost Zone instead.\""
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "?",
+        "Basic"
+      ],
+      "rarity": "Prism Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2e/8a/45/2e8a454ac4e6de14a1b3618dca6376581d7d88ca9973a6cf997ccae6917c2710.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21138",
+      "sequenceNumber": 30,
+      "printedNumber": "30",
+      "uuid": 4566072,
+      "prices": [
+        {
+          "priceAmount": 813,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/giratina-prism-star-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7905,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Cresselia",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Lunar Payback",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Discard an Energy from this Pokémon. If you do, switch all damage counters on this Pokémon with those on your opponent's Active Pokémon."
+        },
+        {
+          "name": "Psychic",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60+",
+          "text": "This attack does 20 more damage times the amount of Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "chibi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9d/36/49/9d3649f0c627f281bfc41d3b95a6c122c1081a39bb8d711b7c3fef2d6785fda7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21139",
+      "sequenceNumber": 31,
+      "printedNumber": "31",
+      "uuid": 33270393,
+      "prices": [
+        {
+          "priceAmount": 144,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/cresselia-31",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7906,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Lunala ?",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 160,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Full Moon Star",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "For each of your opponent's Pokémon in play, attach a Psychic Energy card from your discard pile to your Pokémon in any way you like."
+        },
+        {
+          "name": "Psystorm",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "20×",
+          "text": "This attack does 20 damage times the amount of Energy attached to all Pokémon."
+        }
+      ],
+      "rules": [
+        "\"You cant have more than 1 ? card with the same name in your deck. If a ? card would go to the discard pile, put it in the Lost Zone instead.\""
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "?",
+        "Basic"
+      ],
+      "rarity": "Prism Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hitoshi Ariga",
+      "imageUrl": "https://static.tcgcollector.com/content/images/36/a5/e6/36a5e69ee8f5f6a9cbea8ab72c57bcca0bd7fcb9c4ebdd1eca8bd9c22d4d7dbb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21140",
+      "sequenceNumber": 32,
+      "printedNumber": "32",
+      "uuid": 74160385,
+      "prices": [
+        {
+          "priceAmount": 800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/lunala-prism-star-32",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7907,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Dawn Wings Necrozma-GX",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Invasion",
+          "text": "Once during your turn (before your attack), if this Pokémon is on your Bench, you may switch it with your Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dark Flash",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120",
+          "text": "This attack's damage isn't affected by Resistance."
+        },
+        {
+          "name": "Moon's Eclipse-GX",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "180",
+          "text": "You can use this attack only if you have more Prize cards remaining than your opponent. Prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Ultra Beast",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/77/8d/53/778d537a7e57036874c960204b5a86c025e69046686ddac1bc7b93104cd697fb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21141",
+      "sequenceNumber": 33,
+      "printedNumber": "33",
+      "uuid": 43958557,
+      "prices": [
+        {
+          "priceAmount": 900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/dawn-wings-necrozma-gx-33",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 202,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/dawn-wings-necrozma-gx-33",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7908,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Cranidos",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Unidentified Fossil",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Corkscrew Punch",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30"
+        },
+        {
+          "name": "Headstrike",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        ""
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/85/67/78/856778e0b70b42875eb0e104253b492b8d80120d31b00f0c8cb2b11b8e00af8c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21142",
+      "sequenceNumber": 34,
+      "printedNumber": "34",
+      "uuid": 39351428,
+      "prices": [
+        {
+          "priceAmount": 500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/cranidos-34",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7909,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Rampardos",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 150,
+      "evolvesFrom": "Cranidos",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Clean Hit",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "60+",
+          "text": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 60 more damage."
+        },
+        {
+          "name": "Wild Crash",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "If your opponent's Active Pokémon is a Basic Pokémon, it is Knocked Out."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        ""
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yoshinobu Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/08/96/ce/0896ced14f3ca1559d67a7128be3f6441be3f7f1d4f2a12d1897f2ffbbe11c78.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21143",
+      "sequenceNumber": 35,
+      "printedNumber": "35",
+      "uuid": 53492073,
+      "prices": [
+        {
+          "priceAmount": 271,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/rampardos-35",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7910,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Riolu",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Detect",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        },
+        {
+          "name": "Jab",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kyoko Umemoto",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3d/46/19/3d46191f97562fb508d856454edfa63d66d0b697e6bf24c47c98708c04436845.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21144",
+      "sequenceNumber": 36,
+      "printedNumber": "36",
+      "uuid": 79892664,
+      "prices": [
+        {
+          "priceAmount": 124,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/riolu-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7911,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Lucario",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Riolu",
+      "effect": [
+        {
+          "name": "Precognitive Aura",
+          "text": "Once during your turn (before your attack), if you have Garchamp in play, you may search your deck for a card and put it into your hand. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Missile Jab",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "70",
+          "text": "This attack's damage isn't affected by Resistance."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d7/86/54/d78654366486328cff25ebb84f366691e32b47d117953ab38c5d05a51bca08b0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21145",
+      "sequenceNumber": 37,
+      "printedNumber": "37",
+      "uuid": 5994944,
+      "prices": [
+        {
+          "priceAmount": 249,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/lucario-37",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7912,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Hippopotas",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Eleventh Hour Tackle",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50+",
+          "text": "If there are 3 or fewer cards in your deck, this attack does 130 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yumi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5e/b1/1d/5eb11d0bf11177edc437331d810d70646a73f6b4040835e2ea9c8a3e7488f4e6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21146",
+      "sequenceNumber": 38,
+      "printedNumber": "38",
+      "uuid": 21822876,
+      "prices": []
+    },
+    {
+      "id": 7913,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Hippowdon",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Hippopotas",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sand Tomb",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Dust Cannon",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "100+",
+          "text": "This attack does 10 more damage for each Colorless in your opponent's Active Pokémon's Retreat Cost."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shigenori Negishi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a3/ec/33/a3ec33665ad836868cda999b4cdafd403a03025589573b9586bde3dd12f48dcf.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21147",
+      "sequenceNumber": 39,
+      "printedNumber": "39",
+      "uuid": 95811364,
+      "prices": []
+    },
+    {
+      "id": 7914,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Passimian",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 110,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Power Huddle",
+          "text": "As long as this Pokémon is on your Bench, your Passimian's attacks do 30 more damage to your opponent's Active Evolution Pokémon (before applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Rock Hurl",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40",
+          "text": "This attack's damage isn't affected by Resistance."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kawayoo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/df/be/65/dfbe65c582c6e987493943f6f89b00650af612f7257ee8635e7234f2c72673c3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21148",
+      "sequenceNumber": 40,
+      "printedNumber": "40",
+      "uuid": 3405379,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/passimian-40",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7915,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Gible",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Ascension",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kyoko Umemoto",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f4/29/e0/f429e0e4cd31261d5e493ec8a2f7c18a671af5d8837404c1aea0357304596fdf.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21149",
+      "sequenceNumber": 41,
+      "printedNumber": "41",
+      "uuid": 81809338,
+      "prices": [
+        {
+          "priceAmount": 131,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/gible-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7916,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Gible",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Rock Hiding",
+          "text": "If this Pokémon has any Fighting Energy attached to it, it has no Retreat Cost.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/81/28/e7/8128e732aa6e80a6dedee748e8814337627179862444fcdfdf15ff941c1c0b38.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21150",
+      "sequenceNumber": 42,
+      "printedNumber": "42",
+      "uuid": 96103806,
+      "prices": [
+        {
+          "priceAmount": 149,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/gible-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7917,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Gabite",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Gible",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Ascension",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for a card that evolves from this Pokémon and put it onto this Pokémon to evolve it. Then, shuffle your deck."
+        },
+        {
+          "name": "Slash",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sumiyoshi Kizuki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/05/09/b2/0509b217ad07a4e2409bb6843efbbce3fce82a434670be97e3c960b1eb1b13cb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21151",
+      "sequenceNumber": 43,
+      "printedNumber": "43",
+      "uuid": 20081385,
+      "prices": [
+        {
+          "priceAmount": 111,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/gabite-43",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7918,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Garchomp",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 150,
+      "evolvesFrom": "Gabite",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Quick Dive",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Royal Blades",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100+",
+          "text": "If you played Cynthia from your hand during this turn, this attack does 100 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Megumi Mizutani",
+      "imageUrl": "https://static.tcgcollector.com/content/images/13/5a/23/135a23133db06afa7b367839d3307cb1ec8f913a255c0534eaca03fc9d4d6094.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21152",
+      "sequenceNumber": 44,
+      "printedNumber": "44",
+      "uuid": 53261009,
+      "prices": [
+        {
+          "priceAmount": 399,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/garchomp-44",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7919,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Palkia-GX",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Spatial Control",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Move any number of Energy from your Benched Pokémon to this Pokémon."
+        },
+        {
+          "name": "Hydro Pressure",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60+",
+          "text": "This attack does 20 more damage times the amount of Water Energy attached to this Pokémon."
+        },
+        {
+          "name": "Zero Vanish-GX",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "150",
+          "text": "Shuffle all Energy from each of your opponent's Pokémon into their deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ae/44/bf/ae44bf8766f5ea6993cb2e24963d3a603a6166aea5c544927dbe0b9708bc16a7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21153",
+      "sequenceNumber": 45,
+      "printedNumber": "45",
+      "uuid": 39781123,
+      "prices": [
+        {
+          "priceAmount": 4495,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/palkia-gx-45",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1453,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/palkia-gx-45",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/palkia-gx-45",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1550,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/palkia-gx-45",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 442,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/palkia-gx-45",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7920,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Eevee",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e1/9d/a4/e19da4304f2072c9a606293a831ffcfd5787b306c11f4a2ec2c64a2e3dde3caf.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21154",
+      "sequenceNumber": 46,
+      "printedNumber": "46",
+      "uuid": 2859083,
+      "prices": [
+        {
+          "priceAmount": 218,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/eevee-46",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7921,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Buneary",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Weak Kneed",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        },
+        {
+          "name": "Skip",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f1/5c/1d/f15c1d4751b9c849267f3fc4e1f6af7b1948a44214ef2210ad16dd27c8f19de5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21155",
+      "sequenceNumber": 47,
+      "printedNumber": "47",
+      "uuid": 54952161,
+      "prices": [
+        {
+          "priceAmount": 499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/buneary-47",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7922,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Lopunny",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Buneary",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Stompy Stomp",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "40×",
+          "text": "Flip 2 coins. This attack does 40 damage for each heads."
+        },
+        {
+          "name": "Happy Turn",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "60",
+          "text": "You may shuffle this Pokémon and all cards attached to it into your deck."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6c/04/13/6c0413e680c6d92122f12d98cca947fd2916096ba4046c87a0af046ef023b7d9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21156",
+      "sequenceNumber": 48,
+      "printedNumber": "48",
+      "uuid": 32527287,
+      "prices": []
+    },
+    {
+      "id": 7923,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Shaymin",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
+        },
+        {
+          "name": "Glide",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kirisAki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/47/ca/45/47ca45a565cf2d3df7e2097a29e9911e4288f75a9af2d6d11067921cce649735.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21157",
+      "sequenceNumber": 49,
+      "printedNumber": "49",
+      "uuid": 5264441,
+      "prices": [
+        {
+          "priceAmount": 100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/shaymin-49",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7924,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Yungoos",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Scout",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent reveals their hand."
+        },
+        {
+          "name": "Take Down",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "This Pokémon does 10 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Misa Tsutsui",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7b/52/00/7b520062aaea6b9ab8b5007cd25881ef0cc98744e09f3531f3e83fcf6ab386cf.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21158",
+      "sequenceNumber": 50,
+      "printedNumber": "50",
+      "uuid": 5080816,
+      "prices": []
+    },
+    {
+      "id": 7925,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Gumshoos",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Yungoos",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Identify",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Your opponent reveals their hand. If you find a Pokémon there, this attack does 80 more damage."
+        },
+        {
+          "name": "Whap Down",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "nagimiso",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4b/45/a5/4b45a57dc13dbe157875ebe57e0d5e4e5350c47a6064b1fa1791cc0240ce3f17.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21159",
+      "sequenceNumber": 51,
+      "printedNumber": "51",
+      "uuid": 66344688,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/gumshoos-51",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7926,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Drampa",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Outrage",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "This attack does 10 more damage for each damage counter on this Pokémon."
+        },
+        {
+          "name": "Dragon Pulse",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100",
+          "text": "Discard the top 2 cards of your deck."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hasuno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7d/2b/80/7d2b80f49c0ba070ea4fdea5d3d7695426a858fa8728a7a5158e089af3f26eae.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21160",
+      "sequenceNumber": 52,
+      "printedNumber": "52",
+      "uuid": 58186478,
+      "prices": [
+        {
+          "priceAmount": 99,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/drampa-52",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7927,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Order Pad",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Flip a coin. If heads, search your deck for an Item card, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Eske Yoshinob",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a7/54/36/a7543663125e7cbd9dead0712b1e588971d18f720790740c28768885de4c3c2c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21161",
+      "sequenceNumber": 53,
+      "printedNumber": "53",
+      "uuid": 59674919,
+      "prices": []
+    },
+    {
+      "id": 7928,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Crushing Hammer",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Flip a coin. If heads, discard an Energy from 1 of your opponents Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yoshinobu Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1a/46/c6/1a46c66902be6a4187c22f2c8f4407fd9b0291fe821e381a56b430107245da85.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21162",
+      "sequenceNumber": 54,
+      "printedNumber": "54",
+      "uuid": 45498989,
+      "prices": []
+    },
+    {
+      "id": 7929,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Unidentified Fossil",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Play this card as if it were a 60-HP Colorless Basic Pokémon. At any time during your turn (before your attack), you may discard this card from play.  This card cant retreat.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fe/e7/78/fee778aaa563ec48a4ef61a6d60c94e258cbcb48dee37ba755800f798f739edd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21163",
+      "sequenceNumber": 55,
+      "printedNumber": "55",
+      "uuid": 17712888,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/unidentified-fossil-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7930,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Ultra Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Discard 2 cards from your hand. If you do, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/eb/d1/58/ebd158566ea3a5592c126cd2aefa509e5553de103111cf674ca025f719d1574f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21164",
+      "sequenceNumber": 56,
+      "printedNumber": "56",
+      "uuid": 33915150,
+      "prices": [
+        {
+          "priceAmount": 139,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/ultra-ball-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7931,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Looker Whistle",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Search your deck for up to 2 cards named Looker, reveal them, and put them into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/13/7d/83/137d8322f1b219a6087f49bc703237ed2ca42d7d6512a2e64e0c6fed4be15c01.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21165",
+      "sequenceNumber": 57,
+      "printedNumber": "57",
+      "uuid": 92789478,
+      "prices": []
+    },
+    {
+      "id": 7932,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Rare Candy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it. You cant use this card during your first turn or on a Basic Pokémon that was put into play this turn.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/37/55/98/375598ee42e8b4b319063e154e2bb38cea8beb7190c3000e61379444ea353c82.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21166",
+      "sequenceNumber": 58,
+      "printedNumber": "58",
+      "uuid": 66288799,
+      "prices": [
+        {
+          "priceAmount": 104,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/rare-candy-58",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7933,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Rescue Stretcher",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Choose 1:  • Put a Pokémon from your discard pile into your hand. • Shuffle 3 Pokémon from your discard pile into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yoshinobu Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3a/35/2f/3a352f1c356a6eb53da1a1dc0de5fc2169f90dfe4eee8ec37fc5bf868df8d62f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21167",
+      "sequenceNumber": 59,
+      "printedNumber": "59",
+      "uuid": 20449723,
+      "prices": []
+    },
+    {
+      "id": 7934,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Escape Board",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "\"The Retreat Cost of the Pokémon this card is attached to is Colorless less, and it can retreat even if its Asleep or Paralyzed.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/aa/4b/37/aa4b37f2524d8c79586250e84f6debcc48b6612db834fb69c23ac4758cf58f0f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21168",
+      "sequenceNumber": 60,
+      "printedNumber": "60",
+      "uuid": 41911161,
+      "prices": [
+        {
+          "priceAmount": 669,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/escape-board-60",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7935,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Cynthia",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Shuffle your hand into your deck. Then, draw 6 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c1/04/ba/c104bae2519c905aceae862163412c2cdf8e0e6b523e695400d69b29dcd891fa.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21169",
+      "sequenceNumber": 61,
+      "printedNumber": "61",
+      "uuid": 76037637,
+      "prices": [
+        {
+          "priceAmount": 3231,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/cynthia-61",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 325,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/cynthia-61",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/cynthia-61",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 782,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/cynthia-61",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7936,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Volkner",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Search your deck for an Item card and a Lightning Energy card, reveal them, and put them into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ae/9a/ab/ae9aab565bd5ee5f760ea8a68dcec243f1f039831afb9d14be82f237d54de232.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21170",
+      "sequenceNumber": 62,
+      "printedNumber": "62",
+      "uuid": 20372858,
+      "prices": []
+    },
+    {
+      "id": 7937,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Looker",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Draw 3 cards from the bottom of your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/73/38/73/733873818e4071836dbea3132d2b69a351f5ecd1dbc13a29ecc68cbd65f1140f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21171",
+      "sequenceNumber": 63,
+      "printedNumber": "63",
+      "uuid": 97478927,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/looker-63",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7938,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Sophocles",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Discard 2 cards from your hand. If you do, draw 4 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b1/c1/28/b1c12849bd59e5c48ef5f8115d49bc14771787bf463e27a4fde7ca69c38192c4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21172",
+      "sequenceNumber": 64,
+      "printedNumber": "64",
+      "uuid": 1730238,
+      "prices": []
+    },
+    {
+      "id": 7939,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Super Boost Energy ?",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"You cant have more than 1 ? card with the same name in your deck. If a ? card would go to the discard pile, put it in the Lost Zone instead.\", This card provides Colorless Energy.  While this card is attached to a Stage 2 Pokémon, it provides every type of Energy but provides only 1 Energy at a time. If you have 3 or more Stage 2 Pokémon in play, it provides every type of Energy but provides 4 Energy at a time."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy",
+        "Energy ?"
+      ],
+      "rarity": "Prism Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/77/1c/b5/771cb55b7f458be111afb0b866a0d1418e232502517cc4afceef4c5c2f7f23bb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21173",
+      "sequenceNumber": 65,
+      "printedNumber": "65",
+      "uuid": 93142203,
+      "prices": []
+    },
+    {
+      "id": 7940,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Unit Energy LPM",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "This card provides Colorless Energy.  While this card is attached to a Pokémon, it provides Lightning, Psychic, and Metal Energy but provides only 1 Energy at a time."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/95/b4/d6/95b4d622f719c27381218c5b878ff3d41080b26a9ab131d2c95b85e741073b82.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21174",
+      "sequenceNumber": 66,
+      "printedNumber": "66",
+      "uuid": 47923233,
+      "prices": []
+    },
+    {
+      "id": 7941,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Glaceon-GX",
+      "types": [
+        "Water"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Eevee",
+      "effect": [
+        {
+          "name": "Freezing Gaze",
+          "text": "As long as this Pokémon is your Active Pokémon, your opponent's Pokémon-GX and Pokémon-EX in play, in their hand, and in their discard pile have no Abilities, except for Freezing Gaze.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Frost Bullet",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Polar Spear-GX",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50×",
+          "text": "This attack does 50 damage for each damage counter on your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 1"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c7/52/0c/c7520cb32ca9b17aa93550e9799acc49657f5e546ddc60eff31da02d48bcd0dc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21175",
+      "sequenceNumber": 67,
+      "printedNumber": "67",
+      "uuid": 12134406,
+      "prices": [
+        {
+          "priceAmount": 9306,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/glaceon-gx-67",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 763,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/glaceon-gx-67",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1150,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/glaceon-gx-67",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1228,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/glaceon-gx-67",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7942,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Dawn Wings Necrozma-GX",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Invasion",
+          "text": "Once during your turn (before your attack), if this Pokémon is on your Bench, you may switch it with your Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dark Flash",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120",
+          "text": "This attack's damage isn't affected by Resistance."
+        },
+        {
+          "name": "Moon's Eclipse-GX",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "180",
+          "text": "You can use this attack only if you have more Prize cards remaining than your opponent. Prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Ultra Beast",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/97/fa/14/97fa14e27ea32065caa5e6c9fdddf95d055f9f23d65ca74bb5bdc642fa8f5175.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21176",
+      "sequenceNumber": 68,
+      "printedNumber": "68",
+      "uuid": 90728431,
+      "prices": [
+        {
+          "priceAmount": 367,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/dawn-wings-necrozma-gx-68",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7943,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Palkia-GX",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Spatial Control",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Move any number of Energy from your Benched Pokémon to this Pokémon."
+        },
+        {
+          "name": "Hydro Pressure",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60+",
+          "text": "This attack does 20 more damage times the amount of Water Energy attached to this Pokémon."
+        },
+        {
+          "name": "Zero Vanish-GX",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "150",
+          "text": "Shuffle all Energy from each of your opponent's Pokémon into their deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/70/0f/ef/700fef07a05bd46cf6e5c0af7fe4c5cdafa1a15a801ea529dd8214bc487cd483.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21177",
+      "sequenceNumber": 69,
+      "printedNumber": "69",
+      "uuid": 54699822,
+      "prices": [
+        {
+          "priceAmount": 5033,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/palkia-gx-69",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 5032,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/palkia-gx-69",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 4900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/palkia-gx-69",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1481,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/palkia-gx-69",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7944,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Cynthia",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Shuffle your hand into your deck. Then, draw 6 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "nagimiso",
+      "imageUrl": "https://static.tcgcollector.com/content/images/28/cf/73/28cf736a1462e54a6308d638adef2401f701adde2d771e18049f8836d7158664.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21178",
+      "sequenceNumber": 70,
+      "printedNumber": "70",
+      "uuid": 16360243,
+      "prices": [
+        {
+          "priceAmount": 51500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/cynthia-70",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 22253,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/cynthia-70",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 29014,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/cynthia-70",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 31900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/cynthia-70",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 22250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/cynthia-70",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7945,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Volkner",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Search your deck for an Item card and a Lightning Energy card, reveal them, and put them into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "TOKIYA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e7/c3/80/e7c3804292d17437d212b9bb00072ef642775a9477df952da284bc1570b4e66e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21179",
+      "sequenceNumber": 71,
+      "printedNumber": "71",
+      "uuid": 2366090,
+      "prices": [
+        {
+          "priceAmount": 9900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/volkner-71",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 4850,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/volkner-71",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 5300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/volkner-71",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1415,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/volkner-71",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7946,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Looker",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Draw 3 cards from the bottom of your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hitoshi Ariga",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bf/cf/b2/bfcfb2e222c89c8d69abfdc9e542dcaee7a3bf92977faffbf18d64f75039e814.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21180",
+      "sequenceNumber": 72,
+      "printedNumber": "72",
+      "uuid": 65042154,
+      "prices": [
+        {
+          "priceAmount": 2850,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/looker-72",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 99,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "06/03/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/looker-72",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "06/03/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/looker-72",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1060,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/looker-72",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7947,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Glaceon-GX",
+      "types": [
+        "Water"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Eevee",
+      "effect": [
+        {
+          "name": "Freezing Gaze",
+          "text": "As long as this Pokémon is your Active Pokémon, your opponent's Pokémon-GX and Pokémon-EX in play, in their hand, and in their discard pile have no Abilities, except for Freezing Gaze.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Frost Bullet",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Polar Spear-GX",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50×",
+          "text": "This attack does 50 damage for each damage counter on your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 1"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/da/4a/be/da4abed0b2314e6c6668868fa840db5cc2ebc086039754960f2782fb25a77cf9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21181",
+      "sequenceNumber": 73,
+      "printedNumber": "73",
+      "uuid": 35741857,
+      "prices": [
+        {
+          "priceAmount": 22984,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/glaceon-gx-73",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 4050,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/glaceon-gx-73",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 11890,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/glaceon-gx-73",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 13100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/glaceon-gx-73",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 3999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/glaceon-gx-73",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7948,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Dawn Wings Necrozma-GX",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Invasion",
+          "text": "Once during your turn (before your attack), if this Pokémon is on your Bench, you may switch it with your Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dark Flash",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120",
+          "text": "This attack's damage isn't affected by Resistance."
+        },
+        {
+          "name": "Moon's Eclipse-GX",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "180",
+          "text": "You can use this attack only if you have more Prize cards remaining than your opponent. Prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Ultra Beast",
+        "Basic"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d6/67/26/d667268bf4fa76ce607a2740d33071150fa51150ec76bdfd081c491cb60a8a43.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21182",
+      "sequenceNumber": 74,
+      "printedNumber": "74",
+      "uuid": 13647892,
+      "prices": [
+        {
+          "priceAmount": 7200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/dawn-wings-necrozma-gx-74",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2001,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/dawn-wings-necrozma-gx-74",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7949,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Palkia-GX",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Spatial Control",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Move any number of Energy from your Benched Pokémon to this Pokémon."
+        },
+        {
+          "name": "Hydro Pressure",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60+",
+          "text": "This attack does 20 more damage times the amount of Water Energy attached to this Pokémon."
+        },
+        {
+          "name": "Zero Vanish-GX",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "150",
+          "text": "Shuffle all Energy from each of your opponent's Pokémon into their deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c3/5d/1d/c35d1d248ed7c46a6402f5ad1c89f5d4972f8aa22a4fe9082a2dddfc05be7db7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21183",
+      "sequenceNumber": 75,
+      "printedNumber": "75",
+      "uuid": 50491913,
+      "prices": [
+        {
+          "priceAmount": 10941,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/palkia-gx-75",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 5782,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/palkia-gx-75",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 6400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/palkia-gx-75",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1757,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/palkia-gx-75",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7950,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Crushing Hammer",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Flip a coin. If heads, discard an Energy from 1 of your opponents Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c7/bb/2e/c7bb2e2ca6f60986f59b2f1f3797678de597b9718c10a5bf1541fe6c7c03d759.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21184",
+      "sequenceNumber": 76,
+      "printedNumber": "76",
+      "uuid": 59846491,
+      "prices": [
+        {
+          "priceAmount": 11993,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/crushing-hammer-76",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7951,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Escape Board",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "\"The Retreat Cost of the Pokémon this card is attached to is Colorless less, and it can retreat even if its Asleep or Paralyzed.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/21/fd/ab/21fdabe303e33d29c3555c438d00350e0482b8331b42aea7f212dc7a7523c3b8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21185",
+      "sequenceNumber": 77,
+      "printedNumber": "77",
+      "uuid": 3386663,
+      "prices": [
+        {
+          "priceAmount": 2266,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ultra-moon/escape-board-77",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7952,
+      "setData": {
+        "name": "Ultra Moon",
+        "printed_count": "78",
+        "card_count": 78,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ultra-moon"
+      },
+      "name": "Unit Energy LPM",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "This card provides Colorless Energy.  While this card is attached to a Pokémon, it provides Lightning, Psychic, and Metal Energy but provides only 1 Energy at a time."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/23/09/4b/23094b5e8925f17695118fbf8b639c46ff7e8c17a206a87aa4a064ed90851528.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21186",
+      "sequenceNumber": 78,
+      "printedNumber": "78",
+      "uuid": 13034711,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 78,
+  "totalCount": 78
+}

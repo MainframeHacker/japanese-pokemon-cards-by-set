@@ -1,0 +1,5278 @@
+{
+  "data": [
+    {
+      "id": 11623,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Weedle",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Triple Stab",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sumiyoshi Kizuki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e4/88/4b/e4884baf8409cc498f246db16f2d19090dab115c34cd93cdea26372b173434e1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24839",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 14265585,
+      "prices": [
+        {
+          "priceAmount": 199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/weedle-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11624,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Kakuna",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Weedle",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hide",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "match",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8b/51/46/8b5146319ab084454e47000e3ae8d6182217a9dd68305aaebc60cb76da8748db.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24840",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 31394309,
+      "prices": [
+        {
+          "priceAmount": 500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/kakuna-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11625,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Beedrill",
+      "types": [
+        "Grass"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Kakuna",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Swift Sting",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20+",
+          "text": "If this Pokémon has full HP, this attack does 40 more damage, and the Defending Pokémon is now Confused and Poisoned."
+        },
+        {
+          "name": "Pierce",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kawayoo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/60/f1/fc/60f1fc2a13ff1525b5ae2c12d4e3e8f544ca4e19c55e6afe97dc5b40b934f68d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24841",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 62428628,
+      "prices": [
+        {
+          "priceAmount": 314,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/beedrill-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11626,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Cacnea",
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Poison Sting",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Midori Harada",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d8/dd/20/d8dd203e711a17dcf4f8755b6cca211d4739993e21a75f3979ed9e37dcb6477c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24842",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 84182890,
+      "prices": [
+        {
+          "priceAmount": 199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/cacnea-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11627,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Cacturne",
+      "types": [
+        "Grass"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Cacnea",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Rapid-Fire Needles",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "60",
+          "text": "Does 30 damage to 1 of your Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Payback",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "If your opponent has only 1 Prize card left, this attack does 60 more damage and discard and Energy attached to the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Suwama Chiaki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/12/bf/1f/12bf1f87cc83af8013a2c0b0bdd064405c218d848a4a0cbaa3487a92befc4100.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24843",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 75967154,
+      "prices": [
+        {
+          "priceAmount": 500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/cacturne-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11628,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Leafeon",
+      "types": [
+        "Grass"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Eevee",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Energy Crush",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20×",
+          "text": "Does 20 damage times the amount of Energy attached to all of your opponent's Pokémon."
+        },
+        {
+          "name": "Leaf Blade",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Team Plasma",
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f8/92/a6/f892a6d1c63016762d2e460375649247e719e3e95eabd3cfbc2e92525e522e69.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24844",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 75280081,
+      "prices": [
+        {
+          "priceAmount": 7350,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/leafeon-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 3021,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/leafeon-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/leafeon-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 865,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/leafeon-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11629,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Flareon",
+      "types": [
+        "Fire"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Eevee",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Vengeance",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Does 10 more damage for each Pokémon in your discard pile."
+        },
+        {
+          "name": "Heat Tackle",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "This Pokémon does 10 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Team Plasma",
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c1/e8/21/c1e8215a13893d5232a633ac741c984127a4e18bd709303e195c318f9bd151d4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24845",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 88967818,
+      "prices": [
+        {
+          "priceAmount": 9042,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/flareon-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1998,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/flareon-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 2726,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/flareon-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 8900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/flareon-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 543,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/flareon-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11630,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Reshiram",
+      "types": [
+        "Fire"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Purifying Flame",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "Remove all Special Conditions from this Pokémon."
+        },
+        {
+          "name": "Fusion Flare",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "80+",
+          "text": "If Zekrom is on your Bench, this attack does 40 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ce/0b/98/ce0b981600bcbbb0b6a093c7a0cdf3884f75ec1be084ce04476b275bde05c8c5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24846",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 37264652,
+      "prices": [
+        {
+          "priceAmount": 4475,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/reshiram-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1274,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/reshiram-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/reshiram-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/reshiram-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 378,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/reshiram-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11631,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Vaporeon",
+      "types": [
+        "Water"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Eevee",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Refreshing Rain",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Heal 30 from each of your Pokémon."
+        },
+        {
+          "name": "Gold Breaker",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "If the Defending Pokémon is a Pokémon-EX, this attack does 50 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Team Plasma",
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/be/a1/72/bea17252e662c76dd2846d079295614780e258aa97b40838ce0162abdfc75057.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24847",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 29866727,
+      "prices": [
+        {
+          "priceAmount": 10965,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/vaporeon-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 488,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/vaporeon-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 1957,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/vaporeon-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/vaporeon-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 863,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/vaporeon-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11632,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Wooper",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Slam",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "sui",
+      "imageUrl": "https://static.tcgcollector.com/content/images/16/42/bf/1642bf4f5f7c8e87696034da9f71a287d7400750a71fbbb4b534c5b338fa4eff.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24848",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 53423800,
+      "prices": [
+        {
+          "priceAmount": 10000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/wooper-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 3700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/wooper-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 4100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/wooper-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 398,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/wooper-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11633,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Quagsire",
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Wooper",
+      "effect": [
+        {
+          "name": "Laid-Back",
+          "text": "Any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Mud Gun",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60+",
+          "text": "If this Pokémon has any Fighting Energy attached to it, this attack does 30 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/77/01/4e/77014e5e32a4ed10692663a05e9ca3d8874eba0597ac130f811b8e4f20835f1b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24849",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 41806154,
+      "prices": [
+        {
+          "priceAmount": 409,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/quagsire-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11634,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Vanillite",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Jump On",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Akira Komayama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4e/a1/85/4ea1850be41d19f55f7a2441cd8ae7deb7054dc75f73ce46750b617bcceaded9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24850",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 20840225,
+      "prices": [
+        {
+          "priceAmount": 500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/vanillite-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11635,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Vanillish",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Vanillite",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Surefire Spin",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Flip 2 coins. If both of them are heads, this attack does 40 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kyoko Umemoto",
+      "imageUrl": "https://static.tcgcollector.com/content/images/be/8f/8f/be8f8f4b441cddbf9c5168d4973ef13ae0eb8be2a6e3f7c13e1025d1ebb754cb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24851",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 84607083,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/vanillish-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11636,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Vanilluxe",
+      "types": [
+        "Water"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Vanillish",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "ChillMAX",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "60×",
+          "text": "Flip a coin for each Energy attached to this Pokémon. This attack does 60 damage times the number of heads."
+        },
+        {
+          "name": "Cold Breath",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40",
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Team Plasma",
+        "Stage 2"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bd/b1/2a/bdb12afa7bde2ea4164e37c83f2391e520cc23ded436995e596185af4d75381b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24852",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 15408675,
+      "prices": [
+        {
+          "priceAmount": 6473,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/vanilluxe-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2722,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/vanilluxe-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/vanilluxe-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 399,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/vanilluxe-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11637,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Cryogonal",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Call Sign",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for a Water Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Cryofreeze",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Discard an Energy attached to this Pokémon. The Defending Pokémon can't attack during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Team Plasma",
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/62/b1/f3/62b1f3ed6c2994813002e1771cbc51725bce32c095f9c820f5cd96b60ad2770c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24853",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 66041088,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/cryogonal-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11638,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Kyurem",
+      "types": [
+        "Water"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Frost Spear",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Blizzard Burn",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120",
+          "text": "This Pokémon can't attack during your next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Team Plasma",
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e5/4c/f2/e54cf2577394a9068592bb658f2df7abd79032626ca9524789c109dc5dfe0e3e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24854",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 95538222,
+      "prices": [
+        {
+          "priceAmount": 4999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/kyurem-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1060,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/kyurem-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/kyurem-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/kyurem-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1299,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/kyurem-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11639,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Voltorb",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Rollout",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sumiyoshi Kizuki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c2/02/01/c202012e0e52bce29baf0d76ff87aa964dab4bcdde16a5f8a02ed969e9143cf8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24855",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 47193484,
+      "prices": [
+        {
+          "priceAmount": 219,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/voltorb-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11640,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Electrode",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Voltorb",
+      "effect": [
+        {
+          "name": "Magnetic Draw",
+          "text": "Once during your turn (before your attack), you may draw cards until you have 4 cards in your hand.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Electro Ball",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "HiRON",
+      "imageUrl": "https://static.tcgcollector.com/content/images/17/f0/5e/17f05e070cad19d48e6818667b8c8e8b4eb61df832165eea554af0a15ee99f68.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24856",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 26971002,
+      "prices": [
+        {
+          "priceAmount": 2716,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/electrode-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1064,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/electrode-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/electrode-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 545,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/electrode-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11641,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Pachirisu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Minor Errand-Running",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for 2 basic Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Electric Tail",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Akira Komayama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6d/7d/7d/6d7d7dcf0a65a0c852c51e666d63dbbf8286faba5d93e2cfe554510289aae1e2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24857",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 90389595,
+      "prices": [
+        {
+          "priceAmount": 500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/pachirisu-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11642,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Thundurus-EX",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Raiden Knuckle",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "Attach an Energy card from your discard pile to 1 of your Benched Team Plasma Pokémon."
+        },
+        {
+          "name": "Thunderous Noise",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "90",
+          "text": "If this Pokémon has any Plasma Energy attached to it, discard an Energy attached to the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Team Plasma",
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Eske Yoshinob",
+      "imageUrl": "https://static.tcgcollector.com/content/images/00/11/b6/0011b61453b4be8b51b8d304bdaffd7062f6077527eefb565106713f26175986.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24858",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 70868977,
+      "prices": [
+        {
+          "priceAmount": 5500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/thundurus-ex-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 519,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/thundurus-ex-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11643,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Nidoran ?",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hit Back",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "If this Pokémon has no damage counters on it, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/61/d8/7c/61d87cec031cc774833e62fd5c2a78890cde6670e64006c2cf18736fd710e935.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24859",
+      "sequenceNumber": 21,
+      "printedNumber": "21",
+      "uuid": 5850467,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/nidoran?-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11644,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Nidorino",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Nidoran ?",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Double Kick",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30×",
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        },
+        {
+          "name": "Horn Attack",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shigenori Negishi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bd/9c/14/bd9c14973b89b0630fa8398c56ea3aa61b1a20b765042bfe71d252167df5c888.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24860",
+      "sequenceNumber": 22,
+      "printedNumber": "22",
+      "uuid": 8872213,
+      "prices": [
+        {
+          "priceAmount": 252,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/nidorino-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11645,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Grimer",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Lure Poison",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with the Defending Pokémon. The new Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Sludge Toss",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hajime Kusajima",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b6/78/26/b678263727f4ab49124ca73cc8558f6caf60d91c7f76b160228d5237eb152789.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24861",
+      "sequenceNumber": 23,
+      "printedNumber": "23",
+      "uuid": 41394445,
+      "prices": [
+        {
+          "priceAmount": 2119,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/grimer-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 153,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/grimer-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11646,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Muk",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Grimer",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Poison Suction",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "If the Defending Pokémon is Poisoned, heal 60 damage from this Pokémon."
+        },
+        {
+          "name": "Sludge Crash",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "80",
+          "text": "Flip a coin until you get tails. For each heads, discard an Energy attached to the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Team Plasma",
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ef/69/bc/ef69bca0e062dc9924f0adba257f07f93e829af739f94d95bd20589135f19d77.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24862",
+      "sequenceNumber": 24,
+      "printedNumber": "24",
+      "uuid": 87259249,
+      "prices": [
+        {
+          "priceAmount": 349,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/muk-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11647,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Beldum",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Calculate",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Look at the top 4 cards of your deck and put them back on top of your deck in any order."
+        },
+        {
+          "name": "Psypunch",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shigenori Negishi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a9/24/e4/a924e414b51876902092b06490029375efb731fb68fedd25266ad7c5fc2c1395.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24863",
+      "sequenceNumber": 25,
+      "printedNumber": "25",
+      "uuid": 46819934,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/beldum-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11648,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Metang",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Beldum",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Psy Bolt",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Psypunch",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8b/f0/3e/8bf03e0e5c75ec1311d5cd23477370dc7c99a664ac0f609637a82ec6e25dc22a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24864",
+      "sequenceNumber": 26,
+      "printedNumber": "26",
+      "uuid": 77413886,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/metang-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11649,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Metagross",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Metang",
+      "effect": [
+        {
+          "name": "Plasma Search",
+          "text": "Once during your turn (before your attack), you may search your deck for a Team Plasma card, reveal it, and put it into your hand. Shuffle your deck afterward. You may not use an Ability with the same name during your turn.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Mind Bend",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "60",
+          "text": "The Defending Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Team Plasma",
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bc/4b/c6/bc4bc620a6eb371e6333738a06fb00ccf761a5dd0b3b33b82014e39ec5b4d3d8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24865",
+      "sequenceNumber": 27,
+      "printedNumber": "27",
+      "uuid": 52945728,
+      "prices": [
+        {
+          "priceAmount": 3400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/metagross-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1201,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/metagross-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1251,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/metagross-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/metagross-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 353,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/metagross-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11650,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Nidoking",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Nidorino",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Lovestrike",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Does 40 more damage for each Nidoqueen on your Bench."
+        },
+        {
+          "name": "Horn Drill",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "90"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f8/47/a6/f847a64af84c6e51058831ef767a190430dcac7b7a36a1c26b5582bf2ee326be.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24866",
+      "sequenceNumber": 28,
+      "printedNumber": "28",
+      "uuid": 7213087,
+      "prices": [
+        {
+          "priceAmount": 5999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/nidoking-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/nidoking-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11651,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Makuhita",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Continuous Slap",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "Flip a coin until you get tails. This attack does 20 damage times the number of heads."
+        },
+        {
+          "name": "Hammer In",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5f/62/a9/5f62a9b138f3bf7ce252984631ea3905ac8cbb61c6026e802e6d0f6967114cc3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24867",
+      "sequenceNumber": 29,
+      "printedNumber": "29",
+      "uuid": 69414481,
+      "prices": [
+        {
+          "priceAmount": 199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/makuhita-29",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11652,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Hariyama",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Makuhita",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fake Out",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Pivot Throw",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is increased by 20 (after applying Weakness and Resistance)."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ca/54/28/ca5428e88f4cc7ef2bcb3cae8d336365695dbe0d51849018c4f020b5d203ee9b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24868",
+      "sequenceNumber": 30,
+      "printedNumber": "30",
+      "uuid": 74925502,
+      "prices": [
+        {
+          "priceAmount": 1201,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/hariyama-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 215,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/hariyama-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11653,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Umbreon",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Eevee",
+      "effect": [
+        {
+          "name": "Dark Shade",
+          "text": "Each of your Team Plasma Pokémon in play gets +20 HP.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Darkness Fang",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Team Plasma",
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/86/e3/dd/86e3dde2fbd0932742c8bc7365f9095ef3df3aa38011db8d82d14b2207d70b13.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24869",
+      "sequenceNumber": 31,
+      "printedNumber": "31",
+      "uuid": 72904717,
+      "prices": [
+        {
+          "priceAmount": 23950,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/umbreon-31",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 3100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/umbreon-31",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 3875,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/umbreon-31",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 6873,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/umbreon-31",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 18267,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/umbreon-31",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 2050,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/umbreon-31",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11654,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Pawniard",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Slash",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/05/b0/0a/05b00a61d65bd86ce1316f95892acd5f134f2edf0896c792cabb65fd360d505d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24870",
+      "sequenceNumber": 32,
+      "printedNumber": "32",
+      "uuid": 20858783,
+      "prices": [
+        {
+          "priceAmount": 143,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/pawniard-32",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11655,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Bisharp",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Pawniard",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Slash",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "40"
+        },
+        {
+          "name": "Dragon Slayer",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80+",
+          "text": "If the Defending Pokémon is a Dragon Pokémon, this attack does 40 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Team Plasma",
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/37/06/a9/3706a9fd73e8f16c0e290b3eaa018e738b00c619ca3d72c6ceddbdbb212560ab.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24871",
+      "sequenceNumber": 33,
+      "printedNumber": "33",
+      "uuid": 68197618,
+      "prices": [
+        {
+          "priceAmount": 198,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/bisharp-33",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11656,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Deino",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Push Down",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Bite",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Midori Harada",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a7/6c/ba/a76cba6f3697bef0919b60fda634ad8141f74514d9349ae922b09a236f4fdc09.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24872",
+      "sequenceNumber": 34,
+      "printedNumber": "34",
+      "uuid": 16983232,
+      "prices": [
+        {
+          "priceAmount": 800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/deino-34",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11657,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Zweilous",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Deino",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bite",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        },
+        {
+          "name": "Body Slam",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "match",
+      "imageUrl": "https://static.tcgcollector.com/content/images/90/e6/c1/90e6c1fe9bbdc76e3bc083e9afe4896617bed8c14938e93e8d4db5525b7f3853.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24873",
+      "sequenceNumber": 35,
+      "printedNumber": "35",
+      "uuid": 83499604,
+      "prices": [
+        {
+          "priceAmount": 231,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/zweilous-35",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11658,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Hydreigon",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 150,
+      "evolvesFrom": "Zweilous",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tractorbeam",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Switch 1 of your opponent's benched Pokémon with the Defending Pokémon. This attack does 40 damage to the new Defending Pokémon."
+        },
+        {
+          "name": "Obsidian Fang",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "80",
+          "text": "Before doing damage, discard all Pokémon Tools attached to the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Team Plasma",
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/18/ec/20/18ec20e313dae6d12778a3db8a84e4851c324d6e6e9a21fea6546def39f3c2e8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24874",
+      "sequenceNumber": 36,
+      "printedNumber": "36",
+      "uuid": 18417199,
+      "prices": [
+        {
+          "priceAmount": 5376,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/hydreigon-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/hydreigon-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/hydreigon-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/hydreigon-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 385,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/hydreigon-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11659,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Mawile",
+      "types": [
+        "Metal"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Astonish",
+          "cost": [
+            "Metal"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, choose a random card from your opponent's hand. Your opponent reveals that card and shuffles it into his or her deck."
+        },
+        {
+          "name": "Big Ol' Bite",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "Heal 30 damage from this Pokémon. The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b7/8e/c2/b78ec251577864a3a8bf26b635a4c6ecb86d7ea5f70aa7df614dd4f158cccef8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24875",
+      "sequenceNumber": 37,
+      "printedNumber": "37",
+      "uuid": 62925584,
+      "prices": [
+        {
+          "priceAmount": 359,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/mawile-37",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11660,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Dratini",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Shed Skin",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Heal 20 damage from this Pokémon."
+        },
+        {
+          "name": "Tail Smack",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f0/34/6d/f0346db4076ec10b7418bb2fbb32e5b38616a24c0aa3f4b764d535ca4d313ccc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24876",
+      "sequenceNumber": 38,
+      "printedNumber": "38",
+      "uuid": 44295306,
+      "prices": [
+        {
+          "priceAmount": 4700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/dratini-38",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 3500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/dratini-38",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 3900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/dratini-38",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 4300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/dratini-38",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/dratini-38",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11661,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Dragonair",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Dratini",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Wrap",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Tail Smack",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "TOKIYA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8b/8b/ca/8b8bca6d7f8b661a385796f648a1d80cfd63798902ddc8fb57441755eafffad5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24877",
+      "sequenceNumber": 39,
+      "printedNumber": "39",
+      "uuid": 47346909,
+      "prices": [
+        {
+          "priceAmount": 5380,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/dragonair-39",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 538,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/dragonair-39",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11662,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Dragonite",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 150,
+      "evolvesFrom": "Dragonair",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Deafen",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Your opponent can't play any Item cards from his or her hand during his or her next turn."
+        },
+        {
+          "name": "Healwing",
+          "cost": [
+            "Grass",
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "90",
+          "text": "Heal 30 damage from this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Akira Komayama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f7/99/8f/f7998fbbc93b4dc3967a95d6185bd7a1f98e20b89277da868a2bfa5d6cf464bd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24878",
+      "sequenceNumber": 40,
+      "printedNumber": "40",
+      "uuid": 31393793,
+      "prices": [
+        {
+          "priceAmount": 7156,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/dragonite-40",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/dragonite-40",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 2611,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/dragonite-40",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/dragonite-40",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 764,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/dragonite-40",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11663,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Latias-EX",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 160,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Bright Down",
+          "text": "Prevent all effects of attacks, including damage, done to this Pokémon by your opponent's Pokémon with Abilities.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Barrier Break",
+          "cost": [
+            "Fire",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c7/ed/a1/c7eda1492284567b89803569cb0e00ec4f68fb0984a5deb926cede0c4e37bf9f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24879",
+      "sequenceNumber": 41,
+      "printedNumber": "41",
+      "uuid": 87198008,
+      "prices": [
+        {
+          "priceAmount": 7497,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/latias-ex-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2370,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/latias-ex-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 2600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/latias-ex-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/latias-ex-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 670,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/latias-ex-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11664,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Eevee",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Signs of Evolution",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for 3 Pokémon of different types that evolve from Eevee. Reveal them and put them into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Bite",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/46/b0/3f/46b03f4fdf63783adfea5cdaced1d08f6dc14d7fc1466fdf4e62d1363a006cfb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24880",
+      "sequenceNumber": 42,
+      "printedNumber": "42",
+      "uuid": 95566842,
+      "prices": [
+        {
+          "priceAmount": 3607,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/eevee-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 463,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/eevee-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 651,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/eevee-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1050,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/eevee-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/eevee-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 519,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/eevee-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11665,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Starly",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/17/14/ef/1714ef6354e16e6a42a7ecca0aa5d765b137efef013e76d50ae9d3f080da0fa6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24881",
+      "sequenceNumber": 43,
+      "printedNumber": "43",
+      "uuid": 22490856,
+      "prices": [
+        {
+          "priceAmount": 1150,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/starly-43",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 175,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/starly-43",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11666,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Staravia",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Starly",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Take Down",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If tails, this Pokémon does 10 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "sui",
+      "imageUrl": "https://static.tcgcollector.com/content/images/95/56/a8/9556a8b1d0681308c1213b575ce9677e8248628d6456f2a5482344a596b8549f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24882",
+      "sequenceNumber": 44,
+      "printedNumber": "44",
+      "uuid": 82084939,
+      "prices": [
+        {
+          "priceAmount": 236,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/staravia-44",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11667,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Staraptor",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Staravia",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        },
+        {
+          "name": "Strong Breeze",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "text": "Your opponent shuffles the Defending Pokémon and all cards attached to it into his or her deck."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hajime Kusajima",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8d/cc/cc/8dcccc035db816ae56d1b37050557b8e82959be11346640d443c005a1ef9b5ef.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24883",
+      "sequenceNumber": 45,
+      "printedNumber": "45",
+      "uuid": 76094155,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/staraptor-45",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11668,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Tornadus-EX",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Windfall",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Shuffle your hand into your deck. Then, draw 6 cards."
+        },
+        {
+          "name": "Jet Blast",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "60+",
+          "text": "Does 30 more damage for each Plasma Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Team Plasma",
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Eske Yoshinob",
+      "imageUrl": "https://static.tcgcollector.com/content/images/44/dd/f1/44ddf1dad0ba3c9c3c909d3046b66011f3536bc22e44375308cb544cda4ebc6b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24884",
+      "sequenceNumber": 46,
+      "printedNumber": "46",
+      "uuid": 64910345,
+      "prices": [
+        {
+          "priceAmount": 2799,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/tornadus-ex-46",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1465,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/tornadus-ex-46",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/tornadus-ex-46",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 301,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/tornadus-ex-46",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11669,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Team Plasma Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Search your deck for a Team Plasma Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Team Plasma Trainer"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/54/b6/db/54b6db9c83986a153979c938ccd2b2a18f7b1fe2383950bd74653fdcf86a952f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24885",
+      "sequenceNumber": 47,
+      "printedNumber": "47",
+      "uuid": 10910501,
+      "prices": []
+    },
+    {
+      "id": 11670,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Float Stone",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "The Pokémon this card is attached to has no Retreat Cost."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fc/c2/4c/fcc24c5413747af1f607b5c20eed5b23e2a786d6824a7961b1822a5d05d31248.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24886",
+      "sequenceNumber": 48,
+      "printedNumber": "48",
+      "uuid": 92845482,
+      "prices": []
+    },
+    {
+      "id": 11671,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Shadow Triad",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Put a Team Plasma card from your discard pile into your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter",
+        "Team Plasma Trainer"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yusuke Ohmura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b9/1d/18/b91d18de333628f145e7c5dbb4abd6124ae2ee2ef21130f9d19ed4065622aa58.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24887",
+      "sequenceNumber": 49,
+      "printedNumber": "49",
+      "uuid": 53573820,
+      "prices": [
+        {
+          "priceAmount": 227,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/shadow-triad-49",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11672,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Life Dew",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"You cant have more than 1 ACE SPEC card in your deck.\", \"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "If the Pokémon this card is attached to is Knocked Out, your opponent takes 1 fewer Prize card."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool",
+        "Ace Spec"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8a/37/b9/8a37b9729aa0f180ab906590a5c2a1700bc4bf567aa448c367240c0a93bf70df.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24888",
+      "sequenceNumber": 50,
+      "printedNumber": "50",
+      "uuid": 93772504,
+      "prices": [
+        {
+          "priceAmount": 7048,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/life-dew-50",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 99,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/life-dew-50",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11673,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Plasma Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "This card provides Colorless Energy."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy",
+        "Team Plasma Energy"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c8/71/7e/c8717e9d1c26b5aa28daa670fbb6352f567e871e881cd025cf284f37eb335831.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24889",
+      "sequenceNumber": 51,
+      "printedNumber": "51",
+      "uuid": 34007342,
+      "prices": [
+        {
+          "priceAmount": 70,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/plasma-energy-51",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11674,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Thundurus-EX",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Raiden Knuckle",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "Attach an Energy card from your discard pile to 1 of your Benched Team Plasma Pokémon."
+        },
+        {
+          "name": "Thunderous Noise",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "90",
+          "text": "If this Pokémon has any Plasma Energy attached to it, discard an Energy attached to the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Team Plasma",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/24890",
+      "sequenceNumber": 52,
+      "printedNumber": "52",
+      "uuid": 7643270,
+      "prices": [
+        {
+          "priceAmount": 15287,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/thundurus-ex-52",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2152,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/thundurus-ex-52",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 5378,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/thundurus-ex-52",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 5900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/thundurus-ex-52",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 488,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/thundurus-ex-52",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11675,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Latias-EX",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 160,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Bright Down",
+          "text": "Prevent all effects of attacks, including damage, done to this Pokémon by your opponent's Pokémon with Abilities.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Barrier Break",
+          "cost": [
+            "Fire",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/24891",
+      "sequenceNumber": 53,
+      "printedNumber": "53",
+      "uuid": 75637442,
+      "prices": [
+        {
+          "priceAmount": 31383,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/latias-ex-53",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 7609,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/latias-ex-53",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 9550,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/latias-ex-53",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 13577,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/latias-ex-53",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 14900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/latias-ex-53",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 4216,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/latias-ex-53",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11676,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Tornadus-EX",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Windfall",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Shuffle your hand into your deck. Then, draw 6 cards."
+        },
+        {
+          "name": "Jet Blast",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "60+",
+          "text": "Does 30 more damage for each Plasma Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Team Plasma",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/24892",
+      "sequenceNumber": 54,
+      "printedNumber": "54",
+      "uuid": 67790469,
+      "prices": [
+        {
+          "priceAmount": 9031,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/tornadus-ex-54",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2150,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/tornadus-ex-54",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 2515,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/tornadus-ex-54",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 5175,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/tornadus-ex-54",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 5700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/tornadus-ex-54",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 919,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/tornadus-ex-54",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11677,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Professor Juniper",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Discard your hand and draw 7 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/24893",
+      "sequenceNumber": 55,
+      "printedNumber": "55",
+      "uuid": 16113652,
+      "prices": [
+        {
+          "priceAmount": 60200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/professor-juniper-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 11800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/professor-juniper-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 26969,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/professor-juniper-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 60120,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/professor-juniper-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 6873,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/professor-juniper-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11678,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Garbodor",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Trubbish",
+      "effect": [
+        {
+          "name": "Garbotoxin",
+          "text": "If this Pokémon has a Pokémon Tool card attached to it, each Pokémon in play, in each player's hand, and in each player's discard pile has no Abilities (except for Garbotoxin).",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Sludge Toss",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/24894",
+      "sequenceNumber": 56,
+      "printedNumber": "56",
+      "uuid": 14384476,
+      "prices": [
+        {
+          "priceAmount": 43350,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/garbodor-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 10967,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/garbodor-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 12100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/garbodor-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 5485,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/garbodor-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11679,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Garchomp",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Gabite",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Mach Cut",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "60",
+          "text": "Discard a Special Energy attached to the Defending Pokémon."
+        },
+        {
+          "name": "Dragonblade",
+          "cost": [
+            "Water",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "100",
+          "text": "Discard the top 2 cards of your deck."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/24895",
+      "sequenceNumber": 57,
+      "printedNumber": "57",
+      "uuid": 41001928,
+      "prices": [
+        {
+          "priceAmount": 99900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/garchomp-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 11900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/garchomp-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 14850,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/garchomp-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 29705,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/garchomp-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 32700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/garchomp-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 7622,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/garchomp-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11680,
+      "setData": {
+        "name": "Thunder Knuckle",
+        "printed_count": "58",
+        "card_count": 58,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/thunder-knuckle"
+      },
+      "name": "Max Potion",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Heal all damage from 1 of your Pokémon. Then, discard all Energy attached to that Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/24896",
+      "sequenceNumber": 58,
+      "printedNumber": "58",
+      "uuid": 72672438,
+      "prices": [
+        {
+          "priceAmount": 13955,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "09/23/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/max-potion-58",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 12612,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/max-potion-58",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 13900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/max-potion-58",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1405,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-thunder-knuckle/max-potion-58",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 58,
+  "totalCount": 58
+}

@@ -1,0 +1,458 @@
+{
+  "data": [
+    {
+      "id": 4213,
+      "setData": {
+        "name": "VMAX Special Set",
+        "printed_count": "8",
+        "card_count": 8,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-special-set"
+      },
+      "name": "Dhelmise VMAX",
+      "types": [
+        "Grass"
+      ],
+      "hp": 330,
+      "evolvesFrom": "Dhelmise V",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Swinging Chain",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "This attack does 30 damage to 1 of your opponent's Pokémon for each Grass Energy attached to this Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Max Anchor",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "240",
+          "text": "During your next turn, this Pokémon can't use Max Anchor."
+        }
+      ],
+      "rules": [
+        "When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX",
+        "Dynamax",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "PLANETA Mochizuki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/71/f1/2d/71f12d9a673c12ec5fb13e53fabaea472575c1b91f5340b729a6438da88be2ce.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/30087",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 48325334,
+      "prices": []
+    },
+    {
+      "id": 4214,
+      "setData": {
+        "name": "VMAX Special Set",
+        "printed_count": "8",
+        "card_count": 8,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-special-set"
+      },
+      "name": "Cinderace VMAX",
+      "types": [
+        "Fire"
+      ],
+      "hp": 320,
+      "evolvesFrom": "Cinderace V",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Counter",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "If this Pokémon was damaged by an attack during your opponent's last turn, this attack does that much more damage."
+        },
+        {
+          "name": "Max Pyro Ball",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "170",
+          "text": "Your opponent's Active Pokémon is now Burned."
+        }
+      ],
+      "rules": [
+        "When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX",
+        "Dynamax",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/87/33/27/8733275764d60f2de81d5830ad96b9dd42c5a7efe0d963096fed68983b06ea38.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/30088",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 33616021,
+      "prices": []
+    },
+    {
+      "id": 4215,
+      "setData": {
+        "name": "VMAX Special Set",
+        "printed_count": "8",
+        "card_count": 8,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-special-set"
+      },
+      "name": "Morpeko VMAX",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 300,
+      "evolvesFrom": "Morpeko V",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Max Discharge",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "180",
+          "text": "This attack also does 20 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX",
+        "Dynamax",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c6/5f/1a/c65f1a910ab887926e31e57ffb10b01d8410fb0f5e79957f766f5c8e8069d56b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/30089",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 46882731,
+      "prices": []
+    },
+    {
+      "id": 4216,
+      "setData": {
+        "name": "VMAX Special Set",
+        "printed_count": "8",
+        "card_count": 8,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-special-set"
+      },
+      "name": "Cramorant VMAX",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 320,
+      "evolvesFrom": "Cramorant V",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Max Spurt",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80×",
+          "text": "Flip a coin for each Energy attached to this Pokémon. This attack does 80 damage for each heads."
+        }
+      ],
+      "rules": [
+        "When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX",
+        "Dynamax",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "PLANETA Tsuji",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4e/d1/e4/4ed1e4f427a835459401a85a1e4d757aee0be3ba4efabe77c2c600d1ced1b34f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/30090",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 24061139,
+      "prices": []
+    },
+    {
+      "id": 4217,
+      "setData": {
+        "name": "VMAX Special Set",
+        "printed_count": "8",
+        "card_count": 8,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-special-set"
+      },
+      "name": "Grass Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/44/02/1a/44021a7a7955e14a11ed8d29869bdf5f37e1a68514e1b6a3ea3885e8a9d34f4a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34091",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 13050438,
+      "prices": []
+    },
+    {
+      "id": 4218,
+      "setData": {
+        "name": "VMAX Special Set",
+        "printed_count": "8",
+        "card_count": 8,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-special-set"
+      },
+      "name": "Fire Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/50/ec/a6/50eca6dcbb10edf7a4f7ea7fc6119ea69f428884050fcec8c85ae61ddc320267.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34092",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 21276319,
+      "prices": []
+    },
+    {
+      "id": 4219,
+      "setData": {
+        "name": "VMAX Special Set",
+        "printed_count": "8",
+        "card_count": 8,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-special-set"
+      },
+      "name": "Water Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/63/9e/d1/639ed106f34f228ac12480c9bf846afe7033875c4bb567450fcb1f86a0e1010f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34093",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 32386297,
+      "prices": []
+    },
+    {
+      "id": 4220,
+      "setData": {
+        "name": "VMAX Special Set",
+        "printed_count": "8",
+        "card_count": 8,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-special-set"
+      },
+      "name": "Lightning Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/be/b5/6b/beb56bd78b617fc8a5c2df182db362c9daba38fff9d025eace0df2508a503e4d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34094",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 75144522,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 8,
+  "totalCount": 8
+}

@@ -1,0 +1,4297 @@
+{
+  "data": [
+    {
+      "id": 9495,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Seedot",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bide",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, if this Pokémon would be Knocked Out by damage from an attack during your opponent's next turn, it is not Knocked Out and its remaining HP becomes 10 instead."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "sui",
+      "imageUrl": "https://static.tcgcollector.com/content/images/48/0f/76/480f76196193e7cf50d9ff169e3336a5a213cf392434d66b3369bef934598174.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22716",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 15120583,
+      "prices": [
+        {
+          "priceAmount": 227,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/seedot-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9496,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Nuzleaf",
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Seedot",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Harden",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "During your opponent's next turn, if this Pokémon would be damaged by an attack, prevent that attack's damage done to this Pokémon if that damage is 60 or less."
+        },
+        {
+          "name": "Razor Leaf",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ayaka Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cf/f5/2e/cff52ef3539ff1bb3253bc2010f274e148df2e7458500d101e133e60eaca94fe.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22717",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 20886933,
+      "prices": []
+    },
+    {
+      "id": 9497,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Shiftry",
+      "types": [
+        "Darkness",
+        "Grass"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Nuzleaf",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Wicked Wind",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "40",
+          "text": "Until the end of your opponent's next turn, each Stadium or Pokémon Tool card in play has no effect. (This includes cards that come into play on that turn.)"
+        },
+        {
+          "name": "Extrasensory",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "60+",
+          "text": "If you have the same number of cards in your hand as your opponent, this attack does 60 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/de/23/5a/de235a724b27280f41b4f9b438e4d25bd2eb3eb948f420154e847ba295116fa3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22718",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 87053381,
+      "prices": [
+        {
+          "priceAmount": 2543,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/shiftry-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1150,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/shiftry-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/shiftry-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 470,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/shiftry-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9498,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Foongus",
+      "types": [
+        "Grass"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Play Ball",
+          "text": "When you play this Pokémon from your hand onto your Bench, you may put 3 Poké Ball cards from your discard pile into your hand.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Ram",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yuka Morii",
+      "imageUrl": "https://static.tcgcollector.com/content/images/51/7f/4c/517f4c3d096f434c7e6dd78249b1820c4365d97be2a3606aa943a67736d298e5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22719",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 28019392,
+      "prices": []
+    },
+    {
+      "id": 9499,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Amoonguss",
+      "types": [
+        "Grass"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Foongus",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Crazy Spore",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent's Active Pokémon is now Confused and Poisoned."
+        },
+        {
+          "name": "Strange Reaction",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "If your opponent's Active Pokémon is Confused, it is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f2/43/e4/f243e45378c5da7c0fe50651dfd4e391511d817f3e68cc4b985f46765713992d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22720",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 66110358,
+      "prices": [
+        {
+          "priceAmount": 234,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/amoonguss-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9500,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Ponyta",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Returning Flames",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Put 2 Fire Energy cards from your discard pile into your hand."
+        },
+        {
+          "name": "Live Coal",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sumiyoshi Kizuki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4a/70/e9/4a70e97bd009a4c0dcbebe216ca90492e99d92ccd4f8f648bbd57465ccf5507b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22721",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 28158859,
+      "prices": [
+        {
+          "priceAmount": 204,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/ponyta-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9501,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Rapidash",
+      "types": [
+        "Fire"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Ponyta",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Rear Kick",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30"
+        },
+        {
+          "name": "Fire Blast",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "70",
+          "text": "Discard a Fire Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yukiko Baba",
+      "imageUrl": "https://static.tcgcollector.com/content/images/33/d2/c1/33d2c177f386114fdfd497094fc56dd541dbc863e1a9ef836393e616e1dec65d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22722",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 80991975,
+      "prices": [
+        {
+          "priceAmount": 5152,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/rapidash-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 218,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/rapidash-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9502,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Litleo",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Lunge",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kyoko Umemoto",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4b/54/ec/4b54ec5ee7e55d9caf85a91b2db32104fda3bca95316999b34a3f305d01287d6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22723",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 83178861,
+      "prices": []
+    },
+    {
+      "id": 9503,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Pyroar",
+      "types": [
+        "Fire"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Litleo",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Flame Charge",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "60",
+          "text": "Search your deck for a Fire Energy card and attach it to this Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Incinerate",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "Before doing damage, discard all Pokémon Tool cards attached to your opponent's Active Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yumi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cd/4c/fa/cd4cfa2afe29e22cc41b5f6ff606fb3ba62c9fd46f67f2d183ed5a926f3c2f71.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22724",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 67212818,
+      "prices": [
+        {
+          "priceAmount": 199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/pyroar-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9504,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Pyroar BREAK",
+      "types": [
+        "Fire"
+      ],
+      "hp": 160,
+      "evolvesFrom": "Pyroar",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Kaiser Tackle",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "180",
+          "text": "This Pokémon does 50 damage to itself."
+        }
+      ],
+      "rules": [
+        "Pyroar BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution."
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "BREAK",
+        "Stage 2"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bd/29/bc/bd29bca0a4a3a992c584b3dffdacd6d76ccd7c543a95f86c6cc0cd88605995f1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22725",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 99186834,
+      "prices": [
+        {
+          "priceAmount": 630,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/pyroar-break-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9505,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Volcanion",
+      "types": [
+        "Fire"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Power Heater",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Choose 2 of your Benched Pokémon. Attach a Fire Energy card from your discard pile to each of those Pokémon."
+        },
+        {
+          "name": "Steam Artillery",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fd/35/52/fd3552384f6cd430edb41a859ff0b6df16362785a0f9ea440ec2c5e589e7094a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22726",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 31970705,
+      "prices": [
+        {
+          "priceAmount": 399,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/volcanion-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9506,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Volcanion-EX",
+      "types": [
+        "Fire",
+        "Water"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Steam Up",
+          "text": "Once during your turn (before your attack), you may discard a Fire Energy card from your hand. If you do, during this turn, your Basic Fire Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Volcanic Heat",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "130",
+          "text": "This Pokémon can't attack during your next turn."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ca/74/7b/ca747b1aa87439da02ea4109b1d392272586b939751bccf6b2a0b0e9b4c4483c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22727",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 67040035,
+      "prices": [
+        {
+          "priceAmount": 1650,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/volcanion-ex-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 449,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/volcanion-ex-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9507,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Shellos",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Rain Splash",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sanosuke Sakuma",
+      "imageUrl": "https://static.tcgcollector.com/content/images/eb/78/6d/eb786d6cb978bcc87a4600dd951cf539dff390cb47149554730f14a74f09638b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22728",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 82634671,
+      "prices": []
+    },
+    {
+      "id": 9508,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Gastrodon",
+      "types": [
+        "Water"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Shellos",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sticky Shot",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "During your opponent's next turn, the Defending Pokémon's attacks cost Colorless more, and its Retreat Cost is Colorless more."
+        },
+        {
+          "name": "Water Pulse",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Aya Kusube",
+      "imageUrl": "https://static.tcgcollector.com/content/images/00/b3/b3/00b3b388b54732859580805956ca644d92d6b391e2f99f69b9510787b0c2ba08.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22729",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 36637481,
+      "prices": []
+    },
+    {
+      "id": 9509,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Oshawott",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "sui",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d3/b2/00/d3b20035ff1f4cf479e20b2b39b9d30bfa85a8db98966e588409580dbdf8d51f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22730",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 12852750,
+      "prices": [
+        {
+          "priceAmount": 250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/oshawott-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9510,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Dewott",
+      "types": [
+        "Water"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Oshawott",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Razor Shell",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4b/7b/45/4b7b45d1759cf48c75d16ad77e1d61025e47f514d01c2028af6d2b72890c64f8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22731",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 33538399,
+      "prices": []
+    },
+    {
+      "id": 9511,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Samurott",
+      "types": [
+        "Water"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Dewott",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Ultimate Blade",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40",
+          "text": "If the damage from this attack reduces your opponent's Active Pokémon's HP to 60 or less, that Pokémon is Knocked Out."
+        },
+        {
+          "name": "Pike",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoyo Kimura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6e/40/41/6e40415e3fb9f43c9b143f48798be977cec0212f65255d24563e708ba4b5de07.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22732",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 66890591,
+      "prices": []
+    },
+    {
+      "id": 9512,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Clauncher",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Double Pincers",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kanako Eo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/df/5e/7b/df5e7b731de360f1330745979daa09b940e0db5f4236f9fee4da652e7e89cd9f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22733",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 30814966,
+      "prices": []
+    },
+    {
+      "id": 9513,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Clawitzer",
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Clauncher",
+      "effect": [
+        {
+          "name": "Mega Boost",
+          "text": "Once during your turn (before you attack), you may attach a Special Energy card from your hand to 1 of your Mega Evolution Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Crabhammer",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1f/3d/a3/1f3da336855222ca36885141c78e6a877300579ec6943914af833f5507a4d6fc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22734",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 19731833,
+      "prices": []
+    },
+    {
+      "id": 9514,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Clawitzer BREAK",
+      "types": [
+        "Water"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Clawitzer",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Lock-On",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn. During your next turn, any damage done to that Pokémon by attacks is increased by 120 (after applying Weakness and Resistance)."
+        }
+      ],
+      "rules": [
+        "Clawitzer BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution."
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "BREAK",
+        "Stage 2"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/38/df/33/38df33bccc2741e31a0b6914fcf0786fe3135e49decfa102d650f16cb127b6e0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22735",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 7257667,
+      "prices": []
+    },
+    {
+      "id": 9515,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Joltik",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Attach",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ayaka Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/85/05/58/8505584a28367c0083e4d56708fc2fd88e9321b92ec0c2788ecfca5b44fca30c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22736",
+      "sequenceNumber": 21,
+      "printedNumber": "21",
+      "uuid": 4017581,
+      "prices": [
+        {
+          "priceAmount": 227,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/joltik-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9516,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Galvantula",
+      "types": [
+        "Grass",
+        "Lightning"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Joltik",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Double Thread",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "This attack does 30 damage to 2 of your opponent's Pokémon. Also apply Weakness and Resistance for Benched Pokémon."
+        },
+        {
+          "name": "Electroweb",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "match",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e5/60/b8/e560b81219e2768fb173a018af48af3e935d53975b3816eaa16f3fa19acf7226.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22737",
+      "sequenceNumber": 22,
+      "printedNumber": "22",
+      "uuid": 87705807,
+      "prices": [
+        {
+          "priceAmount": 224,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/galvantula-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9517,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Drifloon",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Transfer Pain",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Move 1 damage counter from 1 of your Pokémon to 1 of your opponent's Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kodama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2d/d8/c7/2dd8c7525db1dfa97cdf886562e5230dc2fc714d99236b714a5a1a5435f3c7bc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22738",
+      "sequenceNumber": 23,
+      "printedNumber": "23",
+      "uuid": 55427170,
+      "prices": [
+        {
+          "priceAmount": 298,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/drifloon-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9518,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Drifblim",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Drifloon",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Eerie Wave",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Your opponent's Active Pokémon is now Confused."
+        },
+        {
+          "name": "Burst Curse",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Discard 2 Energy attached to this Pokémon. Put 8 damage counters on your opponent's Pokémon in any way you like."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Miki Tanaka",
+      "imageUrl": "https://static.tcgcollector.com/content/images/64/4e/38/644e38a44225aaa64908059a12fe3242ff2f51e0dcd209c51d5e485682d4ea79.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22739",
+      "sequenceNumber": 24,
+      "printedNumber": "24",
+      "uuid": 46124565,
+      "prices": []
+    },
+    {
+      "id": 9519,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Litwick",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Slightly Simmer",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 2 cards and discard them. Shuffle your deck afterward."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d2/75/b9/d275b9a4c2f85c904221e25fff0e77aacf42b25b41b46e7850cb6d16d71ef99f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22740",
+      "sequenceNumber": 25,
+      "printedNumber": "25",
+      "uuid": 94852905,
+      "prices": []
+    },
+    {
+      "id": 9520,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Lampent",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Litwick",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Mirror Mirror",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Each player either draws or discards cards until that player has 4 cards in his or her hand. (Your opponent does this first.)"
+        },
+        {
+          "name": "Flickering Flames",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "miki kudo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1a/9a/c6/1a9ac6003c3628decf6cbfba0aa467cfdf4d974ba833b159f3dd6028d01b1ad1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22741",
+      "sequenceNumber": 26,
+      "printedNumber": "26",
+      "uuid": 7973596,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/lampent-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9521,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Chandelure",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Lampent",
+      "effect": [
+        {
+          "name": "Sinister Selection",
+          "text": "Once during your turn (before your attack), you may look at the top 2 cards of your deck and put 1 of them into your hand. Discard the other card.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Past Friends",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "This attack does 10 more damage for each Supporter card in your discard pile."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Tomokazu Komiya",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9d/c3/6d/9dc36d07cd7980c8f4dfda3eceaeb3bbfa2201d3a38e519ef1347f01dfceda0d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22742",
+      "sequenceNumber": 27,
+      "printedNumber": "27",
+      "uuid": 45727356,
+      "prices": [
+        {
+          "priceAmount": 7000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/chandelure-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        }
+      ]
+    },
+    {
+      "id": 9522,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Nosepass",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Thunder Wave",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Rolling Tackle",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "You Iribi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/34/e6/53/34e6537c7b89383795f54fce7614af215c09cdb627d25e82f05e418dc8d5e976.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22743",
+      "sequenceNumber": 28,
+      "printedNumber": "28",
+      "uuid": 30866335,
+      "prices": []
+    },
+    {
+      "id": 9523,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Probopass",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Nosepass",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bounce Back",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "40",
+          "text": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Rock Tomb",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "MAHOU",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8a/16/14/8a16147fda79afca48168247f0bc7df791d0bc68b9e0876dda24cf3b9b6119fe.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22744",
+      "sequenceNumber": 29,
+      "printedNumber": "29",
+      "uuid": 1259533,
+      "prices": []
+    },
+    {
+      "id": 9524,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Croagunk",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Poison Up",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "If the Defending Pokémon is Poisoned, put 3 more damage counters on that Pokémon between turns. This effect can be applied more than once."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6f/f3/28/6ff328f4485db2973cc58181f18462700f9134d2fbabde39c1951f026fdb4164.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22745",
+      "sequenceNumber": 30,
+      "printedNumber": "30",
+      "uuid": 19812232,
+      "prices": []
+    },
+    {
+      "id": 9525,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Toxicroak",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Croagunk",
+      "effect": [
+        {
+          "name": "Poison Enzyme",
+          "text": "Prevent all damage done to this Pokémon by attacks from your opponent's Poisoned Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Poison Jab",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hajime Kusajima",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3c/69/82/3c69829d589e0f63de53bb12cd943aa60a2e18b920ad73207ee32b56a4fe517f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22746",
+      "sequenceNumber": 31,
+      "printedNumber": "31",
+      "uuid": 57488437,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/toxicroak-31",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9526,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Steelix-EX",
+      "types": [
+        "Metal"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Wild Edge",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "80+",
+          "text": "You may do 50 more damage. If you do, this Pokémon does 20 damage to itself."
+        },
+        {
+          "name": "Iron Tail",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "100×",
+          "text": "Flip a coin until you get tails. This attack does 100 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Eske Yoshinob",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3f/a2/95/3fa295c8864c0ddb608df2d35fa117b86978ae3f4a975412ec51d0d8f118f5f4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22747",
+      "sequenceNumber": 32,
+      "printedNumber": "32",
+      "uuid": 82654050,
+      "prices": [
+        {
+          "priceAmount": 3211,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/steelix-ex-32",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 358,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "10/21/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/steelix-ex-32",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "10/21/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/steelix-ex-32",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 215,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/steelix-ex-32",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9527,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "M Steelix-EX",
+      "types": [
+        "Fighting",
+        "Metal"
+      ],
+      "hp": 240,
+      "evolvesFrom": "Steelix-EX",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Canyon Axe",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "160",
+          "text": "This attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Mega",
+        "Stage 1"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/85/53/ba/8553badd98477de319debeb90f491f4f75299d5b9772b69420d331ce78a19f98.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22748",
+      "sequenceNumber": 33,
+      "printedNumber": "33",
+      "uuid": 8858522,
+      "prices": [
+        {
+          "priceAmount": 1558,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/mega-steelix-ex-33",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9528,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Shieldon",
+      "types": [
+        "Metal"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Armor Fossil Shieldon",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Rock Head",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Hammer In",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        ""
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mizue",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ac/a2/67/aca267c16bd4f70ed95b4340d9c11ca01be5a8b49200016b34a0e2f59cb16e78.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22749",
+      "sequenceNumber": 34,
+      "printedNumber": "34",
+      "uuid": 91850758,
+      "prices": [
+        {
+          "priceAmount": 125,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/shieldon-34",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9529,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Bastiodon",
+      "types": [
+        "Metal"
+      ],
+      "hp": 150,
+      "evolvesFrom": "Shieldon",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Counter Head",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "During your opponent's next turn, if this Pokémon is damaged by an attack (even if this Pokémon is Knocked Out), put damage counters on the Attacking Pokémon equal to the damage done to this Pokémon."
+        },
+        {
+          "name": "Fortress of Rage",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "100+",
+          "text": "This attack does 10 more damage for each of your Benched Pokémon that has any damage counters on it."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        ""
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "match",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e9/8b/87/e98b879aef25b356e2ad8196a29c641964d89cf5da496e5b8bcfbc03c907de27.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22750",
+      "sequenceNumber": 35,
+      "printedNumber": "35",
+      "uuid": 17263284,
+      "prices": [
+        {
+          "priceAmount": 234,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/bastiodon-35",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9530,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Klink",
+      "types": [
+        "Metal"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Disorderly Flip",
+          "cost": [
+            "Metal"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip 4 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Miki Tanaka",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b7/fe/93/b7fe93517864f3d847ea85fc0432371fba4f318f8e2834d1977d8c7141cddb17.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22751",
+      "sequenceNumber": 36,
+      "printedNumber": "36",
+      "uuid": 69944468,
+      "prices": [
+        {
+          "priceAmount": 254,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/klink-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9531,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Klang",
+      "types": [
+        "Metal"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Klink",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Vice Grip",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        },
+        {
+          "name": "Disorderly Flip",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30×",
+          "text": "Flip 4 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shigenori Negishi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cd/4f/12/cd4f1285299cdcca908ebe5764bb8e203222f029cca3ad9bff5fae028d440504.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22752",
+      "sequenceNumber": 37,
+      "printedNumber": "37",
+      "uuid": 54933741,
+      "prices": [
+        {
+          "priceAmount": 254,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/klang-37",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9532,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Klinklang",
+      "types": [
+        "Metal"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Klang",
+      "effect": [
+        {
+          "name": "Heavy Bumper",
+          "text": "Any damage done to this Pokémon by an opponent's attack is reduced by 10 for each Colorless in your opponent's Active Pokémon's Retreat Cost (after applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Gear Spinner",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": "During your next turn, this Pokémon's Gear Spinner attack does 70 more damage (before applying Weakness and Resistance)."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Midori Harada",
+      "imageUrl": "https://static.tcgcollector.com/content/images/73/22/76/732276827238d8db75f4fd499db8ae9eb8a524bc3a6738bd9860b127cd38e300.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22753",
+      "sequenceNumber": 38,
+      "printedNumber": "38",
+      "uuid": 25802120,
+      "prices": []
+    },
+    {
+      "id": 9533,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Cobalion",
+      "types": [
+        "Metal"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Quick Guard",
+          "cost": [
+            "Metal"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Prevent all damage done to this Pokémon by attacks from Basic Pokémon during your opponent's next turn. This Pokémon can't use Quick Guard during your next turn."
+        },
+        {
+          "name": "Revenge Blast",
+          "cost": [
+            "Metal",
+            "Metal"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "This attack does 30 more damage for each Prize card your opponent has taken."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kirisAki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4d/8f/33/4d8f3355cd698b5366a1a346cede545f199b0aa9a195e48d9aed6e7c3f17f9ae.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22754",
+      "sequenceNumber": 39,
+      "printedNumber": "39",
+      "uuid": 81729963,
+      "prices": [
+        {
+          "priceAmount": 199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/cobalion-39",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9534,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Klefki",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Wonder Lock",
+          "text": "Once during your turn (before your attack), if this Pokémon is on your Bench, you may discard all cards attached to this Pokémon and attach it to 1 of your Pokémon as a Pokémon Tool card. Prevent any damage done to the Pokémon this card is attached to by attacks from your opponent's Mega Evolution Pokémon. If this card is attached to a Pokémon, discard this card at the end of your opponent's turn.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fairy Wind",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Saya Tsuruta",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4e/a9/ea/4ea9eae3f0a0b71b360ed8188ff9e1cf04c6baeef52424c21b01c64d6d275938.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22755",
+      "sequenceNumber": 40,
+      "printedNumber": "40",
+      "uuid": 90322590,
+      "prices": []
+    },
+    {
+      "id": 9535,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Xerneas",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Geomancy",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Choose 2 of your Benched Pokémon. For each of those Pokémon, search your deck for a Fairy Energy card and attach it to that Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Rainbow Spear",
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100",
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Megumi Mizutani",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7e/cc/7c/7ecc7c013ca4026acdea5f5b4a5de9c529b89f19e1e5766b895c3902e1d4504b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22756",
+      "sequenceNumber": 41,
+      "printedNumber": "41",
+      "uuid": 35406157,
+      "prices": [
+        {
+          "priceAmount": 498,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/xerneas-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9536,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Xerneas BREAK",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 150,
+      "evolvesFrom": "Xerneas",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Life Stream",
+          "cost": [
+            "Fairy",
+            "Fairy"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "This attack does 20 damage times the amount of Energy attached to all of your Pokémon."
+        }
+      ],
+      "rules": [
+        "Xerneas BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution."
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "BREAK",
+        "Stage 1"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2a/e0/5b/2ae05bd1d1b5497f99a26cda6cffe7f37d7abbba61c19805cb5b7b86c2e42537.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22757",
+      "sequenceNumber": 42,
+      "printedNumber": "42",
+      "uuid": 95481046,
+      "prices": [
+        {
+          "priceAmount": 449,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/xerneas-break-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9537,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Druddigon",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Proud Fang",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "If your opponent has any Pokémon BREAK in play, this attack does 60 more damage."
+        },
+        {
+          "name": "Giga Claw",
+          "cost": [
+            "Fire",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100",
+          "text": "Flip 2 coins. If both of them are tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kawayoo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4f/f0/b4/4ff0b41322d46c4e4f55d5283b303ecc0d81b642ec2a2f6db179dca6e4762925.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22758",
+      "sequenceNumber": 43,
+      "printedNumber": "43",
+      "uuid": 81331680,
+      "prices": []
+    },
+    {
+      "id": 9538,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Aipom",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fiddle Around",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Look at the top 3 cards of your opponent's deck and put them back in any order."
+        },
+        {
+          "name": "Tail Jab",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoki Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/16/87/f6/1687f61922103fe542d05fb2fd4677ca8de2f913222c73971d9be1fd077f66ea.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22759",
+      "sequenceNumber": 44,
+      "printedNumber": "44",
+      "uuid": 68982076,
+      "prices": [
+        {
+          "priceAmount": 200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/aipom-44",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9539,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Ambipom",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Aipom",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Furry Chance",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20+",
+          "text": "Discard the top card of your opponent's deck. If that card is an Energy card, this attack does 60 more damage."
+        },
+        {
+          "name": "Double Hit",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50×",
+          "text": "Flip 2 coins. This attack does 50 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b2/c4/9b/b2c49bf6056f9d29dc01c55fbf32f904fedac716daeae5f86e9ee62f453a94de.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22760",
+      "sequenceNumber": 45,
+      "printedNumber": "45",
+      "uuid": 393296,
+      "prices": [
+        {
+          "priceAmount": 99,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/ambipom-45",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9540,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Fletchling",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Peck",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "TOKIYA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/81/cc/04/81cc04d155b7a68be9959bf3e951c057d2d2a1c0e959c6c4d48a4c042c54f70b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22761",
+      "sequenceNumber": 46,
+      "printedNumber": "46",
+      "uuid": 78342833,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/fletchling-46",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9541,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Fletchinder",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Fletchling",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Glide",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shigenori Negishi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/63/c4/3f/63c43f51f259dbf632f5ef565f8c2d4c4880558cbb07d16f140f23bc9cc8e3be.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22762",
+      "sequenceNumber": 47,
+      "printedNumber": "47",
+      "uuid": 89822117,
+      "prices": []
+    },
+    {
+      "id": 9542,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Talonflame",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Fletchinder",
+      "effect": [
+        {
+          "name": "Gale Wings",
+          "text": "If this Pokémon is in your hand when you are setting up to play, you may put it face down as your Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Aero Blitz",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "40",
+          "text": "Search your deck for up to 2 cards and put them into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/84/22/b8/8422b86d1de54578c37ad9dec76cdfefd5305313b37111f179cc768a055aacdc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22763",
+      "sequenceNumber": 48,
+      "printedNumber": "48",
+      "uuid": 86049139,
+      "prices": [
+        {
+          "priceAmount": 166,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/talonflame-48",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9543,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Armor Fossil Shieldon",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Look at the bottom 7 cards of your deck. You may reveal a Shieldon you find there and put it onto your Bench. Shuffle the other cards back into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/44/a9/96/44a9961152de9a24c3e0e1217a953b2d402302dcee170998872f90a4ff370068.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22764",
+      "sequenceNumber": 49,
+      "printedNumber": "49",
+      "uuid": 24460657,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/armor-fossil-shieldon-49",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9544,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Special Charge",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Shuffle 2 Special Energy cards from your discard pile into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e7/c9/14/e7c914a9f80e7994134a2337f00e7ce811dde25dce09b0eb49ecae25c4cc6674.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22765",
+      "sequenceNumber": 50,
+      "printedNumber": "50",
+      "uuid": 98971593,
+      "prices": []
+    },
+    {
+      "id": 9545,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Greedy Dice",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "You can play this card only if you took it as a face-down Prize card, before you put it into your hand.  Flip a coin. If heads, take 1 more Prize card."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/78/42/9d/78429d457f95378f3b60c428b914308fffd1d6df5f78d4efb475f2381336502f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22766",
+      "sequenceNumber": 51,
+      "printedNumber": "51",
+      "uuid": 44185134,
+      "prices": []
+    },
+    {
+      "id": 9546,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Steelix Spirit Link",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "Your turn does not end if the Pokémon this card is attached to becomes M Steelix-EX."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/90/cd/96/90cd963744c556cdc3445c0e50c0f04d00fe21f9ef80c4f874843199333eae2b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22767",
+      "sequenceNumber": 52,
+      "printedNumber": "52",
+      "uuid": 1088250,
+      "prices": [
+        {
+          "priceAmount": 499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/steelix-spirit-link-52",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9547,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Ninja Boy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Choose 1 of your Basic Pokémon in play. Search your deck for a Basic Pokémon and switch it with that Pokémon. (Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pokémon.) Shuffle the first Pokémon into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Megumi Mizutani",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bc/86/5f/bc865f8f710c330d2422a46b970e8b8b9642b7d155f6e1df21ffdb2786dc5b5c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22768",
+      "sequenceNumber": 53,
+      "printedNumber": "53",
+      "uuid": 23198919,
+      "prices": []
+    },
+    {
+      "id": 9548,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Pokémon Ranger",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Remove all effects of attacks on each player and his or her Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yusuke Ohmura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a1/f6/47/a1f64730d2db5500f1ae545f8cc9efcd7846d456320edb4ac84ced9440ec1b15.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22769",
+      "sequenceNumber": 54,
+      "printedNumber": "54",
+      "uuid": 11107446,
+      "prices": []
+    },
+    {
+      "id": 9549,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Volcanion-EX",
+      "types": [
+        "Fire",
+        "Water"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Steam Up",
+          "text": "Once during your turn (before your attack), you may discard a Fire Energy card from your hand. If you do, during this turn, your Basic Fire Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Volcanic Heat",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "130",
+          "text": "This Pokémon can't attack during your next turn."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f5/42/c3/f542c302a43607a3e064c6d306c159cbaaa9a4103fe05149ad9810f72fcf0d0a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22770",
+      "sequenceNumber": 55,
+      "printedNumber": "55",
+      "uuid": 9071005,
+      "prices": [
+        {
+          "priceAmount": 5400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/volcanion-ex-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2949,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/volcanion-ex-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9550,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Steelix-EX",
+      "types": [
+        "Metal"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Wild Edge",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "80+",
+          "text": "You may do 50 more damage. If you do, this Pokémon does 20 damage to itself."
+        },
+        {
+          "name": "Iron Tail",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "100×",
+          "text": "Flip a coin until you get tails. This attack does 100 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6b/f4/57/6bf4578dc065aaf7f53c2ab452871c1a5d4706b50b5bc1493153f68e1d5b44dc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22771",
+      "sequenceNumber": 56,
+      "printedNumber": "56",
+      "uuid": 51039198,
+      "prices": [
+        {
+          "priceAmount": 7575,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/steelix-ex-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2968,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/steelix-ex-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9551,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "M Steelix-EX",
+      "types": [
+        "Fighting",
+        "Metal"
+      ],
+      "hp": 240,
+      "evolvesFrom": "Steelix-EX",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Canyon Axe",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "160",
+          "text": "This attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Mega",
+        "Stage 1"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/94/72/f2/9472f223b42ce730c835ff5c9efc51fe591e067df264c1003ab377647367d3ce.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22772",
+      "sequenceNumber": 57,
+      "printedNumber": "57",
+      "uuid": 61456062,
+      "prices": []
+    },
+    {
+      "id": 9552,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Pokémon Ranger",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Remove all effects of attacks on each player and his or her Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Megumi Mizutani",
+      "imageUrl": "https://static.tcgcollector.com/content/images/35/4b/84/354b84a1c052fefe8277b9a3fffbf0e8a72935e362a03a9b94c9b78d3a8cc6fb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22773",
+      "sequenceNumber": 58,
+      "printedNumber": "58",
+      "uuid": 81859434,
+      "prices": [
+        {
+          "priceAmount": 74926,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/pokemon-ranger-58",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/pokemon-ranger-58",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 4500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/pokemon-ranger-58",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 5000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/pokemon-ranger-58",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 14672,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/pokemon-ranger-58",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 9553,
+      "setData": {
+        "name": "Fever-Burst Fighter",
+        "printed_count": "59",
+        "card_count": 59,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fever-burst-fighter"
+      },
+      "name": "Volcanion-EX",
+      "types": [
+        "Fire",
+        "Water"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Steam Up",
+          "text": "Once during your turn (before your attack), you may discard a Fire Energy card from your hand. If you do, during this turn, your Basic Fire Pokémon's attacks do 30 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Volcanic Heat",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "130",
+          "text": "This Pokémon can't attack during your next turn."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e3/76/1a/e3761aaa973b377b3ba898b48310ecd8a63012d100b7556ad245f3bb7e6673d0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22774",
+      "sequenceNumber": 59,
+      "printedNumber": "59",
+      "uuid": 29511686,
+      "prices": [
+        {
+          "priceAmount": 22436,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/volcanion-ex-59",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fever-burst-fighter/volcanion-ex-59",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 59,
+  "totalCount": 59
+}

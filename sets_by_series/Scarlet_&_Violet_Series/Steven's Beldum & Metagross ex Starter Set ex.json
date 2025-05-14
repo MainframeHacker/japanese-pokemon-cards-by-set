@@ -1,0 +1,1022 @@
+{
+  "data": [
+    {
+      "id": 25779,
+      "setData": {
+        "name": "Steven's Beldum & Metagross ex Starter Set ex",
+        "printed_count": "018",
+        "card_count": 19,
+        "year": "2025",
+        "image_url": "https://static.tcgcollector.com/content/content/images/97/bb/5f/97bb5f5dd6e38ae26c2710e3b77e4cd7f116bc13ee274d10579e0a826b839def.webp",
+        "set_url": "https://www.tcgcollector.com/sets/11646/stevens-beldum-and-metagross-ex-starter-set-ex"
+      },
+      "name": "Steven's Baltoy",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Convening Sign",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 2 Basic Steven's Pokémon and put them onto your Bench. Then, shuffle your deck."
+        },
+        {
+          "name": "Psychic Sphere",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": ""
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\""
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Tonji Matsuno",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/eb/88/5b/eb885b7d9a6a8bec7842a0ef6ddd2f0662788f936654730656969d75205c9047.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47737",
+      "sequenceNumber": 1,
+      "printedNumber": "001",
+      "uuid": 44085577,
+      "prices": []
+    },
+    {
+      "id": 25780,
+      "setData": {
+        "name": "Steven's Beldum & Metagross ex Starter Set ex",
+        "printed_count": "018",
+        "card_count": 19,
+        "year": "2025",
+        "image_url": "https://static.tcgcollector.com/content/content/images/97/bb/5f/97bb5f5dd6e38ae26c2710e3b77e4cd7f116bc13ee274d10579e0a826b839def.webp",
+        "set_url": "https://www.tcgcollector.com/sets/11646/stevens-beldum-and-metagross-ex-starter-set-ex"
+      },
+      "name": "Steven's Claydol",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Steven's Baltoy",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Eerie Light",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Your opponent's Active Pokémon is now Confused."
+        },
+        {
+          "name": "Clay Blast",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "220",
+          "text": "Discard all Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\""
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "nagimiso",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/28/e1/9e/28e19e19b6ef729e82ef22ebf7e7c1705095bc101560aa311bc791435b9c6eef.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47757",
+      "sequenceNumber": 2,
+      "printedNumber": "002",
+      "uuid": 11329034,
+      "prices": []
+    },
+    {
+      "id": 25781,
+      "setData": {
+        "name": "Steven's Beldum & Metagross ex Starter Set ex",
+        "printed_count": "018",
+        "card_count": 19,
+        "year": "2025",
+        "image_url": "https://static.tcgcollector.com/content/content/images/97/bb/5f/97bb5f5dd6e38ae26c2710e3b77e4cd7f116bc13ee274d10579e0a826b839def.webp",
+        "set_url": "https://www.tcgcollector.com/sets/11646/stevens-beldum-and-metagross-ex-starter-set-ex"
+      },
+      "name": "Steven's Carbink",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Stone Palace",
+          "text": "As long as this Pokémon is on your Bench, all of your Steven's Pokémon take 30 less damage from attacks from your opponent's Pokémon (after applying Weakness and Resistance). The effect of Stone Palace doesn't stack.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Magical Shot",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": ""
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\""
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ligton",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/a0/01/96/a00196c5d296103dd548e3516c0911236974f8601ac3cde992100fab6961231a.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47739",
+      "sequenceNumber": 3,
+      "printedNumber": "003",
+      "uuid": 21691608,
+      "prices": []
+    },
+    {
+      "id": 25782,
+      "setData": {
+        "name": "Steven's Beldum & Metagross ex Starter Set ex",
+        "printed_count": "018",
+        "card_count": 19,
+        "year": "2025",
+        "image_url": "https://static.tcgcollector.com/content/content/images/97/bb/5f/97bb5f5dd6e38ae26c2710e3b77e4cd7f116bc13ee274d10579e0a826b839def.webp",
+        "set_url": "https://www.tcgcollector.com/sets/11646/stevens-beldum-and-metagross-ex-starter-set-ex"
+      },
+      "name": "Steven's Skarmory",
+      "types": [
+        "Metal"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Razor Wing",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": ""
+        },
+        {
+          "name": "Sonic Double",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "",
+          "text": "This attack does 50 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\""
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Nisota Niso",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/a9/20/f7/a920f7dc56b7521c429bd0cd56a07d3903476a42341f8c17aeb2dc18d1c5fc91.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47740",
+      "sequenceNumber": 4,
+      "printedNumber": "004",
+      "uuid": 65671978,
+      "prices": []
+    },
+    {
+      "id": 25783,
+      "setData": {
+        "name": "Steven's Beldum & Metagross ex Starter Set ex",
+        "printed_count": "018",
+        "card_count": 19,
+        "year": "2025",
+        "image_url": "https://static.tcgcollector.com/content/content/images/97/bb/5f/97bb5f5dd6e38ae26c2710e3b77e4cd7f116bc13ee274d10579e0a826b839def.webp",
+        "set_url": "https://www.tcgcollector.com/sets/11646/stevens-beldum-and-metagross-ex-starter-set-ex"
+      },
+      "name": "Steven's Beldum",
+      "types": [
+        "Metal"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Ram",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\""
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Takeshi Nakamura",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/54/ed/95/54ed9544464ccee737a930c6b38b307767d4f7c6d3cebf49f80c20ed95d5f1cc.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47741",
+      "sequenceNumber": 5,
+      "printedNumber": "005",
+      "uuid": 22233002,
+      "prices": []
+    },
+    {
+      "id": 25784,
+      "setData": {
+        "name": "Steven's Beldum & Metagross ex Starter Set ex",
+        "printed_count": "018",
+        "card_count": 19,
+        "year": "2025",
+        "image_url": "https://static.tcgcollector.com/content/content/images/97/bb/5f/97bb5f5dd6e38ae26c2710e3b77e4cd7f116bc13ee274d10579e0a826b839def.webp",
+        "set_url": "https://www.tcgcollector.com/sets/11646/stevens-beldum-and-metagross-ex-starter-set-ex"
+      },
+      "name": "Steven's Metang",
+      "types": [
+        "Metal"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Steven's Beldum",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Metal Slash",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "70",
+          "text": "During your next turn, this Pokémon can't attack."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\""
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Anesaki Dynamic",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/3c/15/65/3c1565672d7c1c05dcaaad76f92ab02d0b5b7396090bf4eee988f689b9890121.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47742",
+      "sequenceNumber": 6,
+      "printedNumber": "006",
+      "uuid": 50953056,
+      "prices": []
+    },
+    {
+      "id": 25785,
+      "setData": {
+        "name": "Steven's Beldum & Metagross ex Starter Set ex",
+        "printed_count": "018",
+        "card_count": 19,
+        "year": "2025",
+        "image_url": "https://static.tcgcollector.com/content/content/images/97/bb/5f/97bb5f5dd6e38ae26c2710e3b77e4cd7f116bc13ee274d10579e0a826b839def.webp",
+        "set_url": "https://www.tcgcollector.com/sets/11646/stevens-beldum-and-metagross-ex-starter-set-ex"
+      },
+      "name": "Steven's Metagross ex",
+      "types": [
+        "Metal"
+      ],
+      "hp": 340,
+      "evolvesFrom": "Steven's Metang",
+      "effect": [
+        {
+          "name": "X-Boot",
+          "text": "Once during your turn, you may search your deck for a Basic Psychic Energy card, a Basic Metal Energy card, or 1 of each and attach them to your Psychic Pokémon and Metal Pokémon in any way you like. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Metal Stomp",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "200",
+          "text": ""
+        }
+      ],
+      "rules": [
+        "When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex (SV)",
+        "\"Trainers\""
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "PLANETA Mochizuki",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/28/bc/51/28bc51d5e215fde9735446e3358a0998454eedd57046de9a0ed72948baa50e65.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47743",
+      "sequenceNumber": 7,
+      "printedNumber": "007",
+      "uuid": 21119476,
+      "prices": []
+    },
+    {
+      "id": 25786,
+      "setData": {
+        "name": "Steven's Beldum & Metagross ex Starter Set ex",
+        "printed_count": "018",
+        "card_count": 19,
+        "year": "2025",
+        "image_url": "https://static.tcgcollector.com/content/content/images/97/bb/5f/97bb5f5dd6e38ae26c2710e3b77e4cd7f116bc13ee274d10579e0a826b839def.webp",
+        "set_url": "https://www.tcgcollector.com/sets/11646/stevens-beldum-and-metagross-ex-starter-set-ex"
+      },
+      "name": "Energy Recycler",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Shuffle up to 5 basic Energy cards from your discard pile into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/79/1a/36/791a36a28141cb4293ba7fc2416e41d036531776b8695a27041133c115638862.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47760",
+      "sequenceNumber": 8,
+      "printedNumber": "008",
+      "uuid": 80328633,
+      "prices": []
+    },
+    {
+      "id": 25787,
+      "setData": {
+        "name": "Steven's Beldum & Metagross ex Starter Set ex",
+        "printed_count": "018",
+        "card_count": 19,
+        "year": "2025",
+        "image_url": "https://static.tcgcollector.com/content/content/images/97/bb/5f/97bb5f5dd6e38ae26c2710e3b77e4cd7f116bc13ee274d10579e0a826b839def.webp",
+        "set_url": "https://www.tcgcollector.com/sets/11646/stevens-beldum-and-metagross-ex-starter-set-ex"
+      },
+      "name": "Super Rod",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Shuffle up to 3 in any combination of Pokémon and Basic Energy cards from your discard pile into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/6a/b2/44/6ab2443cf5080f103f79cfcf8293bc18c64fb1bb20f12eaf910f5d3638d99db5.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47745",
+      "sequenceNumber": 9,
+      "printedNumber": "009",
+      "uuid": 25252619,
+      "prices": []
+    },
+    {
+      "id": 25788,
+      "setData": {
+        "name": "Steven's Beldum & Metagross ex Starter Set ex",
+        "printed_count": "018",
+        "card_count": 19,
+        "year": "2025",
+        "image_url": "https://static.tcgcollector.com/content/content/images/97/bb/5f/97bb5f5dd6e38ae26c2710e3b77e4cd7f116bc13ee274d10579e0a826b839def.webp",
+        "set_url": "https://www.tcgcollector.com/sets/11646/stevens-beldum-and-metagross-ex-starter-set-ex"
+      },
+      "name": "Buddy-Buddy Poffin",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Search your deck for up to 2 Basic Pokémon with 70 HP or less and put them onto your Bench. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "AYUMI ODASHIMA",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/b4/86/ea/b486ea941e02d31956d138799c6a2a630f298b6e29758e1192394d36e1029f5a.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47746",
+      "sequenceNumber": 10,
+      "printedNumber": "010",
+      "uuid": 8751947,
+      "prices": []
+    },
+    {
+      "id": 25789,
+      "setData": {
+        "name": "Steven's Beldum & Metagross ex Starter Set ex",
+        "printed_count": "018",
+        "card_count": 19,
+        "year": "2025",
+        "image_url": "https://static.tcgcollector.com/content/content/images/97/bb/5f/97bb5f5dd6e38ae26c2710e3b77e4cd7f116bc13ee274d10579e0a826b839def.webp",
+        "set_url": "https://www.tcgcollector.com/sets/11646/stevens-beldum-and-metagross-ex-starter-set-ex"
+      },
+      "name": "Ultra Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "You can use this card only if you discard 2 other cards from your hand.\\nSearch your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ayaka Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/3b/93/f7/3b93f7a8226a9659674e409003bef94f70c44ad923262e8d6e26c77447a61a20.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47747",
+      "sequenceNumber": 11,
+      "printedNumber": "011",
+      "uuid": 70001332,
+      "prices": []
+    },
+    {
+      "id": 25790,
+      "setData": {
+        "name": "Steven's Beldum & Metagross ex Starter Set ex",
+        "printed_count": "018",
+        "card_count": 19,
+        "year": "2025",
+        "image_url": "https://static.tcgcollector.com/content/content/images/97/bb/5f/97bb5f5dd6e38ae26c2710e3b77e4cd7f116bc13ee274d10579e0a826b839def.webp",
+        "set_url": "https://www.tcgcollector.com/sets/11646/stevens-beldum-and-metagross-ex-starter-set-ex"
+      },
+      "name": "Rare Candy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "\"Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it, skipping the Stage 1. You cant use this card during your first turn or on a Basic Pokémon that was put into play this turn.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Studio Bora Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/af/d5/73/afd573b09276e58adcb314bd394f4b86fa4f4b3620eea4ef7cee88c651a78134.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47748",
+      "sequenceNumber": 12,
+      "printedNumber": "012",
+      "uuid": 58096336,
+      "prices": []
+    },
+    {
+      "id": 25791,
+      "setData": {
+        "name": "Steven's Beldum & Metagross ex Starter Set ex",
+        "printed_count": "018",
+        "card_count": 19,
+        "year": "2025",
+        "image_url": "https://static.tcgcollector.com/content/content/images/97/bb/5f/97bb5f5dd6e38ae26c2710e3b77e4cd7f116bc13ee274d10579e0a826b839def.webp",
+        "set_url": "https://www.tcgcollector.com/sets/11646/stevens-beldum-and-metagross-ex-starter-set-ex"
+      },
+      "name": "Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Switch your Active Pokémon with 1 of your Benched Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Studio Bora Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/6c/24/04/6c2404bd82a0ec03b333683a1aa881fd23abca788d102e6dca8d7e94989fbed4.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47749",
+      "sequenceNumber": 13,
+      "printedNumber": "013",
+      "uuid": 67363092,
+      "prices": []
+    },
+    {
+      "id": 25792,
+      "setData": {
+        "name": "Steven's Beldum & Metagross ex Starter Set ex",
+        "printed_count": "018",
+        "card_count": 19,
+        "year": "2025",
+        "image_url": "https://static.tcgcollector.com/content/content/images/97/bb/5f/97bb5f5dd6e38ae26c2710e3b77e4cd7f116bc13ee274d10579e0a826b839def.webp",
+        "set_url": "https://www.tcgcollector.com/sets/11646/stevens-beldum-and-metagross-ex-starter-set-ex"
+      },
+      "name": "Iono",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Each players shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, each player draws a card for each of their remaining Prize cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sanosuke Sakuma",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/c0/b6/c4/c0b6c430f8a7439df8d373ab917bbeecd0c94a33de5dcf10bf72c31dbe700deb.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47750",
+      "sequenceNumber": 14,
+      "printedNumber": "014",
+      "uuid": 17016134,
+      "prices": []
+    },
+    {
+      "id": 25793,
+      "setData": {
+        "name": "Steven's Beldum & Metagross ex Starter Set ex",
+        "printed_count": "018",
+        "card_count": 19,
+        "year": "2025",
+        "image_url": "https://static.tcgcollector.com/content/content/images/97/bb/5f/97bb5f5dd6e38ae26c2710e3b77e4cd7f116bc13ee274d10579e0a826b839def.webp",
+        "set_url": "https://www.tcgcollector.com/sets/11646/stevens-beldum-and-metagross-ex-starter-set-ex"
+      },
+      "name": "Nemona",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Draw 3 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sanosuke Sakuma",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/eb/5e/76/eb5e76a744f970fc4b0b321d4c0459ab6b27b97c9f949944e46ca6171c10b5ee.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47751",
+      "sequenceNumber": 15,
+      "printedNumber": "015",
+      "uuid": 64655724,
+      "prices": []
+    },
+    {
+      "id": 25794,
+      "setData": {
+        "name": "Steven's Beldum & Metagross ex Starter Set ex",
+        "printed_count": "018",
+        "card_count": 19,
+        "year": "2025",
+        "image_url": "https://static.tcgcollector.com/content/content/images/97/bb/5f/97bb5f5dd6e38ae26c2710e3b77e4cd7f116bc13ee274d10579e0a826b839def.webp",
+        "set_url": "https://www.tcgcollector.com/sets/11646/stevens-beldum-and-metagross-ex-starter-set-ex"
+      },
+      "name": "Professor's Research",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Discard your hand and draw 7 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hideki Ishikawa",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/eb/a7/0f/eba70f2bd3e269c393fa887d2a0f766b1da0c9e9ab907c32e72982773a2d6ee5.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47752",
+      "sequenceNumber": 16,
+      "printedNumber": "016",
+      "uuid": 26785381,
+      "prices": []
+    },
+    {
+      "id": 25795,
+      "setData": {
+        "name": "Steven's Beldum & Metagross ex Starter Set ex",
+        "printed_count": "018",
+        "card_count": 19,
+        "year": "2025",
+        "image_url": "https://static.tcgcollector.com/content/content/images/97/bb/5f/97bb5f5dd6e38ae26c2710e3b77e4cd7f116bc13ee274d10579e0a826b839def.webp",
+        "set_url": "https://www.tcgcollector.com/sets/11646/stevens-beldum-and-metagross-ex-starter-set-ex"
+      },
+      "name": "Boss's Orders",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "\"Switch in 1 of your opponents Benched Pokémon to the Active Spot.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "NC Empire",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/cb/77/90/cb77904814d867e2d72ecf8c4a201c1fd28214ab4c4e921265ea4a4e8bdbdb0d.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47753",
+      "sequenceNumber": 17,
+      "printedNumber": "017",
+      "uuid": 9297817,
+      "prices": []
+    },
+    {
+      "id": 25796,
+      "setData": {
+        "name": "Steven's Beldum & Metagross ex Starter Set ex",
+        "printed_count": "018",
+        "card_count": 19,
+        "year": "2025",
+        "image_url": "https://static.tcgcollector.com/content/content/images/97/bb/5f/97bb5f5dd6e38ae26c2710e3b77e4cd7f116bc13ee274d10579e0a826b839def.webp",
+        "set_url": "https://www.tcgcollector.com/sets/11646/stevens-beldum-and-metagross-ex-starter-set-ex"
+      },
+      "name": "Granite Cave",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name cant be played.\", \"Stevens Pokémon (both yours and your opponents) take 30 less damage from attacks from the opponents Pokémon (after applying Weakness and Resistance).\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "AYUMI ODASHIMA",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/a3/33/35/a33335af805546ead982f1352c13355c7788a8ad03ffb7ab084a52660f0a100d.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47754",
+      "sequenceNumber": 18,
+      "printedNumber": "018",
+      "uuid": 66768180,
+      "prices": []
+    },
+    {
+      "id": 25797,
+      "setData": {
+        "name": "Steven's Beldum & Metagross ex Starter Set ex",
+        "printed_count": "018",
+        "card_count": 19,
+        "year": "2025",
+        "image_url": "https://static.tcgcollector.com/content/content/images/97/bb/5f/97bb5f5dd6e38ae26c2710e3b77e4cd7f116bc13ee274d10579e0a826b839def.webp",
+        "set_url": "https://www.tcgcollector.com/sets/11646/stevens-beldum-and-metagross-ex-starter-set-ex"
+      },
+      "name": "Steven's Beldum",
+      "types": [
+        "Metal"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Ram",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Full Art"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "hncl",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/97/35/dc/9735dc049fd0f257568d1aea87ada130197c9570ce01f924c502dd4bf51470ed.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47755",
+      "sequenceNumber": 19,
+      "printedNumber": "019",
+      "uuid": 13985914,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 19,
+  "totalCount": 19
+}

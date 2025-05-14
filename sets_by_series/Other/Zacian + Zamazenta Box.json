@@ -1,0 +1,425 @@
+{
+  "data": [
+    {
+      "id": 5010,
+      "setData": {
+        "name": "Zacian + Zamazenta Box",
+        "printed_count": "7",
+        "card_count": 7,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/zacian-and-zamazenta-box"
+      },
+      "name": "Galarian Meowth",
+      "types": [
+        "Metal"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Evolution Roar",
+          "text": "You must discard 2 cards from your hand in order to use this Ability. Once during your turn, you may search your deck for a Galarian Perrserker, reveal it, and put it into your hand. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Scratch",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Galarian",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Misa Tsutsui",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2a/3f/a8/2a3fa855e86584fdf50b5e3fd9a00cc4e73fcaffe0e53f0d6da082264ff4a6d1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/18362",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 59416123,
+      "prices": []
+    },
+    {
+      "id": 5011,
+      "setData": {
+        "name": "Zacian + Zamazenta Box",
+        "printed_count": "7",
+        "card_count": 7,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/zacian-and-zamazenta-box"
+      },
+      "name": "Galarian Perrserker",
+      "types": [
+        "Metal"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Galarian Meowth",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Slash",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50"
+        },
+        {
+          "name": "Claw Dagger",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80×",
+          "text": "Flip 3 coins. This attack does 80 damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Galarian",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoki Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/30/d1/55/30d1555abb876d8f2b297e264a701a8cd6c2fe6ff5b1e303323ed4bcfa971c44.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/18363",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 93021660,
+      "prices": []
+    },
+    {
+      "id": 5012,
+      "setData": {
+        "name": "Zacian + Zamazenta Box",
+        "printed_count": "7",
+        "card_count": 7,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/zacian-and-zamazenta-box"
+      },
+      "name": "Zacian",
+      "types": [
+        "Metal"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Crunch",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Metal Blade",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "190",
+          "text": "Discard 3 Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/dc/62/3b/dc623bceb251e35826b69dcb66f0d0c3dfdb05fb34cbe2a2f1e5988e28d0a665.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/18364",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 16380699,
+      "prices": []
+    },
+    {
+      "id": 5013,
+      "setData": {
+        "name": "Zacian + Zamazenta Box",
+        "printed_count": "7",
+        "card_count": 7,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/zacian-and-zamazenta-box"
+      },
+      "name": "Zamazenta",
+      "types": [
+        "Metal"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Sturdy Shield",
+          "text": "This Pokémon takes 20 less damage from attacks (after applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Headbang",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "130"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/70/3b/90/703b90073fd36955ca27d6f5e43cddab3570076be9a585f26785af3669e3ca5e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/18365",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 13979617,
+      "prices": []
+    },
+    {
+      "id": 5014,
+      "setData": {
+        "name": "Zacian + Zamazenta Box",
+        "printed_count": "7",
+        "card_count": 7,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/zacian-and-zamazenta-box"
+      },
+      "name": "Metal Saucer",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Attach a Metal Energy card from your discard pile to 1 of your Benched Metal Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fa/af/09/faaf091c0406e3de94b2155de89afef414554770c176fbb9fa24a4a886107911.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/18366",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 59750268,
+      "prices": []
+    },
+    {
+      "id": 5015,
+      "setData": {
+        "name": "Zacian + Zamazenta Box",
+        "printed_count": "7",
+        "card_count": 7,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/zacian-and-zamazenta-box"
+      },
+      "name": "Poké Kid",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hitoshi Ariga",
+      "imageUrl": "https://static.tcgcollector.com/content/images/42/9a/69/429a69b1ebb320d462a49572bb196b10bb8c5b6cc6772cc2d100976afe04182c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/18367",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 35115529,
+      "prices": []
+    },
+    {
+      "id": 5016,
+      "setData": {
+        "name": "Zacian + Zamazenta Box",
+        "printed_count": "7",
+        "card_count": 7,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/zacian-and-zamazenta-box"
+      },
+      "name": "Hop",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Draw 3 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8d/c6/f1/8dc6f13edffe98a901526f6030143b69ec00ee03e77664e72608ff3d37b94af0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/18368",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 58360673,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 7,
+  "totalCount": 7
+}

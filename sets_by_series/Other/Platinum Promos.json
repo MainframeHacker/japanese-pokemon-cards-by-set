@@ -1,0 +1,3024 @@
+{
+  "data": [
+    {
+      "id": 19123,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Carnivine G",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Power Whip",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 10 damage for each Energy attached to Carnivine G to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Grass Knot",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Does 20 damage plus 10 more damage for each Colorless Energy in the Defending Pokémon's Retreat Cost (after applying effects to the Retreat Cost)."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "SP",
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Makoto Imai",
+      "imageUrl": "https://static.tcgcollector.com/content/images/df/c0/03/dfc0036f605c9f8959fe40795be3839afaaa0b8377995fd435551db526d82cce.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32223",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 36599968,
+      "prices": []
+    },
+    {
+      "id": 19124,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Manaphy",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dive",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Look at the top 7 cards of your deck, choose 1 of them, and put it into your hand. Put the other cards back on top of your deck. Shuffle your deck afterward."
+        },
+        {
+          "name": "Water Glow",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Remove from Manaphy the number of damage counters equal to the damage you did to that Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fc/fa/d7/fcfad7721eb863e0a19f8aa8c687b1e20e9fff381056b52933b3cd307736b672.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32224",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 50119943,
+      "prices": []
+    },
+    {
+      "id": 19125,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Rotom",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Type Shift",
+          "text": "Once during your turn (before your attack), you may use this power. Rotom's type is Psychic until the end of your turn.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Poltergeist",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "Look at your opponent's hand. This attack does 30 damage plus 10 more damage for each Trainer, Supporter, and Stadium card in your opponent's hand."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7f/0c/89/7f0c892bdbee67d4812bb2cab04b99ceaa753b1a1e61314fa514edad4064fa63.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32225",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 63871272,
+      "prices": []
+    },
+    {
+      "id": 19126,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Probopass G",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Nose Unit",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "This attack does 20 damage to each of your opponent's Pokémon that has any Poké-Bodies. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Loud Snort",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "70",
+          "text": "Probopass G's Retreat Cost is 0 until the end of your next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "SP",
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryota Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/29/94/6c/29946cc16ce0bc6a88bd940257c6c35c19a64f08ad12c3e59e73b505766d1a3b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32226",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 1001617,
+      "prices": []
+    },
+    {
+      "id": 19127,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Darkrai G",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Eerie Aura",
+          "text": "Put 1 damage counter on each of your opponent's Pokémon that remains Asleep between turns.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Darkness Sleep",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "If the Defending Pokémon already has any damage counters on it, that Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "SP",
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Makoto Imai",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d6/db/94/d6db94f9a7e611b73815f5474ec8e2bbe80f0b5da644daee69f76ff1a649641f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32227",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 83483594,
+      "prices": []
+    },
+    {
+      "id": 19128,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Bronzong G",
+      "types": [
+        "Metal"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Galactic Switch",
+          "text": "Once during your turn (before your attack), you may move an Energy card attached to one of your Pokémon SP to another of your Pokémon. Then, put 2 damage counters on Bronzong G. This power can't be used if Bronzong G is affected by a Special Condition.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Psychic Pulse",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "Does 10 damage to each of your opponent's Benched Pokémon that has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "SP",
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Makoto Imai",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f9/55/45/f95545d13cdadf3bb6b8b143e4bf52cf13d67641c97a70a0a2013998ee9553b1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32228",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 84761997,
+      "prices": []
+    },
+    {
+      "id": 19129,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Cyrus's Conspiracy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+        "\"Search your deck for a Supporter card, a basic Energy card, and a Trainer card that has Team Galactics Invention in its name, show them to your opponent, and put them into your hand. Shuffle your deck afterward.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/df/35/9c/df359c8fc87127eb1852d156c1d9af6a4cd8a59723fb3cfc6df81ee321390f73.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32229",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 95685775,
+      "prices": []
+    },
+    {
+      "id": 19130,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Toxicroak G",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Leap Away",
+          "text": "Once during your turn (before your attack), if Toxicroak G is your Active Pokémon, you may flip a coin. If heads, return Toxicroak G and all cards attached to it to your hand. This Power can't be used if Toxicroak G is affected by a Special Condition.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Poison Revenge",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "If any of your Pokémon were Knocked Out by damage from an opponent's attack during his or her last turn, this attack does 20 damage plus 40 more damage and the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "SP",
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryota Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/66/2c/32/662c32f24aaa60cce992ffe57152ecb2ca88536ae3718ce6a761b047eecde31f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32230",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 7267318,
+      "prices": []
+    },
+    {
+      "id": 19131,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Squirtle",
+      "types": [
+        "Water"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Selecting Souvenirs",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Look at the top 2 cards of your deck, choose 1 of them, and put it into your hand. Put the other card on the bottom of your deck."
+        },
+        {
+          "name": "Surf",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yuka Morii",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fb/b8/fe/fbb8fe501f56411a909048895e556b36c67f423d6af05a4df2dc3fa303cb19ea.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32231",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 75505061,
+      "prices": []
+    },
+    {
+      "id": 19132,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Electrode G",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Reckless Bomb",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "This attack does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Electrode G does 100 damage to itself."
+        },
+        {
+          "name": "Reflect Energy",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Move an Energy card attached to Electrode G to 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "SP",
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yusuke Ishikawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a5/72/59/a57259cd1aed237b40ac0fbc1aad9ac3ee7a213cca8830897c5e6433b59b172f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32232",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 85247053,
+      "prices": []
+    },
+    {
+      "id": 19133,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Mismagius GL LV.X",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Mismagius GL",
+      "effect": [
+        {
+          "name": "Magical Return",
+          "text": "As often as you like during your turn (before your attack), you may return a Pokémon Tool or Technical Machine card attached to your Pokémon to your hand. This power can't be used if Mismagius GL is affected by a Special Condition.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Darkness Magic",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Count the number of cards in your hand. Put that many damage counters on the Defending Pokémon. You can't put more than 8 damage counters in this way."
+        }
+      ],
+      "rules": [
+        "Put this card onto your Active Mismagius GL. Mismagius GL LV.X can use any attack, Poké-Power, or Poké-Body from its previous Level."
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "LV.X",
+        "Stage 1"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kent Kanetsuna",
+      "imageUrl": "https://static.tcgcollector.com/content/images/11/92/be/1192be94c05e8c82fcfd20de9033e493ef53ce582401bdcfcda3251861d7eb00.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32233",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 73426246,
+      "prices": []
+    },
+    {
+      "id": 19134,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Alakazam E4",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Recover",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Discard a Psychic Energy attached to Alakazam E4 and remove 4 damage counters from Alakazam E4."
+        },
+        {
+          "name": "Mysterious Beam",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "Flip a coin. If heads, discard an Energy card attached to the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "SP",
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6b/50/c9/6b50c95f0bec1ebbac60a7d58c65ecb881d31acad6659e259c815921b6b8772b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32234",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 51434614,
+      "prices": []
+    },
+    {
+      "id": 19135,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Team Galactic's Invention G-109 SP Radar",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Choose a card from your hand and put it on top of your deck. Search your deck for a Pokémon SP, show it to your opponent, and put it into your hand. Shuffle your deck afterward. (If this is the only card in your hand, you cant play this card.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kent Kanetsuna",
+      "imageUrl": "https://static.tcgcollector.com/content/images/65/28/b0/6528b06b7b007b6f70102fa3108ff612a77aceeabd5a368bc0b0b323eb9b6d2b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32235",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 51675886,
+      "prices": []
+    },
+    {
+      "id": 19136,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Luxray GL",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bite",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        },
+        {
+          "name": "Trash Bolt",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": "Discard an Energy card from your hand. (If you can't discard a card from your hand, this attack does nothing.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "SP",
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b5/3c/86/b53c867187e5c516ea1d0cf5b9cb8c9239bfde3e7ed47a059f615bda72c6a1f3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32236",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 29163473,
+      "prices": []
+    },
+    {
+      "id": 19137,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Lucario",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Riolu",
+      "effect": [
+        {
+          "name": "Roger",
+          "text": "Whenever a player responds to their opponent to express agreement during a game, that player places his or her hand on his or her chest and answers `Roger`.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Brick Break",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "This attack's damage isn't affected by Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+        },
+        {
+          "name": "Fever Step",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Flip a coin. this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7f/a3/5b/7fa35b0b929118f3e92f41df3ba8baf358640c1aeaa3fc13cc6f9073dabd1f27.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32237",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 93177104,
+      "prices": []
+    },
+    {
+      "id": 19138,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Pikachu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Recharge",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, search your deck for a Lightning Energy card and attach it to Pikachu. Shuffle your deck afterward."
+        },
+        {
+          "name": "Thunderbolt",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "100",
+          "text": "Discard all Energy attached to Pikachu."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kanako Eo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/eb/0f/bb/eb0fbb93f2340c39ccbb9dad725b52eaf439ad7a9ccc5541b68870ed62f3d46c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32238",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 64886895,
+      "prices": []
+    },
+    {
+      "id": 19139,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Drifblim FB",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Pump Up",
+          "text": "If your opponent has 3 or less Prize cards left, Drifblim FB gets +40 HP.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Shadow Ball",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Choose 1 of your opponent's Benched Pokémon. This attack does 40 damage to that Pokémon. Apply Weakness and Resistance for this attack."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "SP",
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Lee HyunJung",
+      "imageUrl": "https://static.tcgcollector.com/content/images/13/d5/8e/13d58eee586e12f76c0348d0462daa40c704c27276002133e7d819561e5ca443.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32239",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 26160376,
+      "prices": []
+    },
+    {
+      "id": 19140,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Dragonite FB",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 100,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Mach Blow",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20",
+          "text": "If the Defending Pokémon is a Pokémon SP, this attack's base damage is 80 instead of 20."
+        },
+        {
+          "name": "Giant Tail",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "100",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "SP",
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7c/75/e5/7c75e5a7be9493775b43013326a51ea3b911de730db188835adb93a265dfb0c3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32240",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 69576988,
+      "prices": []
+    },
+    {
+      "id": 19141,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Battle Tower",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you cant play this card.\", Whenever any player plays any Pokémon from his or her hand to Level-Up 1 of his or her Pokémon, remove 4 damage counters from that Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Wataru Kawahara",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6b/53/03/6b5303b8af916c705087b9516958c21038f321b2e570ca718f0ff9059a75b4de.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32241",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 80528682,
+      "prices": []
+    },
+    {
+      "id": 19142,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "SP Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"SP Energy provides Colorless Energy. If the Pokémon SP Energy is attached to is a Pokémon SP, SP Energy provides every type of Energy but provides only 1 Energy at a time. (Doesnt count as a basic Energy card.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kent Kanetsuna",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9f/f0/97/9ff097c872d9424fb2eb83bcb38ae9ddb2bf693565d2f4f709c66c7e6445a249.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32242",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 1043551,
+      "prices": []
+    },
+    {
+      "id": 19143,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Rainbow Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "This card provides Colorless Energy. While in play, this card provides every type of Energy but provides only 1 Energy at a time. When you attach this card from your hand to 1 of your Pokémon, put 1 damage counter on that Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Takumi Akabane",
+      "imageUrl": "https://static.tcgcollector.com/content/images/63/69/69/636969312db72590bc1753c138bcdbcd3bf823d6887b43a3b265eed8a36fe581.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32243",
+      "sequenceNumber": 21,
+      "printedNumber": "21",
+      "uuid": 13086414,
+      "prices": []
+    },
+    {
+      "id": 19144,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Grass Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e4/7d/80/e47d803e029ac26a6624696c4c5cf99cb02299e3e716e89e2cace5d707919c8e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32244",
+      "sequenceNumber": 22,
+      "printedNumber": "22",
+      "uuid": 97976885,
+      "prices": []
+    },
+    {
+      "id": 19145,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Fire Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/61/7d/15/617d1503700c3448efa446358f2f6eece1135e9f462bf7ef5700c3cb340c544b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32245",
+      "sequenceNumber": 23,
+      "printedNumber": "23",
+      "uuid": 79768096,
+      "prices": []
+    },
+    {
+      "id": 19146,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Water Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7e/19/7e/7e197e0b218452cedc0598eaa0706c37b9f4ee7014154961d2b06391993fdfbf.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32246",
+      "sequenceNumber": 24,
+      "printedNumber": "24",
+      "uuid": 15002526,
+      "prices": []
+    },
+    {
+      "id": 19147,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Lightning Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/86/f1/16/86f116631baae0ce3511dbdbfeafa09e5347e8c773cccf62a5a2077af558f69d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32247",
+      "sequenceNumber": 25,
+      "printedNumber": "25",
+      "uuid": 86865888,
+      "prices": []
+    },
+    {
+      "id": 19148,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Psychic Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/88/53/34/88533459024b7dcffc4a4d2814e20716723d59bdc3b5493fba44d99b14140d7d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32248",
+      "sequenceNumber": 26,
+      "printedNumber": "26",
+      "uuid": 40294037,
+      "prices": []
+    },
+    {
+      "id": 19149,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Fighting Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/02/a5/37/02a5379c6fb386cfd3eb39806786e20a56c6476037556099efbeb0e824b40243.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32249",
+      "sequenceNumber": 27,
+      "printedNumber": "27",
+      "uuid": 83979141,
+      "prices": []
+    },
+    {
+      "id": 19150,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Darkness Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6c/6e/5c/6c6e5cbd4855a087ffff6728453a56ba8d59dc167618c0694fba9597dce54165.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32250",
+      "sequenceNumber": 28,
+      "printedNumber": "28",
+      "uuid": 70103794,
+      "prices": []
+    },
+    {
+      "id": 19151,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Metal Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/82/92/14/829214c4d1b280d35db3c7b44faaf582d2ea7275b3db04e40805147d3b47c910.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32251",
+      "sequenceNumber": 29,
+      "printedNumber": "29",
+      "uuid": 42323165,
+      "prices": []
+    },
+    {
+      "id": 19152,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Bulbasaur",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Present",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, search your deck for any 1 card and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Razor Leaf",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yuka Morii",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cd/ca/73/cdca7308b0c7b796da2c5191dd5f502d5acc7315129ed36b1df92ac171795494.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32252",
+      "sequenceNumber": 30,
+      "printedNumber": "30",
+      "uuid": 12766178,
+      "prices": []
+    },
+    {
+      "id": 19153,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Victory Medal",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Flip 2 coins. If one of them is heads, draw a card. If both are heads, search your deck for any 1 card, put it into your hand, and shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yusuke Ishikawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/27/c9/8b/27c98bcb9294f04b316b141344ebfaa11e79cc3868ffa238504a74241d3045a5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32253",
+      "sequenceNumber": 31,
+      "printedNumber": "31",
+      "uuid": 37271365,
+      "prices": []
+    },
+    {
+      "id": 19154,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Chatot",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Encore",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Choose 1 of the Defending Pokémon's attacks. That Pokémon can use only that attack during your opponent's next turn."
+        },
+        {
+          "name": "Fury Attack",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20×",
+          "text": "Flip 3 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+10"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cb/8c/0c/cb8c0ce9d166b4770c2ccf6488a6b96415008d24d8437c01ebdf88bad7f4321e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32254",
+      "sequenceNumber": 32,
+      "printedNumber": "32",
+      "uuid": 98928393,
+      "prices": []
+    },
+    {
+      "id": 19155,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Wonder Platinum",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Look at all of your face-down Prize cards. You may choose 1 Energy card you find there, show it to your opponent, and put it into your hand. If you do, put this card as a Prize card face up instead of discarding it."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4f/28/40/4f2840b8ff469b7eadf98e0e3e42c7afcdc891934a9a6a5e5673143e17c4eef1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32255",
+      "sequenceNumber": 33,
+      "printedNumber": "33",
+      "uuid": 79429534,
+      "prices": []
+    },
+    {
+      "id": 19156,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Ponyta",
+      "types": [
+        "Fire"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Ascension",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for a card that evolves from Ponyta and put it onto Ponyta. (This counts as evolving Ponyta.) Shuffle your deck afterward."
+        },
+        {
+          "name": "Combustion",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+10"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kanako Eo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/98/0a/0f/980a0f9c5ecea364f745b5afbe7aad8e91f0873d6ffc970bcdd2abd67687d357.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32256",
+      "sequenceNumber": 34,
+      "printedNumber": "34",
+      "uuid": 67111861,
+      "prices": []
+    },
+    {
+      "id": 19157,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Porygon-Z G",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Dowsing Code",
+          "text": "Once during your turn, when you put Porygon-Z G from your hand onto your Bench, you may search your discard pile for up to 2 Pokémon Tool cards, show them to your opponent, and shuffle them into your deck.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Ambush",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20+",
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 40 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "SP",
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Nobuyuki Fujimoto",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b3/fa/1a/b3fa1a10e988c7885b66d8445e300f5e883a4d9c091387bdcbc6a591ad9c2bcf.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32257",
+      "sequenceNumber": 35,
+      "printedNumber": "35",
+      "uuid": 40308428,
+      "prices": []
+    },
+    {
+      "id": 19158,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Victory Medal",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Flip 2 coins. If one of them is heads, draw a card. If both are heads, search your deck for any 1 card, put it into your hand, and shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yusuke Ishikawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/39/e1/8a/39e18aef58cf8286b81c29db6157feb0ca861b070a11e7bb42b0c53111be6dd1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32258",
+      "sequenceNumber": 36,
+      "printedNumber": "36",
+      "uuid": 67213256,
+      "prices": []
+    },
+    {
+      "id": 19159,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Beginning Door",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Search your deck for Arceus, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/00/23/2e/00232e656a79b03da43ddedff7fb7d1087ae52f5980a24b64104d6ac4db0ad1e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32259",
+      "sequenceNumber": 37,
+      "printedNumber": "37",
+      "uuid": 38600761,
+      "prices": []
+    },
+    {
+      "id": 19160,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Pichu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Baby Evolution",
+          "text": "Once during your turn (before your attack), you may put Pikachu from your hand onto Pichu (this counts as evolving Pichu) and remove all damage counters from Pichu.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Baby Steps",
+          "cost": [],
+          "convertedEnergyCost": 0,
+          "text": "Look at the top 5 cards of your deck, choose 1 of them, and put it into your hand. Shuffle the other cards back into your deck."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kanako Eo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/77/25/12/7725126623d7f17bfa2508ea48d754c112ba92fdd2a8fb0c13f5e7762096bd68.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32260",
+      "sequenceNumber": 38,
+      "printedNumber": "38",
+      "uuid": 71949810,
+      "prices": []
+    },
+    {
+      "id": 19161,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Mothim",
+      "types": [
+        "Grass"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Burmy",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Cloak Party",
+          "cost": [],
+          "convertedEnergyCost": 0,
+          "text": "Search your deck for up to 3 in any combination of Burmy and Wormadam, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Energy Assist",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "Search your discard pile for a basic Energy card and attach it to 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e1/b0/0f/e1b00fee2ea01d7e7ac00162dce4be2d02791f94481f53758ae85b9569c37f65.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32261",
+      "sequenceNumber": 39,
+      "printedNumber": "39",
+      "uuid": 98043450,
+      "prices": []
+    },
+    {
+      "id": 19162,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Arceus",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Ripple Swell",
+          "cost": [],
+          "convertedEnergyCost": 0,
+          "text": "If you have 6 Arceus in play and each of them is a different type, search your deck for up to 6 basic Energy cards. Attach each of those Energy cards to a different Pokémon you have in play. Shuffle your deck afterward."
+        },
+        {
+          "name": "Sky Spear",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 80 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon). Remove all Energy cards attached to Arceus and put them in the Lost Zone."
+        }
+      ],
+      "rules": [
+        "You may have as many of this card in your deck as you like."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d6/3f/1f/d63f1fb3b469dd34691fbe33679d9479de0653510378ea9e32eebb915a5dec20.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32262",
+      "sequenceNumber": 40,
+      "printedNumber": "40",
+      "uuid": 94646641,
+      "prices": []
+    },
+    {
+      "id": 19163,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Arceus",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Judgment",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "80",
+          "text": "Discard all Energy cards attached to Arceus and this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "You may have as many of this card in your deck as you like."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kunihiko Yuyama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/76/8f/cb/768fcb3fa302b47f468d4e4b14064c5394626af7eec66062a7088b3b3919ac1d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32263",
+      "sequenceNumber": 41,
+      "printedNumber": "41",
+      "uuid": 33419993,
+      "prices": []
+    },
+    {
+      "id": 19164,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Spiky-eared Pichu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Friend Party",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for as many Pokémon Pokémon M as you like and put them onto your Bench. Shuffle your deck afterward."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Gosho Aoyama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8a/6d/cd/8a6dcd47cafa2b909e394d7c82a222f58e090dacb05a38c4eb0160ed6b87be66.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32264",
+      "sequenceNumber": 42,
+      "printedNumber": "42",
+      "uuid": 80737592,
+      "prices": []
+    },
+    {
+      "id": 19165,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Pikachu LV.X",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Pikachu M",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Iron Tail",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20×",
+          "text": "Flip a coin until you get tails. This attack does 20 damage times the number of heads."
+        },
+        {
+          "name": "Volt Tackle",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "100",
+          "text": "Pikachu Pokémon M does 20 damage to itself."
+        }
+      ],
+      "rules": [
+        "Put this card onto your Active Pikachu Pokémon M. Pikachu Pokémon M LV.X can use any attack, Poké-Power, or Poké-Body from its previous Level."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "LV.X",
+        "LEVEL-UP"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "2009 Pikachu Project",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7d/4c/97/7d4c971eb46f03707f0415a55a3e37e23c2096149536cb3c07472e9e2ef751ab.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32265",
+      "sequenceNumber": 43,
+      "printedNumber": "43",
+      "uuid": 57037606,
+      "prices": []
+    },
+    {
+      "id": 19166,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Michina Temple",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you cant play this card.\", \"Once during each players turn, that player may remove 2 damage counters from 1 of his or her Pokémon Pokémon M.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "2009 Pikachu Project",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f9/98/cc/f998cc57c16e251e0f8a95689fa5278ae2380ec5525c2c55444e09c5389dade8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32266",
+      "sequenceNumber": 44,
+      "printedNumber": "44",
+      "uuid": 19897926,
+      "prices": []
+    },
+    {
+      "id": 19167,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Cresselia",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Lunar Aura",
+          "text": "If you have Darkrai in play, remove 1 damage counter from Cresselia between turns.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Lunar Flight",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80-",
+          "text": "Does 80 damage minus 10 damage for each damage counter on Cresselia."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Wataru Kawahara",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f9/b3/da/f9b3da524c93492e6c4ab6af826b943d70e19a44a6015cc919c769b674f6bcd3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32267",
+      "sequenceNumber": 45,
+      "printedNumber": "45",
+      "uuid": 73605242,
+      "prices": []
+    },
+    {
+      "id": 19168,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Darkrai",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Darkness Aura",
+          "text": "If you have Cresselia in play, each of Darkrai's attacks does 20 more damage to the Defending Pokémon (before applying Weakness and Resistance).",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hypnoblast",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Wataru Kawahara",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7d/cb/d3/7dcbd382257c574edab977b7e6aace43c5da6bca5ad1f000af64631c85e6019a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32268",
+      "sequenceNumber": 46,
+      "printedNumber": "46",
+      "uuid": 14084224,
+      "prices": []
+    },
+    {
+      "id": 19169,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Jigglypuff",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sleep Together",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Both Active Pokémon are now Asleep."
+        },
+        {
+          "name": "Balance Ball Attack",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30+",
+          "text": "If your opponent's Active Pokémon is Asleep, this attack does 20 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2b/de/a2/2bdea2aa4d21e99a8c27403da694389e0508e1140666c346349566883d192122.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32269",
+      "sequenceNumber": 47,
+      "printedNumber": "47",
+      "uuid": 45238515,
+      "prices": []
+    },
+    {
+      "id": 19170,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Ultimate Zone",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you cant play this card.\", \"During each players turn, the player may move an Energy card attached to 1 of his or her Benched Pokémon to his or her Active Arceus as often as he or she likes.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kent Kanetsuna",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f2/8a/63/f28a63624ee759919d0674526c5277e3ea23d4257e82cbf05727ced8c8f5a27f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32270",
+      "sequenceNumber": 48,
+      "printedNumber": "48",
+      "uuid": 99447834,
+      "prices": []
+    },
+    {
+      "id": 19171,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Mewtwo",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hypnoblast",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Psychic",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40+",
+          "text": "Does 40 damage plus 10 more damage for each Energy attached to the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "+20"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/10/b1/f7/10b1f728872af857f0c1f39c144daf0ffbe3bdbc251e32f7967a553ee1d7ddca.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32271",
+      "sequenceNumber": 49,
+      "printedNumber": "49",
+      "uuid": 1037552,
+      "prices": []
+    },
+    {
+      "id": 19172,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Heatran",
+      "types": [
+        "Fire"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Heat Acceleration",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your discard pile for up to 2 Fire Energy cards and attach them to 1 of your Pokémon."
+        },
+        {
+          "name": "Flamethrower",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "80",
+          "text": "Discard 1 Energy card attached to Heatran."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Wataru Kawahara",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a1/80/fd/a180fdd97709fc7b9c46b7805459a74e2dc18d854e31fae9d6d66223bb9800b9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32272",
+      "sequenceNumber": 50,
+      "printedNumber": "50",
+      "uuid": 18240361,
+      "prices": []
+    },
+    {
+      "id": 19173,
+      "setData": {
+        "name": "Platinum Promos",
+        "printed_count": "51",
+        "card_count": 51,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/platinum-promos"
+      },
+      "name": "Victory Medal",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Flip 2 coins. If one of them is heads, draw a card. If both are heads, search your deck for any 1 card, put it into your hand, and shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Promo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yusuke Ishikawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/85/fe/65/85fe65ab85f0719c02b3cf76e718e3a48915c1c5663acaf9e0b5a1c9f5d9602a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/32273",
+      "sequenceNumber": 51,
+      "printedNumber": "51",
+      "uuid": 29894432,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 51,
+  "totalCount": 51
+}

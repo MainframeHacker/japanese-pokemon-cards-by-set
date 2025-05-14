@@ -1,0 +1,1431 @@
+{
+  "data": [
+    {
+      "id": 25609,
+      "setData": {
+        "name": "Nivi City Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/34/8e/52/348e52a6465401c7ede0d8be16aaddcf1e22304d95d793bdd06ebdebee7db152.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12115/nivi-city-gym-deck"
+      },
+      "name": "Brock's Vulpix",
+      "types": [
+        "Fire"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Flame",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        },
+        {
+          "name": "Quick Attack",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/0e/b8/35/0eb835f57733e9e48250f2e7ef9869c31832ef6785d81ab2232faf0817068dd4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29744",
+      "sequenceNumber": 17,
+      "printedNumber": "017",
+      "uuid": 39476070,
+      "prices": []
+    },
+    {
+      "id": 25610,
+      "setData": {
+        "name": "Nivi City Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/34/8e/52/348e52a6465401c7ede0d8be16aaddcf1e22304d95d793bdd06ebdebee7db152.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12115/nivi-city-gym-deck"
+      },
+      "name": "Brock's Geodude",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Call for Friend",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, you may search your deck for a Basic Pokémon card with Brock in its name and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
+        },
+        {
+          "name": "Hook Shot",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Don't apply Resistance for this attack. (Any other effects that would happen after applying Resistance still happen.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/9b/2f/3d/9b2f3d5c7c907dc11d3f3c104f30114cc27466fb298c022da9e1fdfbc10a2978.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29774",
+      "sequenceNumber": 47,
+      "printedNumber": "047",
+      "uuid": 41057841,
+      "prices": []
+    },
+    {
+      "id": 25611,
+      "setData": {
+        "name": "Nivi City Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/34/8e/52/348e52a6465401c7ede0d8be16aaddcf1e22304d95d793bdd06ebdebee7db152.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12115/nivi-city-gym-deck"
+      },
+      "name": "Brock's Onix",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 100,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bellow",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Rock Throw",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/3f/ce/ca/3fceca70a44f61c867bce48ab8249149e8d3d7f8ea866c6820af486cd2517689.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29775",
+      "sequenceNumber": 48,
+      "printedNumber": "048",
+      "uuid": 85330777,
+      "prices": []
+    },
+    {
+      "id": 25612,
+      "setData": {
+        "name": "Nivi City Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/34/8e/52/348e52a6465401c7ede0d8be16aaddcf1e22304d95d793bdd06ebdebee7db152.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12115/nivi-city-gym-deck"
+      },
+      "name": "Brock's Golem",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Brock's Graveler",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Rock Slide",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20",
+          "text": "If your opponent has any Benched Pokémon, choose up to 3 of them. This attack does 10 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Fissure",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "50"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/12/44/31/124431e61466dad0aae4d12bb522850dcc8fb1beba3301e6f7fea61439090521.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29780",
+      "sequenceNumber": 53,
+      "printedNumber": "053",
+      "uuid": 35438513,
+      "prices": []
+    },
+    {
+      "id": 25613,
+      "setData": {
+        "name": "Nivi City Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/34/8e/52/348e52a6465401c7ede0d8be16aaddcf1e22304d95d793bdd06ebdebee7db152.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12115/nivi-city-gym-deck"
+      },
+      "name": "Brock's Rhydon",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Brock's Rhyhorn",
+      "effect": [
+        {
+          "name": "Bench Guard",
+          "text": "As long as Brock's Rhydon is Benched, whenever 1 of your Benched Pokémon is damaged, you may do 10 of that damage to Brock's Rhydon instead. (If more than 1 of your Benched Pokémon is damaged at the same time, you may use this power once for each of them.)",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Lariat",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "70",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Stage 1"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/77/fd/eb/77fdebe80c397d020e1370ec8c8d039ce68c4ba58c7c5d6a7c68e5fa97124b78.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29782",
+      "sequenceNumber": 55,
+      "printedNumber": "055",
+      "uuid": 63152108,
+      "prices": []
+    },
+    {
+      "id": 25614,
+      "setData": {
+        "name": "Nivi City Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/34/8e/52/348e52a6465401c7ede0d8be16aaddcf1e22304d95d793bdd06ebdebee7db152.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12115/nivi-city-gym-deck"
+      },
+      "name": "Recall",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"For your attack this turn, your Active Pokémon can use any attack from its Basic Pokémon card or any Evolution card attached to it. (You still have to pay for that attacks Energy cost.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sumiyoshi Kizuki",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/5e/0f/02/5e0f023152d7e9109f9de0af2f7b4a3a54197687cc6caa7b47d4717bd1040928.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29798",
+      "sequenceNumber": 71,
+      "printedNumber": "071",
+      "uuid": 28382379,
+      "prices": []
+    },
+    {
+      "id": 25615,
+      "setData": {
+        "name": "Nivi City Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/34/8e/52/348e52a6465401c7ede0d8be16aaddcf1e22304d95d793bdd06ebdebee7db152.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12115/nivi-city-gym-deck"
+      },
+      "name": "Brock's Training Method",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Search your deck for a Basic Pokémon or Evolution card with Brock in its name. Show that card to your opponent, then put it into your hand. Shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/a2/0a/19/a20a199c8f2a35675d2f28a12138576eb4d16e06fca473891da458cf921ddd80.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29804",
+      "sequenceNumber": 77,
+      "printedNumber": "077",
+      "uuid": 19390883,
+      "prices": []
+    },
+    {
+      "id": 25616,
+      "setData": {
+        "name": "Nivi City Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/34/8e/52/348e52a6465401c7ede0d8be16aaddcf1e22304d95d793bdd06ebdebee7db152.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12115/nivi-city-gym-deck"
+      },
+      "name": "Pewter City Gym",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "This card stays in play when you play it. Discard this card if another Stadium card comes into play.",
+        "\"Dont apply Resistance to any attacks made by Pokémon with Brock in their names.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/fe/1c/ac/fe1cac06ea6c3ec57491c24c0d815cc3b538964acf6109ddf280deda9e3bc2b7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29806",
+      "sequenceNumber": 79,
+      "printedNumber": "079",
+      "uuid": 32766766,
+      "prices": []
+    },
+    {
+      "id": 25617,
+      "setData": {
+        "name": "Nivi City Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/34/8e/52/348e52a6465401c7ede0d8be16aaddcf1e22304d95d793bdd06ebdebee7db152.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12115/nivi-city-gym-deck"
+      },
+      "name": "Brock's Zubat",
+      "types": [
+        "Grass"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Alert",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Draw a card. Then, switch Brock's Zubat with 1 of your Benched Pokémon. You can't use this attack if your Bench is empty."
+        },
+        {
+          "name": "Wing Attack",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/5c/76/27/5c76271bc241dd9383c19b333d6149480f40dd470844fa1065ee1eedfa65f1e9.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47483",
+      "sequenceNumber": 1,
+      "printedNumber": "001",
+      "uuid": 40859351,
+      "prices": []
+    },
+    {
+      "id": 25618,
+      "setData": {
+        "name": "Nivi City Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/34/8e/52/348e52a6465401c7ede0d8be16aaddcf1e22304d95d793bdd06ebdebee7db152.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12115/nivi-city-gym-deck"
+      },
+      "name": "Brock's Sandshrew",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Defense Curl",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, prevent all damage done to Brock's Sandshrew during your opponent's next turn. (Any other effects of attacks still happen.)"
+        },
+        {
+          "name": "Rolling Attack",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/7f/61/cb/7f61cb2ebd4b81f28ffe67e5e2f1fb90bb8ca6af168159bcefb151c1fe9166e3.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47518",
+      "sequenceNumber": 36,
+      "printedNumber": "036",
+      "uuid": 99240933,
+      "prices": []
+    },
+    {
+      "id": 25619,
+      "setData": {
+        "name": "Nivi City Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/34/8e/52/348e52a6465401c7ede0d8be16aaddcf1e22304d95d793bdd06ebdebee7db152.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12115/nivi-city-gym-deck"
+      },
+      "name": "Brock's Sandslash",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Brock's Sandshrew",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Needles",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed and Poisoned."
+        },
+        {
+          "name": "Sandstorm",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/b2/c7/aa/b2c7aa134a462529a8fbbc36e40db807063383909a3ad2528a9824b2c47f5a57.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47519",
+      "sequenceNumber": 37,
+      "printedNumber": "037",
+      "uuid": 13761367,
+      "prices": []
+    },
+    {
+      "id": 25620,
+      "setData": {
+        "name": "Nivi City Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/34/8e/52/348e52a6465401c7ede0d8be16aaddcf1e22304d95d793bdd06ebdebee7db152.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12115/nivi-city-gym-deck"
+      },
+      "name": "Brock's Mankey",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Taunt",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and switch it with the Defending Pokémon."
+        },
+        {
+          "name": "Light Kick",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/ae/b5/91/aeb59126a8cd3c380a08f974703a5812adf7aa64665d2234cc5b341fd3f31ef2.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47520",
+      "sequenceNumber": 38,
+      "printedNumber": "038",
+      "uuid": 80957122,
+      "prices": []
+    },
+    {
+      "id": 25621,
+      "setData": {
+        "name": "Nivi City Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/34/8e/52/348e52a6465401c7ede0d8be16aaddcf1e22304d95d793bdd06ebdebee7db152.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12115/nivi-city-gym-deck"
+      },
+      "name": "Brock's Geodude",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Lucky Shot",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Choose 1 of your opponent's Benched Pokémon and flip a coin. If heads, this attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) This attack can't be used if your opponent has no Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/f8/f7/a8/f8f7a8f5f5e03520a0df949c81d70c03e6b3ac098f190485313a59b3a7a6d448.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47521",
+      "sequenceNumber": 39,
+      "printedNumber": "039",
+      "uuid": 24081756,
+      "prices": []
+    },
+    {
+      "id": 25622,
+      "setData": {
+        "name": "Nivi City Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/34/8e/52/348e52a6465401c7ede0d8be16aaddcf1e22304d95d793bdd06ebdebee7db152.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12115/nivi-city-gym-deck"
+      },
+      "name": "Brock's Graveler",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Brock's Geodude",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Rock Toss",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20×",
+          "text": "Flip 3 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/e2/f8/4b/e2f84b04411432d67b650b75fcfc165ca805cc493f23ca15fa074303b20806be.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47522",
+      "sequenceNumber": 40,
+      "printedNumber": "040",
+      "uuid": 72658182,
+      "prices": []
+    },
+    {
+      "id": 25623,
+      "setData": {
+        "name": "Nivi City Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/34/8e/52/348e52a6465401c7ede0d8be16aaddcf1e22304d95d793bdd06ebdebee7db152.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12115/nivi-city-gym-deck"
+      },
+      "name": "Brock's Onix",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bind",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Tunneling",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "If your opponent has any Benched Pokémon, choose up to 2 of them. This attack does 20 damage to each of them. (Don't apply Weakness and Resistance for Benched Pokémon.) Brock's Onix can't attack during your next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Benimaru Itoh",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/f3/ee/80/f3ee807ba642e9f249abdf8dee905f284b7194537661de1c90beea5ab3104264.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47523",
+      "sequenceNumber": 41,
+      "printedNumber": "041",
+      "uuid": 80957678,
+      "prices": []
+    },
+    {
+      "id": 25624,
+      "setData": {
+        "name": "Nivi City Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/34/8e/52/348e52a6465401c7ede0d8be16aaddcf1e22304d95d793bdd06ebdebee7db152.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12115/nivi-city-gym-deck"
+      },
+      "name": "Brock's Rhyhorn",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Horn Toss",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)"
+        },
+        {
+          "name": "Take Down",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "Brock's Rhyhorn does 10 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/e7/b5/52/e7b552340166a524b3a1180f0efe6daad35596ae875d6905feeec59f895ead2d.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47524",
+      "sequenceNumber": 42,
+      "printedNumber": "042",
+      "uuid": 9893277,
+      "prices": []
+    },
+    {
+      "id": 25625,
+      "setData": {
+        "name": "Nivi City Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/34/8e/52/348e52a6465401c7ede0d8be16aaddcf1e22304d95d793bdd06ebdebee7db152.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12115/nivi-city-gym-deck"
+      },
+      "name": "Energy Retrieval",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"You may use this card only if you discard a card from your hand. Choose up to 2 basic Energy cards from your discard pile, and put them into your hand. (You cant choose the card you discarded with the effect of this card.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/12/2c/4b/122c4b74d5ee4330fb777bfff85cfef0fa164a25b5338f7a50096fb01365657d.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47530",
+      "sequenceNumber": 48,
+      "printedNumber": "048",
+      "uuid": 8262647,
+      "prices": []
+    },
+    {
+      "id": 25626,
+      "setData": {
+        "name": "Nivi City Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/34/8e/52/348e52a6465401c7ede0d8be16aaddcf1e22304d95d793bdd06ebdebee7db152.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12115/nivi-city-gym-deck"
+      },
+      "name": "Potion",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Remove up to 2 damage counters from 1 of your Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/31/af/15/31af1597ba31d8a16217e4c5c41286e28747c841fb8ee46e3ede7d654b43ced3.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47532",
+      "sequenceNumber": 50,
+      "printedNumber": "050",
+      "uuid": 48074388,
+      "prices": []
+    },
+    {
+      "id": 25627,
+      "setData": {
+        "name": "Nivi City Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/34/8e/52/348e52a6465401c7ede0d8be16aaddcf1e22304d95d793bdd06ebdebee7db152.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12115/nivi-city-gym-deck"
+      },
+      "name": "Revive",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Put 1 Basic Pokémon card from your discard pile onto your Bench. Put damage counters on that Pokémon equal to half its HP (rounded down to the nearest 10). (You cant play Revive if your discard pile does not have any Basic Pokémon or if your Bench is full.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/6b/fb/51/6bfb512a1d0bb2ddd565236156d175256bd0c192ba613d956b056ad315759f95.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47533",
+      "sequenceNumber": 51,
+      "printedNumber": "051",
+      "uuid": 41768935,
+      "prices": []
+    },
+    {
+      "id": 25628,
+      "setData": {
+        "name": "Nivi City Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/34/8e/52/348e52a6465401c7ede0d8be16aaddcf1e22304d95d793bdd06ebdebee7db152.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12115/nivi-city-gym-deck"
+      },
+      "name": "Brock",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Remove 1 damage counter from each of your Pokémon that has any damage counters on it."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/e6/d5/8d/e6d58d7783d8fdc0b564f80537b3f4fe60965d909049701320684e9c2e139268.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47555",
+      "sequenceNumber": 52,
+      "printedNumber": "052",
+      "uuid": 86601150,
+      "prices": []
+    },
+    {
+      "id": 25629,
+      "setData": {
+        "name": "Nivi City Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/34/8e/52/348e52a6465401c7ede0d8be16aaddcf1e22304d95d793bdd06ebdebee7db152.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12115/nivi-city-gym-deck"
+      },
+      "name": "Full Heal",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Your Active Pokémon is no longer Asleep, Confused, Paralyzed, or Poisoned."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/21/57/f9/2157f95eae558325284ef0c1d15ddf14f3440462afd1c4079db0508bdcae92b5.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47558",
+      "sequenceNumber": 55,
+      "printedNumber": "055",
+      "uuid": 6718283,
+      "prices": []
+    },
+    {
+      "id": 25630,
+      "setData": {
+        "name": "Nivi City Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/34/8e/52/348e52a6465401c7ede0d8be16aaddcf1e22304d95d793bdd06ebdebee7db152.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12115/nivi-city-gym-deck"
+      },
+      "name": "Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Switch 1 of your Benched Pokémon with your Active Pokémon"
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/f6/e5/c4/f6e5c441ba8d6300cc118793b7d9f98575f8f666b7e7419e356ae234c7a43b15.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47559",
+      "sequenceNumber": 56,
+      "printedNumber": "056",
+      "uuid": 94221959,
+      "prices": []
+    },
+    {
+      "id": 25631,
+      "setData": {
+        "name": "Nivi City Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/34/8e/52/348e52a6465401c7ede0d8be16aaddcf1e22304d95d793bdd06ebdebee7db152.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12115/nivi-city-gym-deck"
+      },
+      "name": "Pokémon Center",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Remove all damage counters from all of your own Pokémon with damage counters on them, then discard all Energy cards attached to those Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/97/41/eb/9741ebc9b7c97f0415fe28d434b84a4dcaa4b390baeb4ac1b57276030139cad2.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47560",
+      "sequenceNumber": 57,
+      "printedNumber": "057",
+      "uuid": 61952480,
+      "prices": []
+    },
+    {
+      "id": 25632,
+      "setData": {
+        "name": "Nivi City Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/34/8e/52/348e52a6465401c7ede0d8be16aaddcf1e22304d95d793bdd06ebdebee7db152.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12115/nivi-city-gym-deck"
+      },
+      "name": "Pokédex",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Look at up to 5 cards from the top of your deck and rearrange them as you like."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/0b/7e/1c/0b7e1cdee996001773514e7a70ff211bcf6aeec9c5deb463af5b564fe58b6929.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47561",
+      "sequenceNumber": 58,
+      "printedNumber": "058",
+      "uuid": 34450859,
+      "prices": []
+    },
+    {
+      "id": 25633,
+      "setData": {
+        "name": "Nivi City Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1998",
+        "image_url": "https://static.tcgcollector.com/content/content/images/34/8e/52/348e52a6465401c7ede0d8be16aaddcf1e22304d95d793bdd06ebdebee7db152.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12115/nivi-city-gym-deck"
+      },
+      "name": "Double Colorless Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Provides Colorless Colorless energy. Doesnt count as a basic Energy card.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/06/fd/4e/06fd4eac44af8664165fdf278d5124950016a0fa138109a5362422ecabffc03b.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47574",
+      "sequenceNumber": 71,
+      "printedNumber": "071",
+      "uuid": 71357902,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 25,
+  "totalCount": 25
+}

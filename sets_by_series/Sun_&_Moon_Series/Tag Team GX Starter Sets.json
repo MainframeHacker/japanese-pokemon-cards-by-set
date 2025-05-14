@@ -1,0 +1,2000 @@
+{
+  "data": [
+    {
+      "id": 5939,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Espeon & Deoxys-GX",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 260,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Psychic Club",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "10+",
+          "text": "This attack does 30 more damage for each of your Benched Psychic Pokémon."
+        },
+        {
+          "name": "Cross Division-GX",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Put 10 damage counters on your opponent's Pokémon in any way you like. If this Pokémon has at least 3 extra Energy attached to it (in addition to this attack's cost), put 20 damage counters on them instead. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "TAG TEAM",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/92/74/74/9274742610b5be2088a5f5d5a46f5d11a0add42924fd26ae4df3830eb40f297d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19174",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 8649408,
+      "prices": [
+        {
+          "priceAmount": 3365,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-tag-team-starter-set/espeon-&-deoxys-gx-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1495,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-tag-team-starter-set/espeon-&-deoxys-gx-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 1500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-tag-team-starter-set/espeon-&-deoxys-gx-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1671,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-tag-team-starter-set/espeon-&-deoxys-gx-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-tag-team-starter-set/espeon-&-deoxys-gx-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 578,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-tag-team-starter-set/espeon-&-deoxys-gx-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 5940,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Jirachi-GX",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 160,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Psychic Zone",
+          "text": "Don't apply Psychic Weakness when Pokémon (both yours and your opponent's) take damage from attacks.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Star Search",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for an Energy card and attach it to 1 of your Psychic Pokémon. Then, shuffle your deck."
+        },
+        {
+          "name": "Star Shield-GX",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100",
+          "text": "Prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/dc/e5/f6/dce5f66992b8f1fc7ae19b24d59231fd9ed70e07035db75bf93f937ff3d01c8b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19175",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 32740890,
+      "prices": [
+        {
+          "priceAmount": 4680,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-tag-team-starter-set/jirachi-gx-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1187,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-tag-team-starter-set/jirachi-gx-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-tag-team-starter-set/jirachi-gx-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 311,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-tag-team-starter-set/jirachi-gx-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 5941,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Cresselia",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Aurora Gain",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Heal 30 damage from this Pokémon."
+        },
+        {
+          "name": "Luminous Blade",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "130",
+          "text": "Discard a Psychic Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Megumi Mizutani",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c8/e8/17/c8e817f0f3939d1fd1a329ca26d1e8157e421a446139451a00ff9f89291841d7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19176",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 3184386,
+      "prices": []
+    },
+    {
+      "id": 5942,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Inkay",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hypnosis",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "sowsow",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c5/cf/97/c5cf974ef7d8f47c08756a146ff03d7a2df7fabe43c8223f33ee96e47a451ff2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19177",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 9359459,
+      "prices": []
+    },
+    {
+      "id": 5943,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Malamar",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Inkay",
+      "effect": [
+        {
+          "name": "Psychic Recharge",
+          "text": "Once during your turn (before your attack), you may attach a Psychic Energy card from your discard pile to 1 of your Benched Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Psychic Sphere",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "You Iribi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a7/c4/b9/a7c4b9d8d9f592f65d0564bb5dbe2aead4bb88efe31ef3bbb13d8bf8e481042b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19178",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 83937217,
+      "prices": []
+    },
+    {
+      "id": 5944,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Salandit",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Suffocating Gas",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Gnaw",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yukiko Baba",
+      "imageUrl": "https://static.tcgcollector.com/content/images/00/3a/df/003adf432fa5d77f32923ab987c162fde6d9a63ceb9810af6aebbaa07a47ac2f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19179",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 49180817,
+      "prices": []
+    },
+    {
+      "id": 5945,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Salazzle",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Salandit",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Smack",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "40"
+        },
+        {
+          "name": "Slashing Claw",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b4/23/57/b4235752ce2305d406ac9a25f374a06e6f3880affdc35bbd934723bd6792a574.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19180",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 91790235,
+      "prices": []
+    },
+    {
+      "id": 5946,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Tapu Lele-GX",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Wonder Tag",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Energy Drive",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "This attack does 20 damage times the amount of Energy attached to both Active Pokémon. This damage isn't affected by Weakness or Resistance."
+        },
+        {
+          "name": "Tapu Cure-GX",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Heal all damage from 2 of your Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d2/41/85/d2418596cb2633c2e86dd87a26541099632eee984b0c144901096fee1dddf05e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19181",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 87427655,
+      "prices": [
+        {
+          "priceAmount": 3795,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-tag-team-starter-set/tapu-lele-gx-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1466,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-tag-team-starter-set/tapu-lele-gx-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-tag-team-starter-set/tapu-lele-gx-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-tag-team-starter-set/tapu-lele-gx-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 5947,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Cosmog",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Splash",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Akira Komayama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7a/f5/94/7af59467a3da7b71b356ff98f0201c4930198352e35a2a1638443d79673c4f1d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19182",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 62801695,
+      "prices": []
+    },
+    {
+      "id": 5948,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Umbreon & Darkrai-GX",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 270,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Black Lance",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "150",
+          "text": "This attack does 60 damage to 1 of your opponent's Benched Pokémon-GX or Benched Pokémon-EX. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Dark Moon-GX",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent can't play any Trainer cards from their hand during their next turn. If this Pokémon has at least 5 extra Darkness Energy attached to it (in addition to this attack's cost), your opponent's Active Pokémon is Knocked Out. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "TAG TEAM",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f0/03/54/f00354309c3df4bf1b749ad99e1dae6dadd13953b7346383c6ac42ff46bed232.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19183",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 32234076,
+      "prices": [
+        {
+          "priceAmount": 4796,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-tag-team-starter-set/umbreon-&-darkrai-gx-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1575,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-tag-team-starter-set/umbreon-&-darkrai-gx-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 2399,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-tag-team-starter-set/umbreon-&-darkrai-gx-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-tag-team-starter-set/umbreon-&-darkrai-gx-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1333,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-tag-team-starter-set/umbreon-&-darkrai-gx-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 5949,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Alolan Grimer",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [],
+          "convertedEnergyCost": 0,
+          "text": "Draw 2 cards."
+        },
+        {
+          "name": "Sludge Bomb",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Alolan",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kawayoo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/29/c3/f7/29c3f720b34c88202e186ae6708c699301c03ac25cad4c8c70751137984d01b7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19184",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 94488077,
+      "prices": []
+    },
+    {
+      "id": 5950,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Murkrow",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Peck",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "tetsuya koizumi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/46/a5/c5/46a5c5e5bfc0678586bb4e3e3c67aeeb9553a9d7c6610ca7ccf76c6ba32b125a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19185",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 77209074,
+      "prices": []
+    },
+    {
+      "id": 5951,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Honchkrow",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Murkrow",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sharpshooting",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "This attack does 30 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Dark Cutter",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Tomokazu Komiya",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ee/cd/9c/eecd9c76fe5e5f5a993183b06d44b385a29a9cac7894446848180dd5d69854d5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19186",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 47305370,
+      "prices": []
+    },
+    {
+      "id": 5952,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Sneasel",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Slash",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "sui",
+      "imageUrl": "https://static.tcgcollector.com/content/images/13/76/f9/1376f9af4488194160023ae1de93d8ca19ffa850100b6bad8c5f54d306b83a00.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19187",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 34131465,
+      "prices": []
+    },
+    {
+      "id": 5953,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Weavile-GX",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Sneasel",
+      "effect": [
+        {
+          "name": "Shadow Connection",
+          "text": "As often as you like during your turn (before your attack), you may move a basic Darkness Energy from 1 of your Pokémon to another of your Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Claw Slash",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "130"
+        },
+        {
+          "name": "Nocturnal Maneuvers-GX",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for any number of Basic Pokémon and put them onto your Bench. Then, shuffle your deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "aky CG Works",
+      "imageUrl": "https://static.tcgcollector.com/content/images/44/17/30/441730e2cd3aad050a63ddc00a05e44389d853194e8ded6a577d67d84cadf4d0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19188",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 84053707,
+      "prices": [
+        {
+          "priceAmount": 3999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-tag-team-starter-set/weavile-gx-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2495,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-tag-team-starter-set/weavile-gx-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-tag-team-starter-set/weavile-gx-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-tag-team-starter-set/weavile-gx-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 5954,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Hoopa",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Scoundrel Guard",
+          "text": "Prevent all effects of attacks, including damage, done to this Pokémon by your opponent's Pokémon-GX or Pokémon-EX.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Super Psy Bolt",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "TOKIYA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b5/bb/cb/b5bbcbf5cb2d302c3cc89aa2bcbe6fdb32c50894c5387d8b961098a850dcf9b8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19189",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 85819116,
+      "prices": []
+    },
+    {
+      "id": 5955,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Ultra Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Discard 2 cards from your hand. If you do, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ba/4d/3f/ba4d3f91b3312f94087e376d90b2c5e848cb16e69571dab02c2b6166e90201a3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19190",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 34165514,
+      "prices": []
+    },
+    {
+      "id": 5956,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Cherish Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Search your deck for a Pokémon-GX, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b7/0a/06/b70a0636fe16dbc86b737a1dee6c69999ff8e927b6903dac8530effa79647aeb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19191",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 10045272,
+      "prices": []
+    },
+    {
+      "id": 5957,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Pokégear 3.0",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Look at the top 7 cards of your deck. You may reveal a Supporter card you find there and put it into your hand. Shuffle the other cards back into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Studio Bora Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/images/62/82/5c/62825c48e738bd8b9cfbc671c874daf82d1f152cbd231fee887b6bf23d22a10d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19192",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 74372101,
+      "prices": []
+    },
+    {
+      "id": 5958,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Switch your Active Pokémon with 1 of your Benched Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/36/29/52/362952439a10cbee5c236295dabac15ca9a39f6e82ef08524b73c956898c053c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19193",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 80468139,
+      "prices": []
+    },
+    {
+      "id": 5959,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Max Potion",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Heal all damage from 1 of your Pokémon. If you do, discard all Energy from that Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/46/32/06/463206e7c09aadb47b1e9295103e0f73fe8bdb6d3162c905e8c06fee0bb7fe38.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19194",
+      "sequenceNumber": 21,
+      "printedNumber": "21",
+      "uuid": 72242146,
+      "prices": []
+    },
+    {
+      "id": 5960,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Mysterious Treasure",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Discard a card from your hand. If you do, search your deck for a Psychic or Dragon Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Eske Yoshinob",
+      "imageUrl": "https://static.tcgcollector.com/content/images/75/dd/45/75dd45bea835ca54d0f16467f5bf43c3a3ee3daa58acddfbf979b94288c5b24e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19195",
+      "sequenceNumber": 22,
+      "printedNumber": "22",
+      "uuid": 79071461,
+      "prices": []
+    },
+    {
+      "id": 5961,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Choice Band",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "\"The attacks of the Pokémon this card is attached to do 30 more damage to your opponents Active Pokémon-GX or Active Pokémon-EX (before applying Weakness and Resistance).\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Eske Yoshinob",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1c/86/32/1c86324f1a12118046a418d0175521ab8154c355b62b0816ac9580fd161edb75.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19196",
+      "sequenceNumber": 23,
+      "printedNumber": "23",
+      "uuid": 38536770,
+      "prices": []
+    },
+    {
+      "id": 5962,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Guzma",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "\"Switch 1 of your opponents Benched Pokémon with their Active Pokémon. If you do, switch your Active Pokémon with 1 of your Benched Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/07/28/62/0728626db7f838f39b03c27a4075458e0354d9ef561a9fda9d3abbd1d9415ab1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19197",
+      "sequenceNumber": 24,
+      "printedNumber": "24",
+      "uuid": 21485471,
+      "prices": []
+    },
+    {
+      "id": 5963,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Cynthia",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Shuffle your hand into your deck. Then, draw 6 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3e/35/e9/3e35e9454ea88b21e77bcf62bab448ff68e24bb8b7a09d6ca94798a5984502a5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19198",
+      "sequenceNumber": 25,
+      "printedNumber": "25",
+      "uuid": 92464563,
+      "prices": []
+    },
+    {
+      "id": 5964,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Hau",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Draw 3 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "TOKIYA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f5/fd/05/f5fd05b48f77706fa9e179fd4542d106b6c081c55827f0ac5e703a6d8043d881.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19199",
+      "sequenceNumber": 26,
+      "printedNumber": "26",
+      "uuid": 74448360,
+      "prices": []
+    },
+    {
+      "id": 5965,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Hapu",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Look at the top 6 cards of your deck and put 2 of them into your hand. Discard the other cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/01/4c/ca/014cca19a2266a836cd43180e86cae46d7999405df87a30db6b723e3698e5791.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19200",
+      "sequenceNumber": 27,
+      "printedNumber": "27",
+      "uuid": 26420005,
+      "prices": []
+    },
+    {
+      "id": 5966,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Lillie",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "\"Draw cards until you have 6 cards in your hand. If its your first turn, draw cards until you have 8 cards in your hand.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sanosuke Sakuma",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7b/7c/79/7b7c79a343de5c538771c1a51fdc75da7288b49522a56621b23eb2fc5ce82f95.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19201",
+      "sequenceNumber": 28,
+      "printedNumber": "28",
+      "uuid": 53133498,
+      "prices": [
+        {
+          "priceAmount": 1250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-tag-team-starter-set/lillie-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-tag-team-starter-set/lillie-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 282,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-tag-team-starter-set/lillie-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 5967,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Red's Challenge",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "You can play this card only if you discard 2 other cards from your hand. Search your deck for a card and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Megumi Mizutani",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c1/b9/5b/c1b95b251884a9edec350fc56042d6321fd153f1c9df8743641ce32e588ddd37.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19202",
+      "sequenceNumber": 29,
+      "printedNumber": "29",
+      "uuid": 27392109,
+      "prices": []
+    },
+    {
+      "id": 5968,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Dark City",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you cant play this card.\", \"Basic Darkness Pokémon in play (both yours and your opponents) have no Retreat Cost.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7a/6a/2f/7a6a2fc701562bbf5ece46a4c07ea339511e7e61240ddaf3189ce13b0bac5c58.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19203",
+      "sequenceNumber": 30,
+      "printedNumber": "30",
+      "uuid": 88287368,
+      "prices": []
+    },
+    {
+      "id": 5969,
+      "setData": {
+        "name": "Tag Team GX Starter Sets",
+        "printed_count": "31",
+        "card_count": 31,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/tag-team-gx-starter-sets"
+      },
+      "name": "Double Colorless Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Double Colorless Energy provides Colorless Colorless Energy."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d6/9b/4c/d69b4ca44bc0c00ce65983aa2706c78161703ba5fa9063676a47a800c79df034.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19204",
+      "sequenceNumber": 31,
+      "printedNumber": "31",
+      "uuid": 50814116,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 31,
+  "totalCount": 31
+}

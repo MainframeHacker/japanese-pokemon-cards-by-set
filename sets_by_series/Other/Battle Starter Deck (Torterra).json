@@ -1,0 +1,592 @@
+{
+  "data": [
+    {
+      "id": 13592,
+      "setData": {
+        "name": "Battle Starter Deck (Torterra)",
+        "printed_count": "10",
+        "card_count": 10,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/battle-starter-deck-torterra"
+      },
+      "name": "Tropius",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Green Call",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip 2 coins. For each heads, search your deck for a Grass Pokémon, show it to your opponent, and put it in your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Gust",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "match",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/34144",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 43451880,
+      "prices": []
+    },
+    {
+      "id": 13593,
+      "setData": {
+        "name": "Battle Starter Deck (Torterra)",
+        "printed_count": "10",
+        "card_count": 10,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/battle-starter-deck-torterra"
+      },
+      "name": "Turtwig",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Leech Seed",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "If this attack does any damage to the Defending Pokémon (after applying Weakness and Resistance), remove 1 damage counter from Turtwig."
+        },
+        {
+          "name": "Ram",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "match",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/34145",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 73265282,
+      "prices": []
+    },
+    {
+      "id": 13594,
+      "setData": {
+        "name": "Battle Starter Deck (Torterra)",
+        "printed_count": "10",
+        "card_count": 10,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/battle-starter-deck-torterra"
+      },
+      "name": "Grotle",
+      "types": [
+        "Grass"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Turtwig",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Razor Leaf",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        },
+        {
+          "name": "Sleep Powder",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "match",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/34146",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 75813382,
+      "prices": []
+    },
+    {
+      "id": 13595,
+      "setData": {
+        "name": "Battle Starter Deck (Torterra)",
+        "printed_count": "10",
+        "card_count": 10,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/battle-starter-deck-torterra"
+      },
+      "name": "Torterra",
+      "types": [
+        "Grass"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Grotle",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Giga Drain",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "Remove from Torterra the number of damage counters equal to the damage you did to the Defending Pokémon."
+        },
+        {
+          "name": "Land Crush",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "80"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "match",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/34147",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 32558740,
+      "prices": []
+    },
+    {
+      "id": 13596,
+      "setData": {
+        "name": "Battle Starter Deck (Torterra)",
+        "printed_count": "10",
+        "card_count": 10,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/battle-starter-deck-torterra"
+      },
+      "name": "Cherubi",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "match",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/34148",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 27764559,
+      "prices": []
+    },
+    {
+      "id": 13597,
+      "setData": {
+        "name": "Battle Starter Deck (Torterra)",
+        "printed_count": "10",
+        "card_count": 10,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/battle-starter-deck-torterra"
+      },
+      "name": "Cherrim",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Cherubi",
+      "effect": [
+        {
+          "name": "Sunny Heal",
+          "text": "Once during your turn (before your attack), you may remove 1 damage counter from your Active Pokémon. This power can't be used if Cherrim is affected by a Special Condition.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Seed Bomb",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "match",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/34149",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 77690494,
+      "prices": []
+    },
+    {
+      "id": 13598,
+      "setData": {
+        "name": "Battle Starter Deck (Torterra)",
+        "printed_count": "10",
+        "card_count": 10,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/battle-starter-deck-torterra"
+      },
+      "name": "Dual Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Flip 2 coins. For each heads, search your deck for a Basic Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/34150",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 2703456,
+      "prices": []
+    },
+    {
+      "id": 13599,
+      "setData": {
+        "name": "Battle Starter Deck (Torterra)",
+        "printed_count": "10",
+        "card_count": 10,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/battle-starter-deck-torterra"
+      },
+      "name": "Life Herb",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Flip a coin. If heads, heal 60 damage and remove all Special Conditions from 1 of your Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/34151",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 60453151,
+      "prices": []
+    },
+    {
+      "id": 13600,
+      "setData": {
+        "name": "Battle Starter Deck (Torterra)",
+        "printed_count": "10",
+        "card_count": 10,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/battle-starter-deck-torterra"
+      },
+      "name": "Poké Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/34152",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 97948403,
+      "prices": []
+    },
+    {
+      "id": 13601,
+      "setData": {
+        "name": "Battle Starter Deck (Torterra)",
+        "printed_count": "10",
+        "card_count": 10,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/battle-starter-deck-torterra"
+      },
+      "name": "Emcee's Chatter",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+        "Flip a coin. If heads, draw 3 cards. If tails, draw 2 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/34153",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 80597811,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 10,
+  "totalCount": 10
+}

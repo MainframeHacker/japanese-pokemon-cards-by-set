@@ -1,0 +1,1164 @@
+{
+  "data": [
+    {
+      "id": 12199,
+      "setData": {
+        "name": "Garchomp Half Deck",
+        "printed_count": "18",
+        "card_count": 18,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/garchomp-half-deck"
+      },
+      "name": "Magikarp",
+      "types": [
+        "Water"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Soggy Rush",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip a coin until you get tails. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mizue",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2f/94/92/2f949263e9c1ea6fc428035295ac3f832688fb7780c38f8ee0a0648c3c607b74.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25362",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 53349686,
+      "prices": []
+    },
+    {
+      "id": 12200,
+      "setData": {
+        "name": "Garchomp Half Deck",
+        "printed_count": "18",
+        "card_count": 18,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/garchomp-half-deck"
+      },
+      "name": "Gyarados",
+      "types": [
+        "Water"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Magikarp",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sharp Fang",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        },
+        {
+          "name": "Swing Around",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "60+",
+          "text": "Flip 2 coins. This attack does 30 more damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mizue",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0d/80/ae/0d80ae12624c810b6b16a9b19e0f7e4d8f1ca70d5ae366d47957d5c72830b688.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25363",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 51997539,
+      "prices": [
+        {
+          "priceAmount": 9499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-garchomp-half-deck/roserade-c-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1550,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-garchomp-half-deck/gyarados-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 5499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-garchomp-half-deck/roserade-c-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 6000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-garchomp-half-deck/roserade-c-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 699,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-garchomp-half-deck/roserade-c-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12201,
+      "setData": {
+        "name": "Garchomp Half Deck",
+        "printed_count": "18",
+        "card_count": 18,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/garchomp-half-deck"
+      },
+      "name": "Electrike",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Quick Turn",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/96/83/7a/96837ad89b15b0e670eea7444a6938a009e29b311d1e15a2563c26f119e00a5f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25364",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 9057547,
+      "prices": []
+    },
+    {
+      "id": 12202,
+      "setData": {
+        "name": "Garchomp Half Deck",
+        "printed_count": "18",
+        "card_count": 18,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/garchomp-half-deck"
+      },
+      "name": "Manectric",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Electrike",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Energy Assist",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Attach 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Quick Attack",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ae/25/00/ae2500389015b79c86b6452e20f74d67c68c5efccef6f33278d9688ab83f1a9a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25365",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 60879654,
+      "prices": []
+    },
+    {
+      "id": 12203,
+      "setData": {
+        "name": "Garchomp Half Deck",
+        "printed_count": "18",
+        "card_count": 18,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/garchomp-half-deck"
+      },
+      "name": "Gible",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sand-Attack",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        },
+        {
+          "name": "Knock Away",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/12/d8/f8/12d8f82404ec31dd404f79616fd98aac14932b414038847611509233d8f40786.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25366",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 61688109,
+      "prices": []
+    },
+    {
+      "id": 12204,
+      "setData": {
+        "name": "Garchomp Half Deck",
+        "printed_count": "18",
+        "card_count": 18,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/garchomp-half-deck"
+      },
+      "name": "Gabite",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Gible",
+      "effect": [
+        {
+          "name": "Dragon Call",
+          "text": "Once during your turn (before your attack), you may search your deck for a Dragon Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dragonslice",
+          "cost": [
+            "Water",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5b/b1/40/5bb14091559106ce0c13096c5f8f48b3a0bd06312b5ea6c36d9ade8b084b7fbe.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25367",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 88790641,
+      "prices": [
+        {
+          "priceAmount": 7320,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-garchomp-half-deck/garchomp-c-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 950,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-garchomp-half-deck/garchomp-c-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-garchomp-half-deck/garchomp-c-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 3114,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-garchomp-half-deck/garchomp-c-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-garchomp-half-deck/garchomp-c-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 815,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-garchomp-half-deck/garchomp-c-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12205,
+      "setData": {
+        "name": "Garchomp Half Deck",
+        "printed_count": "18",
+        "card_count": 18,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/garchomp-half-deck"
+      },
+      "name": "Garchomp",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Gabite",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Jet Headbutt",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "40"
+        },
+        {
+          "name": "Sand Tomb",
+          "cost": [
+            "Water",
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Dragon",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoki Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/87/9a/86/879a86fc7ea6797fcd4e21ba82d99fd55e2a5f2b2a23aedf93fae5ccef6857d3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25368",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 89439629,
+      "prices": [
+        {
+          "priceAmount": 8748,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-garchomp-half-deck/garchomp-c-lvx-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-garchomp-half-deck/garchomp-c-lvx-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 3147,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-garchomp-half-deck/garchomp-c-lvx-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-garchomp-half-deck/garchomp-c-lvx-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-garchomp-half-deck/garchomp-c-lvx-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12206,
+      "setData": {
+        "name": "Garchomp Half Deck",
+        "printed_count": "18",
+        "card_count": 18,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/garchomp-half-deck"
+      },
+      "name": "Swablu",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Peck",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c1/2c/b3/c12cb3c1804f64107fd56fa415593ba0efc6bff3ba2b86ccef799d73ad92757f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25369",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 53581601,
+      "prices": []
+    },
+    {
+      "id": 12207,
+      "setData": {
+        "name": "Garchomp Half Deck",
+        "printed_count": "18",
+        "card_count": 18,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/garchomp-half-deck"
+      },
+      "name": "Minccino",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Pound",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Reckless Charge",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "This Pokémon does 10 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/13/e0/91/13e091ab41e8763deff594d921331c22ccfedba53ce2ab048140f99e19b1df2e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25370",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 27686379,
+      "prices": []
+    },
+    {
+      "id": 12208,
+      "setData": {
+        "name": "Garchomp Half Deck",
+        "printed_count": "18",
+        "card_count": 18,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/garchomp-half-deck"
+      },
+      "name": "Ultra Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Discard 2 cards from your hand. (If you cant discard 2 cards, you cant play this card.) Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e7/ff/ba/e7ffba1744a1d61ebc819367b04b927958f928a0c421fbafcb4925b1714b3404.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25371",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 20804227,
+      "prices": []
+    },
+    {
+      "id": 12209,
+      "setData": {
+        "name": "Garchomp Half Deck",
+        "printed_count": "18",
+        "card_count": 18,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/garchomp-half-deck"
+      },
+      "name": "Rare Candy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Choose 1 of your Basic Pokémon in play. If you have a Stage 1 or Stage 2 card that evolves from that Pokémon in your hand, put that card on the Basic Pokémon. (This counts as evolving that Pokémon.) (If you choose a Stage 2 Pokémon in your hand, put that Pokémon on the Basic Pokémon instead of on a Stage 1 Pokémon.)"
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8d/b1/4d/8db14d9f6facb9416d6b2b423fe4b039b39ef6eef83925ba196f3adac0d549e9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25372",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 12319701,
+      "prices": []
+    },
+    {
+      "id": 12210,
+      "setData": {
+        "name": "Garchomp Half Deck",
+        "printed_count": "18",
+        "card_count": 18,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/garchomp-half-deck"
+      },
+      "name": "Giant Cape",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "The Pokémon this card is attached to gets +20 HP."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/27/60/15/276015a1c76d39c30aac78b617568c5f9fcf29eaf7847cfd0a97845ef04e7244.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25373",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 78168914,
+      "prices": []
+    },
+    {
+      "id": 12211,
+      "setData": {
+        "name": "Garchomp Half Deck",
+        "printed_count": "18",
+        "card_count": 18,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/garchomp-half-deck"
+      },
+      "name": "Professor Juniper",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Discard your hand and draw 7 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c6/a7/c2/c6a7c26a02b169adc3959315cbd5468bf3231f0ea600d2e61f85e3deb6c48a15.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25374",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 63218925,
+      "prices": []
+    },
+    {
+      "id": 12212,
+      "setData": {
+        "name": "Garchomp Half Deck",
+        "printed_count": "18",
+        "card_count": 18,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/garchomp-half-deck"
+      },
+      "name": "Cheren",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Draw 3 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yusuke Ohmura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4f/b2/d5/4fb2d5b54192e546bc646c520e188154712c6321fd07f516df949469a8942bb2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25375",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 88670107,
+      "prices": []
+    },
+    {
+      "id": 12213,
+      "setData": {
+        "name": "Garchomp Half Deck",
+        "printed_count": "18",
+        "card_count": 18,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/garchomp-half-deck"
+      },
+      "name": "Blend Energy WLFM",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "This card provides Colorless Energy. When this card is attached to a Pokémon, this card provides Water, Lightning, Fighting, or Metal Energy but provides only 1 Energy at a time."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cd/db/44/cddb446232d6a9b9c2df74c4c1f8f686f8eaef423a01c1c2e27576ebc5c4d6ea.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25376",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 37957940,
+      "prices": [
+        {
+          "priceAmount": 650,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-garchomp-half-deck/blend-energy-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-garchomp-half-deck/blend-energy-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        }
+      ]
+    },
+    {
+      "id": 12214,
+      "setData": {
+        "name": "Garchomp Half Deck",
+        "printed_count": "18",
+        "card_count": 18,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/garchomp-half-deck"
+      },
+      "name": "Water Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/25377",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 6777621,
+      "prices": []
+    },
+    {
+      "id": 12215,
+      "setData": {
+        "name": "Garchomp Half Deck",
+        "printed_count": "18",
+        "card_count": 18,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/garchomp-half-deck"
+      },
+      "name": "Lightning Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/25378",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 22678731,
+      "prices": []
+    },
+    {
+      "id": 12216,
+      "setData": {
+        "name": "Garchomp Half Deck",
+        "printed_count": "18",
+        "card_count": 18,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/garchomp-half-deck"
+      },
+      "name": "Fighting Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/25379",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 36507100,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 18,
+  "totalCount": 18
+}

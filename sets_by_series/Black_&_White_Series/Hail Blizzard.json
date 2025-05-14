@@ -1,0 +1,5062 @@
+{
+  "data": [
+    {
+      "id": 12397,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Pansage",
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Seed Bomb",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Megumi Mizutani",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c4/ae/52/c4ae5206b54ed5776b6a77cb3bf048f0501fe5625b100edc288781ebfee4b9af.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25560",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 30416638,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/pansage-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12398,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Simisage",
+      "types": [
+        "Grass"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Pansage",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Draw 3 cards."
+        },
+        {
+          "name": "Stadium Drain",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "If there is any Stadium card in play, this attack does 30 more damage and heal 30 damage from this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kawayoo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/68/d2/65/68d265fce4ce8ad59c082636f7f3a12df04f739cb84018c4c13055677ce91f48.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25561",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 20181535,
+      "prices": [
+        {
+          "priceAmount": 210,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/simisage-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12399,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Petilil",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Ram",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Absorb",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10",
+          "text": "Heal 10 damage from this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shigenori Negishi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7f/ab/63/7fab63b3059dfdeb47e72ff16d469351eceef354acc49de6fad72dfa79096948.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25562",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 70106881,
+      "prices": [
+        {
+          "priceAmount": 199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/petilil-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12400,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Lilligant",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Petilil",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Aromax",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Heal all damage from 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Windmill",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Akira Komayama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0a/c0/06/0ac006296fd951d4a7874dc7924f1e2679c275bcadac4ec13a36df90c737acb3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25563",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 13512757,
+      "prices": [
+        {
+          "priceAmount": 239,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/lilligant-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12401,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Deerling",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Wild Kick",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "sui",
+      "imageUrl": "https://static.tcgcollector.com/content/images/54/f9/82/54f98207746a13f22b224a7a8c77e8f2c37439ce1adb0e9cc7524eb07372e1f4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25564",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 94167939,
+      "prices": [
+        {
+          "priceAmount": 199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/deerling-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12402,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Sawsbuck",
+      "types": [
+        "Grass"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Deerling",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Push Down",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Take Down",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "60",
+          "text": "This Pokémon does 20 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/68/84/37/68843721052eed5d387c15731d99f18ee46e82942a30d90f9d34a29cfbe65a87.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25565",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 38160116,
+      "prices": [
+        {
+          "priceAmount": 199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/sawsbuck-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12403,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Foongus",
+      "types": [
+        "Grass"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Find a Friend",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Rising Lunge",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7f/e4/05/7fe4051a32c1513af68ac4f464b1556e2fe49435294bf74acbdcefcf181ffcf3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25566",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 53246832,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/foongus-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12404,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Amoonguss",
+      "types": [
+        "Grass"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Foongus",
+      "effect": [
+        {
+          "name": "Sporprise",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon, you may use this Ability. If you do, your opponent's Active Pokémon is now Confused and Poisoned.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Rising Lunge",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/21/e5/bf/21e5bff391e6fc1fc782f75e46eb5d5186329c957530f3339854e4a2ee19c1fc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25567",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 18179702,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/amoonguss-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12405,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Growlithe",
+      "types": [
+        "Fire"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Stoke",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, search your deck for a Fire Energy card and attach it to this Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Firebreathing",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e4/b5/34/e4b53470658a53e44072309720b2e1c406f7a8f5e7a09c1eeb2c3017b49d3f89.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25568",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 4844205,
+      "prices": [
+        {
+          "priceAmount": 4999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/growlithe-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 3825,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/growlithe-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 4200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/growlithe-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 398,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/growlithe-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12406,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Arcanine",
+      "types": [
+        "Fire"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Growlithe",
+      "effect": [
+        {
+          "name": "Blazing Mane",
+          "text": "If this Pokémon is your Active Pokémon and is damaged by an opponent's attack (even if this Pokémon is Knocked Out), the Attacking Pokémon is now Burned.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fire Spin",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100",
+          "text": "Flip a coin. If tails, discard 2 Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7f/30/25/7f302518e8e2096b7a4bb890a9d6948e32ca9b4431f458e7751d310077ca5b2d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25569",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 78683821,
+      "prices": [
+        {
+          "priceAmount": 5550,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/arcanine-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1798,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/arcanine-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 3204,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/arcanine-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/arcanine-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 543,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/arcanine-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12407,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Darumaka",
+      "types": [
+        "Fire"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hammer In",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d7/6f/79/d76f791c55b8f0fb8997a1a4eb16e2a9b6c626422582dac990ba85aab3be0d8f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25570",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 94077306,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/darumaka-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12408,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Litwick",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Flare",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kanako Eo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/82/9b/97/829b97cc39f9b10671908c557da79a9e82e85aed70ac474a22c9a69cacde5e45.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25571",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 33332700,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/litwick-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12409,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Lampent",
+      "types": [
+        "Fire"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Litwick",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Ember",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40",
+          "text": "Flip a coin. If tails, discard an Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Midori Harada",
+      "imageUrl": "https://static.tcgcollector.com/content/images/67/ad/f4/67adf424d5e8647df4ba7c77fe523e1b9eefbdfbbe53131a0407ebaa65c2f9eb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25572",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 82868220,
+      "prices": [
+        {
+          "priceAmount": 210,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/lampent-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12410,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Chandelure",
+      "types": [
+        "Fire"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Lampent",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Flame Burst",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "Does 30 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Inferno",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "80",
+          "text": "Discard all Energy attached to this Pokémon. The Defending Pokémon is now Burned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4c/d9/63/4cd963e4bb29a6ba83409fac3d3af9e5fcd820bff9ae99325d26dba0e1e930dd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25573",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 29284168,
+      "prices": [
+        {
+          "priceAmount": 950,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/chandelure-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/chandelure-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 395,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/chandelure-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12411,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Lapras",
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for 2 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Reckless Charge",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40",
+          "text": "This Pokémon does 20 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f7/ad/8a/f7ad8a8e6e2ddf6e18b762d49137938f29a5ac8bce254d59d70d3a2d3ed834d1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25574",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 28978503,
+      "prices": [
+        {
+          "priceAmount": 6998,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/lapras-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 404,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/lapras-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12412,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Vanillite",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Beat",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Icy Snow",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kanako Eo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1e/3c/fb/1e3cfb745f9da4787c697e1c15db16579c317a661cb9e99928364db7c997c687.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25575",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 48539034,
+      "prices": [
+        {
+          "priceAmount": 199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/vanillite-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12413,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Vanillish",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Vanillite",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Icy Snow",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        },
+        {
+          "name": "Icy Wind",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mizue",
+      "imageUrl": "https://static.tcgcollector.com/content/images/50/77/4e/50774eaab362fd675575e3171b9213158c471ad8579e8c36947c91703ceef7e7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25576",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 59052444,
+      "prices": [
+        {
+          "priceAmount": 210,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/vanillish-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12414,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Vanilluxe",
+      "types": [
+        "Water"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Vanillish",
+      "effect": [
+        {
+          "name": "Slippery Soles",
+          "text": "Once during your turn (before your attack), you may switch your Active Pokémon with 1 of your Benched Pokémon. If you do, your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Crushing Ice",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60+",
+          "text": "Does 10 more damage for each 1 Energy in the Defending Pokémon's Retreat Cost."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Akira Komayama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/eb/51/dd/eb51ddae7ef98b15da5494bb9615cf7fda92c1bae06b43196a83406dcfd65292.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25577",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 7172207,
+      "prices": [
+        {
+          "priceAmount": 10000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/vanilluxe-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 225,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/vanilluxe-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12415,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Cubchoo",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sniffle",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "During your next turn, this Pokémon's Belt attack's base damage is 40."
+        },
+        {
+          "name": "Belt",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a0/3e/51/a03e511ceb1a14b7a90e18d7e1d9905f6d9aab15f48cc5f843388b72fa3a1146.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25578",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 85368481,
+      "prices": [
+        {
+          "priceAmount": 142,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/cubchoo-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12416,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Beartic",
+      "types": [
+        "Water"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Cubchoo",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Daunt",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40",
+          "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Ambush",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60+",
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kawayoo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e6/30/33/e630335a65099940eb9d9dc8385e0049cad5b8f7c4a59feaaa2bb845ada66e21.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25579",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 82260777,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/beartic-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12417,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Cryogonal",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Ice Chain",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Switch the Defending Pokémon with 1 of your opponent's Benched Pokémon."
+        },
+        {
+          "name": "Frost Vanish",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40",
+          "text": "You may return this Pokémon and all cards attached to it to your hand."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c8/4c/6a/c84c6a11c76d5ce9d3767fcaaebb6840e4780231e36bef507ca11478d186067b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25580",
+      "sequenceNumber": 21,
+      "printedNumber": "21",
+      "uuid": 897,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/cryogonal-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12418,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Kyurem-EX",
+      "types": [
+        "Water"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Frozen Wings",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Discard a Special Energy attached to the Defending Pokémon."
+        },
+        {
+          "name": "Hail Blizzard",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120",
+          "text": "This Pokémon can't use Hail Blizzard during your next turn."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shizurow",
+      "imageUrl": "https://static.tcgcollector.com/content/images/96/79/06/9679063a841246e3bb371a2e028f329ee612061de73fd782b338428029591143.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25581",
+      "sequenceNumber": 22,
+      "printedNumber": "22",
+      "uuid": 81336100,
+      "prices": [
+        {
+          "priceAmount": 1150,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/kyurem-ex-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 950,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/kyurem-ex-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/kyurem-ex-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 413,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/kyurem-ex-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12419,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Pikachu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Thundershock",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Tail Whap",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Akira Komayama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/63/64/3a/63643a74a1a35bbfedd35ad1c64db5645a54b3fd7665b8437382553e427858c5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25582",
+      "sequenceNumber": 23,
+      "printedNumber": "23",
+      "uuid": 81755060,
+      "prices": [
+        {
+          "priceAmount": 7995,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/pikachu-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/pikachu-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 650,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/pikachu-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1975,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/pikachu-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/pikachu-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 482,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/pikachu-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12420,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Raichu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Pikachu",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Thundershock",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Slam",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80×",
+          "text": "Flip 2 coins. This attack does 80 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoki Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3e/4c/62/3e4c62f6f0e8166afe2405cbe584a0532b143d6ef58749e1126048ad5f65659c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25583",
+      "sequenceNumber": 24,
+      "printedNumber": "24",
+      "uuid": 1935571,
+      "prices": [
+        {
+          "priceAmount": 11434,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/raichu-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2899,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/raichu-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/raichu-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 339,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/raichu-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12421,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Zapdos",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Random Spark",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Thundering Hurricane",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "50×",
+          "text": "Flip 4 coins. This attack does 50 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cc/ad/9c/ccad9c1a32daf5de488eb34f4a8cb8c0154ce6a789e5fd7ea109f818a6789027.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25584",
+      "sequenceNumber": 25,
+      "printedNumber": "25",
+      "uuid": 93197896,
+      "prices": [
+        {
+          "priceAmount": 6350,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/zapdos-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/zapdos-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 2627,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/zapdos-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/zapdos-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 231,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/zapdos-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12422,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Ralts",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Psyshot",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Smack",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/98/03/68/98036838a14be8e11b1e80fa9d5df76a27722d36eae44aea1c3b65a25c9e3ef1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25585",
+      "sequenceNumber": 26,
+      "printedNumber": "26",
+      "uuid": 88459649,
+      "prices": [
+        {
+          "priceAmount": 250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/ralts-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12423,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Kirlia",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Ralts",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Smack",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        },
+        {
+          "name": "Psychic",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40+",
+          "text": "Does 10 more damage for each Energy attached to the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "MAHOU",
+      "imageUrl": "https://static.tcgcollector.com/content/images/44/68/ca/4468caac94b9944bfb5308a6c25cead04db8d1ad3aac6b8fc81e4e16321c2b98.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25586",
+      "sequenceNumber": 27,
+      "printedNumber": "27",
+      "uuid": 81668416,
+      "prices": [
+        {
+          "priceAmount": 5743,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "07/16/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/kirlia-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2307,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "07/16/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/kirlia-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "07/16/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/kirlia-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 340,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/kirlia-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12424,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Gardevoir",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Kirlia",
+      "effect": [
+        {
+          "name": "Psychic Mirage",
+          "text": "Each basic Psychic Energy attached to your Psychic Pokémon provides 2 Energy. You can't apply more than 1 Psychic Mirage Ability at a time.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Mind Shock",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "60",
+          "text": "This attack's damage isn't affected by Weakness or Resistance."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mizue",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ea/40/a6/ea40a6a14b1aeedec337f13fccc4d49cfcebbc25f626c7901a9bcdf62855ca60.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25587",
+      "sequenceNumber": 28,
+      "printedNumber": "28",
+      "uuid": 2013719,
+      "prices": [
+        {
+          "priceAmount": 4749,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/gardevoir-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2446,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/gardevoir-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/gardevoir-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 555,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/gardevoir-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12425,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Darmanitan",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Darumaka",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Synchrodraw",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Shuffle your hand into your deck. Then, draw a number of cards equal to the number of cards in your opponent's hand."
+        },
+        {
+          "name": "DarMAXitan",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50×",
+          "text": "Flip a coin for each Energy attached to this Pokémon. This attack does 50 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7f/98/79/7f98799c83d94065ac15e3972a65c326f5b559ec0173b87a2d96bf5ab9da984d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25588",
+      "sequenceNumber": 29,
+      "printedNumber": "29",
+      "uuid": 44410050,
+      "prices": [
+        {
+          "priceAmount": 296,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/darmanitan-29",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12426,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Elgyem",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Psy Bolt",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sumiyoshi Kizuki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c4/dd/ff/c4ddff6e7fc7f66df923adda9ccd4947a7483f467655eb0ef0aa3625493798d9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25589",
+      "sequenceNumber": 30,
+      "printedNumber": "30",
+      "uuid": 80884978,
+      "prices": [
+        {
+          "priceAmount": 199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/elgyem-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12427,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Beheeyem",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Elgyem",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Brain Control",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent reveals his or her hand. Choose a card from there and put it on the bottom of your opponent's deck."
+        },
+        {
+          "name": "Psybeam",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "The Defending Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a1/dd/70/a1dd70108179c89ac03456723e0828582e347820caa618990411074195326f68.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25590",
+      "sequenceNumber": 31,
+      "printedNumber": "31",
+      "uuid": 38479485,
+      "prices": [
+        {
+          "priceAmount": 210,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/beheeyem-31",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12428,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Groudon-EX",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tromp",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Giant Claw",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80+",
+          "text": "If the Defending Pokémon already has 2 or more damage counters on it, this attack does 40 more damage."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shizurow",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b5/19/de/b519de82650a899f565f760df4e4adcd045042f09e4314287f1765beea467da4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25591",
+      "sequenceNumber": 32,
+      "printedNumber": "32",
+      "uuid": 53572864,
+      "prices": [
+        {
+          "priceAmount": 11500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/groudon-ex-32",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 9620,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/groudon-ex-32",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 10600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/groudon-ex-32",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 698,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/groudon-ex-32",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12429,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Riolu",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Punch",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Quick Attack",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sumiyoshi Kizuki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/eb/e8/21/ebe82110c65bae2522be18a605fb1b058acc67f49ff3d08980234ed45593e41a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25592",
+      "sequenceNumber": 33,
+      "printedNumber": "33",
+      "uuid": 4696863,
+      "prices": [
+        {
+          "priceAmount": 5975,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/riolu-33",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 398,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/riolu-33",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12430,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Lucario",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Riolu",
+      "effect": [
+        {
+          "name": "Reflexive Retaliation",
+          "text": "If this Pokémon is your Active Pokémon and is damaged by an opponent's attack (even if this Pokémon is Knocked Out), put 2 damage counters on the Attacking Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Aura Sphere",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50",
+          "text": "Does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoki Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d7/62/77/d762775ec29b10bc079d7506c8cfdc62be976774030fc403d9329cb106f6d8e1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25593",
+      "sequenceNumber": 34,
+      "printedNumber": "34",
+      "uuid": 48475295,
+      "prices": [
+        {
+          "priceAmount": 5536,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/lucario-34",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1050,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/lucario-34",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/lucario-34",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 545,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/lucario-34",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12431,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Hippopotas",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sand Jet",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Bite",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "match",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6e/a7/8f/6ea78f4d8d00c12d64ec98d90a6187242da256bf47557dea6b4334a015f61e5a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25594",
+      "sequenceNumber": 35,
+      "printedNumber": "35",
+      "uuid": 57517628,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/hippopotas-35",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12432,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Hippowdon",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Hippopotas",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sand Bazooka",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": "You may move a basic Energy attached to this Pokémon to 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Rock Tumble",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "90",
+          "text": "This attack's damage isn't affected by Resistance."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoki Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e1/f3/00/e1f30060edb7a1b793c73dd9d2843d16f008e6f44b7ba3d843a95a408b1f89e9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25595",
+      "sequenceNumber": 36,
+      "printedNumber": "36",
+      "uuid": 24282951,
+      "prices": [
+        {
+          "priceAmount": 210,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/hippowdon-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12433,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Sneasel",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Corner",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Scratch",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9d/81/47/9d814766e53ec5da433748dfacf3bf84f5d7839abfb6946cfe5942e6f5835ab2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25596",
+      "sequenceNumber": 37,
+      "printedNumber": "37",
+      "uuid": 62865752,
+      "prices": [
+        {
+          "priceAmount": 269,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/sneasel-37",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12434,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Weavile",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Sneasel",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dark Penalty",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "90",
+          "text": "If the Defending Pokémon has no Pokémon Tool card attached to it, this attack does nothing."
+        },
+        {
+          "name": "Fury Swipes",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30×",
+          "text": "Flip 3 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Akira Komayama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/28/ac/47/28ac47a2e1bb66398f49363cec5d0ca8d234ffbe7ebed80ae1461e9b839bd183.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25597",
+      "sequenceNumber": 38,
+      "printedNumber": "38",
+      "uuid": 79004210,
+      "prices": [
+        {
+          "priceAmount": 242,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/weavile-38",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12435,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Bronzor",
+      "types": [
+        "Metal"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Knock Away",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        },
+        {
+          "name": "Spinning Attack",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoki Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/20/15/78/201578bf5cbdfa42fc90b9b9354255cb4dd8ed3e5625c799ed57e00c4d6a9d53.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25598",
+      "sequenceNumber": 39,
+      "printedNumber": "39",
+      "uuid": 44679312,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/bronzor-39",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12436,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Bronzong",
+      "types": [
+        "Metal"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Bronzor",
+      "effect": [
+        {
+          "name": "Heal Block",
+          "text": "Damage can't be healed from any Pokémon (both yours and your opponent's). (Damage counters can still be moved.)",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Oracle Inflict",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30+",
+          "text": "Does 10 more damage for each card in your opponent's hand."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7e/a7/a1/7ea7a15ecf5feb2d9202631db4a3783ae08728a9f5eac9d2732cc9159341f1ce.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25599",
+      "sequenceNumber": 40,
+      "printedNumber": "40",
+      "uuid": 83115178,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/bronzong-40",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12437,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Pawniard",
+      "types": [
+        "Metal"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Pierce",
+          "cost": [
+            "Metal"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Cut",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Tomokazu Komiya",
+      "imageUrl": "https://static.tcgcollector.com/content/images/19/05/1f/19051f16f315d172444fd8fc39161578d26003d21c733d18bd86518efe8f00c3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25600",
+      "sequenceNumber": 41,
+      "printedNumber": "41",
+      "uuid": 32728561,
+      "prices": [
+        {
+          "priceAmount": 199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/pawniard-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12438,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Bisharp",
+      "types": [
+        "Metal"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Pawniard",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Energy Stream",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Attach a Metal Energy card from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Metal Scissors",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40+",
+          "text": "Does 20 more damage for each Metal Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4d/02/fb/4d02fbb0308ff7fd9d779ad5e324308c76423e71252a05afd03cfb1bbc7ae654.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25601",
+      "sequenceNumber": 42,
+      "printedNumber": "42",
+      "uuid": 80902269,
+      "prices": [
+        {
+          "priceAmount": 9000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/bisharp-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 3382,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "07/30/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/bisharp-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "07/30/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/bisharp-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 517,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/bisharp-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12439,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Jigglypuff",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sing",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Double Slap",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "sui",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f5/23/38/f52338adf7df1d97375bfc72383bc9b827ddc4d2fcc65dacb33d20ec73135527.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25602",
+      "sequenceNumber": 43,
+      "printedNumber": "43",
+      "uuid": 35709615,
+      "prices": [
+        {
+          "priceAmount": 4180,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/jigglypuff-43",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 336,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/jigglypuff-43",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12440,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Wigglytuff",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Jigglypuff",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Round",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "Does 20 damage times the number of your Pokémon that have the Round attack."
+        },
+        {
+          "name": "Hypnoblast",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/72/7a/df/727adf21fdf9335d5bdffacb887956424fb83ad087033aba4c9491b2201d9a84.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25603",
+      "sequenceNumber": 44,
+      "printedNumber": "44",
+      "uuid": 43066309,
+      "prices": [
+        {
+          "priceAmount": 190,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/wigglytuff-44",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12441,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Regigigas-EX",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Giga Power",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60+",
+          "text": "You may do 20 more damage. If you do, this Pokémon does 20 damage to itself."
+        },
+        {
+          "name": "Raging Hammer",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "50+",
+          "text": "Does 10 more damage for each damage counter on this Pokémon."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shizurow",
+      "imageUrl": "https://static.tcgcollector.com/content/images/26/72/e8/2672e892c8912aee3f8785bc28eaebf87f43ee1a91097ca91bf338ccb75166c5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25604",
+      "sequenceNumber": 45,
+      "printedNumber": "45",
+      "uuid": 18044812,
+      "prices": [
+        {
+          "priceAmount": 3500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/regigigas-ex-45",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2912,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/regigigas-ex-45",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/regigigas-ex-45",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 399,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/regigigas-ex-45",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12442,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Pidove",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Scout",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent reveals his or her hand."
+        },
+        {
+          "name": "Gust",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "MAHOU",
+      "imageUrl": "https://static.tcgcollector.com/content/images/44/fd/1a/44fd1a3facb2f25bc2f308f5099b1036be603e92b035b8a6cc1cd25778f43adb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25605",
+      "sequenceNumber": 46,
+      "printedNumber": "46",
+      "uuid": 4954923,
+      "prices": [
+        {
+          "priceAmount": 202,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/pidove-46",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12443,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Tranquill",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Pidove",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Claw",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        },
+        {
+          "name": "Wing Attack",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Midori Harada",
+      "imageUrl": "https://static.tcgcollector.com/content/images/09/b7/d4/09b7d4c1293b20de23a72da25eededef5c9fb888f4ff9d69e47d489b87bd8eb4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25606",
+      "sequenceNumber": 47,
+      "printedNumber": "47",
+      "uuid": 6132258,
+      "prices": [
+        {
+          "priceAmount": 299,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/tranquill-47",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12444,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Unfezant",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Tranquill",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tailwind",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Attach an Energy card from your hand to 1 of your Pokémon."
+        },
+        {
+          "name": "Feather Strike",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40+",
+          "text": "Flip a coin. If heads, this attack does 40 more damage. If tails, discard an Energy attached to the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kawayoo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4b/c2/7c/4bc27ce31d57fc1417423485b73a41326774da48bda101c312b5bd5846d32e43.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25607",
+      "sequenceNumber": 48,
+      "printedNumber": "48",
+      "uuid": 9521856,
+      "prices": [
+        {
+          "priceAmount": 5378,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "10/29/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/unfezant-48",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2115,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "10/29/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/unfezant-48",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "10/29/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/unfezant-48",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 229,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/unfezant-48",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12445,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Heavy Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Search your deck for a Pokémon with a Retreat Cost of 3 or more, reveal it, and put it into your hand. Shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7c/dc/af/7cdcafcd045e3ac5f8ff0adebef0efd79bf6207f5a47612d574070bcf721b6d8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25608",
+      "sequenceNumber": 49,
+      "printedNumber": "49",
+      "uuid": 73750877,
+      "prices": [
+        {
+          "priceAmount": 428,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/heavy-ball-49",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12446,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Cilan",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Search your deck for 3 basic Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yusuke Ohmura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3e/42/5d/3e425d9195aa924256a7d0b2678eddf990bf91a8f2bdf412662d2cfadd0261cd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25609",
+      "sequenceNumber": 50,
+      "printedNumber": "50",
+      "uuid": 97536618,
+      "prices": [
+        {
+          "priceAmount": 360,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/cilan-50",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12447,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Pokémon Center",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Remove all damage counters from all of your own Pokémon with damage counters on them, then discard all Energy cards attached to those Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2a/e7/44/2ae7440cb8682b79fc0c6d7a564de435e398d1a575cbd5852120cb88cdf1e9d9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25610",
+      "sequenceNumber": 51,
+      "printedNumber": "51",
+      "uuid": 295813,
+      "prices": [
+        {
+          "priceAmount": 300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/pokemon-center-51",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12448,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Double Colorless Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Double Colorless Energy provides Colorless Colorless Energy."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/74/0e/16/740e162b6ffb38f71b72cba2b36f0a69b3db0fe826e6651cc8aa07e332d4645a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/25611",
+      "sequenceNumber": 52,
+      "printedNumber": "52",
+      "uuid": 48775817,
+      "prices": []
+    },
+    {
+      "id": 12449,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Kyurem-EX",
+      "types": [
+        "Water"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Frozen Wings",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Discard a Special Energy attached to the Defending Pokémon."
+        },
+        {
+          "name": "Hail Blizzard",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120",
+          "text": "This Pokémon can't use Hail Blizzard during your next turn."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/25612",
+      "sequenceNumber": 53,
+      "printedNumber": "53",
+      "uuid": 29407964,
+      "prices": [
+        {
+          "priceAmount": 15463,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/kyurem-ex-53",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 11000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/kyurem-ex-53",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 12100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/kyurem-ex-53",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1406,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/kyurem-ex-53",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12450,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Groudon-EX",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tromp",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Giant Claw",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80+",
+          "text": "If the Defending Pokémon already has 2 or more damage counters on it, this attack does 40 more damage."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/25613",
+      "sequenceNumber": 54,
+      "printedNumber": "54",
+      "uuid": 95948522,
+      "prices": [
+        {
+          "priceAmount": 48828,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/groudon-ex-54",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 17748,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/groudon-ex-54",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 22800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/groudon-ex-54",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 26000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/groudon-ex-54",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 2920,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/groudon-ex-54",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12451,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Regigigas-EX",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Giga Power",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60+",
+          "text": "You may do 20 more damage. If you do, this Pokémon does 20 damage to itself."
+        },
+        {
+          "name": "Raging Hammer",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "50+",
+          "text": "Does 10 more damage for each damage counter on this Pokémon."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/25614",
+      "sequenceNumber": 55,
+      "printedNumber": "55",
+      "uuid": 89815155,
+      "prices": [
+        {
+          "priceAmount": 20432,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/regigigas-ex-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 6439,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/regigigas-ex-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 7100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/regigigas-ex-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/regigigas-ex-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12452,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Emboar",
+      "types": [
+        "Fire"
+      ],
+      "hp": 150,
+      "evolvesFrom": "Pignite",
+      "effect": [
+        {
+          "name": "Inferno Fandango",
+          "text": "As often as you like during your turn (before your attack), you may attach a Fire Energy card from your hand to 1 of your Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Heat Crash",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "80"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/25615",
+      "sequenceNumber": 56,
+      "printedNumber": "56",
+      "uuid": 78974299,
+      "prices": [
+        {
+          "priceAmount": 28399,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/emboar-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 17045,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/emboar-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 18800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/emboar-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 4000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/emboar-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 12453,
+      "setData": {
+        "name": "Hail Blizzard",
+        "printed_count": "57",
+        "card_count": 57,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/hail-blizzard"
+      },
+      "name": "Chandelure",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Lampent",
+      "effect": [
+        {
+          "name": "Cursed Shadow",
+          "text": "Once during your turn (before your attack), if this Pokémon is your Active Pokémon, you may put 3 damage counters on your opponent's Pokémon in any way you like.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Eerie Glow",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "The Defending Pokémon is now Burned and Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/25616",
+      "sequenceNumber": 57,
+      "printedNumber": "57",
+      "uuid": 20542300,
+      "prices": [
+        {
+          "priceAmount": 48280,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/chandelure-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 9999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/chandelure-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 12000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/chandelure-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 13200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/chandelure-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 14500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/chandelure-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 4465,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-hail-blizzard/chandelure-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 57,
+  "totalCount": 57
+}

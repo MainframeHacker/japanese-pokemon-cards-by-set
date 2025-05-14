@@ -1,0 +1,2854 @@
+{
+  "data": [
+    {
+      "id": 10243,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Treecko",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Akira Komayama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/96/6a/f9/966af994a3bfc04b597dd39dcbe4db5475b66c6b16c0c57502d6b97abba21c0b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23464",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 90400971,
+      "prices": []
+    },
+    {
+      "id": 10244,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Grovyle",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Treecko",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Pound",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        },
+        {
+          "name": "Agility",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "match",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0b/66/ac/0b66ac7b0b336c64cca53fd6f9d4f87bf3a8347e33f9e7a03a2beffd664db40a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23465",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 47228403,
+      "prices": []
+    },
+    {
+      "id": 10245,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Sceptile",
+      "types": [
+        "Grass"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Grovyle",
+      "effect": [
+        {
+          "name": "Nurture and Heal",
+          "text": "Once during your turn (before your attack), you may attach a Grass Energy card from your hand to 1 of your Pokémon. If you do, heal 30 damage from that Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Jungle Edge",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hajime Kusajima",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b6/d9/04/b6d904b838791696e34fcd14905e088383af7da8a6c7c8d05deab6913ca5de4c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23466",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 79403810,
+      "prices": []
+    },
+    {
+      "id": 10246,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Trevenant-EX",
+      "types": [
+        "Grass"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dark Forest",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Wood Blast",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "This attack does 20 more damage for each Grass Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Eske Yoshinob",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5e/27/8e/5e278ee2ee4c853b265aa733506d49c470ddf03794ba4f5ebc1d68b878bc26da.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23467",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 41766450,
+      "prices": []
+    },
+    {
+      "id": 10247,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Qwilfish",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Counteract Quills",
+          "text": "If this Pokémon is your Active Pokémon and is damaged by an opponent's attack (even if this Pokémon is Knocked Out), put 2 damage counters on the Attacking Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Poison Sting",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/24/a9/b5/24a9b54b27ad91b950672ec56dc973c379c9480215092af80c90c2f3b9321a13.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23468",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 45376176,
+      "prices": []
+    },
+    {
+      "id": 10248,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Clamperl",
+      "types": [
+        "Water"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Shell Protection",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "During your opponent's next turn, if this Pokémon would be damaged by an attack, prevent that attack's damage done to this Pokémon if that damage is 50 or less."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/74/56/08/745608040a12cd0faec163ab3b7fd03661d11267cec4e1be8b654c0bde466e4d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23469",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 65220212,
+      "prices": []
+    },
+    {
+      "id": 10249,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Huntail",
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Clamperl",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Powerful Storm",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20×",
+          "text": "This attack does 20 damage times the amount of Energy attached to all of your Pokémon."
+        },
+        {
+          "name": "Crunch",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e2/66/ff/e266ffd2634f33b324f5bfeb88abe4b0f1bec6ca11b68c4b48e1048e46b8846e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23470",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 81669778,
+      "prices": []
+    },
+    {
+      "id": 10250,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Kyogre-EX",
+      "types": [
+        "Water"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Water Pulse",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Giant Whirlpool",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "140",
+          "text": "Return 2 Water Energy attached to this Pokémon to your hand."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryota Murayama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a1/c7/94/a1c794b72d7797ab2309fc8628f6d6de8877d8b84c2146e593dc7a7e3a4ad017.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23471",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 13234477,
+      "prices": []
+    },
+    {
+      "id": 10251,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Primal Kyogre-EX",
+      "types": [
+        "Water"
+      ],
+      "hp": 240,
+      "evolvesFrom": "Kyogre-EX",
+      "effect": [
+        {
+          "name": "a Growth",
+          "text": "When you attach an Energy card from your hand to this Pokémon (except with an attack, Ability, or Trainer card), you may attach 2 Energy cards.",
+          "type": "Ancient Trait"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Tidal Storm",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "150",
+          "text": "Move 2 Energy from this Pokémon to 1 of your Benched Pokémon. This attack does 30 damage to each of your opponent's Benched Pokémon-EX. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "When 1 of your Pokémon becomes Primal Kyogre-EX, your turn ends.",
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Primal",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/17/e3/9b/17e39b1a55090d9d948b64a5555a4b0e2c79e4d8df46312e86226f6809e6d17e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23472",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 59145076,
+      "prices": []
+    },
+    {
+      "id": 10252,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Seismitoad-EX",
+      "types": [
+        "Water"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Quaking Punch",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Your opponent can't play any Item cards from his or her hand during his or her next turn."
+        },
+        {
+          "name": "Grenade Hammer",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "130",
+          "text": "This attack does 30 damage to 2 of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Eske Yoshinob",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4a/7f/d7/4a7fd746f19aff309630d3335b00e574c2fcdcbc9c9e35b028991fc551fb8e0e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23473",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 20797543,
+      "prices": []
+    },
+    {
+      "id": 10253,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Pikachu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Nuzzle",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Quick attack",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "MAHOU",
+      "imageUrl": "https://static.tcgcollector.com/content/images/df/02/36/df02365632b20c1057b78e2f397ce981a8519ac3fca6c8192219227eff654128.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23474",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 84543101,
+      "prices": []
+    },
+    {
+      "id": 10254,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Raichu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Pikachu",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Circle Circuit",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "This attack does 20 damage times the number of your Benched Pokémon."
+        },
+        {
+          "name": "Thunderbolt",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100",
+          "text": "Discard all Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/67/a4/03/67a403ecdbbcf6e54f563a6ad66835a597ff65d034bc44e8b8bbbfafc46653bd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23475",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 83398099,
+      "prices": []
+    },
+    {
+      "id": 10255,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Manectric-EX",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Overrun",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Assault Laser",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "60+",
+          "text": "If your opponent's Active Pokémon has a Pokémon Tool attached to it, this attack does 60 more damage."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Eske Yoshinob",
+      "imageUrl": "https://static.tcgcollector.com/content/images/68/a9/d3/68a9d31e5a8e4d480b6c894ab135979b81baa5e4d4240d81607820133b3ee66b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23476",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 33477329,
+      "prices": []
+    },
+    {
+      "id": 10256,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "M Manectric-EX",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 210,
+      "evolvesFrom": "Manectric-EX",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Turbo Bolt",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "110",
+          "text": "Attach 2 basic Energy cards from your discard pile to 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Mega",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f4/b4/54/f4b45452325f7f51ccfcf1a76c6fd4d6611a83d9f7b3b9e9922e4b9a61934f4e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23477",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 24414379,
+      "prices": []
+    },
+    {
+      "id": 10257,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Dedenne",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Entrainment",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 2 basic Pokémon and put them onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Energy Short",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20×",
+          "text": "This attack does 20 damage times the amount of Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ea/92/cb/ea92cb4d25cecbda170e8c84bbeeffecb4dfb9bb4e7bbb112db580c0cc6dd592.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23478",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 33252408,
+      "prices": []
+    },
+    {
+      "id": 10258,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Yveltal",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Oblivion Wing",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "Attach a Darkness Energy card from your discard pile to 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Darkness Blade",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100",
+          "text": "Flip a coin. If tails, this Pokémon can't attack during your next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/85/ad/0a/85ad0a44fe87c6ea09f0f26df3883a9755c65905796349bba7e75ffb47d45cd3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23479",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 96804805,
+      "prices": []
+    },
+    {
+      "id": 10259,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Yveltal-EX",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Evil Ball",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "This attack does 20 more damage times the amount of Energy attached to both Active Pokémon."
+        },
+        {
+          "name": "Fairy Cyclone",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "Move an Energy from this Pokémon to 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6c/0c/d6/6c0cd691a7981002180636c360e9c7026aa7c994f540c2aedbc3722c1c3f2627.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23480",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 83038341,
+      "prices": []
+    },
+    {
+      "id": 10260,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Bronzor",
+      "types": [
+        "Metal"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Metal"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Akira Komayama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/34/cc/55/34cc55706758643db0bd3ebda6785ecc82751450ca835d9eb102ca8493a886ca.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23481",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 29533741,
+      "prices": []
+    },
+    {
+      "id": 10261,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Bronzong",
+      "types": [
+        "Metal"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Bronzor",
+      "effect": [
+        {
+          "name": "Metal Links",
+          "text": "Once during your turn (before your attack), you may attach a Metal Energy card from your discard pile to 1 of your Benched Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hammer In",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "match",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ee/9d/e5/ee9de52871d0b3fefa488cb1f5e31704935d3f4689d320ff3b55a4cc5cda0188.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23482",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 63660433,
+      "prices": []
+    },
+    {
+      "id": 10262,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Dialga-EX",
+      "types": [
+        "Metal"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Chrono Wind",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "If the Defending Pokémon is a Pokémon-EX, it can't attack during your opponent's next turn."
+        },
+        {
+          "name": "Full Metal Impact",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "150",
+          "text": "Discard 2 Metal Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ayaka Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5a/02/4a/5a024aa5210d34f2a12e8effaa82c2f60b0375c9e9310c3f3772ccd3883a84b6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23483",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 636937,
+      "prices": []
+    },
+    {
+      "id": 10263,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Heatran",
+      "types": [
+        "Metal"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Steel Drop",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40+",
+          "text": "If there is any Stadium card in play, this attack does 40 more damage."
+        },
+        {
+          "name": "Steam Blast",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "130",
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Midori Harada",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6e/15/f2/6e15f221d1b7d652f2d20d6b126870e4ee2c93bd44c2c367dd923ee622fa38ba.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23484",
+      "sequenceNumber": 21,
+      "printedNumber": "21",
+      "uuid": 71677113,
+      "prices": []
+    },
+    {
+      "id": 10264,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Deino",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Gnaw Off",
+          "cost": [
+            "Psychic",
+            "Darkness"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shigenori Negishi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4b/03/e3/4b03e30d1cdbda08997028a7f895c14e485efdfea55e2c88a27baf7fc4e3dedd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23485",
+      "sequenceNumber": 22,
+      "printedNumber": "22",
+      "uuid": 69827292,
+      "prices": []
+    },
+    {
+      "id": 10265,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Zweilous",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Deino",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Slam",
+          "cost": [
+            "Psychic",
+            "Darkness"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30×",
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5a/60/d0/5a60d079afcac8010975bdc21491fcc9150bde01d8c2c404a418411c7c6ef565.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23486",
+      "sequenceNumber": 23,
+      "printedNumber": "23",
+      "uuid": 27739076,
+      "prices": []
+    },
+    {
+      "id": 10266,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Hydreigon",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Zweilous",
+      "effect": [
+        {
+          "name": "Dark Impulse",
+          "text": "Once during your turn (before your attack), you may attach a Darkness Energy card from your discard pile to your Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Crazy Headbutt",
+          "cost": [
+            "Psychic",
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "130",
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a7/dc/6b/a7dc6ba7b8f63718a6d0f3bb3754507bc12d5a9c60f898dc6cdcd539838f86c6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23487",
+      "sequenceNumber": 24,
+      "printedNumber": "24",
+      "uuid": 79494839,
+      "prices": []
+    },
+    {
+      "id": 10267,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Miltank",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 100,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Powerful Friends",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "If you have any Stage 2 Pokémon on your Bench, this attack does 70 more damage."
+        },
+        {
+          "name": "Hammer In",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kanako Eo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a0/c4/17/a0c4173d8373fc89ab17432d4c3d39cf63fb270002c801f70a1cabbcd8ac35b7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23488",
+      "sequenceNumber": 25,
+      "printedNumber": "25",
+      "uuid": 81470062,
+      "prices": []
+    },
+    {
+      "id": 10268,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Regigigas",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Daunt",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 40 (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Heavy Impact",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "100"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kawayoo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/68/fa/f6/68faf6399032d47615a3cdc14a057da0744060707b76dc06d2196d6c57c80c3b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23489",
+      "sequenceNumber": 26,
+      "printedNumber": "26",
+      "uuid": 84327744,
+      "prices": []
+    },
+    {
+      "id": 10269,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Furfrou",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Fur Coat",
+          "text": "Any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Energy Cutoff",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": "Flip a coin. If heads, discard an Energy attached to your opponent's Active Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a1/b9/2b/a1b92bb479e48acbc343718376d3ad7f7997e2608f729f22caa3ec3b1ea242f8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23490",
+      "sequenceNumber": 27,
+      "printedNumber": "27",
+      "uuid": 64212842,
+      "prices": []
+    },
+    {
+      "id": 10270,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Max Revive",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Put a Pokémon from your discard pile on top of your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/76/a9/e5/76a9e5649538959141ea0425ed359ddf7e40ca9461f99f31a8b2901b34775bff.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23491",
+      "sequenceNumber": 28,
+      "printedNumber": "28",
+      "uuid": 29077259,
+      "prices": []
+    },
+    {
+      "id": 10271,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Dive Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Search your deck for a Water Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/90/de/b8/90deb84e2e290d8ab1b16aa1dae206f6dd8f449cef1b119a7565ab189776e17a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23492",
+      "sequenceNumber": 29,
+      "printedNumber": "29",
+      "uuid": 70833971,
+      "prices": []
+    },
+    {
+      "id": 10272,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Ultra Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Discard 2 cards from your hand. (If you cant discard 2 cards, you cant play this card.) Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ed/63/4f/ed634f2bbc5433e32f1de6fceef93f0a1f9da77a67fab701df12a4a36c32d07e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23493",
+      "sequenceNumber": 30,
+      "printedNumber": "30",
+      "uuid": 58770934,
+      "prices": []
+    },
+    {
+      "id": 10273,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Professor's Letter",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Search your deck for up to 2 basic Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d1/6a/02/d16a024b7008568157296f54b21b8151627241a2978feb9075febbd5454de115.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23494",
+      "sequenceNumber": 31,
+      "printedNumber": "31",
+      "uuid": 63385499,
+      "prices": []
+    },
+    {
+      "id": 10274,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "VS Seeker",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Put a Supporter card from your discard pile into your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e8/03/2f/e8032f9d7a7b97da76db7e53f61a2e7744f5277eb5a5eaa4aadad6db70bd9aea.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23495",
+      "sequenceNumber": 32,
+      "printedNumber": "32",
+      "uuid": 15551704,
+      "prices": []
+    },
+    {
+      "id": 10275,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Rare Candy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card that evolves from that Pokémon in your hand, put that card on the Basic Pokémon. (This counts as evolving that Pokémon.) You cant use this card during your first turn or on a Basic Pokémon that was put into play this turn.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ec/bc/d1/ecbcd1c2b22cbd06315c6c0fd487e3ced42dc568d8461dc9204127b0c39a4332.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23496",
+      "sequenceNumber": 33,
+      "printedNumber": "33",
+      "uuid": 60794329,
+      "prices": []
+    },
+    {
+      "id": 10276,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Switch your Active Pokémon with 1 of your Benched Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a5/89/d5/a589d5fa93db8a38cb2663df43dd471a5324f1ebe52333475ca7c7f70eb14a15.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23497",
+      "sequenceNumber": 34,
+      "printedNumber": "34",
+      "uuid": 1377356,
+      "prices": []
+    },
+    {
+      "id": 10277,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Pokémon Catcher",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Flip a coin. If heads, switch 1 of your opponents Benched Pokémon with his or her Active Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/32/14/50/3214509f416c419dd3b7b2b6792f9acf749ef4d3bc69076bec13c56de8da3207.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23498",
+      "sequenceNumber": 35,
+      "printedNumber": "35",
+      "uuid": 11087282,
+      "prices": []
+    },
+    {
+      "id": 10278,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Hard Charm",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Any damage done to the Pokémon this card is attached to by an opponents attack is reduced by 20 (after applying Weakness and Resistance).\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fd/ef/fa/fdeffa9743c96b3737937ae38e830596ebee1ad7d862ea6838fbc9001270a285.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23499",
+      "sequenceNumber": 36,
+      "printedNumber": "36",
+      "uuid": 34347009,
+      "prices": []
+    },
+    {
+      "id": 10279,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Muscle Band",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "\"The attacks of the Pokémon this card is attached to do 20 more damage to your opponents Pokémon (before applying Weakness and Resistance).\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7a/8e/2d/7a8e2db13166c0ebc4a0aa3d84bcd4ff558962faf663783c0da014a5ec1b8809.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23500",
+      "sequenceNumber": 37,
+      "printedNumber": "37",
+      "uuid": 56359668,
+      "prices": []
+    },
+    {
+      "id": 10280,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Kyogre Spirit Link",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "Your turn does not end if the Pokémon this card is attached to becomes M Kyogre-EX."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/50/d4/5f/50d45f84be2c17bc402f939e93c40dc8d9074b5e1692a103c41e0bc0efb9eb52.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23501",
+      "sequenceNumber": 38,
+      "printedNumber": "38",
+      "uuid": 99029280,
+      "prices": []
+    },
+    {
+      "id": 10281,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Manectric Spirit Link",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "Your turn does not end if the Pokémon this card is attached to becomes M Manectric-EX."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1d/66/90/1d6690c81141c014fb1a39c9918e1a26e2f9f64064bd6b63e72e8238c0ca7197.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23502",
+      "sequenceNumber": 39,
+      "printedNumber": "39",
+      "uuid": 14084912,
+      "prices": []
+    },
+    {
+      "id": 10282,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Head Ringer",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach this Pokémon Tool to 1 of your opponents Pokémon-EX that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "\"The attacks of the Pokémon this card is attached to cost Colorless more.  When this card is removed from a Pokémon for any reason, put this card in its owners discard pile.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool",
+        "Team Flare Hyper Gear"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d9/8a/7d/d98a7d3fb9ef09556a1bcb9e4214476d88db3590bc98c52b7a8d962e8bcaa799.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23503",
+      "sequenceNumber": 40,
+      "printedNumber": "40",
+      "uuid": 68915465,
+      "prices": []
+    },
+    {
+      "id": 10283,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Shauna",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Shuffle your hand into your deck. Then, draw 5 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bf/d3/74/bfd3747ee3e4393d18b1a22c69529e853662b3d5b3e7779bec7665da5b5feb05.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23504",
+      "sequenceNumber": 41,
+      "printedNumber": "41",
+      "uuid": 34288849,
+      "prices": []
+    },
+    {
+      "id": 10284,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Tierno",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Draw 3 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bd/99/9b/bd999b807b9d1e12ea39ca8a2451893d9fb6590ebfa3e642dbe276ac2d4476fe.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23505",
+      "sequenceNumber": 42,
+      "printedNumber": "42",
+      "uuid": 26098167,
+      "prices": []
+    },
+    {
+      "id": 10285,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Professor Sycamore",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Discard your hand and draw 7 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yusuke Ohmura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7f/43/31/7f4331afc97583045cdafc94be91ca42f8c8634c3ea5851b68dea53097a74861.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23506",
+      "sequenceNumber": 43,
+      "printedNumber": "43",
+      "uuid": 40081927,
+      "prices": []
+    },
+    {
+      "id": 10286,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Lysandre",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "\"Switch 1 of your opponents Benched Pokémon with his or her Active Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5b/09/ef/5b09ef15442c7bf495ef7bae1f45cb562328afb671a8ed7808d1d8823f844742.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23507",
+      "sequenceNumber": 44,
+      "printedNumber": "44",
+      "uuid": 78729081,
+      "prices": []
+    },
+    {
+      "id": 10287,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Pokémon Fan Club",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You can play only 1 Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+        "Search your deck for up to 2 Basic Pokémon, reveal them, and put them into your hand. Shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yusuke Ohmura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2c/e0/c0/2ce0c000c0988795a51ab279f8b6e0f4e822f67bd56d1cc289e1d8f8caa24ff2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23508",
+      "sequenceNumber": 45,
+      "printedNumber": "45",
+      "uuid": 2947935,
+      "prices": []
+    },
+    {
+      "id": 10288,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Rough Seas",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you cant play this card.\", \"Once during each players turn, that player may heal 30 damage from each of his or her Water Pokémon and Lightning Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/13/68/97/1368978b8a097c9376cc52b8fca8ac69433cc04aeea31e360035a7d101f300af.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23509",
+      "sequenceNumber": 46,
+      "printedNumber": "46",
+      "uuid": 71525959,
+      "prices": []
+    },
+    {
+      "id": 10289,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Shadow Circle",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you cant play this card.\", \"Each Pokémon that has any Darkness Energy attached to it (both yours and your opponents) has no Weakness.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fa/bc/33/fabc331703b27d669b626173f5611da882c7117f57993544032741ce2053e81f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23510",
+      "sequenceNumber": 47,
+      "printedNumber": "47",
+      "uuid": 48729156,
+      "prices": []
+    },
+    {
+      "id": 10290,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Shield Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"This card can only be attached to Metal Pokémon. This card provides Metal Energy, but only while this card is attached to a Metal Pokémon.  The attacks of your opponents Pokémon do 10 less damage to the Metal Pokémon this card is attached to (before applying Weakness and Resistance).  (If this card is attached to anything other than a Metal Pokémon, discard this card.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4b/d3/ee/4bd3ee0e12eab31804f4cfd27d2b16e79f43fc5ed99d9d0eadd1903aef363ffd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23511",
+      "sequenceNumber": 48,
+      "printedNumber": "48",
+      "uuid": 34330597,
+      "prices": []
+    },
+    {
+      "id": 10291,
+      "setData": {
+        "name": "M Master Deck Build Box Speed Style",
+        "printed_count": "49",
+        "card_count": 49,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-master-deck-build-box-speed-style"
+      },
+      "name": "Double Colorless Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Double Colorless Energy provides Colorless Colorless Energy."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e8/5a/63/e85a63747bb2a261f0ca70e87fe5287aaa3487df50d67ed1297b004d687dd895.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23512",
+      "sequenceNumber": 49,
+      "printedNumber": "49",
+      "uuid": 38534684,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 49,
+  "totalCount": 49
+}

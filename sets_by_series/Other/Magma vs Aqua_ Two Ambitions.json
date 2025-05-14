@@ -1,0 +1,5841 @@
+{
+  "data": [
+    {
+      "id": 15962,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Ekans",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bind",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/14/6f/db/146fdb62412a75723c17fec9c98c713447c454a7bb88343e3e87f8ef795b5394.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28558",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 22771250,
+      "prices": []
+    },
+    {
+      "id": 15963,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Arbok",
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Ekans",
+      "effect": [
+        {
+          "name": "Intimidating Fang",
+          "text": "As long as Arbok is your Active Pokémon, any damage done to your Pokémon by an opponent's attack is reduced by 10 (before applying Weakness and Resistance).",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Toxic",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20",
+          "text": "The Defending Pokémon is now Poisoned. Put 2 damage counters instead of 1 on the Defending Pokémon between turns."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ff/2d/e1/ff2de19af9f9981de0072ff0478fbb8e2d0e05c73a1ea6666e5af18d42c8eb6b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28559",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 63273905,
+      "prices": []
+    },
+    {
+      "id": 15964,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Pineco",
+      "types": [
+        "Grass"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Exoskeleton",
+          "text": "Any damage done to Pineco by attacks is reduced by 10 (after applying Weakness and Resistance).",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/23/01/b7/2301b7260325f0674c22633090716cae0930f7d76cfaac36cea34471c2df6f9e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28560",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 65362200,
+      "prices": []
+    },
+    {
+      "id": 15965,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Treecko",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/00/9c/5c/009c5c7f83e75014d69e3cc67f50d330f34e0c43affd7b0433e95a60c28c27e8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28561",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 50783514,
+      "prices": [
+        {
+          "priceAmount": 142,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/treecko-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15966,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Grovyle",
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Treecko",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fury Cutter",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "Flip 4 coins. If all of them are heads, this attack does 10 damage plus 60 more damage. If not, this attack does 10 damage plus 10 more damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7d/72/ce/7d72ce617e26d3fae30341686fe43a4a0835ceb0e235754ed956dd7577106d40.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28562",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 11497714,
+      "prices": []
+    },
+    {
+      "id": 15967,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Sceptile ex",
+      "types": [
+        "Grass"
+      ],
+      "hp": 150,
+      "evolvesFrom": "Grovyle",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Green Heal",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Remove 4 damage counters from each of your Pokémon that has Grass Energy attached. If that Pokémon has less than 4 damage counters, remove all of them."
+        },
+        {
+          "name": "Poison Ring",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "The Defending Pokémon is now Poisoned. The Defending Pokémon can't retreat until the end of your opponent's next turn."
+        },
+        {
+          "name": "Slashing Strike",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "100",
+          "text": "Sceptile ex can't use Slashing Strike during your next turn."
+        }
+      ],
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        },
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "rarity": "Rare Holo ex",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/88/aa/dd/88aadd25b07755302c4a61ecbbf3d593efaf19fcc1b0974fdfa4bdb8e033f985.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28563",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 3864663,
+      "prices": [
+        {
+          "priceAmount": 47574,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "12/17/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/sceptile-ex-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 15528,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "12/17/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/sceptile-ex-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 17100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "12/17/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/sceptile-ex-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1632,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/sceptile-ex-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15968,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Cacnea",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Poison Sting",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/49/8a/da/498adaf0bb6408bbdb1579011068e5bde677e0b0f373654b884a448d5d164278.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28564",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 19290545,
+      "prices": []
+    },
+    {
+      "id": 15969,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Lileep",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Root Fossil",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Amnesia",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+        },
+        {
+          "name": "Headbutt",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        ""
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/94/56/c9/9456c93be7e2794b6aebd32f7c02b2a31a0b3bceb0401156abc6cf155e6f3146.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28565",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 32442808,
+      "prices": []
+    },
+    {
+      "id": 15970,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Cradily ex",
+      "types": [
+        "Grass"
+      ],
+      "hp": 150,
+      "evolvesFrom": "Lileep",
+      "effect": [
+        {
+          "name": "Primal Vibes",
+          "text": "As long as Cradily ex is your Active Pokémon, your opponent can't play a Pokémon from his or her hand to evolve his or her Active Pokémon.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Eerie Light",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "The Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Acidic Poison",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "60",
+          "text": "The Defending Pokémon is now Poisoned and Burned."
+        }
+      ],
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        },
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex"
+      ],
+      "rarity": "Rare Holo ex",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/31/a5/99/31a599e53ac1855ada61c27a87d02354c7677d53b91f296cf7a3e24451ddcabe.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28566",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 33662666,
+      "prices": [
+        {
+          "priceAmount": 48537,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "10/01/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/cradily-ex-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 15957,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "10/01/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/cradily-ex-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 17600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "10/01/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/cradily-ex-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1798,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/cradily-ex-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15971,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Team Aqua's Seviper",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for a Grass Basic Pokémon or Basic Pokémon with Team Aqua in its name and put it onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Thick Poison",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused and Poisoned. If tails, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b1/09/f6/b109f6df8ab69a321d940ad14586e96984479b9d86a2764a892dbd17e42aa58e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28567",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 68278067,
+      "prices": []
+    },
+    {
+      "id": 15972,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Team Aqua's Cacnea",
+      "types": [
+        "Darkness",
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Paralyzing Gaze",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Pin Missile",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10×",
+          "text": "Flip 4 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "This Pokémon is both Grass Darkness type."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/22/45/d3/2245d359084d6e1f18f0771abb247cfadaa1dbfd3fda48fe5c45bb7a6414c5cc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28568",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 37238092,
+      "prices": []
+    },
+    {
+      "id": 15973,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Team Aqua's Cacturne",
+      "types": [
+        "Darkness",
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Team Aqua's Cacnea",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dark Bind",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "You may discard a Darkness Energy card attached to Team Aqua's Cacturne. If you do, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Poison Barb",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "This Pokémon is both Grass Darkness type."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Stage 1"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5a/d9/a2/5ad9a2ffe89c7cdbced4860688aed9f25727801c15a1db31fab69f34ead818ea.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28569",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 62747667,
+      "prices": [
+        {
+          "priceAmount": 524,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/team-aqua's-cacturne-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15974,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Growlithe",
+      "types": [
+        "Fire"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Fire Veil",
+          "text": "If Growlithe is your Active Pokémon and is damaged by an opponent's attack (even if Growlithe is Knocked Out), the Attacking Pokémon is now Burned.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Flare",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/69/5d/25/695d25381a79e9e2b8383317b6fe2a4f99300cf659eb320bdbe779807566146f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28570",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 62027662,
+      "prices": [
+        {
+          "priceAmount": 224,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/growlithe-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15975,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Arcanine",
+      "types": [
+        "Fire"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Growlithe",
+      "effect": [
+        {
+          "name": "Fire Veil",
+          "text": "If Arcanine is your Active Pokémon and is damaged by an opponent's attack (even if Arcanine is Knocked Out), the Attacking Pokémon is now Burned.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Burn Up",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Flip a coin. If tails, discard all Fire Energy cards attached to Arcanine."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f0/93/93/f093934277c24124e694ebb73449dccb365955639d090fc630c30d95b3e89479.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28571",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 16109230,
+      "prices": [
+        {
+          "priceAmount": 949,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/arcanine-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15976,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Flareon",
+      "types": [
+        "Fire"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Eevee",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Super Singe",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Burned."
+        },
+        {
+          "name": "Flamethrower",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "70",
+          "text": "Discard a Fire Energy card attached to Flareon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d7/7e/e2/d77ee2239f96961eb8c99ebaec1b053477eb9a942d3166eb31f407b09b045e17.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28572",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 35961550,
+      "prices": [
+        {
+          "priceAmount": 699,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/flareon-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15977,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Torchic",
+      "types": [
+        "Fire"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Firebreathing",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 20 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4d/4a/28/4d4a2826b164b34e044bd643ac95a04385cce21f7523ad70625b4d28ed95e478.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28573",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 94222035,
+      "prices": []
+    },
+    {
+      "id": 15978,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Combusken",
+      "types": [
+        "Fire"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Torchic",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage."
+        },
+        {
+          "name": "Combustion",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/56/92/e5/5692e59c73f8ac90abe40b5596df2c7917c6b544a0f4da68f5c3d42592e07b46.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28574",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 46364146,
+      "prices": []
+    },
+    {
+      "id": 15979,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Blaziken ex",
+      "types": [
+        "Fire"
+      ],
+      "hp": 150,
+      "evolvesFrom": "Combusken",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Blaze Kick",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage. If tails, this attack does 30 damage and the Defending Pokémon is now Burned."
+        },
+        {
+          "name": "Volcanic Ash",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "text": "Discard 2 Fire Energy attached to Blaziken ex and then choose 1 of your opponent's Pokémon. This attack does 100 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        },
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "rarity": "Rare Holo ex",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c1/e5/fd/c1e5fd553ca71398b1487c643fe9bc3d8964735dc5ad07c83290240a77ad97ae.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28575",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 26058098,
+      "prices": [
+        {
+          "priceAmount": 3849,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/blaziken-ex-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15980,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Team Magma's Houndour",
+      "types": [
+        "Fire"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Singe",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Burned."
+        },
+        {
+          "name": "Dark Shock",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/98/0f/f8/980ff866749e278ddd1a9179576d10732e4b1b7189e2956b1649b894b3f55a9d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28576",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 47956257,
+      "prices": []
+    },
+    {
+      "id": 15981,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Team Magma's Houndoom",
+      "types": [
+        "Darkness",
+        "Fire"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Team Magma's Houndour",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Roasting Heat",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "If the Defending Pokémon is Burned, this attack does 30 damage plus 20 more damage."
+        },
+        {
+          "name": "Magma Spurt",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30×",
+          "text": "Discard the top 5 cards from your deck. This attack does 30 damage times the number of Fire and Fighting basic Energy cards discarded in this way."
+        }
+      ],
+      "rules": [
+        "This Pokémon is both Fire Darkness type."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Stage 1"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/38/79/83/387983550e22b0ced35220cc3e173a379cf138bc439329feaef111cedec96e65.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28577",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 30046466,
+      "prices": [
+        {
+          "priceAmount": 650,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/team-magma's-houndoom-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15982,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Team Magma's Torkoal",
+      "types": [
+        "Darkness",
+        "Fire"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Magma Burn",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Discard the top card from your opponent's deck, and flip a coin. If tails, discard a Fire Energy attached to Team Magma's Torkoal."
+        },
+        {
+          "name": "Hot Air",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Discard a Fire Energy attached to Team Magma's Torkoal, and your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any."
+        }
+      ],
+      "rules": [
+        "This Pokémon is both Fire Darkness type."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/54/d8/e6/54d8e6e3f216ca9ef72e14f15e7941fdb772ae2094afa38dfcb473df5211ea9e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28578",
+      "sequenceNumber": 21,
+      "printedNumber": "21",
+      "uuid": 52160607,
+      "prices": []
+    },
+    {
+      "id": 15983,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Vaporeon",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Eevee",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Aurora Beam",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        },
+        {
+          "name": "Aqua Sonic",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "This attack's damage is not affected by Resistance."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/58/40/50/5840507f46790b75748a50c9a7cea793541f099763b0b288f9380f4d7b9cab2a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28579",
+      "sequenceNumber": 22,
+      "printedNumber": "22",
+      "uuid": 41708012,
+      "prices": [
+        {
+          "priceAmount": 299,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/vaporeon-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15984,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Omanyte",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Mysterious Fossil",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Team Assembly",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for Omanyte, Kabuto, or any Basic Pokémon and put as many of them as you like onto your Bench. Shuffle your deck afterward. Treat the new Benched Pokémon as Basic Pokémon."
+        },
+        {
+          "name": "Bind",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        ""
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/54/64/61/546461163de047f41437e75179d27b2decee7766576b54591911baea2319d00a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28580",
+      "sequenceNumber": 23,
+      "printedNumber": "23",
+      "uuid": 16892465,
+      "prices": [
+        {
+          "priceAmount": 218,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/omanyte-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15985,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Omastar",
+      "types": [
+        "Water"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Omanyte",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Pull Down",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "If your opponent has any Evolved Pokémon in play, remove the highest Stage Evolution card from each of them and put those cards back into his or her hand."
+        },
+        {
+          "name": "Hydrocannon",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "Does 30 damage plus 20 more damage for each Water Energy attached to Omastar but not used to pay for this attack's Energy cost. You can't add more than 40 damage in this way."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        ""
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/aa/b0/d7/aab0d7d7e5744bf87328bea70c71f0ddf8bbebdf0b7746bed4b30feedccdc138.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28581",
+      "sequenceNumber": 24,
+      "printedNumber": "24",
+      "uuid": 97359644,
+      "prices": [
+        {
+          "priceAmount": 604,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/omastar-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15986,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Kabuto",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Mysterious Fossil",
+      "effect": [
+        {
+          "name": "Exoskeleton",
+          "text": "Any damage done to Kabuto by attacks is reduced by 20 (after applying Weakness and Resistance).",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Team Assembly",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for Omanyte, Kabuto, or any Basic Pokémon and put as many of them as you like onto your Bench. Shuffle your deck afterward. Treat the new Benched Pokémon as Basic Pokémon."
+        },
+        {
+          "name": "Pierce",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        ""
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d1/56/c3/d156c3dc609e8bbfbf6aaa80ccab7b7322ff0886abb135535e6276466d39c342.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28582",
+      "sequenceNumber": 25,
+      "printedNumber": "25",
+      "uuid": 23283862,
+      "prices": [
+        {
+          "priceAmount": 239,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/kabuto-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15987,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Kabutops ex",
+      "types": [
+        "Water"
+      ],
+      "hp": 150,
+      "evolvesFrom": "Kabuto",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hydrocutter",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "40×",
+          "text": "Flip a number of coins equal to the amount of Energy attached to Kabutops ex. This attack does 40 damage times the number of heads. You can't flip more than 3 coins in this way."
+        },
+        {
+          "name": "Spiral Drain",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "70",
+          "text": "Remove 2 damage counters from Kabutops ex (remove 1 if there is only 1)."
+        }
+      ],
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        },
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex"
+      ],
+      "rarity": "Rare Holo ex",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ff/66/91/ff669191f4890dff31eaac00c8350f81da44ee93ea8b86b950e7f3a6130fbc46.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28583",
+      "sequenceNumber": 26,
+      "printedNumber": "26",
+      "uuid": 86959406,
+      "prices": [
+        {
+          "priceAmount": 1748,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/kabutops-ex-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15988,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Suicune ex",
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Energy Flip",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Choose 1 of your opponent's Benched Pokémon. This attack does 10 damage to that Pokémon. You may move an Energy card attached to that Pokémon to another of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Reverse Stream",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50+",
+          "text": "You may return all basic Energy cards attached to Suicune ex to your hand. If you do, this attack does 50 damage plus 10 more damage for each basic Energy card you returned."
+        }
+      ],
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "rarity": "Rare Holo ex",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e1/8d/e8/e18de82eeff20a59976d5b7e3cbe5c7234a81edde3f99e834da5aab084bd6112.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28584",
+      "sequenceNumber": 27,
+      "printedNumber": "27",
+      "uuid": 52868426,
+      "prices": [
+        {
+          "priceAmount": 94999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/suicune-ex-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 3792,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/suicune-ex-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15989,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Mudkip",
+      "types": [
+        "Water"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "Does 10 damage plus 10 more damage for each Water Energy attached to Mudkip but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/81/36/f4/8136f46caeaec44630d9450be1bd636698f44996a49d9946281727d12ae6b0a6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28585",
+      "sequenceNumber": 28,
+      "printedNumber": "28",
+      "uuid": 56022239,
+      "prices": [
+        {
+          "priceAmount": 227,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/mudkip-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15990,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Marshtomp",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Mudkip",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Mud Splash",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5e/33/b5/5e33b570fa3a9e337e997158c33614ca6f46f1f4d74a776d6ce279192b90d9f5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28586",
+      "sequenceNumber": 29,
+      "printedNumber": "29",
+      "uuid": 68623085,
+      "prices": []
+    },
+    {
+      "id": 15991,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Wingull",
+      "types": [
+        "Water"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Supersonic",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/eb/f7/64/ebf76492e13c5fa7d1913b165c3323739eff0bce38f73d463cd08897371a5ede.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28587",
+      "sequenceNumber": 30,
+      "printedNumber": "30",
+      "uuid": 64761092,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/wingull-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15992,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Pelipper",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Wingull",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "This attack does 30 damage plus 10 more damage for each Water Energy attached to Pelipper but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e0/d8/07/e0d807844ac66fb16ca0371aaeb8d4c156f7cd6484f0f852f52dffdb125e274f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28588",
+      "sequenceNumber": 31,
+      "printedNumber": "31",
+      "uuid": 96013494,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/pelipper-31",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15993,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Wailmer",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Rollout",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        },
+        {
+          "name": "Super Hypno Wave",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7c/0c/d1/7c0cd111b846970656297a35efffb4628d966ec5a9aa91d1745a997155466a7c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28589",
+      "sequenceNumber": 32,
+      "printedNumber": "32",
+      "uuid": 36454258,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/wailmer-32",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15994,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Team Aqua's Carvanha",
+      "types": [
+        "Water"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Dark Lift",
+          "text": "If Team Aqua's Carvanha has any Darkness Energy attached to it, the Retreat Cost for Team Aqua's Carvanha is 0.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Slow-Acting Poison",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "At the end of your opponent's next turn, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/17/23/f3/1723f38c4d4830e94c6b7649fbf35158b626aa1b251cb6b2633e196df48889f4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28590",
+      "sequenceNumber": 33,
+      "printedNumber": "33",
+      "uuid": 15172940,
+      "prices": []
+    },
+    {
+      "id": 15995,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Team Aqua's Corphish",
+      "types": [
+        "Water"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Double Pinchers",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Dark Poison",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Discard a basic Energy card attached to Team Aqua's Corphish or this attack does nothing. The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b7/e1/3b/b7e13b025b3c8d35e702f5f2a900180a8e105f999f742d7f026143625ce6dfa1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28591",
+      "sequenceNumber": 34,
+      "printedNumber": "34",
+      "uuid": 31883778,
+      "prices": []
+    },
+    {
+      "id": 15996,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Team Aqua's Sharpedo",
+      "types": [
+        "Darkness",
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Team Aqua's Carvanha",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Rage",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "Does 10 damage plus 10 more damage for each damage counter on Team Aqua's Sharpedo."
+        },
+        {
+          "name": "Aqua Slash",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Team Aqua's Sharpedo can't attack during your next turn."
+        }
+      ],
+      "rules": [
+        "This Pokémon is both Water Darkness type."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Stage 1"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/38/e9/42/38e942690cdb6b5d9b5f2edcf130ddb54e8b19485c54fc85efedd0ce9f3d8fd8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28592",
+      "sequenceNumber": 35,
+      "printedNumber": "35",
+      "uuid": 45222347,
+      "prices": [
+        {
+          "priceAmount": 764,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/team-aqua's-sharpedo-35",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15997,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Team Aqua's Crawdaunt",
+      "types": [
+        "Darkness",
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Team Aqua's Corphish",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Aqua Reverse",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Before doing damage, you may choose 1 of your opponent's Benched Pokémon that has Team Magma in its name and switch it with 1 of the Defending Pokémon. Your opponent chooses the Defending Pokémon to switch."
+        },
+        {
+          "name": "Deep Impact",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "If the Defending Pokémon already has any damage counters on it, the Defending Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "This Pokémon is both Water Darkness type."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Stage 1"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/78/bd/84/78bd84d23f132832e435c1f0af09ca7180a9162d5dadf1812ca42ea81a0c0742.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28593",
+      "sequenceNumber": 36,
+      "printedNumber": "36",
+      "uuid": 87596876,
+      "prices": [
+        {
+          "priceAmount": 899,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/team-aqua's-crawdaunt-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 15998,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Jolteon",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Eevee",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Double Kick",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        },
+        {
+          "name": "Lightning Strike",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "You may discard all Lightning Energy cards attached to Jolteon. If you do, this attack's base damage is 70 instead of 40."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2b/b9/94/2bb994148e06c3be88f966d6f95ab05b5cb9126ff47a8d062eaf5bd4460a88e8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28594",
+      "sequenceNumber": 37,
+      "printedNumber": "37",
+      "uuid": 52605709,
+      "prices": [
+        {
+          "priceAmount": 3200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/jolteon-37",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/jolteon-37",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        }
+      ]
+    },
+    {
+      "id": 15999,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Team Aqua's Electrike",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Random Spark",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Plasma",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10",
+          "text": "Flip a coin. If heads, search your discard pile for a Lightning Energy card and attach it to Team Aqua's Electrike."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c0/9b/4c/c09b4ccbf4c4f98cb2f1a0dd3dc7e85800ed7d41b8220bb0715a7334992d34fc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28595",
+      "sequenceNumber": 38,
+      "printedNumber": "38",
+      "uuid": 87833896,
+      "prices": []
+    },
+    {
+      "id": 16000,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Team Aqua's Manectric",
+      "types": [
+        "Darkness",
+        "Lightning"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Team Aqua's Electrike",
+      "effect": [
+        {
+          "name": "Power Shift",
+          "text": "Once during your turn (before your attack), you may move any number of basic Energy cards attached to 1 of your Pokémon with Team Aqua in its name to another of your Pokémon. This power can't be used if Team Aqua's Manectric is affected by a Special Condition.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Thunderspark",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "Does 10 damage to each Benched Pokémon (both yours and your opponent's) that has Energy cards attached to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "This Pokémon is both Lightning Darkness type."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Stage 1"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f9/1e/18/f91e183e603d1707f6918cf7da03f50e5b83f7b42c42384a581252b5e05c16a9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28596",
+      "sequenceNumber": 39,
+      "printedNumber": "39",
+      "uuid": 28475074,
+      "prices": [
+        {
+          "priceAmount": 899,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/team-aqua's-manectric-39",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16001,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Espeon",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Eevee",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Confuse Ray",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Energy Crush",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20+",
+          "text": "Does 20 damage plus 10 more damage for each Energy attached to all of your opponent's Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/64/bf/cf/64bfcf84d9a00cc9b3ca53727df5d2eaf002dc84d15da6a5916d3a67e2d293ac.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28597",
+      "sequenceNumber": 40,
+      "printedNumber": "40",
+      "uuid": 89881533,
+      "prices": [
+        {
+          "priceAmount": 1300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/espeon-40",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16002,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Ralts",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hypnosis",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Psychic Boom",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Does 10 damage times the amount of Energy attached to the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/96/80/9a/96809aa4ecc585d23668be7cf7e893167c8424178a76a59f5e671bd63cfb2ef5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28598",
+      "sequenceNumber": 41,
+      "printedNumber": "41",
+      "uuid": 3222251,
+      "prices": [
+        {
+          "priceAmount": 324,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/ralts-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16003,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Kirlia",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Ralts",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Psyshock",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Link Blast",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "If Kirlia and the Defending Pokémon have a different amount of Energy attached to them, this attack's base damage is 30 instead of 60."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1a/d2/19/1ad21993b7cc374fd3977f39f71cafa5f405e3f38c52ec9a0ab4c8eb87f9bc43.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28599",
+      "sequenceNumber": 42,
+      "printedNumber": "42",
+      "uuid": 70421963,
+      "prices": [
+        {
+          "priceAmount": 272,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/kirlia-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16004,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Duskull",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Haunt",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Put 1 damage counter on the Defending Pokémon."
+        },
+        {
+          "name": "Dark Mind",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10",
+          "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d7/f3/e4/d7f3e44ae680429596d4e65093c9207c9855fa4fc1a6a31165ff4c724a932532.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28600",
+      "sequenceNumber": 43,
+      "printedNumber": "43",
+      "uuid": 40068183,
+      "prices": [
+        {
+          "priceAmount": 476,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/duskull-43",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16005,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Team Magma's Baltoy",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Psymist",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip 2 coins. For each heads, choose 1 of you opponent's Pokémon and put 1 damage counter on that Pokémon."
+        },
+        {
+          "name": "Pain Amplifier",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Put 1 damage counter on each of your opponent's Pokémon that already has damage counters on it."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3c/9d/9a/3c9d9a679b39539444f33fae345bfb7d5f6a37795a3663994ca9334a85b6c271.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28601",
+      "sequenceNumber": 44,
+      "printedNumber": "44",
+      "uuid": 51623100,
+      "prices": []
+    },
+    {
+      "id": 16006,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Team Magma's Claydol",
+      "types": [
+        "Darkness",
+        "Psychic"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Team Magma's Baltoy",
+      "effect": [
+        {
+          "name": "Magma Switch",
+          "text": "Once during your turn (before your attack), you may move an Energy card attached to your Pokémon with Team Magma in its name to another of your Pokémon. This power can't be used if Team Magma's Claydol is affected by a Special Condition.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dark Hand",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40+",
+          "text": "If you have more cards in your hand than your opponent, this attack does 40 damage plus 20 more damage."
+        }
+      ],
+      "rules": [
+        "This Pokémon is both Psychic Darkness type."
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Stage 1"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/32/ff/0b/32ff0b824fc0cc31af4b3da999f38f57b0cf7ef29ebfe92f49703ee6ec6959a0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28602",
+      "sequenceNumber": 45,
+      "printedNumber": "45",
+      "uuid": 92208966,
+      "prices": [
+        {
+          "priceAmount": 509,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/team-magma's-claydol-45",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16007,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Geodude",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Steady Punch",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/40/ff/7b/40ff7bdd646dc56317dbdae83f373f810239d479c401cf6ce9fceb60b04c7570.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28603",
+      "sequenceNumber": 46,
+      "printedNumber": "46",
+      "uuid": 3795868,
+      "prices": [
+        {
+          "priceAmount": 239,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/geodude-46",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16008,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Graveler",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Geodude",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Magnitude",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Does 10 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Rollout",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2d/7e/dc/2d7edc5e2662fce5956ceffa4462d9103a3ba7421ac949a98e56f3121ea6de3c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28604",
+      "sequenceNumber": 47,
+      "printedNumber": "47",
+      "uuid": 85093302,
+      "prices": []
+    },
+    {
+      "id": 16009,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Golem ex",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 160,
+      "evolvesFrom": "Graveler",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Magnitude",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Does 10 damage to each Benched Pokémon (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Double-edge",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "120",
+          "text": "Golem ex does 50 damage to itself."
+        }
+      ],
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        },
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 5,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/26/ed/a6/26eda66d62be7351b5d43133152337428fbf43e4a6e03f8eb3f92977f4f8e87c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28605",
+      "sequenceNumber": 48,
+      "printedNumber": "48",
+      "uuid": 60283596,
+      "prices": [
+        {
+          "priceAmount": 40568,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "08/20/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/golem-ex-48",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 13387,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "08/20/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/golem-ex-48",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 14700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "08/20/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/golem-ex-48",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/golem-ex-48",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16010,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Onix",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bind",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Rage",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "10+",
+          "text": "Does 10 damage plus 10 more damage for each damage counter on Onix."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/45/0e/47/450e4735b7dff2beb78fe2a1ba61324e10298405c8184d0fc74b788a39175197.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28606",
+      "sequenceNumber": 49,
+      "printedNumber": "49",
+      "uuid": 77999166,
+      "prices": [
+        {
+          "priceAmount": 118,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/onix-49",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16011,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Swampert ex",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 150,
+      "evolvesFrom": "Marshtomp",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hyper Pump",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20+",
+          "text": "Does 20 damage plus 20 more damage for each basic Energy attached to Swampert ex but not used to pay for this attack's Energy cost. You can't add more than 80 damage in this way."
+        },
+        {
+          "name": "Crushing Wave",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. After doing damage, flip a coin. If heads, your opponent discards an Energy card, if any, attached to that Pokémon. (Don't apply Weakness and Resistance to Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 2"
+      ],
+      "rarity": "Rare Holo ex",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b1/24/2d/b1242d89ceae8a0a9ad82d86c6b86d28f07fe7f7e219257febeb30800683d6ed.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28607",
+      "sequenceNumber": 50,
+      "printedNumber": "50",
+      "uuid": 33469533,
+      "prices": [
+        {
+          "priceAmount": 1853,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/swampert-ex-50",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16012,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Anorith",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Claw Fossil",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Slash",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        },
+        {
+          "name": "Double Scratch",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40×",
+          "text": "Flip 2 coins. This attack does 40 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        ""
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/85/7e/77/857e77024b6ea4255b8cce2cf78fc93edd69183c07afec3b8ae68a46e8baa67e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28608",
+      "sequenceNumber": 51,
+      "printedNumber": "51",
+      "uuid": 16569094,
+      "prices": [
+        {
+          "priceAmount": 193,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/anorith-51",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16013,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Team Magma's Rhyhorn",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Double Damage",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Does 10 damage to each Defending Pokémon."
+        },
+        {
+          "name": "Horn Rush",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fe/e4/19/fee419a1d9ae295f7fcdb9788dece2d6ad8a61822880d5a195b6ab012747f16e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28609",
+      "sequenceNumber": 52,
+      "printedNumber": "52",
+      "uuid": 98938528,
+      "prices": []
+    },
+    {
+      "id": 16014,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Team Magma's Rhydon",
+      "types": [
+        "Darkness",
+        "Fighting"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Team Magma's Rhyhorn",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Magma Jab",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "This attack's damage is not affected by Resistance."
+        },
+        {
+          "name": "Shoot Down",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "If the Defending Pokémon has Team Aqua in its name, the Defending Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "This Pokémon is both Fighting Darkness type."
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Stage 1"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ef/73/70/ef73701d17b0148258f1d5258113040e9f6dde268b7724719f3be70ff9ee928b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28610",
+      "sequenceNumber": 53,
+      "printedNumber": "53",
+      "uuid": 28913336,
+      "prices": [
+        {
+          "priceAmount": 488,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/team-magma's-rhydon-53",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16015,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Eevee",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Signs of Evolution",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 3 cards that evolve from Eevee, show them to your opponent, and put them into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Quick Attack",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/22/96/17/22961788252325ce01f87cef1610b4eab209db01b5a9cb6c92a3b574175c694d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28611",
+      "sequenceNumber": 54,
+      "printedNumber": "54",
+      "uuid": 33949537,
+      "prices": [
+        {
+          "priceAmount": 147,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/eevee-54",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16016,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Aerodactyl ex",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Mysterious Fossil",
+      "effect": [
+        {
+          "name": "Primal Lock",
+          "text": "As long as Aerodactyl ex is in play, your opponent can't play Pokémon Tool cards. Remove any Pokémon Tool cards attached to your opponent's Pokémon and put them into his or her discard pile.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Supersonic",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "The Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Wing Attack",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex"
+      ],
+      "rarity": "Rare Holo ex",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c1/cc/3b/c1cc3b5fba0b5b00f6790a12150a83107b9a4e1cb04987ead4ece1321f281337.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28612",
+      "sequenceNumber": 55,
+      "printedNumber": "55",
+      "uuid": 48015797,
+      "prices": [
+        {
+          "priceAmount": 1499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/aerodactyl-ex-1st-edition-55",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "Ungraded"
+        },
+        {
+          "priceAmount": 726,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/aerodactyl-ex-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16017,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Dunsparce",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Strike and Run",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 3 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward. You may switch Dunsparce with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Sudden Flash",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, each Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5c/dc/bc/5cdcbc3c4041bff0060915692b5b8671bbc425075a8e3bbc7ff11df3bdb19a47.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28613",
+      "sequenceNumber": 56,
+      "printedNumber": "56",
+      "uuid": 26204305,
+      "prices": [
+        {
+          "priceAmount": 196,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/dunsparce-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16018,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Linoone",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Zigzagoon",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sniff Out",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Put any 1 card from your discard pile into your hand."
+        },
+        {
+          "name": "Fury Swipes",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "Flip 3 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a9/b1/97/a9b19768219eae610de82d223712c6412da5a88e575ae43d852df1d448957504.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28614",
+      "sequenceNumber": 57,
+      "printedNumber": "57",
+      "uuid": 96044467,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/linoone-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16019,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Swellow",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Taillow",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Clutch",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "The Defending Pokémon can't retreat until the end of your opponent's next turn."
+        },
+        {
+          "name": "Quick Dive",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Flip a coin. If heads, choose 1 of your opponent's Pokémon. This attack does 50 damage to that Pokémon. This attack's damage isn't affected by Weakness or Resistance."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/78/c7/a6/78c7a6943ba87d3ea949275d8769a2a8eab698749429017773af25cd9836ce39.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28615",
+      "sequenceNumber": 58,
+      "printedNumber": "58",
+      "uuid": 79433194,
+      "prices": []
+    },
+    {
+      "id": 16020,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Skitty",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Energy Catch",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your discard pile for a basic Energy card, show it to your opponent, and put it into your hand."
+        },
+        {
+          "name": "Double-edge",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Skitty does 10 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e2/d7/81/e2d7810cde2b25e2157c9a0aab06e3b75804a22c9ca503beda826f6d793da840.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28616",
+      "sequenceNumber": 59,
+      "printedNumber": "59",
+      "uuid": 57141237,
+      "prices": [
+        {
+          "priceAmount": 227,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/skitty-59",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16021,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Delcatty",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Skitty",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Scratch",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        },
+        {
+          "name": "Ultra Energy Source",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "10×",
+          "text": "Does 10 damage times the number of basic Energy cards attached to all of the Active Pokémon (both yours and your opponent's)."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/59/c6/eb/59c6ebe7bff434c5340d77e3607aa4237b496a608fb9c0484d4ffbe367337941.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28617",
+      "sequenceNumber": 60,
+      "printedNumber": "60",
+      "uuid": 99232500,
+      "prices": [
+        {
+          "priceAmount": 292,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/delcatty-60",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16022,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Team Magma's Zangoose",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for a Colorless Basic Pokémon or Basic Pokémon with Team Magma in its name and put it onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Team Play",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "10×",
+          "text": "Does 10 damage times the number of Pokémon in play with Team Magma in its name."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/25/d0/72/25d07268d21ff4d055fd68983e291cf1867ed80414e919a7d714874d1d678555.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28618",
+      "sequenceNumber": 61,
+      "printedNumber": "61",
+      "uuid": 26641558,
+      "prices": []
+    },
+    {
+      "id": 16023,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Umbreon",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Eevee",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Confuse Ray",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Moon Impact",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/80/47/b4/8047b445cf59abc9961411351a7fe9eeaf0a61ca77af1cb1f547d28688c5fbfa.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28619",
+      "sequenceNumber": 62,
+      "printedNumber": "62",
+      "uuid": 70813813,
+      "prices": [
+        {
+          "priceAmount": 1722,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/umbreon-62",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16024,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Murkrow",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Surprise",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Choose 1 card from your opponent's hand without looking. Look at the card you chose, then have your opponent shuffle that card into his or her deck."
+        },
+        {
+          "name": "Dark Mind",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fa/5f/8b/fa5f8ba178ba1c80e1edac279fd50d3b0528da7eb68e2562c0bd0eab76811f36.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28620",
+      "sequenceNumber": 63,
+      "printedNumber": "63",
+      "uuid": 63536157,
+      "prices": [
+        {
+          "priceAmount": 258,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/murkrow-63",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16025,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Forretress",
+      "types": [
+        "Metal"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Pineco",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Double Metal Ball",
+          "cost": [
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Put 2 damage counters on each Defending Pokémon."
+        },
+        {
+          "name": "Backspin",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "After your attack, you may discard 1 Energy card attached to Forretress. If you do, switch Forretress with 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/69/89/db/6989dbfff54559826d17d58c1bfa0dcbf4eeace124a63f1832475dd5e4cf7201.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28621",
+      "sequenceNumber": 64,
+      "printedNumber": "64",
+      "uuid": 97648833,
+      "prices": []
+    },
+    {
+      "id": 16026,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Steelix",
+      "types": [
+        "Metal"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Onix",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Rage",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "10+",
+          "text": "Does 10 damage plus 10 more damage for each damage counter on Steelix."
+        },
+        {
+          "name": "Spinning Tail",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "text": "Does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a7/f1/50/a7f15003122f439fc36cffb0f81427e900b2c6c8b28e8e61f0af5966d011efa5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28622",
+      "sequenceNumber": 65,
+      "printedNumber": "65",
+      "uuid": 62296090,
+      "prices": [
+        {
+          "priceAmount": 8499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/steelix-1st-edition-65",
+          "vendor": "Price Charting",
+          "variant": "1st Edition",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1696,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/steelix-65",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16027,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Dual Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Flip 2 coins. For each heads, search your deck for a Basic Pokémon card other than a Baby Pokémon card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d0/9d/cd/d09dcdb7c477dea7e42aa738c2a59520071ed0325eb7f4a3fb113486c670e6fe.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28623",
+      "sequenceNumber": 66,
+      "printedNumber": "66",
+      "uuid": 75462327,
+      "prices": []
+    },
+    {
+      "id": 16028,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Mysterious Fossil",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Play Mysterious Fossil as if it were a Basic Pokémon. While in play, Mysterious Fossil counts as a Colorless Pokémon (instead of a Trainer card). Mysterious Fossil has no attacks of its own, cant retreat, and cant be affected by any Special Conditions. If Mysterious Fossil is Knocked Out, it doesnt count as a Knocked Out Pokémon. (Discard it anyway.) At any time during your turn before your attack, you may discard Mysterious Fossil from play.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/83/e9/5f/83e95f663e946bf121ec34a6eb9fb21f58c20e7d3ca4bff460830d8bba4e6eaa.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28624",
+      "sequenceNumber": 67,
+      "printedNumber": "67",
+      "uuid": 22244909,
+      "prices": []
+    },
+    {
+      "id": 16029,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Warp Point",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any; then you switch your Active Pokémon with 1 of your Benched Pokémon, if any."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a4/06/b0/a406b09a81d83cbc220a7a0151110a1205704c5ae34b87db5d20ba4b6d1e13d2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28625",
+      "sequenceNumber": 68,
+      "printedNumber": "68",
+      "uuid": 44528594,
+      "prices": [
+        {
+          "priceAmount": 474,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/warp-point-68",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16030,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Strength Charm",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach Strength Charm to 1 of your Pokémon that doesnt have a Pokémon Tool attached to it.\", Whenever an attack from the Pokémon that Strength Charm is attached to does damage (after applying Weakness and Resistance), the attack does 10 more damage. At the end of your turn in which this happens, discard Strength Charm."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Tool"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/da/f0/c9/daf0c9b489f26d84a4966cb78b4efe8ad1e6504fb845c073e6b26119f1fd9201.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28626",
+      "sequenceNumber": 69,
+      "printedNumber": "69",
+      "uuid": 56472811,
+      "prices": [
+        {
+          "priceAmount": 474,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/strength-charm-69",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16031,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Team Magma Belt",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach Team Magma Belt to 1 of your Pokémon with Team Magma in its name that doesnt already have a Pokémon Tool attached to it. If that Pokémon is Knocked Out, discard this card.\", At any time between turns, if the Pokémon Team Magma Belt is attached to is your Active Pokémon, search your deck for a card that evolves from that Pokémon and put it on that Pokémon. (This counts as evolving that Pokémon.) Shuffle your deck afterward, then discard Team Magma Belt."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Tool"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/71/79/7a/71797a8ffb27f99ec67fc6893be42cd3434972e52beb1ac753cf564dc7f8adbd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28627",
+      "sequenceNumber": 70,
+      "printedNumber": "70",
+      "uuid": 120405,
+      "prices": [
+        {
+          "priceAmount": 474,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/team-magma-belt-70",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16032,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Team Aqua Belt",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach Team Aqua Belt to 1 of your Pokémon with Team Aqua in its name that doesnt already have a Pokémon Tool attached to it. If that Pokémon is Knocked Out, discard this card.\", At any time between turns, if the Pokémon Team Aqua Belt is attached to is your Active Pokémon, search your deck for a card that evolves from that Pokémon and put it on that Pokémon. (This counts as evolving that Pokémon.) Shuffle your deck afterward, then discard Team Aqua Belt."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Tool"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c8/8d/94/c88d94c26c425cec426d501ab11a00378ba2b31684745ba696dfbcc3c74c35f4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28628",
+      "sequenceNumber": 71,
+      "printedNumber": "71",
+      "uuid": 56626829,
+      "prices": []
+    },
+    {
+      "id": 16033,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Team Magma Schemer",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+        "Discard any 1 Pokémon from your hand. Then draw 3 cards. If you discarded a Pokémon with Team Magma in its name, draw 4 cards instead."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ba/6d/e1/ba6de1318bacd0f1c1d95070815783d856b4a95b570b57645ecf4f466fe9221d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28629",
+      "sequenceNumber": 72,
+      "printedNumber": "72",
+      "uuid": 65447097,
+      "prices": []
+    },
+    {
+      "id": 16034,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Team Aqua Schemer",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+        "Discard any 1 Pokémon from your hand. Then draw 3 cards. If you discarded a Pokémon with Team Aqua in its name, draw 4 cards instead."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a0/f3/01/a0f3013a0516e8b8d297eac76bd7b37afea147b9c9d8e4141a1fc9ff5794a9a2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28630",
+      "sequenceNumber": 73,
+      "printedNumber": "73",
+      "uuid": 70561023,
+      "prices": [
+        {
+          "priceAmount": 377,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/team-aqua-schemer-73",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16035,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Maxie",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+        "Search your hand or discard pile for a Pokémon with Team Magma in its name and put it onto your Bench. Treat the new Benched Pokémon as a Basic Pokémon. If it is a Stage 2 Pokémon, put 2 damage counters on that Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/15/6f/24/156f240744879fcaa58e68881d0027632999ece402c13b1ae029b95d1bd258d5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28631",
+      "sequenceNumber": 74,
+      "printedNumber": "74",
+      "uuid": 58111701,
+      "prices": []
+    },
+    {
+      "id": 16036,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Archie",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+        "Search your deck for a Pokémon with Team Aqua in its name and put it onto your Bench. Shuffle your deck afterward. Treat the new Benched Pokémon as a Basic Pokémon. If it is a Stage 2 Pokémon, put 2 damage counters on that Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a6/fe/6b/a6fe6b947e67704315e2a06bbcb7daa431cfb54a146764c15d5b9a090baa1678.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28632",
+      "sequenceNumber": 75,
+      "printedNumber": "75",
+      "uuid": 91964939,
+      "prices": []
+    },
+    {
+      "id": 16037,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Team Magma Technical Machine 01",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach this card to 1 of your Pokémon that has Team Magma in its name. That Pokémon may use this cards attack instead of its own. At the end of your turn, discard Team Magma Technical Machine 01.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Technical Machine"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/83/39/0b/83390b61db99d350ce52fcd07f6db9a29f47b959976a7621edcc00354ff503c3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28633",
+      "sequenceNumber": 76,
+      "printedNumber": "76",
+      "uuid": 66326761,
+      "prices": []
+    },
+    {
+      "id": 16038,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Team Aqua Technical Machine 01",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach this card to 1 of your Pokémon that has Team Aqua in its name. That Pokémon may use this cards attack instead of its own. At the end of your turn, discard Team Aqua Technical Machine 01.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Technical Machine"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/50/cc/b2/50ccb2e1021516d7480b95fbbb5496ece2f3fb7d16cc1d064a332b5bbff537b0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28634",
+      "sequenceNumber": 77,
+      "printedNumber": "77",
+      "uuid": 79750272,
+      "prices": []
+    },
+    {
+      "id": 16039,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Double Rainbow Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Double Rainbow Energy can be attached only to an Evolved Pokémon (excluding Pokémon-ex). While in play, Double Rainbow Energy provides every type of Energy but provides 2 Energy at a time. (Doesnt count as a basic Energy when not in play and has no effect other than providing Energy.) Damage done to your opponents Pokémon by the Pokémon Double Rainbow Energy is attached to is reduced by 10 (after applying Weakness and Resistance). When the Pokémon Double Rainbow Energy is attached to is no longer an Evolved Pokémon, discard Double Rainbow Energy.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/51/6e/2c/516e2c6445cc1a843f09183e4e72f20505e3134ee874e42759bcae6071d2ad3d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28635",
+      "sequenceNumber": 78,
+      "printedNumber": "78",
+      "uuid": 34044950,
+      "prices": []
+    },
+    {
+      "id": 16040,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Magma Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Magma Energy can be attached only to a Pokémon with Team Magma in its name. Magma Energy provides Fighting and/or Darkness Energy but provides 2 Energy at a time. (Doesnt count as a basic Energy card when not in play and has no effect other than providing Energy.) At the end of your turn, discard Magma Energy.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/77/4a/66/774a66ea69bb8b5d086e6d6ad4f4e33086d3e51405e16da8fadf2aa27f9f9915.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28636",
+      "sequenceNumber": 79,
+      "printedNumber": "79",
+      "uuid": 94575830,
+      "prices": [
+        {
+          "priceAmount": 9925,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "06/04/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/magma-energy-79",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 3304,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "06/04/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/magma-energy-79",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "06/04/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/magma-energy-79",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 284,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/magma-energy-79",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 16041,
+      "setData": {
+        "name": "Magma vs Aqua: Two Ambitions",
+        "printed_count": "80",
+        "card_count": 80,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/magma-vs-aqua-two-ambitions"
+      },
+      "name": "Aqua Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Aqua Energy can be attached only to a Pokémon with Team Aqua in its name. Aqua Energy provides Water and Darkness Energy but provides 2 Energy at a time. (Doesnt count as a basic Energy card when not in play and has no effect other than providing Energy.) At the end of your turn, discard Aqua Energy.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/34/f0/e7/34f0e77aa46bc45d2ba69856c8a97fefed2141599672f50c8e859fb30a5fbe74.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28637",
+      "sequenceNumber": 80,
+      "printedNumber": "80",
+      "uuid": 13127257,
+      "prices": [
+        {
+          "priceAmount": 299,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-magma-vs-aqua:-two-ambitions/aqua-energy-80",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 80,
+  "totalCount": 80
+}

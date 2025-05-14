@@ -1,0 +1,1114 @@
+{
+  "data": [
+    {
+      "id": 3821,
+      "setData": {
+        "name": "VMAX Starter Set (Blastoise)",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-starter-set-blastoise"
+      },
+      "name": "Blastoise V",
+      "types": [
+        "Water"
+      ],
+      "hp": 220,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30"
+        },
+        {
+          "name": "Torrent Cannon",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "200",
+          "text": "This Pokémon can't use Torrent Cannon during your next turn."
+        }
+      ],
+      "rules": [
+        "When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "V",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bf/84/95/bf84957ab10d50bd7e63863478bd315cbd613ef0675c71587b8493a15eaf4a2b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/33323",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 61778867,
+      "prices": []
+    },
+    {
+      "id": 3822,
+      "setData": {
+        "name": "VMAX Starter Set (Blastoise)",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-starter-set-blastoise"
+      },
+      "name": "Blastoise VMAX",
+      "types": [
+        "Water"
+      ],
+      "hp": 330,
+      "evolvesFrom": "Blastoise V",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Grand Fall",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120",
+          "text": "Search your deck for up to 3 Water Energy cards and attach them to your Benched Pokémon in any way you like. Then, shuffle your deck."
+        },
+        {
+          "name": "G-Max Bombard",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "220",
+          "text": "This attack does 30 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "VMAX",
+        "Gigantamax",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5c/5f/46/5c5f465199d491ccb2972e3161c3626d83cd253a57b2218d75d0159b6dd4c37c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/33324",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 94206731,
+      "prices": []
+    },
+    {
+      "id": 3823,
+      "setData": {
+        "name": "VMAX Starter Set (Blastoise)",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-starter-set-blastoise"
+      },
+      "name": "Horsea",
+      "types": [
+        "Water"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Taira Akitsu",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f2/63/6d/f2636d5a21efdb0b2cd92b296583c34ae4e9a13ddceee3a175e86732b6d216e6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/33325",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 6904416,
+      "prices": []
+    },
+    {
+      "id": 3824,
+      "setData": {
+        "name": "VMAX Starter Set (Blastoise)",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-starter-set-blastoise"
+      },
+      "name": "Buizel",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Rain Splash",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "ryoma uratsuka",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d6/e1/ce/d6e1ce0912dd25210c042ad0cc33affaeda0df4f8aa9d0c3e6cba64cdd220723.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/33326",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 6129870,
+      "prices": []
+    },
+    {
+      "id": 3825,
+      "setData": {
+        "name": "VMAX Starter Set (Blastoise)",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-starter-set-blastoise"
+      },
+      "name": "Floatzel",
+      "types": [
+        "Water"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Buizel",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Surf",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "50"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "AKIRA EGAWA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6e/17/e2/6e17e2586d0aaca015c8393ea5d9b55043cf32be7e14b1bcf2b3d714fb084977.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/33327",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 75188182,
+      "prices": []
+    },
+    {
+      "id": 3826,
+      "setData": {
+        "name": "VMAX Starter Set (Blastoise)",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-starter-set-blastoise"
+      },
+      "name": "Manaphy",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Sea Search",
+          "text": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal a Pokémon you find there, and put it into your hand. Then, shuffle the other cards back into your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Wave Splash",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Narumi Sato",
+      "imageUrl": "https://static.tcgcollector.com/content/images/58/47/1d/58471d41429351363edc128b7506f1bc6935e7e8b541d62be649e1266007bf6a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/33328",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 55297016,
+      "prices": []
+    },
+    {
+      "id": 3827,
+      "setData": {
+        "name": "VMAX Starter Set (Blastoise)",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-starter-set-blastoise"
+      },
+      "name": "Volcanion",
+      "types": [
+        "Water"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hammer In",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50"
+        },
+        {
+          "name": "Dynamite Steam",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120×",
+          "text": "Flip 2 coins. This attack does 120 damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "nagimiso",
+      "imageUrl": "https://static.tcgcollector.com/content/images/46/60/81/466081fff429566fc3387b01bb5ef54a4eb94b5f5ac266caec081f99350cd8e2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/33329",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 65130274,
+      "prices": []
+    },
+    {
+      "id": 3828,
+      "setData": {
+        "name": "VMAX Starter Set (Blastoise)",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-starter-set-blastoise"
+      },
+      "name": "Chewtle",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Bite",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "sowsow",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8c/92/75/8c9275f56d509db33544ff2ba7d318e0413ac0daaa57c6a88096239ad466a07e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/33330",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 74027379,
+      "prices": []
+    },
+    {
+      "id": 3829,
+      "setData": {
+        "name": "VMAX Starter Set (Blastoise)",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-starter-set-blastoise"
+      },
+      "name": "Drednaw",
+      "types": [
+        "Water"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Chewtle",
+      "effect": [
+        {
+          "name": "Exoskeleton",
+          "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Skull Bash",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "130"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/14/90/fa/1490fa3481f53fec69abfd67753e8bdedf9f566da3f6275e1356288bb7d64c4c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/33331",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 99384216,
+      "prices": []
+    },
+    {
+      "id": 3830,
+      "setData": {
+        "name": "VMAX Starter Set (Blastoise)",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-starter-set-blastoise"
+      },
+      "name": "Cramorant",
+      "types": [
+        "Water"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sweeping Shot",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "This attack does 50 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "HYOGONOSUKE",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2e/e0/33/2ee033c89c5bcac85ae1efe2fef9f6e3c50b2c076b5ae75fda6c9394310049d2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/33332",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 1807053,
+      "prices": []
+    },
+    {
+      "id": 3831,
+      "setData": {
+        "name": "VMAX Starter Set (Blastoise)",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-starter-set-blastoise"
+      },
+      "name": "Quick Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "You can play this card only if you discard another card from your hand. Search your deck for a Basic Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "sadaji",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4d/5d/19/4d5d19cdf78f6c86c0fc84a4d63a346d21966dc8dc42244618b47bfa8bd16842.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/33333",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 39921117,
+      "prices": []
+    },
+    {
+      "id": 3832,
+      "setData": {
+        "name": "VMAX Starter Set (Blastoise)",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-starter-set-blastoise"
+      },
+      "name": "Crushing Hammer",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "\"Flip a coin. If heads, discard an Energy from 1 of your opponents Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "sadaji",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6b/14/33/6b14332f5e1c1f485eae9b8561ecd100fd6671bf6ac96ac1dcc9628a1cdfb6cc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/33334",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 53431254,
+      "prices": []
+    },
+    {
+      "id": 3833,
+      "setData": {
+        "name": "VMAX Starter Set (Blastoise)",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-starter-set-blastoise"
+      },
+      "name": "Evolution Incense",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Search your deck for an Evolution Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/06/7f/48/067f4808208d219399078b90e2781a32085aae90716b1fd19c347537ab1bd345.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/33335",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 24776484,
+      "prices": []
+    },
+    {
+      "id": 3834,
+      "setData": {
+        "name": "VMAX Starter Set (Blastoise)",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-starter-set-blastoise"
+      },
+      "name": "Pokégear 3.0",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Look at the top 7 cards of your deck. You may reveal a Supporter card you find there and put it into your hand. Shuffle the other cards back into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/83/78/f9/8378f9c12ff9bb9476228402e76e16f655b132fad4233c481d1fdfa08a0843a2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/33336",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 14819378,
+      "prices": []
+    },
+    {
+      "id": 3835,
+      "setData": {
+        "name": "VMAX Starter Set (Blastoise)",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-starter-set-blastoise"
+      },
+      "name": "Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Switch your Active Pokémon with 1 of your Benched Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Studio Bora Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f6/2a/da/f62ada4cc2eee4fb5f5a583ef5a5c203e0167f45c1c5ae23841702545ce3f4b1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/33337",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 44018387,
+      "prices": []
+    },
+    {
+      "id": 3836,
+      "setData": {
+        "name": "VMAX Starter Set (Blastoise)",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-starter-set-blastoise"
+      },
+      "name": "Professor's Research",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Discard your hand and draw 7 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hideki Ishikawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3b/44/79/3b4479b9523ba01ca5ed3770344e735845fdeebca3cab569aa523a2bea93f24f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/33338",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 31375135,
+      "prices": []
+    },
+    {
+      "id": 3837,
+      "setData": {
+        "name": "VMAX Starter Set (Blastoise)",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-starter-set-blastoise"
+      },
+      "name": "Boss's Orders",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "\"Switch 1 of your opponents Benched Pokémon with their Active Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryuta Fuse",
+      "imageUrl": "https://static.tcgcollector.com/content/images/70/d2/65/70d2653dcdf7438dce84a05f408f36dc6b6c879643e9b8179452ce1309779515.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/33339",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 60184354,
+      "prices": []
+    },
+    {
+      "id": 3838,
+      "setData": {
+        "name": "VMAX Starter Set (Blastoise)",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-starter-set-blastoise"
+      },
+      "name": "Hop",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Draw 3 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/10/c0/05/10c005292208b6b07f11954f4b3d33eed6a5d497ab64c75847695c433d12ee09.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/33340",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 64322961,
+      "prices": []
+    },
+    {
+      "id": 3839,
+      "setData": {
+        "name": "VMAX Starter Set (Blastoise)",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-starter-set-blastoise"
+      },
+      "name": "Marnie",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, you draw 5 cards, and your opponent draws 4 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kirisAki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ec/7c/17/ec7c175eec7e78d4112475ca5d7ea4b3d37d107eeee45982d53feda7ce30620d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/33341",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 38968393,
+      "prices": []
+    },
+    {
+      "id": 3840,
+      "setData": {
+        "name": "VMAX Starter Set (Blastoise)",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/vmax-starter-set-blastoise"
+      },
+      "name": "Nessa",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Put up to 4 in any combination of Water Pokémon and Water Energy cards from your discard pile into your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "take",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b7/80/73/b780737f1e79f56b2fbdd44d777468dc2744653d1f7f04f4e1b9394edc9970eb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/33342",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 18864289,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 20,
+  "totalCount": 20
+}

@@ -1,0 +1,639 @@
+{
+  "data": [
+    {
+      "id": 23924,
+      "setData": {
+        "name": "Neo Premium File 1",
+        "printed_count": 9,
+        "card_count": 9,
+        "year": "1999",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/neo-premium-file-1"
+      },
+      "name": "Meganium",
+      "types": [
+        "Grass"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Bayleef",
+      "effect": [
+        {
+          "name": "Herbal Scent",
+          "text": "When you play Meganium from your hand, you may flip a coin. If heads, remove all damage counters from all Grass Pokémon in play.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Body Slam",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9e/78/aa/9e78aa1476e8a66006ef735a9393cebfd814b8df72f457b732dfc628a5ad2228.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41083",
+      "sequenceNumber": 1,
+      "printedNumber": "001",
+      "uuid": 54388329,
+      "prices": []
+    },
+    {
+      "id": 23925,
+      "setData": {
+        "name": "Neo Premium File 1",
+        "printed_count": 9,
+        "card_count": 9,
+        "year": "1999",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/neo-premium-file-1"
+      },
+      "name": "Bayleef",
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Chikorita",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Poisonpowder",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Pollen Shield",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "During your opponent's next turn, Bayleef can't become Asleep, Confused, Paralyzed, or Poisoned. (All other effects of attacks, Pokémon Powers, and Trainer cards still happen.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/93/6d/21/936d216e376e98e55f7ef2df179e6ab86b792d79c195f353f69101ffc0204fec.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41084",
+      "sequenceNumber": 2,
+      "printedNumber": "002",
+      "uuid": 61247354,
+      "prices": []
+    },
+    {
+      "id": 23926,
+      "setData": {
+        "name": "Neo Premium File 1",
+        "printed_count": 9,
+        "card_count": 9,
+        "year": "1999",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/neo-premium-file-1"
+      },
+      "name": "Chikorita",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Growl",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "If the Defending Pokémon attacks Chikorita during your opponent's next turn, any damage done to Chikorita is reduced by 10 (before applying Weakness and Resistance). (Benching or evolving either Pokémon ends this effect.)"
+        },
+        {
+          "name": "Razor Leaf",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d2/93/8c/d2938cef5682c3cb73b59b3698c93e131c631d38ff1a06cb1ef4f22b66dce31e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41085",
+      "sequenceNumber": 3,
+      "printedNumber": "003",
+      "uuid": 62252492,
+      "prices": []
+    },
+    {
+      "id": 23927,
+      "setData": {
+        "name": "Neo Premium File 1",
+        "printed_count": 9,
+        "card_count": 9,
+        "year": "1999",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/neo-premium-file-1"
+      },
+      "name": "Cyndaquil",
+      "types": [
+        "Fire"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Leer",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon can't attack Cyndaquil during your opponent's next turn. (Benching or evolving either Pokémon ends this effect.)"
+        },
+        {
+          "name": "Swift",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "This attack's damage isn't affected by Weakness, Resistance, Pokémon Powers, or any other effects on the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/22/33/86/22338667b7b9db1ea55d47860f21222c42cf110f5ae8d966f4f9c92c6184601d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41086",
+      "sequenceNumber": 4,
+      "printedNumber": "004",
+      "uuid": 29226463,
+      "prices": []
+    },
+    {
+      "id": 23928,
+      "setData": {
+        "name": "Neo Premium File 1",
+        "printed_count": 9,
+        "card_count": 9,
+        "year": "1999",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/neo-premium-file-1"
+      },
+      "name": "Quilava",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Cyndaquil",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Ember",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Discard 1 Fire Energy card attached to Quilava in order to use this attack."
+        },
+        {
+          "name": "Fire Wind",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them. Flip 2 coins. For each heads, this attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0f/7b/46/0f7b4626da710cae250d684db395090f95a69bd52ff2e43fa3cb2312583f20c8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41087",
+      "sequenceNumber": 5,
+      "printedNumber": "005",
+      "uuid": 4364333,
+      "prices": []
+    },
+    {
+      "id": 23929,
+      "setData": {
+        "name": "Neo Premium File 1",
+        "printed_count": 9,
+        "card_count": 9,
+        "year": "1999",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/neo-premium-file-1"
+      },
+      "name": "Typhlosion",
+      "types": [
+        "Fire"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Quilava",
+      "effect": [
+        {
+          "name": "Fire Boost",
+          "text": "When you play Typhlosion from your hand, you may flip a coin. If heads, search your deck for up to 4 Fire Energy cards and attach them to Typhlosion. Shuffle your deck afterward.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Flame Wheel",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "80",
+          "text": "Discard 3 Fire Energy cards attached to Typhlosion in order to use this attack. Do 20 damage to each Benched Pokémon (yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/66/62/51/666251c72fd85097e75a5e2493fa7a1127a566451b0c0235d76766df0900adc8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41088",
+      "sequenceNumber": 6,
+      "printedNumber": "006",
+      "uuid": 6776685,
+      "prices": []
+    },
+    {
+      "id": 23930,
+      "setData": {
+        "name": "Neo Premium File 1",
+        "printed_count": 9,
+        "card_count": 9,
+        "year": "1999",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/neo-premium-file-1"
+      },
+      "name": "Feraligatr",
+      "types": [
+        "Water"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Croconaw",
+      "effect": [
+        {
+          "name": "Downpour",
+          "text": "As often as you like during your turn (before your attack), you may discard a Water Energy card from your hand. This power can't be used if Feraligatr is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Riptide",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "10+",
+          "text": "Does 10 damage plus 10 damage times the number of Water Energy cards in your discard pile. Then, shuffle all Water Energy cards from your discard pile into your deck."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ee/1d/f9/ee1df97df64155c4cc78086ecf71f5ba68d383b0e61472865d4a816a856d59a3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41089",
+      "sequenceNumber": 7,
+      "printedNumber": "007",
+      "uuid": 35119762,
+      "prices": []
+    },
+    {
+      "id": 23931,
+      "setData": {
+        "name": "Neo Premium File 1",
+        "printed_count": 9,
+        "card_count": 9,
+        "year": "1999",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/neo-premium-file-1"
+      },
+      "name": "Croconaw",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Totodile",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        },
+        {
+          "name": "Sweep Away",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "Discard the top 3 cards from your deck."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/24/c9/bc/24c9bc6ad67065e31af06a765adfba701161a1feb7e9cc12d9c8139cff71c6ad.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41090",
+      "sequenceNumber": 8,
+      "printedNumber": "008",
+      "uuid": 48197650,
+      "prices": []
+    },
+    {
+      "id": 23932,
+      "setData": {
+        "name": "Neo Premium File 1",
+        "printed_count": 9,
+        "card_count": 9,
+        "year": "1999",
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/neo-premium-file-1"
+      },
+      "name": "Totodile",
+      "types": [
+        "Water"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bite",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Rage",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "Does 10 damage plus 10 more damage for each damage counter on Totodile."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9f/c9/83/9fc983e2bbc2d75f0827c6c7d6eae4354ddb28c1235b568a47d2283e55e4cc8b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41091",
+      "sequenceNumber": 9,
+      "printedNumber": "009",
+      "uuid": 3112439,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 9,
+  "totalCount": 9
+}

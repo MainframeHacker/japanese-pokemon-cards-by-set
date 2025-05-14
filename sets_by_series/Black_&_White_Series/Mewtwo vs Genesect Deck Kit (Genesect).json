@@ -1,0 +1,935 @@
+{
+  "data": [
+    {
+      "id": 11401,
+      "setData": {
+        "name": "Mewtwo vs Genesect Deck Kit (Genesect)",
+        "printed_count": "17",
+        "card_count": 17,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/mewtwo-vs-genesect-deck-kit-genesect"
+      },
+      "name": "Tangela",
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Beat",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Flog",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/04/33/bd/0433bdfcb7a0cd22c95ca4dcae3bd8e544a5658931649db778dee52104459788.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24617",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 30276471,
+      "prices": []
+    },
+    {
+      "id": 11402,
+      "setData": {
+        "name": "Mewtwo vs Genesect Deck Kit (Genesect)",
+        "printed_count": "17",
+        "card_count": 17,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/mewtwo-vs-genesect-deck-kit-genesect"
+      },
+      "name": "Tangrowth",
+      "types": [
+        "Grass"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Tangela",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bind Down",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Flog",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "60+",
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/18/0e/a0/180ea0ccc9099f336ce50c6176652d10188c1864b23ec04ff7708e5f964eeb56.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24618",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 26337566,
+      "prices": []
+    },
+    {
+      "id": 11403,
+      "setData": {
+        "name": "Mewtwo vs Genesect Deck Kit (Genesect)",
+        "printed_count": "17",
+        "card_count": 17,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/mewtwo-vs-genesect-deck-kit-genesect"
+      },
+      "name": "Cherubi",
+      "types": [
+        "Grass"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Double Spin",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b0/c0/69/b0c0695a31b366b336ab1b2d29dc1d365cc4ff1023e21a5c50efbf9f361ccb37.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24619",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 61201063,
+      "prices": []
+    },
+    {
+      "id": 11404,
+      "setData": {
+        "name": "Mewtwo vs Genesect Deck Kit (Genesect)",
+        "printed_count": "17",
+        "card_count": 17,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/mewtwo-vs-genesect-deck-kit-genesect"
+      },
+      "name": "Carnivine",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Ambush Bite",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage and discard an Energy attached to the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cf/9a/24/cf9a24d7152bdc526905480e919c746818d3c7d4198b64c097c705d1811f41e2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24620",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 47961053,
+      "prices": []
+    },
+    {
+      "id": 11405,
+      "setData": {
+        "name": "Mewtwo vs Genesect Deck Kit (Genesect)",
+        "printed_count": "17",
+        "card_count": 17,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/mewtwo-vs-genesect-deck-kit-genesect"
+      },
+      "name": "Sewaddle",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5c/57/d1/5c57d1c36420ca9df50a0fe0647c67ed332fa2e83038deb2e668389bf017ed47.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24621",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 76653687,
+      "prices": []
+    },
+    {
+      "id": 11406,
+      "setData": {
+        "name": "Mewtwo vs Genesect Deck Kit (Genesect)",
+        "printed_count": "17",
+        "card_count": 17,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/mewtwo-vs-genesect-deck-kit-genesect"
+      },
+      "name": "Dwebble",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bug Bite",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/80/6b/e6/806be60ff121eea9648c752f7adab6846a16f25de289a83e184c92d50831564b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24622",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 99543816,
+      "prices": []
+    },
+    {
+      "id": 11407,
+      "setData": {
+        "name": "Mewtwo vs Genesect Deck Kit (Genesect)",
+        "printed_count": "17",
+        "card_count": 17,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/mewtwo-vs-genesect-deck-kit-genesect"
+      },
+      "name": "Crustle",
+      "types": [
+        "Grass"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Dwebble",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hard Press",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. The Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Hammer In",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/14/ab/70/14ab70e070cddcbe4002bdadcfd939fed7cbd8c9d64b3fa5c61b2f1dbbdbe905.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24623",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 89252721,
+      "prices": []
+    },
+    {
+      "id": 11408,
+      "setData": {
+        "name": "Mewtwo vs Genesect Deck Kit (Genesect)",
+        "printed_count": "17",
+        "card_count": 17,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/mewtwo-vs-genesect-deck-kit-genesect"
+      },
+      "name": "Genesect",
+      "types": [
+        "Grass"
+      ],
+      "hp": 110,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Slash",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        },
+        {
+          "name": "Gaia Buster",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "50+",
+          "text": "Does 20 more damage for each Grass Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a1/77/0f/a1770fe4784430f9d166ca019cc52aacdf5b372117a2eba1e47f415b983d0fa3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24624",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 7504142,
+      "prices": []
+    },
+    {
+      "id": 11409,
+      "setData": {
+        "name": "Mewtwo vs Genesect Deck Kit (Genesect)",
+        "printed_count": "17",
+        "card_count": 17,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/mewtwo-vs-genesect-deck-kit-genesect"
+      },
+      "name": "Energy Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Move a basic Energy from 1 of your Pokémon to another of your Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b1/ca/d9/b1cad928f736dcd3c2e541274bf4567ee2f0af410b53adc6179bfa1b0677bc5c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24625",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 48976514,
+      "prices": []
+    },
+    {
+      "id": 11410,
+      "setData": {
+        "name": "Mewtwo vs Genesect Deck Kit (Genesect)",
+        "printed_count": "17",
+        "card_count": 17,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/mewtwo-vs-genesect-deck-kit-genesect"
+      },
+      "name": "Great Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/01/5d/91/015d914f655c177a3d1e34fcdf7a6ae19173e1a2c66a973d1282e67e168315bc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24626",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 98389261,
+      "prices": []
+    },
+    {
+      "id": 11411,
+      "setData": {
+        "name": "Mewtwo vs Genesect Deck Kit (Genesect)",
+        "printed_count": "17",
+        "card_count": 17,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/mewtwo-vs-genesect-deck-kit-genesect"
+      },
+      "name": "Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Switch your Active Pokémon with 1 of your Benched Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/93/ef/25/93ef2560f10e3c81cfe18356b1a9ef5c18b4e6e67e288658e03a962da2d5a6d1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24627",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 40140037,
+      "prices": []
+    },
+    {
+      "id": 11412,
+      "setData": {
+        "name": "Mewtwo vs Genesect Deck Kit (Genesect)",
+        "printed_count": "17",
+        "card_count": 17,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/mewtwo-vs-genesect-deck-kit-genesect"
+      },
+      "name": "Pokémon Catcher",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Switch your opponents Active Pokémon with 1 of his or her Benched Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fa/3f/06/fa3f068f5944188074cd44a0fd26423fe48bce77a23dfd6bab74dd62f9a60319.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24628",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 46083909,
+      "prices": []
+    },
+    {
+      "id": 11413,
+      "setData": {
+        "name": "Mewtwo vs Genesect Deck Kit (Genesect)",
+        "printed_count": "17",
+        "card_count": 17,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/mewtwo-vs-genesect-deck-kit-genesect"
+      },
+      "name": "Giant Cape",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "The Pokémon this card is attached to gets +20 HP."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/86/1b/7e/861b7e62af1f70fd90f7d9b1ea002a2ef9da8d104472d7176ba5eacd0e39d7f1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24629",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 1043692,
+      "prices": []
+    },
+    {
+      "id": 11414,
+      "setData": {
+        "name": "Mewtwo vs Genesect Deck Kit (Genesect)",
+        "printed_count": "17",
+        "card_count": 17,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/mewtwo-vs-genesect-deck-kit-genesect"
+      },
+      "name": "Cheren",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Draw 3 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7e/20/b1/7e20b1c12ee1f8c5a29894459f400f2f1e15eac23af4f9a19c714d1b02ff0222.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24630",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 99780923,
+      "prices": []
+    },
+    {
+      "id": 11415,
+      "setData": {
+        "name": "Mewtwo vs Genesect Deck Kit (Genesect)",
+        "printed_count": "17",
+        "card_count": 17,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/mewtwo-vs-genesect-deck-kit-genesect"
+      },
+      "name": "Bianca",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Draw cards until you have 6 cards in your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/68/91/5c/68915c202451e5baf7f1a37e9c6493c8db0ccd23cfdb4b21d2d04ff45a172d30.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24631",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 12339773,
+      "prices": []
+    },
+    {
+      "id": 11416,
+      "setData": {
+        "name": "Mewtwo vs Genesect Deck Kit (Genesect)",
+        "printed_count": "17",
+        "card_count": 17,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/mewtwo-vs-genesect-deck-kit-genesect"
+      },
+      "name": "Double Colorless Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Double Colorless Energy provides Colorless Colorless Energy."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b9/81/9b/b9819b99826bc8157a120436a33a49a753729348a7a46a1fe09c54dc6b19099a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24632",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 38409104,
+      "prices": []
+    },
+    {
+      "id": 11417,
+      "setData": {
+        "name": "Mewtwo vs Genesect Deck Kit (Genesect)",
+        "printed_count": "17",
+        "card_count": 17,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/mewtwo-vs-genesect-deck-kit-genesect"
+      },
+      "name": "Grass Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/24633",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 35532165,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 17,
+  "totalCount": 17
+}

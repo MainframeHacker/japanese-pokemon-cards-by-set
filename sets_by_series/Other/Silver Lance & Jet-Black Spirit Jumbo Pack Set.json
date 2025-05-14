@@ -1,0 +1,327 @@
+{
+  "data": [
+    {
+      "id": 3504,
+      "setData": {
+        "name": "Silver Lance & Jet-Black Spirit Jumbo Pack Set",
+        "printed_count": "6",
+        "card_count": 6,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/silver-lance-and-jet-black-spirit-jumbo-pack-set"
+      },
+      "name": "Ice Rider Calyrex V",
+      "types": [
+        "Water"
+      ],
+      "hp": 210,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Blizzard",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40",
+          "text": "This attack also does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Frost Stamp",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "140"
+        }
+      ],
+      "rules": [
+        "When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "V",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/22/5d/f4/225df487fa615bba0e4bce1557adedb3a04f6ece92283a81c71900029a16c3b4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34423",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 98791299,
+      "prices": []
+    },
+    {
+      "id": 3505,
+      "setData": {
+        "name": "Silver Lance & Jet-Black Spirit Jumbo Pack Set",
+        "printed_count": "6",
+        "card_count": 6,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/silver-lance-and-jet-black-spirit-jumbo-pack-set"
+      },
+      "name": "Shadow Rider Calyrex V",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 210,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Darkness Cloak",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Attach a Psychic Energy card from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Hollow Bind",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "130",
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+        }
+      ],
+      "rules": [
+        "When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "V",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a2/55/76/a25576e9f4fc38c1bc7fd0fed41b482ddcdb164b98ff98dc4701cf334ce5b13f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34424",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 98345212,
+      "prices": []
+    },
+    {
+      "id": 3506,
+      "setData": {
+        "name": "Silver Lance & Jet-Black Spirit Jumbo Pack Set",
+        "printed_count": "6",
+        "card_count": 6,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/silver-lance-and-jet-black-spirit-jumbo-pack-set"
+      },
+      "name": "Suspicious Food Tin",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Heal 80 damage from 1 of your Pokémon that has at least 1 Psychic Energy attached. If you healed any damage in this way, discard a Psychic Energy from it."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5a/36/a4/5a36a4eed178147c5448a2bc879e03acd5e411c83e68d0c8640866b2fb8d5c16.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34425",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 34825970,
+      "prices": []
+    },
+    {
+      "id": 3507,
+      "setData": {
+        "name": "Silver Lance & Jet-Black Spirit Jumbo Pack Set",
+        "printed_count": "6",
+        "card_count": 6,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/silver-lance-and-jet-black-spirit-jumbo-pack-set"
+      },
+      "name": "Capacious Bucket",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Search your deck for up to 2 Water Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "sadaji",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f8/d5/6c/f8d56cb00eab0f50229044a258e723bb6c8a214e1a3c49d70e9b7e06ee738684.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34426",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 73736358,
+      "prices": []
+    },
+    {
+      "id": 3508,
+      "setData": {
+        "name": "Silver Lance & Jet-Black Spirit Jumbo Pack Set",
+        "printed_count": "6",
+        "card_count": 6,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/silver-lance-and-jet-black-spirit-jumbo-pack-set"
+      },
+      "name": "Wash Water Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"As long as this card is attached to a Pokémon, it provides Water Energy.    Prevent all effects of attacks from your opponents Pokémon done to the Water Pokémon this card is attached to. (Existing effects are not removed. Damage is not an effect.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2d/d6/75/2dd6751af5954d7c831bee09a21f8553263dac62b8ba58c2d578dfcdaa9ebb39.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34427",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 94695759,
+      "prices": []
+    },
+    {
+      "id": 3509,
+      "setData": {
+        "name": "Silver Lance & Jet-Black Spirit Jumbo Pack Set",
+        "printed_count": "6",
+        "card_count": 6,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/silver-lance-and-jet-black-spirit-jumbo-pack-set"
+      },
+      "name": "Horror Psychic Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"As long as this card is attached to a Pokémon, it provides Psychic Energy.    If the Psychic Pokémon this card is attached to is in the Active Spot and is damaged by an opponents attack (even if it is Knocked Out), put 2 damage counters on the Attacking Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/11/2d/50/112d50ccc3963edb0cfb8690c9443d26e8fd7497c33837a6397663d16c0c943e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/34428",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 78707756,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 6,
+  "totalCount": 6
+}

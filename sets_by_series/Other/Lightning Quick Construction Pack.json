@@ -1,0 +1,850 @@
+{
+  "data": [
+    {
+      "id": 23529,
+      "setData": {
+        "name": "Lightning Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/lightning-quick-construction-pack"
+      },
+      "name": "Pikachu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Pika Ball",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Thundershock",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/53/18/97/5318976661039a4bded37f0989d3304980c26bb71ee0ba76559092d70f8d2cb2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41155",
+      "sequenceNumber": 1,
+      "printedNumber": "001",
+      "uuid": 49008564,
+      "prices": []
+    },
+    {
+      "id": 23530,
+      "setData": {
+        "name": "Lightning Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/lightning-quick-construction-pack"
+      },
+      "name": "Raichu ex",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Pikachu",
+      "effect": [
+        {
+          "name": "Rai-shield",
+          "text": "Damage done to any of your Raichu ex in play by attacks from your opponent's Pokémon-ex is reduced by 30 (after applying Weakness and Resistance.) You can't use more than 1 Rai-shield Poké-Body each turn.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Pika Bolt",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "70"
+        },
+        {
+          "name": "Power Short",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon). If that Pokémon has Poké-Powers, this attack does 30 damage plus 20 more damage."
+        }
+      ],
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e0/16/99/e0169961be1c515e708be3e15ca9c3f793b64e61bd7aaf1086eca3f85ac40953.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41156",
+      "sequenceNumber": 2,
+      "printedNumber": "002",
+      "uuid": 30489206,
+      "prices": []
+    },
+    {
+      "id": 23531,
+      "setData": {
+        "name": "Lightning Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/lightning-quick-construction-pack"
+      },
+      "name": "Voltorb",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Ram",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Speed Ball",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/59/21/74/59217403d457e7a6438ca21af0f385f617844f2bc071d1b4718cff3135867a7f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41157",
+      "sequenceNumber": 3,
+      "printedNumber": "003",
+      "uuid": 40959737,
+      "prices": []
+    },
+    {
+      "id": 23532,
+      "setData": {
+        "name": "Lightning Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/lightning-quick-construction-pack"
+      },
+      "name": "Electrode",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Voltorb",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Speed Ball",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50"
+        },
+        {
+          "name": "Thundershock",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d6/af/e2/d6afe2b82ed0ff4eee0b82f755acd945a6a00649639b59ca2110d6376eec3781.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41158",
+      "sequenceNumber": 4,
+      "printedNumber": "004",
+      "uuid": 45683838,
+      "prices": []
+    },
+    {
+      "id": 23533,
+      "setData": {
+        "name": "Lightning Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/lightning-quick-construction-pack"
+      },
+      "name": "Electrike",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Rear Kick",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Skull Bash",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d7/5f/20/d75f20889363bec9b4e8edc62ff98993dc384240cecd5a1649f20073ce29b34d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41159",
+      "sequenceNumber": 5,
+      "printedNumber": "005",
+      "uuid": 94196809,
+      "prices": []
+    },
+    {
+      "id": 23534,
+      "setData": {
+        "name": "Lightning Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/lightning-quick-construction-pack"
+      },
+      "name": "Manectric",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Electrike",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Swift",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on the Defending Pokémon."
+        },
+        {
+          "name": "Tail Shock",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "Does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/02/5f/c1/025fc144e78ded08c89206528fa8f1a425677f8e95ebef3ab0f409b4056b2a27.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41160",
+      "sequenceNumber": 6,
+      "printedNumber": "006",
+      "uuid": 22174459,
+      "prices": []
+    },
+    {
+      "id": 23535,
+      "setData": {
+        "name": "Lightning Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/lightning-quick-construction-pack"
+      },
+      "name": "Farfetch'd",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Nosedive",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Farfetch'd does 10 damage to itself."
+        },
+        {
+          "name": "Spearhead",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Draw a card."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5b/8e/b4/5b8eb4851d6da8ac01e62e12c3ac5a85a2f19f5fdfd44d4ab80fe9b86f273bee.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41161",
+      "sequenceNumber": 7,
+      "printedNumber": "007",
+      "uuid": 87406544,
+      "prices": []
+    },
+    {
+      "id": 23536,
+      "setData": {
+        "name": "Lightning Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/lightning-quick-construction-pack"
+      },
+      "name": "Potion",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Heal 30 damage from 1 of your Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/71/02/3f/71023f7bbffaf52ee012a15317226be12cc4058835c0a5d5ef4d377e1756fc24.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41162",
+      "sequenceNumber": 8,
+      "printedNumber": "008",
+      "uuid": 81379497,
+      "prices": []
+    },
+    {
+      "id": 23537,
+      "setData": {
+        "name": "Lightning Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/lightning-quick-construction-pack"
+      },
+      "name": "Professor Cozmo's Discovery",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+        "Flip a coin. If heads, draw the bottom 3 cards of your deck. If tails, draw the top 2 cards of your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d7/c2/b3/d7c2b3f4a6a91758d8507e683b54f624cb9ceb7d534e3ff5a03985dacec77b9b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41163",
+      "sequenceNumber": 9,
+      "printedNumber": "009",
+      "uuid": 41461958,
+      "prices": []
+    },
+    {
+      "id": 23538,
+      "setData": {
+        "name": "Lightning Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/lightning-quick-construction-pack"
+      },
+      "name": "Mr. Stone's Project",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+        "Search your deck for up to 2 basic Energy cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward. Or, search your discard pile for up to 2 basic Energy cards, show them to your opponent, and put them into your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4b/98/29/4b982986ef8680de98604619c74983054c3d4856114b8be261dcb6410db78698.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41164",
+      "sequenceNumber": 10,
+      "printedNumber": "010",
+      "uuid": 21044954,
+      "prices": []
+    },
+    {
+      "id": 23539,
+      "setData": {
+        "name": "Lightning Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/lightning-quick-construction-pack"
+      },
+      "name": "Lightning Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/41165",
+      "sequenceNumber": -1,
+      "printedNumber": "-1",
+      "uuid": 59564568,
+      "prices": []
+    },
+    {
+      "id": 23540,
+      "setData": {
+        "name": "Lightning Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/lightning-quick-construction-pack"
+      },
+      "name": "Lightning Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/41166",
+      "sequenceNumber": -1,
+      "printedNumber": "-1",
+      "uuid": 59564568,
+      "prices": []
+    },
+    {
+      "id": 23541,
+      "setData": {
+        "name": "Lightning Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/lightning-quick-construction-pack"
+      },
+      "name": "Lightning Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/41167",
+      "sequenceNumber": -1,
+      "printedNumber": "-1",
+      "uuid": 59564568,
+      "prices": []
+    },
+    {
+      "id": 23542,
+      "setData": {
+        "name": "Lightning Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/lightning-quick-construction-pack"
+      },
+      "name": "Lightning Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/41168",
+      "sequenceNumber": -1,
+      "printedNumber": "-1",
+      "uuid": 59564568,
+      "prices": []
+    },
+    {
+      "id": 23543,
+      "setData": {
+        "name": "Lightning Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/lightning-quick-construction-pack"
+      },
+      "name": "Lightning Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/41169",
+      "sequenceNumber": -1,
+      "printedNumber": "-1",
+      "uuid": 59564568,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 15,
+  "totalCount": 15
+}

@@ -1,0 +1,4727 @@
+{
+  "data": [
+    {
+      "id": 8828,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Phantump",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Confuse Ray",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sanosuke Sakuma",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1f/d7/28/1fd728f983387c639034753b9877e9a8b3ee5c285de05876517c72f81cbfac48.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22033",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 36541153,
+      "prices": []
+    },
+    {
+      "id": 8829,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Trevenant",
+      "types": [
+        "Grass"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Phantump",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Poltergeist",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30×",
+          "text": "Your opponent reveals their hand. This attack does 30 damage for each Trainer card you find there."
+        },
+        {
+          "name": "Horn Leech",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "Heal 30 damage from this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hiroyuki Yamamoto",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ef/58/bb/ef58bbd0ccf5631b3b421198a6b4ea28fa4364838f1802db1e1cbd8e4949cfde.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22034",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 74644139,
+      "prices": []
+    },
+    {
+      "id": 8830,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Litwick",
+      "types": [
+        "Fire"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Flickering Flames",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/26/d3/1f/26d31f38e7ef5359296affeaa53f5abc7ec377c3727ae4c2ce4d88e2a7dac1c3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22035",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 19278901,
+      "prices": []
+    },
+    {
+      "id": 8831,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Lampent",
+      "types": [
+        "Fire"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Litwick",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Will-O-Wisp",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "0313",
+      "imageUrl": "https://static.tcgcollector.com/content/images/90/da/a5/90daa51a4a5df590d5c86d68231fc8952c13ca3b350da8794a942736047fade6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22036",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 26153824,
+      "prices": []
+    },
+    {
+      "id": 8832,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Chandelure",
+      "types": [
+        "Fire"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Lampent",
+      "effect": [
+        {
+          "name": "Shady Move",
+          "text": "Once during your turn (before your attack), you may move 1 damage counter from 1 Pokémon to another Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Super Singe",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "50",
+          "text": "Your opponent's Active Pokémon is now Burned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/28/22/32/282232c95ed18f0cbc1b8073066e14b2e26375fa5d63060bf0dcf700cfd62c08.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22037",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 44252290,
+      "prices": [
+        {
+          "priceAmount": 3552,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "12/10/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/chandelure-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1330,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "12/10/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/chandelure-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "12/10/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/chandelure-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 135,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/chandelure-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8833,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Salandit",
+      "types": [
+        "Fire"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Scratch",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Venoshock",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "If your opponent's Active Pokémon is Poisoned, this attack does 40 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "TOKIYA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f5/48/37/f54837a625970aa216c0a68daf1eff4b4eb293e4dfd52612a70b3892ee70909e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22038",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 32034057,
+      "prices": []
+    },
+    {
+      "id": 8834,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Salazzle",
+      "types": [
+        "Fire"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Salandit",
+      "effect": [
+        {
+          "name": "Hot Poison",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may leave your opponent's Active Pokémon Burned and Poisoned.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Flamethrower",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "Discard an Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8a/40/c6/8a40c6ab7e963709a4276cc37b71ef7dafc09a8d63ceb705d0d86436e1ea0b4f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22039",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 34028164,
+      "prices": []
+    },
+    {
+      "id": 8835,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Tentacool",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sludge Shock",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "The Defending Pokémon can't be healed during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shibuzoh.",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2a/74/c8/2a74c88a64115b637f24e8f21de0b2da2738a4a0eb2ca3fbf97ca8aaa91b2f58.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22040",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 62724358,
+      "prices": []
+    },
+    {
+      "id": 8836,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Tentacruel",
+      "types": [
+        "Water"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Tentacool",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Poison Sting",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        },
+        {
+          "name": "Seething Tentacles",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40+",
+          "text": "Flip a coin. If heads, this attack does 40 more damage. If tails, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/92/74/6a/92746a4de955d79543ce6df25417aadd0f74c59c24561c32584d3c45def1276a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22041",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 94225689,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/tentacruel-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8837,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Wailmer",
+      "types": [
+        "Water"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Splash",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        },
+        {
+          "name": "Surf",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "70"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Miki Tanaka",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d1/3d/f3/d13df39e4f9feccf67132292800e6958862dcca8985c16d1fc96ede1e33c7703.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22042",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 89645729,
+      "prices": []
+    },
+    {
+      "id": 8838,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Wailord",
+      "types": [
+        "Water"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Wailmer",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dive",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        },
+        {
+          "name": "Open Sea",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "80",
+          "text": "Heal 30 damage from each of your Water Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "OOYAMA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/88/c7/c1/88c7c104366fa963fe1d23456e6b13d74290e959cd09600b0fed7641f2edef4e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22043",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 34083689,
+      "prices": [
+        {
+          "priceAmount": 488,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/wailord-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8839,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Alomomola",
+      "types": [
+        "Water"
+      ],
+      "hp": 110,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Borne Ashore",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Put a Basic Pokémon from either player's discard pile onto its owner's Bench."
+        },
+        {
+          "name": "Hydro Splash",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Aya Kusube",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ff/b0/ed/ffb0edd685a5699c063b64462ab709206386e63474033c75450999fe6e5c1924.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22044",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 78947809,
+      "prices": []
+    },
+    {
+      "id": 8840,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Wishiwashi",
+      "types": [
+        "Water"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Schooling",
+          "text": "Once during your turn (before your attack), you may switch this Pokémon with a Wishiwashi-GX in your hand. Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Sharpshooting",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "This attack does 10 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sanosuke Sakuma",
+      "imageUrl": "https://static.tcgcollector.com/content/images/dc/f8/1c/dcf81c30fa08066f6ecef9eaa9925e571edfc2f91e186d815b1dd15bcbcaceb0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22045",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 94499103,
+      "prices": []
+    },
+    {
+      "id": 8841,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Wishiwashi-GX",
+      "types": [
+        "Water"
+      ],
+      "hp": 210,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        },
+        {
+          "name": "Torrential Vortex",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "120",
+          "text": "Discard a Special Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Blue Surge-GX",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "220",
+          "text": "Move all Energy from this Pokémon to your Benched Pokémon in any way you like. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/40/83/81/40838158529e13fa10a9cbbc3cfca9e2293632294822a48cfbf8e6769c4350f4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22046",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 88235542,
+      "prices": [
+        {
+          "priceAmount": 1300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/wishiwashi-gx-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 750,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/wishiwashi-gx-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/wishiwashi-gx-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 318,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/wishiwashi-gx-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8842,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Alolan Geodude",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Rock Polish",
+          "cost": [],
+          "convertedEnergyCost": 0,
+          "text": "During your next turn, this Pokémon has no Retreat Cost."
+        },
+        {
+          "name": "Rollout",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Alolan",
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hitoshi Ariga",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ca/58/3d/ca583d2300fc2dbd7a4b1b7d56a6e0ce2563371f075f916891a4a1d905b5a4c7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22047",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 64255421,
+      "prices": []
+    },
+    {
+      "id": 8843,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Alolan Graveler",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Alolan Geodude",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Thunder Punch",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage. If tails, this Pokémon does 20 damage to itself."
+        },
+        {
+          "name": "Electrobullet",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "80",
+          "text": "This attack does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Alolan",
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "match",
+      "imageUrl": "https://static.tcgcollector.com/content/images/24/48/9e/24489e896f174c50db8818eefe9cb2508bfc1a6806aeee607eef17682501da50.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22048",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 73235385,
+      "prices": []
+    },
+    {
+      "id": 8844,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Alolan Golem",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 160,
+      "evolvesFrom": "Alolan Graveler",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Electromagnetic Rock Wrecker",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80×",
+          "text": "Flip a coin for each Lightning Energy attached to this Pokémon. This attack does 80 damage for each heads."
+        },
+        {
+          "name": "Heavy Slam",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "200-",
+          "text": "This attack does 30 less damage for each Colorless in your opponent's Active Pokémon's Retreat Cost."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Alolan",
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/13/2d/94/132d94393b324e36ffa6493c60d4af3df6daeb034733f779a7e63cec6e19ebb2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22049",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 25013165,
+      "prices": [
+        {
+          "priceAmount": 183,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/alolan-golem-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8845,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Trubbish",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Stomp Off",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Discard the top card of your opponent's deck."
+        },
+        {
+          "name": "Drool",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yuka Morii",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f8/60/ca/f860ca2f1b8d72dc2e8e21b60a1ec3fda926fabac8a45844c68ed4783141e359.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22050",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 40832382,
+      "prices": []
+    },
+    {
+      "id": 8846,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Garbodor",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Trubbish",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Trashalanche",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20×",
+          "text": "This attack does 20 damage for each Item card in your opponent's discard pile."
+        },
+        {
+          "name": "Acid Spray",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/29/12/49/291249f9febab252ea301d3ea773e8942c5f71c1b9b9df42f4edb37a8ee90c6a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22051",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 62719367,
+      "prices": []
+    },
+    {
+      "id": 8847,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Mimikyu",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Filch",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Draw 2 cards."
+        },
+        {
+          "name": "Copycat",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "If your opponent's Pokémon used an attack that isn't a GX attack during their last turn, use it as this attack."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Megumi Mizutani",
+      "imageUrl": "https://static.tcgcollector.com/content/images/39/90/f9/3990f97ca354ce969f9c367daee95adfe47b6d1edaa3c904364c45b7e4b6d725.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22052",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 49659039,
+      "prices": [
+        {
+          "priceAmount": 6750,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/mimikyu-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/mimikyu-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 5664,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/mimikyu-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 6200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/mimikyu-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 960,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/mimikyu-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8848,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Dhelmise",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Steelworker",
+          "text": "Your (Metal) Pokémon's attacks do 10 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Anchor Shot",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hasuno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a7/4a/4e/a74a4e753c2c189880ab7e0499918070bca6b7ba11361c182a8f19017c176b22.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22053",
+      "sequenceNumber": 21,
+      "printedNumber": "21",
+      "uuid": 89869817,
+      "prices": [
+        {
+          "priceAmount": 252,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/dhelmise-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8849,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Tapu Lele-GX",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Wonder Tag",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Energy Drive",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "This attack does 20 damage times the amount of Energy attached to both Active Pokémon. This damage isn't affected by Weakness or Resistance."
+        },
+        {
+          "name": "Tapu Cure-GX",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Heal all damage from 2 of your Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/02/42/d7/0242d7d4eb72e1e4ab44d4c71213c9469789c9d709f903a4d29d2fdc042627fd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22054",
+      "sequenceNumber": 22,
+      "printedNumber": "22",
+      "uuid": 23444861,
+      "prices": [
+        {
+          "priceAmount": 2050,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/tapu-lele-gx-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1693,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/tapu-lele-gx-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/tapu-lele-gx-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 297,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/tapu-lele-gx-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8850,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Gligar",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Double Shot",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "This attack does 10 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mina Nakai",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f8/11/fe/f811fe456ce4a237692da5b4e671ad435e63457b2f1939910478bac8b3bd5853.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22055",
+      "sequenceNumber": 23,
+      "printedNumber": "23",
+      "uuid": 98868096,
+      "prices": []
+    },
+    {
+      "id": 8851,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Gliscor",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Gligar",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Finishing Stinger",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "70",
+          "text": "If your opponent's Active Pokémon has no damage counters on it before this attack does damage, this attack does nothing."
+        },
+        {
+          "name": "Guillotine",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yoshinobu Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1d/cf/eb/1dcfeb1a1ebb954a64c801ca93eb9a915fb834829eb4040f8584eaff97dc5a45.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22056",
+      "sequenceNumber": 24,
+      "printedNumber": "24",
+      "uuid": 77171837,
+      "prices": []
+    },
+    {
+      "id": 8852,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Pancham",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Karate Chop",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "60-",
+          "text": "This attack does 10 less damage for each damage counter on this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "TOKIYA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/04/a3/a3/04a3a398e8e1c4af8b34caf940c8efabebeab1a3e4bbd9265d8b9a8bcc278253.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22057",
+      "sequenceNumber": 25,
+      "printedNumber": "25",
+      "uuid": 23879075,
+      "prices": []
+    },
+    {
+      "id": 8853,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Rockruff",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Corner",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Wild Kick",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoki Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f4/3c/ad/f43cad90c213f20bb69cbe9e694c6a5e706679621070e390746789d17e0cb4cb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22058",
+      "sequenceNumber": 26,
+      "printedNumber": "26",
+      "uuid": 85252741,
+      "prices": []
+    },
+    {
+      "id": 8854,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Lycanroc-GX",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Rockruff",
+      "effect": [
+        {
+          "name": "Bloodthirsty Eyes",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Claw Slash",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "110"
+        },
+        {
+          "name": "Dangerous Rogue-GX",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50×",
+          "text": "This attack does 50 damage for each of your opponent's Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 1"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4e/99/1c/4e991c08c3d574c6ba32914e6c8b82927b7ce1d6076a810936dce8251384580a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22059",
+      "sequenceNumber": 27,
+      "printedNumber": "27",
+      "uuid": 30062584,
+      "prices": [
+        {
+          "priceAmount": 4328,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/lycanroc-gx-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1854,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/lycanroc-gx-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/lycanroc-gx-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 478,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/lycanroc-gx-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8855,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Minior",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Swift",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on your opponent's Active Pokémon."
+        },
+        {
+          "name": "Cosmicsplosion",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "190",
+          "text": "This Pokémon is Knocked Out."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoki Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5f/9a/de/5f9adeb0a700b68e888f76f620d7d886b1c32f9b37f549ab08916f01b0370a6f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22060",
+      "sequenceNumber": 28,
+      "printedNumber": "28",
+      "uuid": 13276986,
+      "prices": [
+        {
+          "priceAmount": 99,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/minior-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8856,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Murkrow",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Whirlwind",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sekio",
+      "imageUrl": "https://static.tcgcollector.com/content/images/88/e6/b9/88e6b9f470811a065c2aba3d344a1e34bf73100822be91a81f3bed309eac96c3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22061",
+      "sequenceNumber": 29,
+      "printedNumber": "29",
+      "uuid": 63078113,
+      "prices": []
+    },
+    {
+      "id": 8857,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Honchkrow",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Murkrow",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Feint Attack",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "This attack does 30 damage to 1 of your opponent's Pokémon. This damage isn't affected by Weakness, Resistance, or any other effects on that Pokémon."
+        },
+        {
+          "name": "Raven's Claw",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "This attack does 10 more damage for each damage counter on all of your opponent's Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hideki Ishikawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/33/1b/fb/331bfb526f94a660591760b8aab9fdbc77ff01a868e2a2ff1b811e91fbfa91e7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22062",
+      "sequenceNumber": 30,
+      "printedNumber": "30",
+      "uuid": 59404252,
+      "prices": []
+    },
+    {
+      "id": 8858,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Sableye",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Limitation",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent can't play any Supporter cards from their hand during their next turn."
+        },
+        {
+          "name": "Scratch",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Aya Kusube",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1c/b7/77/1cb777f46ea42b6dd14d413ed44c692f2d8222ec3b391627ce255e0acc966eca.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22063",
+      "sequenceNumber": 31,
+      "printedNumber": "31",
+      "uuid": 92079116,
+      "prices": []
+    },
+    {
+      "id": 8859,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Pangoro",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Pancham",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sky Uppercut",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": "This attack's damage isn't affected by Resistance."
+        },
+        {
+          "name": "Magnum Punch",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "130"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kodama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/30/af/52/30af524b97f158426d35e293039c3d2c2edc66d3c1c421cb1ffac78b352b8dba.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22064",
+      "sequenceNumber": 32,
+      "printedNumber": "32",
+      "uuid": 58051969,
+      "prices": [
+        {
+          "priceAmount": 500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/pangoro-32",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8860,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Beldum",
+      "types": [
+        "Metal"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Core Beam",
+          "cost": [
+            "Metal"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Discard a Metal Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kyoko Umemoto",
+      "imageUrl": "https://static.tcgcollector.com/content/images/73/02/be/7302bed4739ae1ca8d09390b3f73142a537c3de77f780959468066c4db49a154.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22065",
+      "sequenceNumber": 33,
+      "printedNumber": "33",
+      "uuid": 43651546,
+      "prices": []
+    },
+    {
+      "id": 8861,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Metang",
+      "types": [
+        "Metal"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Beldum",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Ram",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        },
+        {
+          "name": "Core Beam",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": "Discard a Metal Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a8/5f/14/a85f143f54987954309fc5089501f362a3cb5b5e148cf10bbbaaf4a2c35df936.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22066",
+      "sequenceNumber": 34,
+      "printedNumber": "34",
+      "uuid": 31627058,
+      "prices": []
+    },
+    {
+      "id": 8862,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Metagross-GX",
+      "types": [
+        "Metal"
+      ],
+      "hp": 250,
+      "evolvesFrom": "Metang",
+      "effect": [
+        {
+          "name": "Geotech System",
+          "text": "Once during your turn (before your attack), you may attach a Psychic or Metal Energy card from your discard pile to your Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Giga Hammer",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "150",
+          "text": "This Pokémon can't use Giga Hammer during your next turn."
+        },
+        {
+          "name": "Algorithm-GX",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 5 cards and put them into your hand. Then, shuffle your deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 2"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/90/1f/82/901f821fbf856df6ca92ba6d789e70fb4229c521b59b17b4c5320a336571d3bb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22067",
+      "sequenceNumber": 35,
+      "printedNumber": "35",
+      "uuid": 10288687,
+      "prices": [
+        {
+          "priceAmount": 950,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/metagross-gx-35",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 438,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/metagross-gx-35",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8863,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Cottonee",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Continuous Tumble",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip a coin until you get tails. This attack does 10 damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Megumi Mizutani",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cd/61/cc/cd61cc33e5b251b582879f2346c01cefa3d58a223787e51fa8ec508e78387014.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22068",
+      "sequenceNumber": 36,
+      "printedNumber": "36",
+      "uuid": 19990439,
+      "prices": []
+    },
+    {
+      "id": 8864,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Whimsicott",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Cottonee",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "The Wages of Fluff",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "If the Defending Pokémon is Knocked Out during your next turn, take 2 more Prize cards."
+        },
+        {
+          "name": "Fairy Wind",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/07/e7/7c/07e77cdfe7e8a7073daa8da2cf4db27f451a714ae11bfd237215d1264c3846da.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22069",
+      "sequenceNumber": 37,
+      "printedNumber": "37",
+      "uuid": 893845,
+      "prices": []
+    },
+    {
+      "id": 8865,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Goomy",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bubble",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Tackle",
+          "cost": [
+            "Water",
+            "Fairy"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Asako Ito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/da/92/74/da9274b72f9b80c9378d794128897feae753d01f1e42b5ed8fb8d90514630eeb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22070",
+      "sequenceNumber": 38,
+      "printedNumber": "38",
+      "uuid": 56331770,
+      "prices": []
+    },
+    {
+      "id": 8866,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Sliggoo",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Goomy",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Division",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 2 Sliggoo and put them onto your Bench. Then, shuffle your deck."
+        },
+        {
+          "name": "Tackle",
+          "cost": [
+            "Water",
+            "Fairy"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Tomokazu Komiya",
+      "imageUrl": "https://static.tcgcollector.com/content/images/90/2a/08/902a087d247615faea2210e5b9bdf2ea2b5838a3a3aaf743d6551f60da6fb365.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22071",
+      "sequenceNumber": 39,
+      "printedNumber": "39",
+      "uuid": 33640549,
+      "prices": []
+    },
+    {
+      "id": 8867,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Goodra",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 160,
+      "evolvesFrom": "Sliggoo",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Power Whip",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "This attack does 20 damage times the amount of Energy attached to this Pokémon to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Beat Slider",
+          "cost": [
+            "Water",
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "130",
+          "text": "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoki Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/25/64/5c/25645cc6feefbe0f79d09f2b0e726ef0e334deb0f6291765a0937cf9b0fcc330.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22072",
+      "sequenceNumber": 40,
+      "printedNumber": "40",
+      "uuid": 28171624,
+      "prices": [
+        {
+          "priceAmount": 316,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/goodra-40",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8868,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Castform",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Weather Teller",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 2 Stadium cards, reveal them, and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Water Pulse",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "sui",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8c/a6/de/8ca6de04a8a0c411612feae32aa1a37ba7e0857f617ccc89abc3fefc184dc01a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22073",
+      "sequenceNumber": 41,
+      "printedNumber": "41",
+      "uuid": 33661769,
+      "prices": []
+    },
+    {
+      "id": 8869,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Patrat",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Glance",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Look at the top card of your opponent's deck."
+        },
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ayaka Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/95/7a/76/957a76ddb973f620954d73c075e3135148f785891d42ada680ac655352ad70dd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22074",
+      "sequenceNumber": 42,
+      "printedNumber": "42",
+      "uuid": 49423909,
+      "prices": []
+    },
+    {
+      "id": 8870,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Watchog",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Patrat",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Scrutinize",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Look at the top 2 cards of your opponent's deck, discard 1 of them, and put the other card back."
+        },
+        {
+          "name": "Slam",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60×",
+          "text": "Flip 2 coins. This attack does 60 damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c5/21/33/c52133c9e1d592819c5ae00a206e8972af58fc02c5cdbb958c1e935808e9ac7c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22075",
+      "sequenceNumber": 43,
+      "printedNumber": "43",
+      "uuid": 28447237,
+      "prices": [
+        {
+          "priceAmount": 500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/watchog-43",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8871,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Fletchling",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Growl",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "During your opponent's next turn, the Defending Pokémon's attacks do 20 less damage (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Flap",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "You Iribi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/53/e2/db/53e2db2cd90dd217c9114c72b141a4080bb80d23035418fd8ca754e763a1ad6d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22076",
+      "sequenceNumber": 44,
+      "printedNumber": "44",
+      "uuid": 36143038,
+      "prices": []
+    },
+    {
+      "id": 8872,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Fletchinder",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Fletchling",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Flap",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        },
+        {
+          "name": "Razor Wind",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kawayoo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/93/0b/d5/930bd53a3fca652c10adfcf0bf26ffec8c83aeb492e450e79083856a29d32a2a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22077",
+      "sequenceNumber": 45,
+      "printedNumber": "45",
+      "uuid": 59003165,
+      "prices": []
+    },
+    {
+      "id": 8873,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Talonflame",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Fletchinder",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Flame Charge",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "Search your deck for a Fire Energy card and attach it to this Pokémon. Then, shuffle your deck."
+        },
+        {
+          "name": "Loop-the-Loop",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "90",
+          "text": "Put all Energy attached to this Pokémon into your hand."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/99/ce/df/99cedf642bc518e108f73e6fa099c988b0924958910b2c8780fbce949ccc766c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22078",
+      "sequenceNumber": 46,
+      "printedNumber": "46",
+      "uuid": 13823674,
+      "prices": []
+    },
+    {
+      "id": 8874,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Aqua Patch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Attach a Water Energy card from your discard pile to 1 of your Benched Water Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fd/2b/06/fd2b069c6c792615963d33b9c343bc473421c3cb35804cc61cee6361662ace38.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22079",
+      "sequenceNumber": 47,
+      "printedNumber": "47",
+      "uuid": 40554824,
+      "prices": []
+    },
+    {
+      "id": 8875,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Rescue Stretcher",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Choose 1:  • Put a Pokémon from your discard pile into your hand. • Shuffle 3 Pokémon from your discard pile into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yoshinobu Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e7/e7/bc/e7e7bc816308d405aedf2e022ff7308bdba487b1fe588f14771d289e23840cbc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22080",
+      "sequenceNumber": 48,
+      "printedNumber": "48",
+      "uuid": 48024046,
+      "prices": []
+    },
+    {
+      "id": 8876,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Mallow",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Search your deck for 2 cards, shuffle your deck, then put those cards on top of it in any order."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bd/a3/64/bda3643ee144a0f7f01fcba019ed4767b16116443d210cc8bf2f5d16ca3bcea5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22081",
+      "sequenceNumber": 49,
+      "printedNumber": "49",
+      "uuid": 2346245,
+      "prices": []
+    },
+    {
+      "id": 8877,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Brooklet Hill",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you cant play this card.\", \"Once during each players turn, that player may search their deck for a Basic Water Pokémon or Basic Fighting Pokémon, put it onto their Bench, and shuffle their deck.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b5/8b/fc/b58bfc1ec4c34da2f56b0a39f2b7efb7cd26a10405e4a90e40f7cb2d592ed70d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22082",
+      "sequenceNumber": 50,
+      "printedNumber": "50",
+      "uuid": 32169708,
+      "prices": []
+    },
+    {
+      "id": 8878,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Wishiwashi-GX",
+      "types": [
+        "Water"
+      ],
+      "hp": 210,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        },
+        {
+          "name": "Torrential Vortex",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "120",
+          "text": "Discard a Special Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Blue Surge-GX",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "220",
+          "text": "Move all Energy from this Pokémon to your Benched Pokémon in any way you like. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3d/cb/65/3dcb651924ff761ddd4814ec7bda4ccbf65f287921fb2c8e828d81b0b8a2f718.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22083",
+      "sequenceNumber": 51,
+      "printedNumber": "51",
+      "uuid": 91217300,
+      "prices": [
+        {
+          "priceAmount": 2150,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/wishiwashi-gx-51",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 472,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/wishiwashi-gx-51",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8879,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Tapu Lele-GX",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Wonder Tag",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Energy Drive",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "This attack does 20 damage times the amount of Energy attached to both Active Pokémon. This damage isn't affected by Weakness or Resistance."
+        },
+        {
+          "name": "Tapu Cure-GX",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Heal all damage from 2 of your Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/37/5f/e0/375fe00cebdc34a045298894f4dc5c96879cc31f86dcff0a70ed6eb271349e08.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22084",
+      "sequenceNumber": 52,
+      "printedNumber": "52",
+      "uuid": 14977730,
+      "prices": [
+        {
+          "priceAmount": 2558,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/tapu-lele-gx-52",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/tapu-lele-gx-52",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 111,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/tapu-lele-gx-52",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8880,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Lycanroc-GX",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Rockruff",
+      "effect": [
+        {
+          "name": "Bloodthirsty Eyes",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Claw Slash",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "110"
+        },
+        {
+          "name": "Dangerous Rogue-GX",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50×",
+          "text": "This attack does 50 damage for each of your opponent's Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 1"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e2/ec/7c/e2ec7c1a1d5ca14992961ab81b0408d9b7ff3fb2ce0bc207212d3be434b418e3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22085",
+      "sequenceNumber": 53,
+      "printedNumber": "53",
+      "uuid": 59915409,
+      "prices": [
+        {
+          "priceAmount": 4213,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/lycanroc-gx-53",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 815,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/lycanroc-gx-53",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8881,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Metagross-GX",
+      "types": [
+        "Metal"
+      ],
+      "hp": 250,
+      "evolvesFrom": "Metang",
+      "effect": [
+        {
+          "name": "Geotech System",
+          "text": "Once during your turn (before your attack), you may attach a Psychic or Metal Energy card from your discard pile to your Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Giga Hammer",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "150",
+          "text": "This Pokémon can't use Giga Hammer during your next turn."
+        },
+        {
+          "name": "Algorithm-GX",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 5 cards and put them into your hand. Then, shuffle your deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 2"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c0/c7/79/c0c77918615377da4bdf16a4169ff90587d97b9f58337d6b8471cec372323dd9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22086",
+      "sequenceNumber": 54,
+      "printedNumber": "54",
+      "uuid": 39452158,
+      "prices": [
+        {
+          "priceAmount": 8087,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/metagross-gx-54",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1719,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/metagross-gx-54",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/metagross-gx-54",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 861,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/metagross-gx-54",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8882,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Mallow",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Search your deck for 2 cards, shuffle your deck, then put those cards on top of it in any order."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Megumi Mizutani",
+      "imageUrl": "https://static.tcgcollector.com/content/images/18/5d/ee/185dee117aa88b527a92169e5fae00b38295c9ece030d0b56529b02401440747.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22087",
+      "sequenceNumber": 55,
+      "printedNumber": "55",
+      "uuid": 64683350,
+      "prices": [
+        {
+          "priceAmount": 38100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/mallow-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 19550,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/mallow-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 27779,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/mallow-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 30600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/mallow-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 12646,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/mallow-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8883,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Wishiwashi-GX",
+      "types": [
+        "Water"
+      ],
+      "hp": 210,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        },
+        {
+          "name": "Torrential Vortex",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "120",
+          "text": "Discard a Special Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Blue Surge-GX",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "220",
+          "text": "Move all Energy from this Pokémon to your Benched Pokémon in any way you like. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/32/2b/5c/322b5c32fc4d253ac96abd82926f092818719ad465cad4eba480bcb3b216d60c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22088",
+      "sequenceNumber": 56,
+      "printedNumber": "56",
+      "uuid": 78883307,
+      "prices": [
+        {
+          "priceAmount": 5539,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/wishiwashi-gx-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1480,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/wishiwashi-gx-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8884,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Tapu Lele-GX",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Wonder Tag",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Energy Drive",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "This attack does 20 damage times the amount of Energy attached to both Active Pokémon. This damage isn't affected by Weakness or Resistance."
+        },
+        {
+          "name": "Tapu Cure-GX",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Heal all damage from 2 of your Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1f/57/16/1f571611312acb9e331f6998e6e8762210e7731c20ad1c53eb5460bbafa5b5ba.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22089",
+      "sequenceNumber": 57,
+      "printedNumber": "57",
+      "uuid": 80657636,
+      "prices": [
+        {
+          "priceAmount": 38408,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/tapu-lele-gx-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8885,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Lycanroc-GX",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Rockruff",
+      "effect": [
+        {
+          "name": "Bloodthirsty Eyes",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Claw Slash",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "110"
+        },
+        {
+          "name": "Dangerous Rogue-GX",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50×",
+          "text": "This attack does 50 damage for each of your opponent's Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 1"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a1/92/29/a19229db74f7b14211f1341092d89b13880b9d79f230f5bae4af34f0c52c1c77.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22090",
+      "sequenceNumber": 58,
+      "printedNumber": "58",
+      "uuid": 42666107,
+      "prices": [
+        {
+          "priceAmount": 2999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/lycanroc-gx-58",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 2818,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/lycanroc-gx-58",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8886,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Metagross-GX",
+      "types": [
+        "Metal"
+      ],
+      "hp": 250,
+      "evolvesFrom": "Metang",
+      "effect": [
+        {
+          "name": "Geotech System",
+          "text": "Once during your turn (before your attack), you may attach a Psychic or Metal Energy card from your discard pile to your Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Giga Hammer",
+          "cost": [
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "150",
+          "text": "This Pokémon can't use Giga Hammer during your next turn."
+        },
+        {
+          "name": "Algorithm-GX",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 5 cards and put them into your hand. Then, shuffle your deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 2"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3c/f8/df/3cf8df96a6929e0d2ea4f24e53dc7081129cd4fab26fd2f901b693840e45aa50.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22091",
+      "sequenceNumber": 59,
+      "printedNumber": "59",
+      "uuid": 6494041,
+      "prices": [
+        {
+          "priceAmount": 9470,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "08/19/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/metagross-gx-59",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 4887,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "08/19/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/metagross-gx-59",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 5400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "08/19/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/metagross-gx-59",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1430,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/metagross-gx-59",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8887,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Aqua Patch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Attach a Water Energy card from your discard pile to 1 of your Benched Water Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cc/77/36/cc7736a2b5a90d1f94d1c3f4140eeeeaa39e7b8e0c58376e27ca921e75f4b484.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22092",
+      "sequenceNumber": 60,
+      "printedNumber": "60",
+      "uuid": 86654922,
+      "prices": [
+        {
+          "priceAmount": 999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/aqua-patch-60",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8888,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Enhanced Hammer",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Discard a Special Energy attached to 1 of your opponents Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6a/8a/3b/6a8a3bf48dca4a2e12245947368754d483af3bd10c5361d381911f6527a7d483.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22093",
+      "sequenceNumber": 61,
+      "printedNumber": "61",
+      "uuid": 17587505,
+      "prices": []
+    },
+    {
+      "id": 8889,
+      "setData": {
+        "name": "Alolan Moonlight",
+        "printed_count": "62",
+        "card_count": 62,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/alolan-moonlight"
+      },
+      "name": "Fighting Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/98/87/d4/9887d4676b3a3c7e20c18debdf618d05773361173c564386e40aa6367efe1fb5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/22094",
+      "sequenceNumber": 62,
+      "printedNumber": "62",
+      "uuid": 22839170,
+      "prices": [
+        {
+          "priceAmount": 2501,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/fighting-energy-62",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 4449,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-alolan-moonlight/fighting-energy-62",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 62,
+  "totalCount": 62
+}

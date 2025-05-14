@@ -1,0 +1,639 @@
+{
+  "data": [
+    {
+      "id": 19725,
+      "setData": {
+        "name": "PokéPark Blue",
+        "printed_count": "9",
+        "card_count": 9,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/content/images/c8/0b/28/c80b28ffd8b7740fe6c6a13fe74d3d98689871d97eedd1346d922b5a110b0d54.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokepark-blue"
+      },
+      "name": "Entei",
+      "types": [
+        "Fire"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Stomp",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage."
+        },
+        {
+          "name": "Fire Spin",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "Discard 2 basic Energy cards attached to Entei or this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1d/85/31/1d8531a9940596e439ee5e0a3691b9242b2668b7d2b130efaad9cfe338a6ab84.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28217",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 30585768,
+      "prices": []
+    },
+    {
+      "id": 19726,
+      "setData": {
+        "name": "PokéPark Blue",
+        "printed_count": "9",
+        "card_count": 9,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/content/images/c8/0b/28/c80b28ffd8b7740fe6c6a13fe74d3d98689871d97eedd1346d922b5a110b0d54.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokepark-blue"
+      },
+      "name": "Ho-Oh",
+      "types": [
+        "Fire"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Gust",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        },
+        {
+          "name": "Sacred Fire",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "text": "Flip a coin. If heads, choose 1 of your opponent's Pokémon. This attack does 60 damage to that Pokémon. This attack's damage isn't affected by Weakness or Resistance."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a8/ab/47/a8ab47591c24cc9c99a58d8fb0ac57ca73a778d7a812da614b174cda191b6e24.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28218",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 98286140,
+      "prices": []
+    },
+    {
+      "id": 19727,
+      "setData": {
+        "name": "PokéPark Blue",
+        "printed_count": "9",
+        "card_count": 9,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/content/images/c8/0b/28/c80b28ffd8b7740fe6c6a13fe74d3d98689871d97eedd1346d922b5a110b0d54.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokepark-blue"
+      },
+      "name": "Suicune",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Mirror Coat",
+          "text": "If Suicune is Burned or Poisoned by an opponent's attack (even if Suicune is Knocked Out), the Attacking Pokémon is now affected by the same Special Conditions (1 if there is only 1).",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Bubblebeam",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e1/14/cf/e114cfdc5b6e6d68cba1b0a9d913329a27e2467db4519598b6d53ba2878d2a1c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28219",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 240944,
+      "prices": []
+    },
+    {
+      "id": 19728,
+      "setData": {
+        "name": "PokéPark Blue",
+        "printed_count": "9",
+        "card_count": 9,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/content/images/c8/0b/28/c80b28ffd8b7740fe6c6a13fe74d3d98689871d97eedd1346d922b5a110b0d54.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokepark-blue"
+      },
+      "name": "Kyogre",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Scary Face",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon can't attack or retreat during your opponent's next turn."
+        },
+        {
+          "name": "Hydro Pump",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40+",
+          "text": "Does 40 damage plus 10 more damage for each Water Energy attached to Kyogre but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8c/fc/cd/8cfccd14f50832b95db7065e8c5655f1b5f21196b3984fe1f5c89214343c5c7a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28220",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 47772013,
+      "prices": []
+    },
+    {
+      "id": 19729,
+      "setData": {
+        "name": "PokéPark Blue",
+        "printed_count": "9",
+        "card_count": 9,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/content/images/c8/0b/28/c80b28ffd8b7740fe6c6a13fe74d3d98689871d97eedd1346d922b5a110b0d54.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokepark-blue"
+      },
+      "name": "Raikou",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Roar",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon, if any."
+        },
+        {
+          "name": "Thunder",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "Flip a coin. If tails, Raikou does 20 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/89/93/e7/8993e709ad678f4162c54ec505e98747172817a8e73c61b3f641e0f5e3e0989d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28221",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 66603646,
+      "prices": []
+    },
+    {
+      "id": 19730,
+      "setData": {
+        "name": "PokéPark Blue",
+        "printed_count": "9",
+        "card_count": 9,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/content/images/c8/0b/28/c80b28ffd8b7740fe6c6a13fe74d3d98689871d97eedd1346d922b5a110b0d54.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokepark-blue"
+      },
+      "name": "Lugia",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Aeroblast",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20+",
+          "text": "Flip 2 coins. This attack does 20 damage plus 20 more damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fa/c0/2c/fac02c55110f69003968fa072ed93378a0b8fbae98173ae0a1f74105c3bcc2fa.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28222",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 17022874,
+      "prices": []
+    },
+    {
+      "id": 19731,
+      "setData": {
+        "name": "PokéPark Blue",
+        "printed_count": "9",
+        "card_count": 9,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/content/images/c8/0b/28/c80b28ffd8b7740fe6c6a13fe74d3d98689871d97eedd1346d922b5a110b0d54.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokepark-blue"
+      },
+      "name": "Groudon",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Slash",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        },
+        {
+          "name": "Eruption",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "40+",
+          "text": "Each player discards the top card of his or her deck. This attack does 40 damage plus 10 more damage for each Energy card discarded in this way."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/60/40/91/604091f10524ef15fedf5a5cd2686b5bccfd420676f2d7fe6584d8ca86301bf0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28223",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 9120725,
+      "prices": []
+    },
+    {
+      "id": 19732,
+      "setData": {
+        "name": "PokéPark Blue",
+        "printed_count": "9",
+        "card_count": 9,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/content/images/c8/0b/28/c80b28ffd8b7740fe6c6a13fe74d3d98689871d97eedd1346d922b5a110b0d54.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokepark-blue"
+      },
+      "name": "Tauros",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Rage",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "Does 10 damage plus 10 more damage for each damage counter on Tauros."
+        },
+        {
+          "name": "Take Down",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "Tauros does 10 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/23/8a/94/238a949f043448dedcfd957da6e2c0fe0490e6c2f72926c64ba24850e109a672.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28224",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 33995841,
+      "prices": []
+    },
+    {
+      "id": 19733,
+      "setData": {
+        "name": "PokéPark Blue",
+        "printed_count": "9",
+        "card_count": 9,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/content/images/c8/0b/28/c80b28ffd8b7740fe6c6a13fe74d3d98689871d97eedd1346d922b5a110b0d54.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokepark-blue"
+      },
+      "name": "Rayquaza",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dragon Dance",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "During your next turn, if any of your current Active Pokémon does damage to any Defending Pokémon, the attack does 30 more damage (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Dragon Claw",
+          "cost": [
+            "Fire",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ca/51/f4/ca51f455fa345b30e1613cb1928ad89ba1e6a99487b1571f3443aa6fba6162ed.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/28225",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 77006747,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 9,
+  "totalCount": 9
+}

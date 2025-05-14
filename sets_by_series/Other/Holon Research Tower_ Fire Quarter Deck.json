@@ -1,0 +1,826 @@
+{
+  "data": [
+    {
+      "id": 15387,
+      "setData": {
+        "name": "Holon Research Tower: Fire Quarter Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/holon-research-tower-fire-quarter-deck"
+      },
+      "name": "Ponyta",
+      "types": [
+        "Fire"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Flare",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoyo Kimura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/62/c7/97/62c797ec343bec4ccd11d0822935bb8d26857e51c03344bf51a580fcb330fb39.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35400",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 85326856,
+      "prices": []
+    },
+    {
+      "id": 15388,
+      "setData": {
+        "name": "Holon Research Tower: Fire Quarter Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/holon-research-tower-fire-quarter-deck"
+      },
+      "name": "Rapidash",
+      "types": [
+        "Fire"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Ponyta",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Super Singe",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "The Defending Pokémon is now Burned."
+        },
+        {
+          "name": "Stomp",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8f/fe/91/8ffe91bbf8ac0d24ff959cc5a32c56cf491154405b370004d30ad29f16efd226.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35401",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 32195935,
+      "prices": []
+    },
+    {
+      "id": 15389,
+      "setData": {
+        "name": "Holon Research Tower: Fire Quarter Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/holon-research-tower-fire-quarter-deck"
+      },
+      "name": "Ditto",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Duplicate",
+          "text": "Once during your turn (before your attack), you may search your deck for another Ditto and switch it with Ditto. (Any cards attached to Ditto, damage counters, Special Conditions, and effects on it are now on the new Pokémon.) If you do, put Ditto on top of your deck. Shuffle your deck afterward. You can't use more than 1 Duplicate Poké-Power each turn.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fireworks",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If tails, discard a Fire Energy card attached to Ditto."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yuka Morii",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0c/c9/03/0cc903f5513eecd903abb0416f0a6ca661c0bba197a235d5fa1315063661751f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35402",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 88375771,
+      "prices": []
+    },
+    {
+      "id": 15390,
+      "setData": {
+        "name": "Holon Research Tower: Fire Quarter Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/holon-research-tower-fire-quarter-deck"
+      },
+      "name": "Flareon-EX",
+      "types": [
+        "Fire"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Eevee",
+      "effect": [
+        {
+          "name": "Evolutionary Flame",
+          "text": "Once during your turn, when you play Flareon ex from your hand to evolve 1 of your Pokémon, you may choose 1 of the Defending Pokémon. That Pokémon is now Burned and Confused.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Flame Screen",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "During your opponent's next turn, any damage done to Flareon ex by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Heat Tackle",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": "Flareon ex does 10 damage to itself."
+        }
+      ],
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e6/09/b6/e609b60a2041dd96383603d1cd7fc78c16969ef2577d4f6eb9024adc29fd589e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35403",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 88405354,
+      "prices": []
+    },
+    {
+      "id": 15391,
+      "setData": {
+        "name": "Holon Research Tower: Fire Quarter Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/holon-research-tower-fire-quarter-deck"
+      },
+      "name": "Bagon",
+      "types": [
+        "Fire"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bite",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/30/2f/92/302f9229fd5626944a004464297bbec1620c2d4f512272c302222eea9dedd0af.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35404",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 17509311,
+      "prices": []
+    },
+    {
+      "id": 15392,
+      "setData": {
+        "name": "Holon Research Tower: Fire Quarter Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/holon-research-tower-fire-quarter-deck"
+      },
+      "name": "Shelgon",
+      "types": [
+        "Fire"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Bagon",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tight Jaw",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Combustion",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/95/8d/a3/958da363d1159e43c53c4efa602555e5e232373b825e129d26045c014fceb9aa.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35405",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 60447538,
+      "prices": []
+    },
+    {
+      "id": 15393,
+      "setData": {
+        "name": "Holon Research Tower: Fire Quarter Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/holon-research-tower-fire-quarter-deck"
+      },
+      "name": "Eevee",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Rear Kick",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c9/91/4e/c9914e3611622665bfa1e555de790be6a76af937a195055c5926a13d581bb7e2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35406",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 63142205,
+      "prices": []
+    },
+    {
+      "id": 15394,
+      "setData": {
+        "name": "Holon Research Tower: Fire Quarter Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/holon-research-tower-fire-quarter-deck"
+      },
+      "name": "Dual Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Flip 2 coins. For each heads, search your deck for a Basic Pokémon, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/94/04/b4/9404b4f46359df1548618416db070d40abbeadb7e5abb1ea9d5e805217b111df.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35407",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 23314818,
+      "prices": []
+    },
+    {
+      "id": 15395,
+      "setData": {
+        "name": "Holon Research Tower: Fire Quarter Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/holon-research-tower-fire-quarter-deck"
+      },
+      "name": "Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Switch your Active Pokémon with 1 of your Benched Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cb/b3/9f/cbb39f3392aabe1718b03c9b07e9ce905308df3ae088ce7d08d26e02b684cb3d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35408",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 1684285,
+      "prices": []
+    },
+    {
+      "id": 15396,
+      "setData": {
+        "name": "Holon Research Tower: Fire Quarter Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/holon-research-tower-fire-quarter-deck"
+      },
+      "name": "Holon Scientist",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+        "\"Discard a card from your hand. If you cant discard a card from your hand, you cant play this card. If you have less cards in your hand than your opponent, draw cards until you have the same number of cards as your opponent.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/33/25/db/3325db0bb9f6177e242a0292687145f2a89c63c38a32fb26c920c4fb59bddda0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35409",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 85718977,
+      "prices": []
+    },
+    {
+      "id": 15397,
+      "setData": {
+        "name": "Holon Research Tower: Fire Quarter Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/holon-research-tower-fire-quarter-deck"
+      },
+      "name": "Fire Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a3/62/70/a36270a21bdf0406e05691e20af30ac5a9dfa19645dca2801c48d9e1bcff6f8c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35410",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 54623789,
+      "prices": []
+    },
+    {
+      "id": 15398,
+      "setData": {
+        "name": "Holon Research Tower: Fire Quarter Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/holon-research-tower-fire-quarter-deck"
+      },
+      "name": "Fire Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/54/ff/d1/54ffd1148c8551501f8a9fb137dc0d4ed3c59e43531bf038760f95a83b4c29e6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35411",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 90787484,
+      "prices": []
+    },
+    {
+      "id": 15399,
+      "setData": {
+        "name": "Holon Research Tower: Fire Quarter Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/holon-research-tower-fire-quarter-deck"
+      },
+      "name": "Fire Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0f/31/c5/0f31c5e2567e4925b75b71f410ae40e132f7714b37c65535fc4d7896eb0bf51e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35412",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 61531044,
+      "prices": []
+    },
+    {
+      "id": 15400,
+      "setData": {
+        "name": "Holon Research Tower: Fire Quarter Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/holon-research-tower-fire-quarter-deck"
+      },
+      "name": "Fire Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f9/f7/2f/f9f72f40c1a4799d5087216e090040c29df4af45ae9b91a16bfbe48cfdcd2a82.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35413",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 90702658,
+      "prices": []
+    },
+    {
+      "id": 15401,
+      "setData": {
+        "name": "Holon Research Tower: Fire Quarter Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/holon-research-tower-fire-quarter-deck"
+      },
+      "name": "Holon Energy FF",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Holon Energy FF provides Colorless Energy. If the Pokémon that Holon Energy FF is attached to also has a basic Fire Energy card attached to it, that Pokémon has no Weakness. If the Pokémon that Holon Energy FF is attached to also has a basic Fighting Energy card attached to it, damage done by that Pokémons attack isnt affected by Resistance. Ignore these effects if Holon Energy FF is attached to Pokémon-ex.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Takumi Akabane",
+      "imageUrl": "https://static.tcgcollector.com/content/images/28/e2/89/28e289c7c491fe9ce0c9e977f492c2ce9e74c0ce8524547442512f3811263b1d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35414",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 17932530,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 15,
+  "totalCount": 15
+}

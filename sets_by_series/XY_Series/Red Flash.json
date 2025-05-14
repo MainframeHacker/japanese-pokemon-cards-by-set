@@ -1,0 +1,5429 @@
+{
+  "data": [
+    {
+      "id": 10129,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Paras",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Blot",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Heal 10 damage from this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hajime Kusajima",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f1/32/16/f132164d11b85f4ce08ead3a5f518f4fc1b1289c405f88af67be15d7d08d856c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23350",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 52433818,
+      "prices": [
+        {
+          "priceAmount": 250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/paras-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10130,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Parasect",
+      "types": [
+        "Grass"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Paras",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Colorful Spores",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Choose 3 of your Pokémon. For each of those Pokémon, search your deck for a different type of basic Energy card and attach it to that Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "X-Scissor",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sumiyoshi Kizuki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/22/36/ce/2236ceb779774fece5684ff2547c1e711546cba3c998e87fd129f702b5101eab.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23351",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 56968379,
+      "prices": [
+        {
+          "priceAmount": 211,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/parasect-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10131,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Chespin",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Work",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Seed Bomb",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Megumi Mizutani",
+      "imageUrl": "https://static.tcgcollector.com/content/images/97/60/f4/9760f4d0154c63e1807e6dfd39133303bc3c6004717722074372ba291522c060.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23352",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 21662977,
+      "prices": [
+        {
+          "priceAmount": 499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/chespin-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10132,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Quilladin",
+      "types": [
+        "Grass"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Chespin",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        },
+        {
+          "name": "Pin Missile",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40×",
+          "text": "Flip 4 coins. This attack does 40 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Miki Tanaka",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7b/92/a2/7b92a2f826ae4758601844ff9d8c9cfc5a5a95fb6fa84e7dfc5233a1316638b4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23353",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 68927961,
+      "prices": [
+        {
+          "priceAmount": 350,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/quilladin-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10133,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Chesnaught",
+      "types": [
+        "Grass"
+      ],
+      "hp": 160,
+      "evolvesFrom": "Quilladin",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Spike Lariat",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60+",
+          "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 60 more damage."
+        },
+        {
+          "name": "Adamantine Press",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "100",
+          "text": "During your opponent's next turn, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance)."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b2/79/47/b279473ebdfc42c7ac0f3c9d14526f2d8de3217e76f9de0c1ba3cc9785c02787.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23354",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 26148796,
+      "prices": [
+        {
+          "priceAmount": 2999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/chesnaught-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/chesnaught-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10134,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Chesnaught BREAK",
+      "types": [
+        "Grass"
+      ],
+      "hp": 190,
+      "evolvesFrom": "Chesnaught",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tough Hammer",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "160",
+          "text": "This Pokémon does 30 damage it itself. This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "Chesnaught BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution."
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "BREAK",
+        "BREAK"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/59/b8/f4/59b8f4f509f7f8518c50890c1ad03061bc180f9045041731068fbfcebb609d07.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23355",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 1221787,
+      "prices": [
+        {
+          "priceAmount": 4605,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/chesnaught-break-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 488,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/chesnaught-break-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10135,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Skiddo",
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Razor Leaf",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Rising Lunge",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kanako Eo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/81/dc/c1/81dcc19c235f51e202777c1f47673e10ef2be0a7fb64211ca361560b360613a3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23356",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 3740068,
+      "prices": [
+        {
+          "priceAmount": 199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/skiddo-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10136,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Gogoat",
+      "types": [
+        "Grass"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Skiddo",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Overrun",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Horn Leech",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "Heal 30 from this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/eb/21/b8/eb21b8897f47be43e648b242f8020867d686e69a8dcb5333acb39f203b03003d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23357",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 84856517,
+      "prices": [
+        {
+          "priceAmount": 250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/gogoat-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10137,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Houndoom-EX",
+      "types": [
+        "Fire"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Melting Horn",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Discard the top 2 cards of your opponent's deck."
+        },
+        {
+          "name": "Grand Flame",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50",
+          "text": "Attach a Fire Energy card from your discard pile to 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Eske Yoshinob",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b7/34/71/b7347114aa14d58d0efe06f6d8f4092a4814c856df8c9577654e74845feb5a1a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23358",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 45165697,
+      "prices": [
+        {
+          "priceAmount": 3132,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/houndoom-ex-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2975,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/houndoom-ex-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/houndoom-ex-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 459,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/houndoom-ex-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10138,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "M Houndoom-EX",
+      "types": [
+        "Fire"
+      ],
+      "hp": 210,
+      "evolvesFrom": "Houndoom-EX",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Inferno Fang",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "80+",
+          "text": "You may discard all Fire Energy attached to this Pokémon. If you do, this attack does 80 more damage."
+        }
+      ],
+      "rules": [
+        "When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Mega",
+        "Stage 1"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/de/0e/df/de0edf0cca5a1cc6ccb03b333b78b083a12c8d6ad3092296c8854034d1d5e9b8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23359",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 65018967,
+      "prices": [
+        {
+          "priceAmount": 4753,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mega-houndoom-ex-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mega-houndoom-ex-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mega-houndoom-ex-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1503,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mega-houndoom-ex-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10139,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Pansear",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "sui",
+      "imageUrl": "https://static.tcgcollector.com/content/images/93/ee/b1/93eeb1e2a49b970a1d58dfa001f455a4e6d3534032aba8fedeec946dde843a9b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23360",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 14214487,
+      "prices": [
+        {
+          "priceAmount": 250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/pansear-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10140,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Simisear",
+      "types": [
+        "Fire"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Pansear",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Water Fling",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Put 3 Water Energy cards from your discard pile into your hand."
+        },
+        {
+          "name": "Hand Fling",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10×",
+          "text": "This attack does 10 damage times the number of cards in your hand."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ayaka Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0d/00/d3/0d00d30bcb7a976e512cdeb6474c5745f55e51fb543f947508c5f1474490f83a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23361",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 95360274,
+      "prices": [
+        {
+          "priceAmount": 250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/simisear-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10141,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Goldeen",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Reckless Charge",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "This Pokémon does 10 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "MAHOU",
+      "imageUrl": "https://static.tcgcollector.com/content/images/65/4d/5f/654d5ff58dc25e40a10315001330bb37e62ad58e5bcaa5d0538f7c4e17bc6623.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23362",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 68782631,
+      "prices": [
+        {
+          "priceAmount": 229,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/goldeen-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10142,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Seaking",
+      "types": [
+        "Water"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Goldeen",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Soaking Horn",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "If this Pokémon was healed during this turn, this attack does 80 more damage."
+        },
+        {
+          "name": "Reckless Charge",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "40",
+          "text": "This Pokémon does 10 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kyoko Umemoto",
+      "imageUrl": "https://static.tcgcollector.com/content/images/99/bc/22/99bc2269c9bb71916d8c22206ad8e3d32df8f02243c77fa58ff5a47ac8bf402c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23363",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 32167951,
+      "prices": [
+        {
+          "priceAmount": 250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/seaking-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10143,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Staryu",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Continuous Spin",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip a coin until you get tails. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shigenori Negishi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/15/67/d4/1567d47c0e61e9e2959b9576b272b53bd8af811c9a65b93093a7593bb284796e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23364",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 90186186,
+      "prices": [
+        {
+          "priceAmount": 750,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/staryu-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 225,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/staryu-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10144,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Starmie",
+      "types": [
+        "Water"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Staryu",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Deep Sea Swirl",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Shuffle your hand into your deck. Then, draw 7 cards."
+        },
+        {
+          "name": "Balance Bind",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "If you and your opponent have the same number of Benched Pokémon, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fe/f7/73/fef773189694c817ae80fd30b19080cab71d7069d6fd88e1d18342a263f9715f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23365",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 1973741,
+      "prices": [
+        {
+          "priceAmount": 499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/starmie-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10145,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Remoraid",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Ion Pool",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Discard any Stadium in play."
+        },
+        {
+          "name": "Water Gun",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Suwama Chiaki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d8/8a/e4/d88ae45964531713bf90cc9fe064e17f13c16d2c1220f803e43205e1e3290520.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23366",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 65620362,
+      "prices": [
+        {
+          "priceAmount": 250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/remoraid-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10146,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Piplup",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Wave Splash",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kanako Eo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cf/4a/2f/cf4a2face541a5ff54f2f697a3a73cc27b9d4fb54a95bf8c8e90913bec106537.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23367",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 59361912,
+      "prices": [
+        {
+          "priceAmount": 4499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/piplup-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 455,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/piplup-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10147,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Prinplup",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Piplup",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Ice Beam",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kirisAki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/be/89/36/be8936c64e5c25918ade57159957d489677a9830633f79cf2af559d708637bd4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23368",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 57300521,
+      "prices": [
+        {
+          "priceAmount": 482,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/prinplup-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10148,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Empoleon",
+      "types": [
+        "Water"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Prinplup",
+      "effect": [
+        {
+          "name": "Dignified Fighter",
+          "text": "Each of your Basic Pokémon's attacks does 20 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hydro Splash",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "70"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Satoshi Shirai",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4f/13/7d/4f137d53113b7479558a736d278f57332bd057a9de35626efe87c419457042f8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23369",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 48210647,
+      "prices": [
+        {
+          "priceAmount": 3536,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/empoleon-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 212,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/empoleon-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10149,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Snover",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Powder Snow",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Double Smash",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30×",
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yukiko Baba",
+      "imageUrl": "https://static.tcgcollector.com/content/images/31/fa/02/31fa02f4522736dd0e3ec7d6bde633afac4f47dced7532a33767ea6c1162551b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23370",
+      "sequenceNumber": 21,
+      "printedNumber": "21",
+      "uuid": 60875508,
+      "prices": [
+        {
+          "priceAmount": 211,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/snover-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10150,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Abomasnow",
+      "types": [
+        "Water"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Snover",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Ice Age",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": "If your opponent's Active Pokémon is a Dragon Pokémon, it is now Paralyzed."
+        },
+        {
+          "name": "Frost Breath",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "110"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoyo Kimura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/82/aa/eb/82aaebf92294340a600782b066e83590870af217be845882ebac6c4c6c581b39.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23371",
+      "sequenceNumber": 22,
+      "printedNumber": "22",
+      "uuid": 52119872,
+      "prices": [
+        {
+          "priceAmount": 229,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/abomasnow-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10151,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Magnemite",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Shock Generator",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Lightning Ball",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Akira Komayama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/16/be/fb/16befb4878aa630db63013f599ac4a6614c07bd06713126d19c7cc00c502e648.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23372",
+      "sequenceNumber": 23,
+      "printedNumber": "23",
+      "uuid": 26864515,
+      "prices": [
+        {
+          "priceAmount": 250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/magnemite-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10152,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Magneton",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Magnemite",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Static Shock",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Electro Ball",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Tomokazu Komiya",
+      "imageUrl": "https://static.tcgcollector.com/content/images/71/c0/99/71c09978210922f5fea76b9e87fbc4fa35f79f1299b0e744da29d0500448b55f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23373",
+      "sequenceNumber": 24,
+      "printedNumber": "24",
+      "uuid": 94867240,
+      "prices": [
+        {
+          "priceAmount": 5651,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/magneton-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2511,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/magneton-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/magneton-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 449,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/magneton-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10153,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Magnezone",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Magneton",
+      "effect": [
+        {
+          "name": "Magnetic Circuit",
+          "text": "As often as you like during your turn (before your attack), you may attach a Lightning Energy card from your hand to 1 of your Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Thunder Blast",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100",
+          "text": "Discard a Lightning Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hajime Kusajima",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d7/57/9c/d7579ca0b6968b92a533f64903908c4159625a575deb6efee1d7126613b28357.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23374",
+      "sequenceNumber": 25,
+      "printedNumber": "25",
+      "uuid": 52270519,
+      "prices": [
+        {
+          "priceAmount": 4600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/magnezone-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 655,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "09/16/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/magnezone-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "09/16/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/magnezone-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 474,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/magnezone-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10154,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Raikou",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Shining Body",
+          "text": "If this Pokémon has any Lightning Energy attached to it, any damage done to this Pokémon by attacks is reduced by 20 (after applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Thunder Lance",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50+",
+          "text": "This attack does 20 more damage for each Lightning Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b4/e7/cf/b4e7cf07b1121026f2bfe6286f250f0c3cbbfa2344f29299dd0b6b9b42181691.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23375",
+      "sequenceNumber": 26,
+      "printedNumber": "26",
+      "uuid": 71517952,
+      "prices": [
+        {
+          "priceAmount": 2350,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/raikou-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1998,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/raikou-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 1793,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/raikou-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/raikou-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 450,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/raikou-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10155,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Mewtwo-EX",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Shatter Shot",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30×",
+          "text": "This attack does 30 damage times the amount of Psychic Energy attached to this Pokémon."
+        },
+        {
+          "name": "Damage Change",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Switch all damage counters on this Pokémon with those on your opponents Active Pokémon."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "PLANETA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1e/5b/12/1e5b126ae4098a5c43ab7e9e37470a47d0a14996d42463883ccf83b70f1e2edf.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23376",
+      "sequenceNumber": 27,
+      "printedNumber": "27",
+      "uuid": 16526035,
+      "prices": [
+        {
+          "priceAmount": 3297,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mewtwo-ex-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1473,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mewtwo-ex-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 2128,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mewtwo-ex-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mewtwo-ex-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 631,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mewtwo-ex-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10156,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "M Mewtwo-EX",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 210,
+      "evolvesFrom": "Mewtwo-EX",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Psychic Infinity",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "This attack does 30 more damage times the amount of Energy attached to both Active Pokémon. This attack's damage isn't affected by Weakness."
+        }
+      ],
+      "rules": [
+        "When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Mega",
+        "Stage 1"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0d/7d/62/0d7d62eeb06693d2d10282b9106353ccf79106f48fba962619d2c5ae7eb81552.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23377",
+      "sequenceNumber": 28,
+      "printedNumber": "28",
+      "uuid": 29473106,
+      "prices": [
+        {
+          "priceAmount": 7679,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mega-mewtwo-ex-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 3552,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mega-mewtwo-ex-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mega-mewtwo-ex-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 872,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mega-mewtwo-ex-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10157,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Misdreavus",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Haunt",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Put 2 damage counters on your opponent's Active Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "sui",
+      "imageUrl": "https://static.tcgcollector.com/content/images/84/22/e1/8422e111016904566a6a7149b0e2c238cd3a5d36d1e15d2f35a97f7169bdee3a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23378",
+      "sequenceNumber": 29,
+      "printedNumber": "29",
+      "uuid": 30925788,
+      "prices": [
+        {
+          "priceAmount": 250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/misdreavus-29",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10158,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Mismagius",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Misdreavus",
+      "effect": [
+        {
+          "name": "Twisted Incantation",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon, you may have your opponent shuffle his or her hand into his or her deck and draw a card for each of his or her remaining Prize cards.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Curse Deeply",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ayaka Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/56/96/42/56964225beca26643b1f91b5f033611760946616d29b1dcfc70b0dee2a16a6c4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23379",
+      "sequenceNumber": 30,
+      "printedNumber": "30",
+      "uuid": 49430857,
+      "prices": [
+        {
+          "priceAmount": 5499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mismagius-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2255,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "11/25/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mismagius-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "11/25/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mismagius-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 378,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mismagius-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10159,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Ralts",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Nap",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Heal 30 damage from this Pokémon."
+        },
+        {
+          "name": "Smack",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "MAHOU",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bb/f0/2e/bbf02ef6440c665cafc406d2360af74332683f2eb44f1b7557377b38088930bb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23380",
+      "sequenceNumber": 31,
+      "printedNumber": "31",
+      "uuid": 57436247,
+      "prices": [
+        {
+          "priceAmount": 317,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/ralts-31",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10160,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Kirlia",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Ralts",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Beckon",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Put a Supporter card from your discard pile into your hand."
+        },
+        {
+          "name": "Quick Turn",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30×",
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sanosuke Sakuma",
+      "imageUrl": "https://static.tcgcollector.com/content/images/92/f8/2f/92f82fdf5ca7b154fd15873b2871eb163e047a4ab1b31f65e407306c95730de4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23381",
+      "sequenceNumber": 32,
+      "printedNumber": "32",
+      "uuid": 10395292,
+      "prices": [
+        {
+          "priceAmount": 270,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/kirlia-32",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10161,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Cresselia",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 110,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "My Way",
+          "text": "If there is any Stadium card in play, this Pokémon has no Retreat Cost.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Moonlight Gain",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": "Heal 20 damage from this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kawayoo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d5/05/e2/d505e24a8cc3a6701b019a949a8817b8baf9636ccf0d4d263928d124067b1ace.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23382",
+      "sequenceNumber": 33,
+      "printedNumber": "33",
+      "uuid": 45802749,
+      "prices": [
+        {
+          "priceAmount": 276,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/cresselia-33",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10162,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Cubone",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Whimsy Tackle",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sumiyoshi Kizuki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b1/e4/75/b1e475b2ad733c2c0540c6ebfdc860785d54b41ea261d78cc3fd52a40c94a3f6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23383",
+      "sequenceNumber": 34,
+      "printedNumber": "34",
+      "uuid": 78590280,
+      "prices": [
+        {
+          "priceAmount": 430,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/cubone-34",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10163,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Marowak",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Cubone",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sharpshooting",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "This attack does 30 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Bone Windmill",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "60",
+          "text": "If your opponent's Active Pokémon is a Pokémon-EX, switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "match",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f2/e0/60/f2e060af2f4f0cec5d9f55e9df0235f35704cda33d72793bde22f5d3a3c8f1ad.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23384",
+      "sequenceNumber": 35,
+      "printedNumber": "35",
+      "uuid": 88398796,
+      "prices": [
+        {
+          "priceAmount": 199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/marowak-35",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10164,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Marowak BREAK",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Marowak",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bone Revenge",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "This attack does 40 more damage for each Prize card your opponent has taken."
+        }
+      ],
+      "rules": [
+        "Marowak BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution."
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "BREAK",
+        "Stage 2"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b3/d5/62/b3d562cde1cb6d6045d089b3f2a62408b361af2660eb4473ff3b373d601f71b7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23385",
+      "sequenceNumber": 36,
+      "printedNumber": "36",
+      "uuid": 3124629,
+      "prices": [
+        {
+          "priceAmount": 3875,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/marowak-break-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 208,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/marowak-break-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/marowak-break-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 524,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/marowak-break-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10165,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Swinub",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Powder Snow",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Mud-Slap",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/65/a9/52/65a952836977316e8e4393e08ddf893cef7bca5c0937ac02746838b96dacf1e7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23386",
+      "sequenceNumber": 37,
+      "printedNumber": "37",
+      "uuid": 83767733,
+      "prices": [
+        {
+          "priceAmount": 250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/swinub-37",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10166,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Piloswine",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Swinub",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Push Down",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Your opponent switches his or her Active Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Gathering Footsteps",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30+",
+          "text": "This attack does 10 more damage for each Colorless in the Retreat Cost of your Swinub, Piloswine, and Mamoswine."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "MAHOU",
+      "imageUrl": "https://static.tcgcollector.com/content/images/aa/1b/c9/aa1bc942e24a7b8b6d2a823cb87dcbfd2bc6688a914f91e0a4c7a33b6ad6151b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23387",
+      "sequenceNumber": 38,
+      "printedNumber": "38",
+      "uuid": 11119657,
+      "prices": [
+        {
+          "priceAmount": 242,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/piloswine-38",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10167,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Mamoswine",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 160,
+      "evolvesFrom": "Piloswine",
+      "effect": [
+        {
+          "name": "Thick Fat",
+          "text": "Any damage done to this Pokémon by attacks from your opponent's Fire or Water Pokémon is reduced by 30 (after applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Primordial Boom",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "80+",
+          "text": "If you have a Stadium card in play, this attack does 40 more damage. If your opponent has a Stadium card in play, heal 40 damage from this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/df/3f/ef/df3fef4dada2d549aed09da122caeec37f78f43b7936d86b38465ef12e77720e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23388",
+      "sequenceNumber": 39,
+      "printedNumber": "39",
+      "uuid": 83631705,
+      "prices": [
+        {
+          "priceAmount": 4042,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mamoswine-39",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 329,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mamoswine-39",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10168,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Gallade",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 150,
+      "evolvesFrom": "Kirlia",
+      "effect": [
+        {
+          "name": "Premonition",
+          "text": "Once during your turn (before your attack), you may look at the top 5 cards of your deck and put them back on top of your deck in any order.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Sensitive Blade",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "60+",
+          "text": "If you played a Supporter card from your hand during this turn, this attack does 70 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1c/b5/d4/1cb5d4b756f8704d9ae5f5a3ed245f6dd574826975df6fe556e3bbd847d902b3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23389",
+      "sequenceNumber": 40,
+      "printedNumber": "40",
+      "uuid": 66177528,
+      "prices": [
+        {
+          "priceAmount": 1275,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/gallade-40",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 408,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "11/18/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/gallade-40",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "11/18/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/gallade-40",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 338,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/gallade-40",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10169,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Zorua",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Whiny Voice",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Choose a random card from your opponent's hand. Your opponent' reveals that card and shuffles it into his or her hand."
+        },
+        {
+          "name": "Dark Edge",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hitoshi Ariga",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b9/c5/1d/b9c51d0256faa7497d9148a466724249a1ebdaf16c446475e18fa3509ccd06d4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23390",
+      "sequenceNumber": 41,
+      "printedNumber": "41",
+      "uuid": 63425605,
+      "prices": [
+        {
+          "priceAmount": 157,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/zorua-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10170,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Yveltal",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Fright Night",
+          "text": "As long as this Pokémon is your Active Pokémon, each Pokémon Tool card in play has no effect.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Pitch-Black Spear",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "This attack does 60 damage to 1 of your opponent's Benched Pokémon-EX. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "TOKIYA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/66/a1/f5/66a1f588e6da4e8561e2581f60d69b0403c843e3a17ac5b6a51f7c7b50501380.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23391",
+      "sequenceNumber": 42,
+      "printedNumber": "42",
+      "uuid": 7425578,
+      "prices": [
+        {
+          "priceAmount": 4000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/yveltal-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 149,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/yveltal-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10171,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Bronzor",
+      "types": [
+        "Metal"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Payback",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "If your opponent has only 1 Prize card left, this attack does 60 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shigenori Negishi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/07/f2/64/07f264319e1c4f6deb80f1f072967b644501002cbfd6a533682f1daf8f4e37d6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23392",
+      "sequenceNumber": 43,
+      "printedNumber": "43",
+      "uuid": 56091625,
+      "prices": [
+        {
+          "priceAmount": 175,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/bronzor-43",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10172,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Bronzong",
+      "types": [
+        "Metal"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Bronzor",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Pain Amplifier",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Put 3 damage counters on each of your opponent's Pokémon that has any damage counters on it."
+        },
+        {
+          "name": "Knock Away",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Tomokazu Komiya",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6e/18/c4/6e18c4dfbfc927d7288ab04ba3a579a9bd300b2fa2ee6c690a9d4e3a7a116257.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23393",
+      "sequenceNumber": 44,
+      "printedNumber": "44",
+      "uuid": 86389850,
+      "prices": [
+        {
+          "priceAmount": 211,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/bronzong-44",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10173,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Mr. Mime",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Bench Barrier",
+          "text": "Prevent all damage done to your Benched Pokémon by attacks.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Juggling",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10×",
+          "text": "Flip 4 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kirisAki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/01/1d/2f/011d2f95c9ea02ac2ba667038720938480ee303025d5147f5e7aa69472ee3f4b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23394",
+      "sequenceNumber": 45,
+      "printedNumber": "45",
+      "uuid": 10482691,
+      "prices": [
+        {
+          "priceAmount": 384,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mr-mime-45",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10174,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Spritzee",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Flail",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "This attack does 10 damage times the number of damage counters on this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoyo Kimura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/11/78/c2/1178c215cecbf2a379404a8a0f8c707b3f0e79bd865d550c0d330daaed5178d9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23395",
+      "sequenceNumber": 46,
+      "printedNumber": "46",
+      "uuid": 67044954,
+      "prices": [
+        {
+          "priceAmount": 250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/spritzee-46",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10175,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Aromatisse",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Spritzee",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Heavy Perfume",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent's Active Pokémon is now Confused. Put 6 damage counters instead of 3 on that Pokémon for this Special Condition."
+        },
+        {
+          "name": "Hug",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mizue",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c2/bf/a9/c2bfa97669ff987516eb38a2676e573f52071c60d77fb18645a837ccbd09b9a1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23396",
+      "sequenceNumber": 47,
+      "printedNumber": "47",
+      "uuid": 39080455,
+      "prices": [
+        {
+          "priceAmount": 250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/aromatisse-47",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10176,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Axew",
+      "types": [
+        "Dragon"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Extra Chop",
+          "cost": [
+            "Metal"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "This Pokémon does 10 damage to itself."
+        },
+        {
+          "name": "Dragon Claw",
+          "cost": [
+            "Fighting",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fairy",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a3/0c/d8/a30cd8b89c36d8e683398d6f035da16ea3bebacd4e629f25a602858789262f1a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23397",
+      "sequenceNumber": 48,
+      "printedNumber": "48",
+      "uuid": 82360246,
+      "prices": [
+        {
+          "priceAmount": 4054,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "08/27/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/axew-48",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1610,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "08/27/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/axew-48",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "08/27/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/axew-48",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 188,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/axew-48",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10177,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Doduo",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Double Stab",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Doduo Delivery",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Draw 2 cards."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoki Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/49/c2/e7/49c2e711e01d48c442c05ac5346c79cd33de86370e9cb6833bc30e458ef771bc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23398",
+      "sequenceNumber": 49,
+      "printedNumber": "49",
+      "uuid": 37356346,
+      "prices": [
+        {
+          "priceAmount": 250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/doduo-49",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10178,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Dodrio",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Doduo",
+      "effect": [
+        {
+          "name": "Retreat Aid",
+          "text": "As long as this Pokémon is on your Bench, your Active Pokémon's Retreat Cost is Colorless Colorless less.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fury Attack",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40×",
+          "text": "Flip 3 coins. This attack does 40 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "TOKIYA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fe/4c/57/fe4c5784b63846f1d039d758de2bc81c31e9d4b4c2edfbcb3820fb39f99b0ab8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23399",
+      "sequenceNumber": 50,
+      "printedNumber": "50",
+      "uuid": 67521931,
+      "prices": [
+        {
+          "priceAmount": 350,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/dodrio-50",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10179,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Starly",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Call for Pals",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search you deck for as many Starlys as you like and put them onto your Bench. Shuffle your deck afterward."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kyoko Umemoto",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f3/77/66/f37766401a8e1917789cd54da6858d3bf2ef32443a74a71ee08ff0bc3a1eff50.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23400",
+      "sequenceNumber": 51,
+      "printedNumber": "51",
+      "uuid": 97986700,
+      "prices": [
+        {
+          "priceAmount": 250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/starly-51",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10180,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Staravia",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Starly",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Glide",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        },
+        {
+          "name": "Quick Turn",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Suwama Chiaki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/92/99/e0/9299e0a8e08171b5edaf21c405762e40747fafdaa3d10c670a29dba065174c63.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23401",
+      "sequenceNumber": 52,
+      "printedNumber": "52",
+      "uuid": 78620732,
+      "prices": [
+        {
+          "priceAmount": 250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/staravia-52",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10181,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Staraptor",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Staravia",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Cyclone Slash",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "70",
+          "text": "Before doing damage, have your opponent switch his or her Active Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Brave Bird",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120",
+          "text": "This Pokémon does 20 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b3/51/aa/b351aaa31248f46a152045f520d28ba6374222cd2f43bd85203d49cc169b5845.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23402",
+      "sequenceNumber": 53,
+      "printedNumber": "53",
+      "uuid": 99787166,
+      "prices": [
+        {
+          "priceAmount": 499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/staraptor-53",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10182,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Heavy Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Search your deck for a Pokémon with a Retreat Cost of 3 or more, reveal it, and put it into your hand. Shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2c/bd/54/2cbd546a3b60eecebddf2a139829eca85d2d9daa42ee0ad72d38ffd3c1927aeb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23403",
+      "sequenceNumber": 54,
+      "printedNumber": "54",
+      "uuid": 60033011,
+      "prices": []
+    },
+    {
+      "id": 10183,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Assault Vest",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Any damage done to the Pokémon this card is attached to by attacks from your opponents Pokémon that have any Special Energy attached to them is reduced by 40 (after applying Weakness and Resistance).\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/31/ce/7c/31ce7cef19cf0cedfc4249490c2e1bc975a6ad641b1eb271477bd32cf92db8cd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23404",
+      "sequenceNumber": 55,
+      "printedNumber": "55",
+      "uuid": 70533569,
+      "prices": []
+    },
+    {
+      "id": 10184,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Houndoom Spirit Link",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "Your turn does not end if the Pokémon this card is attached to becomes M Houndoom-EX."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/90/73/fe/9073fe6068afc8e382d895527157811849af67ba8c9542cfea5428e1159aee41.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23405",
+      "sequenceNumber": 56,
+      "printedNumber": "56",
+      "uuid": 77257658,
+      "prices": [
+        {
+          "priceAmount": 4200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/houndoom-spirit-link-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 239,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/houndoom-spirit-link-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10185,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Mewtwo Spirit Link",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "Your turn does not end if the Pokémon this card is attached to becomes M Mewtwo-EX."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c9/8e/2b/c98e2b31facf1fbb2846b6dad41c2cf5c7b2f17b0d4d4cd2ac38d9a73d6106be.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23406",
+      "sequenceNumber": 57,
+      "printedNumber": "57",
+      "uuid": 25984596,
+      "prices": [
+        {
+          "priceAmount": 3375,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mewtwo-spirit-link-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 99,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "06/25/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mewtwo-spirit-link-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "06/25/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mewtwo-spirit-link-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 362,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mewtwo-spirit-link-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10186,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Giovanni's Scheme",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "\"Choose 1:  • Draw cards until you have 5 cards in your hand. • During this turn, your Pokémons attacks do 20 more damage to your opponents Active Pokémon (before applying Weakness and Resistance).\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/71/88/1a/71881a39aa66be6c40dee09b83a309590099a8eda943c9c160bd4d3480aed871.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23407",
+      "sequenceNumber": 58,
+      "printedNumber": "58",
+      "uuid": 13224339,
+      "prices": [
+        {
+          "priceAmount": 236,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/giovanni's-scheme-58",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10187,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Burning Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "This card can only be attached to Fire Pokémon. This card provides Fire Energy only while this card is attached to a Fire Pokémon.  If this card is discarded by an attack of the Fire Pokémon this card is attached to, attach this card from your discard pile to that Pokémon after attacking.  (If this card is attached to anything other than a Fire Pokémon, discard this card.)"
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2e/51/1a/2e511a102646db311d553b4d2db586094c40e9428f0d79750ed1164184562ff8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23408",
+      "sequenceNumber": 59,
+      "printedNumber": "59",
+      "uuid": 95579026,
+      "prices": [
+        {
+          "priceAmount": 266,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/burning-energy-59",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10188,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Houndoom-EX",
+      "types": [
+        "Fire"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Melting Horn",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Discard the top 2 cards of your opponent's deck."
+        },
+        {
+          "name": "Grand Flame",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50",
+          "text": "Attach a Fire Energy card from your discard pile to 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/61/a6/48/61a648383c7e29908d820fa6398c998757c143308a711ee37ddb67c25d4a1ae7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23409",
+      "sequenceNumber": 60,
+      "printedNumber": "60",
+      "uuid": 49285726,
+      "prices": [
+        {
+          "priceAmount": 13650,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/houndoom-ex-60",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 5489,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/houndoom-ex-60",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 13625,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/houndoom-ex-60",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 3411,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/houndoom-ex-60",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10189,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "M Houndoom-EX",
+      "types": [
+        "Fire"
+      ],
+      "hp": 210,
+      "evolvesFrom": "Houndoom-EX",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Inferno Fang",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "80+",
+          "text": "You may discard all Fire Energy attached to this Pokémon. If you do, this attack does 80 more damage."
+        }
+      ],
+      "rules": [
+        "When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Mega",
+        "Stage 1"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2b/7e/b0/2b7eb0b6b62895b5d3fc01998d157b7fd8ac4245680dc78ce3cc03768dc1be5a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23410",
+      "sequenceNumber": 61,
+      "printedNumber": "61",
+      "uuid": 66542001,
+      "prices": [
+        {
+          "priceAmount": 12376,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mega-houndoom-ex-61",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 3177,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mega-houndoom-ex-61",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mega-houndoom-ex-61",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1105,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mega-houndoom-ex-61",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10190,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Mewtwo-EX",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Shatter Shot",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30×",
+          "text": "This attack does 30 damage times the amount of Psychic Energy attached to this Pokémon."
+        },
+        {
+          "name": "Damage Change",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Switch all damage counters on this Pokémon with those on your opponents Active Pokémon."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/dc/30/d0/dc30d04107bf7fc66e5bc25aa640c5c6f32bafa57916cc371346382173d86ede.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23411",
+      "sequenceNumber": 62,
+      "printedNumber": "62",
+      "uuid": 94988316,
+      "prices": [
+        {
+          "priceAmount": 17250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mewtwo-ex-62",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 15999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mewtwo-ex-62",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 16900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mewtwo-ex-62",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 5599,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mewtwo-ex-62",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10191,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "M Mewtwo-EX",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 210,
+      "evolvesFrom": "Mewtwo-EX",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Psychic Infinity",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "This attack does 30 more damage times the amount of Energy attached to both Active Pokémon. This attack's damage isn't affected by Weakness."
+        }
+      ],
+      "rules": [
+        "When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Mega",
+        "Stage 1"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c6/17/b2/c617b27931278308d242890e7b84e5c5f4be656b3054bf9983fade0d03544ecd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23412",
+      "sequenceNumber": 63,
+      "printedNumber": "63",
+      "uuid": 97043462,
+      "prices": [
+        {
+          "priceAmount": 32970,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mega-mewtwo-ex-63",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 8689,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mega-mewtwo-ex-63",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10192,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Giovanni's Scheme",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "\"Choose 1:  • Draw cards until you have 5 cards in your hand. • During this turn, your Pokémons attacks do 20 more damage to your opponents Active Pokémon (before applying Weakness and Resistance).\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e8/00/37/e80037ba8312feb258fa549981b7f706add9e358d51094b93b697ce627703440.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23413",
+      "sequenceNumber": 64,
+      "printedNumber": "64",
+      "uuid": 71478810,
+      "prices": [
+        {
+          "priceAmount": 35000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/giovanni's-scheme-64",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 4800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/giovanni's-scheme-64",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 12000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/giovanni's-scheme-64",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 13200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/giovanni's-scheme-64",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 15000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/giovanni's-scheme-64",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10193,
+      "setData": {
+        "name": "Red Flash",
+        "printed_count": "65",
+        "card_count": 65,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/red-flash"
+      },
+      "name": "Mewtwo-EX",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Shatter Shot",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30×",
+          "text": "This attack does 30 damage times the amount of Psychic Energy attached to this Pokémon."
+        },
+        {
+          "name": "Damage Change",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Switch all damage counters on this Pokémon with those on your opponents Active Pokémon."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c5/db/5a/c5db5acbd0576b0b4da02b6e1b4306f58542917e789e021264cea2b90af48ba9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23414",
+      "sequenceNumber": 65,
+      "printedNumber": "65",
+      "uuid": 77567537,
+      "prices": [
+        {
+          "priceAmount": 25051,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mewtwo-ex-65",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 13747,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mewtwo-ex-65",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 24600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mewtwo-ex-65",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 6289,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-red-flash/mewtwo-ex-65",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 65,
+  "totalCount": 65
+}

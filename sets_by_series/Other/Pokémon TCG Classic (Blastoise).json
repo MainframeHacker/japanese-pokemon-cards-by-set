@@ -1,0 +1,2974 @@
+{
+  "data": [
+    {
+      "id": 23822,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Squirtle",
+      "types": [
+        "Water"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bubble",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Withdraw",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Flip a coin. If heads, prevent all damage done to Squirtle during your opponent's next turn. (Any other effects of attacks still happen.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/41/52/e9/4152e9533d38303546dfafb19a5b58b9d042766cd570d1b02384ac941a3a8ed6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43282",
+      "sequenceNumber": 1,
+      "printedNumber": "001",
+      "uuid": 94390881,
+      "prices": [
+        {
+          "priceAmount": 3874,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/squirtle-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1350,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/squirtle-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 2335,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/squirtle-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/squirtle-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 712,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/squirtle-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23823,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Wartortle",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Squirtle",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Withdraw",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Flip a coin. If heads, prevent all damage done to Wartortle during your opponent's next turn. (Any other effects of attacks still happen.)"
+        },
+        {
+          "name": "Bite",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/6c/2d/01/6c2d0186d807c84e97021e6f69c5475efac34025fb199d62ece7ac6abe59b743.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43283",
+      "sequenceNumber": 2,
+      "printedNumber": "002",
+      "uuid": 33608650,
+      "prices": [
+        {
+          "priceAmount": 2995,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/wartortle-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 650,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/wartortle-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 1560,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/wartortle-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1680,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/wartortle-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2055,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/wartortle-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 550,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/wartortle-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23824,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Blastoise",
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Wartortle",
+      "effect": [
+        {
+          "name": "Rain Dance",
+          "text": "As often as you like during your turn (before your attack), you may attach 1 Water Energy card to 1 of your Water Pokémon. (This doesn't use up your 1 Energy card attachment for the turn.) This power can't be used if Blastoise is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hydro Pump",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40+",
+          "text": "Does 40 damage plus 10 more damage for each Water Energy attached to Blastoise but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd doesn't count."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/9f/60/5f/9f605f68a7d2ef94614b90bf02c60147a537db2481032f083d90ef092ffcdf2d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43284",
+      "sequenceNumber": 3,
+      "printedNumber": "003",
+      "uuid": 15561138,
+      "prices": [
+        {
+          "priceAmount": 9508,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/blastoise-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2667,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/blastoise-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 2871,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/blastoise-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 3360,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/blastoise-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3786,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/blastoise-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 3379,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/blastoise-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23825,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Staryu",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Recover",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Discard an Energy attached to this Pokémon and heal all damage from this Pokémon."
+        },
+        {
+          "name": "Water Gun",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoyo Kimura",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/ff/a3/2e/ffa32eab715e0d8ce4843fde753382409c3cb13828ccb3c5727ee02328e8ab15.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43285",
+      "sequenceNumber": 4,
+      "printedNumber": "004",
+      "uuid": 12574497,
+      "prices": [
+        {
+          "priceAmount": 1428,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/staryu-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/staryu-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/staryu-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 221,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/staryu-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23826,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Starmie",
+      "types": [
+        "Water"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Staryu",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Confuse Ray",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "The Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Swift",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "50",
+          "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/1b/1b/bf/1b1bbf44019238e4649d5ad44ac63e5e0ff6c3fd1d332a59bccefd58e552752b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43286",
+      "sequenceNumber": 5,
+      "printedNumber": "005",
+      "uuid": 3716737,
+      "prices": [
+        {
+          "priceAmount": 1995,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/starmie-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1221,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/starmie-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/starmie-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/starmie-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23827,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Magikarp",
+      "types": [
+        "Water"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Splash",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/ee/eb/81/eeeb81e97116573590167c8cdad5ce0ffe81c36996052c04f1e7e0ca1c2ce9f8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43287",
+      "sequenceNumber": 6,
+      "printedNumber": "006",
+      "uuid": 88361472,
+      "prices": [
+        {
+          "priceAmount": 4444,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/magikarp-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 501,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/magikarp-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1524,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/magikarp-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/magikarp-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/magikarp-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23828,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Gyarados",
+      "types": [
+        "Water"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Magikarp",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hydro Splash",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50"
+        },
+        {
+          "name": "Hyper Beam",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "80",
+          "text": "Discard an Energy card attached to the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/42/68/5c/42685c0954866c1844152551c58cd0d9ea1a94fcc8e32f3d9282b477ecaea097.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43288",
+      "sequenceNumber": 7,
+      "printedNumber": "007",
+      "uuid": 99939835,
+      "prices": [
+        {
+          "priceAmount": 3161,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/gyarados-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1425,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/gyarados-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/gyarados-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/gyarados-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23829,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Lapras",
+      "types": [
+        "Water"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Ice Beam",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Ice Blade",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Suwama Chiaki",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/5e/21/9d/5e219d71e7d6293ac233f963bbec5c5f6c6da2cb090cd2ba9010f4c2d4bb2258.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43289",
+      "sequenceNumber": 8,
+      "printedNumber": "008",
+      "uuid": 43119293,
+      "prices": [
+        {
+          "priceAmount": 1989,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/lapras-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1108,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/lapras-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/lapras-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 299,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/lapras-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23830,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Articuno",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Freeze Dry",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Blizzard",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "50",
+          "text": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/ba/21/0b/ba210b58e4c79bfa005fe8e2cda4f15d6a3d74c596ad9cbbfe07d6390d755092.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43290",
+      "sequenceNumber": 9,
+      "printedNumber": "009",
+      "uuid": 24148265,
+      "prices": [
+        {
+          "priceAmount": 3399,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/articuno-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1625,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/articuno-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/articuno-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/articuno-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/articuno-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23831,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Suicune ex",
+      "types": [
+        "Water"
+      ],
+      "hp": 220,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Aqua Lift",
+          "text": "If this Pokémon has any Water Energy attached, it has no Retreat Cost.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Crystal Blast",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60+",
+          "text": "This attack does 30 more damage for each Water Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex (SV)",
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "PLANETA Hiiragi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/41/ba/e9/41bae95ddc6db3e4f1145c72cb557d12bd302ce1d79a23f4189b3339dc4e8da0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43291",
+      "sequenceNumber": 10,
+      "printedNumber": "010",
+      "uuid": 96285658,
+      "prices": [
+        {
+          "priceAmount": 2190,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/suicune-ex-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1998,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/suicune-ex-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/suicune-ex-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/suicune-ex-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23832,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Drowzee",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Psychic Boom",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "This attack does 10 damage times the amount of Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Headbutt",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Suwama Chiaki",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/59/b1/ab/59b1aba95a69175083b36b165e64f97e17fbdaf13f7e235b63a3115915a148b5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43292",
+      "sequenceNumber": 11,
+      "printedNumber": "011",
+      "uuid": 32942955,
+      "prices": [
+        {
+          "priceAmount": 3500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/drowzee-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1249,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/drowzee-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/drowzee-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 152,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/drowzee-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23833,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Hypno",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Drowzee",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Meditate",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "This attack does 10 more damage for each damage counter on your opponent's Active Pokémon."
+        },
+        {
+          "name": "Hypnoblast",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouichi Ooyama",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/f2/b3/ca/f2b3ca2d63e1da8a77c59bb8d66abbc78667c119025998a936ec92d621204a98.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43293",
+      "sequenceNumber": 12,
+      "printedNumber": "012",
+      "uuid": 64179815,
+      "prices": [
+        {
+          "priceAmount": 2300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/hypno-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1050,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/hypno-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/hypno-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 187,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/hypno-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23834,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Mr. Mime",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Dampening Shield",
+          "text": "As long as this Pokémon is on your Bench, Pokémon in play (both yours and your opponent's) have no Weakness or Resistance.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Juggling",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10×",
+          "text": "Flip 4 coins. This attack does 10 damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kasumi Matsuda",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/da/fc/a4/dafca417ac1721095572bb3baf7c82eb306bd57c571fc10599aa7dd0c07d127c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43294",
+      "sequenceNumber": 13,
+      "printedNumber": "013",
+      "uuid": 65739811,
+      "prices": [
+        {
+          "priceAmount": 3141,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/mr-mime-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1447,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/mr-mime-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1653,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/mr-mime-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/mr-mime-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 327,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/mr-mime-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23835,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Mewtwo",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Psychic",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "This attack does 20 more damage for each Energy card attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Barrier",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "During your opponent's next turn, prevent all effects of attacks, including damage, done to this Pokémon. If 1 of your Pokémon used Barrier during your last turn, this attack can't be used."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/d3/b7/52/d3b752c0b8469b2d10dbd1e6b5574f63c697378c14c02998071ccc7e3610e63a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43295",
+      "sequenceNumber": 14,
+      "printedNumber": "014",
+      "uuid": 34596385,
+      "prices": [
+        {
+          "priceAmount": 4661,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/mewtwo-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1655,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/mewtwo-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 2845,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/mewtwo-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/mewtwo-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1470,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/mewtwo-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23836,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Lt. Surge's Rattata",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Focus Energy",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "During your next turn, Lt. Surge's Rattata's Gnaw attack's base damage is doubled."
+        },
+        {
+          "name": "Gnaw",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/22/be/ff/22beff6aa9ce5543ac917e0a10ad65af390aff5fa39a073de80dc70dd85158fb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43296",
+      "sequenceNumber": 15,
+      "printedNumber": "015",
+      "uuid": 28240357,
+      "prices": [
+        {
+          "priceAmount": 2571,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/rattata-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1117,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/rattata-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/rattata-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 223,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/rattata-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23837,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Lt. Surge's Raticate",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Lt. Surge's Rattata",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Super Fang",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "?",
+          "text": "Does damage to the Defending Pokémon equal to half the Defending Pokémon's remaining HP (rounded up to the nearest 10)."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/7f/54/51/7f545170e410415587b9ca59dd2de7cb972422ca800d78c59f2c22e2a19d8874.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43297",
+      "sequenceNumber": 16,
+      "printedNumber": "016",
+      "uuid": 92814461,
+      "prices": [
+        {
+          "priceAmount": 2243,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/raticate-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1274,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/raticate-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/raticate-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 249,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/raticate-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23838,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Kangaskhan",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 100,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for 2 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Comet Punch",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "Flip 4 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/91/0f/15/910f15091dba5ef6731b1d6906f6aa1d57acfeb33d6a5ea3a969ba84b8c71417.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43298",
+      "sequenceNumber": 17,
+      "printedNumber": "017",
+      "uuid": 1117841,
+      "prices": [
+        {
+          "priceAmount": 1812,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/kangaskhan-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 569,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/kangaskhan-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1025,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/kangaskhan-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/kangaskhan-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 175,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/kangaskhan-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23839,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Super Rod",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Shuffle up to 3 in any combination of Pokémon and Basic Energy cards from your discard pile into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/d1/aa/9b/d1aa9bb8ebbf269729beb9c9374c9a7f4f8989c6926d623bac4efd2ed5392976.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43299",
+      "sequenceNumber": 18,
+      "printedNumber": "018",
+      "uuid": 26256795,
+      "prices": [
+        {
+          "priceAmount": 1550,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/super-rod-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 799,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/super-rod-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/super-rod-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 149,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/super-rod-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23840,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Ultra Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "You can use this card only if you discard 2 other cards from your hand.\\nSearch your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "sadaji",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/51/7a/7f/517a7f7672bf803c713f1bae4ab626442b4f97a6490a2d0252f0f40a6770195d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43300",
+      "sequenceNumber": 19,
+      "printedNumber": "019",
+      "uuid": 22008136,
+      "prices": [
+        {
+          "priceAmount": 3664,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/ultra-ball-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 550,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/ultra-ball-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/ultra-ball-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 156,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/ultra-ball-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23841,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Computer Search",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "You can use this card only if you discard 2 other cards from your hand.\\nSearch your deck for a card and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/2d/fd/5b/2dfd5b9d75d408469f4cb630588945a18afce6617410692ef001f3eaeb81962a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43301",
+      "sequenceNumber": 20,
+      "printedNumber": "020",
+      "uuid": 66518763,
+      "prices": []
+    },
+    {
+      "id": 23842,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "VS Seeker",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Put a Supporter card from your discard pile into your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/69/93/d1/6993d16b42d5e5b120b49631bcf6121764ba6863b1fb2417463d6c5e1c90f8d7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43302",
+      "sequenceNumber": 21,
+      "printedNumber": "021",
+      "uuid": 11411106,
+      "prices": [
+        {
+          "priceAmount": 3858,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/vs-seeker-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1280,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/vs-seeker-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/vs-seeker-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 194,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/vs-seeker-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23843,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Rare Candy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "\"Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it, skipping the Stage 1. You cant use this card during your first turn or on a Basic Pokémon that was put into play this turn.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/e8/74/7d/e8747d97308afaaa20506e98078bbcc71fa1b40ab2ae06f48d80ffb3510964f5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43303",
+      "sequenceNumber": 22,
+      "printedNumber": "022",
+      "uuid": 46412220,
+      "prices": [
+        {
+          "priceAmount": 3615,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/rare-candy-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 799,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/rare-candy-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/rare-candy-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 139,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/rare-candy-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23844,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Switch your Active Pokémon with 1 of your Benched Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Studio Bora Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/23/08/7f/23087fdd3f52df9301644d5d92321565679cf4b4c1f3498bee14109d8c329f82.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43304",
+      "sequenceNumber": 23,
+      "printedNumber": "023",
+      "uuid": 73544824,
+      "prices": [
+        {
+          "priceAmount": 2000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/switch-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 649,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/switch-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/switch-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 174,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/switch-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23845,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Poké Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/59/ce/9b/59ce9b4bbd1b79c607883ce908370a8d8b43af9817f0311d9f23bcb970698e50.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43305",
+      "sequenceNumber": 24,
+      "printedNumber": "024",
+      "uuid": 47979108,
+      "prices": [
+        {
+          "priceAmount": 3660,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/poke-ball-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 799,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/poke-ball-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/poke-ball-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 149,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/poke-ball-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23846,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Drops in the Ocean",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached.",
+        "\"The attacks used by the Blastoise this card is attached to do 100 more damage to your opponents Active Pokémon (before applying Weakness and Resistance).\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Tool"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/c4/4b/1c/c44b1c084e010a943e05261f30937cd0706bb67e4275629cbd6d62bc3bfb3d36.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43306",
+      "sequenceNumber": 25,
+      "printedNumber": "025",
+      "uuid": 83040285,
+      "prices": []
+    },
+    {
+      "id": 23847,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Professor Oak",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Discard your hand and draw 7 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/eb/0f/1c/eb0f1c987783940876ffd109f49a632cc10092ca8afeb2f130611782125be6cb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43307",
+      "sequenceNumber": 26,
+      "printedNumber": "026",
+      "uuid": 76517424,
+      "prices": [
+        {
+          "priceAmount": 1747,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/professor-oak-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1202,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/professor-oak-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/professor-oak-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 150,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/professor-oak-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23848,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Fisherman",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Put up to 4 Basic Energy cards from your discard pile into your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hitoshi Ariga",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/1c/55/29/1c5529ceaead074cdabda9ad36a251f5bfd872d16395be38fd44842e6c2f94e0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43308",
+      "sequenceNumber": 27,
+      "printedNumber": "027",
+      "uuid": 87539264,
+      "prices": [
+        {
+          "priceAmount": 2088,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/fisherman-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/fisherman-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23849,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Pokémon Fan Club",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Search your deck for up to 2 Basic Pokémon, reveal them, and put them into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sanosuke Sakuma",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/1f/b0/e7/1fb0e70bc56a7283207cc8a3615edc8d772c70394e02972e78f3d040065ef870.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43309",
+      "sequenceNumber": 28,
+      "printedNumber": "028",
+      "uuid": 10323520,
+      "prices": []
+    },
+    {
+      "id": 23850,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Boss's Orders",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "\"Switch in 1 of your opponents Benched Pokémon to the Active Spot.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "nagimiso",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/a3/94/de/a394deb83c92b57e7bc4908c270ff8f95aee80dce0aaaf4e9f0a6a4f8afe9e5e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43310",
+      "sequenceNumber": 29,
+      "printedNumber": "029",
+      "uuid": 39264013,
+      "prices": [
+        {
+          "priceAmount": 177,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/boss's-orders-29",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23851,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Bill",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Draw 2 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/59/ac/73/59ac73b1469104e2d4704c8aa199f6ba4ac6dd950e0137fee97db513fdba6b89.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43311",
+      "sequenceNumber": 30,
+      "printedNumber": "030",
+      "uuid": 93221300,
+      "prices": [
+        {
+          "priceAmount": 1950,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/bill-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/bill-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 799,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/bill-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/bill-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 153,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-blastoise/bill-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23852,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Rocket's Admin.",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Each players shuffles their hand into their deck. Then, each player draws a card for each of their remaining Prize cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/12/ba/4e/12ba4eca73a27831bdf9bfd6ba0f30cc506d8049ebd85b62f2a943586bd17e90.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43312",
+      "sequenceNumber": 31,
+      "printedNumber": "031",
+      "uuid": 42779252,
+      "prices": []
+    },
+    {
+      "id": 23853,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Double Colorless Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "As long as this card is attached to a Pokémon, it provides ColorlessColorless Energy."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/20/02/c1/2002c1d45efe6d7dec1b7f395ac056cd33fd7824aa0dcced28e499ec611ccbd0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43313",
+      "sequenceNumber": 32,
+      "printedNumber": "032",
+      "uuid": 70822891,
+      "prices": []
+    },
+    {
+      "id": 23854,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Water Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/94/01/f5/9401f522c34e2d6f40feb2e3e58ff20b938b24941bb6279980e1eeaece19ce2d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43314",
+      "sequenceNumber": -1,
+      "printedNumber": "-1",
+      "uuid": 54308440,
+      "prices": []
+    },
+    {
+      "id": 23855,
+      "setData": {
+        "name": "Pokémon TCG Classic (Blastoise)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/bd/c8/42/bdc842620aee3e6c167421186cad29145da31f27668d543ce7f4a93803d139a9.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-blastoise"
+      },
+      "name": "Psychic Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/df/99/10/df9910eb675ef2f936c1cae63b7cd65f425a0e0dadb0e1468f80eba923d6ec5f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43315",
+      "sequenceNumber": -1,
+      "printedNumber": "-1",
+      "uuid": 889894,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 34,
+  "totalCount": 34
+}

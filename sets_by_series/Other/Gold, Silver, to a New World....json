@@ -1,0 +1,5914 @@
+{
+  "data": [
+    {
+      "id": 17181,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Oddish",
+      "types": [
+        "Grass"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hide",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Oddish."
+        },
+        {
+          "name": "Absorb",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Remove a number of damage counters from Oddish equal to half the damage done to the Defending Pokémon (after applying Weakness and Resistance) (rounded up to the nearest 10). If Oddish has fewer damage counters than that, remove all of them."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f9/44/de/f944dea08136c1eb2a0de7bc0b90bb5391c4452733021e88287d04924efaeb1e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29518",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 76651604,
+      "prices": []
+    },
+    {
+      "id": 17182,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Chikorita",
+      "types": [
+        "Grass"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Deflector",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "During your opponent's next turn, whenever Chikorita takes damage, divide that damage in half (rounded down to the nearest 10). (Any other effects still happen.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1d/37/20/1d3720e3525d06943e14df1b334c75042956af6c8791e5412fda3c639387b6ee.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29519",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 33771034,
+      "prices": []
+    },
+    {
+      "id": 17183,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Ledyba",
+      "types": [
+        "Grass"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Supersonic",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Comet Punch",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10×",
+          "text": "Flip 4 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/96/0e/80/960e80f02ffa39d5eb6e1405ab76e8b96cd8d99b94e51e4ddba6393744c13199.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29520",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 59361224,
+      "prices": []
+    },
+    {
+      "id": 17184,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Spinarak",
+      "types": [
+        "Grass"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Scary Face",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, until the end of your opponent's next turn the Defending Pokémon can't attack or retreat."
+        },
+        {
+          "name": "String Shot",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0f/5d/8d/0f5d8debde7fbad7370b3583ee1e948a34e27c5cf341c96e23212b8745e3be95.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29521",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 18519756,
+      "prices": []
+    },
+    {
+      "id": 17185,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Hoppip",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hop",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Sprout",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for a Basic Pokémon named Hoppip and put it onto your Bench. Shuffle your deck afterward. (You can't use this attack if your Bench is full.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ac/6d/af/ac6daf66e64d666130a98518a53fe4296d462ad126d5762970a5d6ab4edac262.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29522",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 92800515,
+      "prices": []
+    },
+    {
+      "id": 17186,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Sunkern",
+      "types": [
+        "Grass"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Growth",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, you may attach up to 2 Grass Energy cards from your hand to Sunkern."
+        },
+        {
+          "name": "Mega Drain",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "Remove a number of damage counters from Sunkern equal to half the damage done to the Defending Pokémon (after applying Weakness and Resistance) (rounded up to the nearest 10). If Sunkern has fewer damage counters than that, remove all of them."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a4/ff/b2/a4ffb209212eef8a99a7f44c849616c7e5805063b805fd6f778ccb971e81a72c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29523",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 29290625,
+      "prices": []
+    },
+    {
+      "id": 17187,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Shuckle",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Withdraw",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, prevent all damage done to Shuckle during your opponent's next turn. (Any other effects of attacks still happen.)"
+        },
+        {
+          "name": "Wrap",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/98/c1/e1/98c1e1a0ad01fce6acdceaabc6abdc3bd6b650c657854903077bdcc6f88d3d35.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29524",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 75218240,
+      "prices": []
+    },
+    {
+      "id": 17188,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Gloom",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Oddish",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Strange Powder",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused; if tails, the Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Sticky Nectar",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20+",
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage and, until the end of your opponent's next turn, as long as Gloom is your Active Pokémon, the Defending Pokémon can't retreat, and if the effect of an attack, Pokémon Power, or Trainer card would change that player's Active Pokémon, that part of the effect does nothing. If tails, this attack does 20 damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8c/0a/8a/8c0a8a839fc5ce4e9f9557234b4a1d35068784cc4f66f6a26400c07e80e3afdc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29525",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 62236778,
+      "prices": []
+    },
+    {
+      "id": 17189,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Bayleef",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Chikorita",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sweet Scent",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads and if any of your Pokémon have any damage counters on them, then remove 2 damage counters from 1 of them (or 1 if it only has 1). If tails and if any of your opponent's Pokémon have any damage counters on them, choose 1 of them and remove 2 damage counters from it (or 1 if it only has 1)."
+        },
+        {
+          "name": "Double Razor Leaf",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40×",
+          "text": "Flip 2 coins. This attack does 40 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a7/f2/05/a7f205775b6133b2c34ea062b4516ecf3372d692399c681a590b2872aef8f960.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29526",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 98869154,
+      "prices": []
+    },
+    {
+      "id": 17190,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Ledian",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Ledyba",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Baton Pass",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "If you have any Grass Pokémon on your Bench, remove all Grass Energy cards from Ledian and attach them to 1 of those Pokémon, then switch Ledian with that Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/94/a4/cb/94a4cb05bf2022c45bfb93653177f9e64ce576cdcafd6925c4bdee131a058c5d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29527",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 61163148,
+      "prices": []
+    },
+    {
+      "id": 17191,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Ariados",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Spinarak",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Spider Web",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon can't retreat. (Benching or evolving that Pokémon ends this effect.)"
+        },
+        {
+          "name": "Poison Bite",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20",
+          "text": "If this attack damages the Defending Pokémon, the Defending Pokémon is now Poisoned and you remove a number of damage counters from Ariados equal to half that damage (rounded up to the nearest 10). If Ariados has fewer damage counters than that, remove all of them."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/78/49/9c/78499c6cd78e3c76d3baf8e44ef8c56e30ac262cbe11af666cd752f8d6a8d98c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29528",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 90008940,
+      "prices": []
+    },
+    {
+      "id": 17192,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Skiploom",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Hoppip",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Poisonpowder",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "The Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Stun Spore",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1e/04/34/1e0434da832e9e73cffcf2fa2aeca9aab1fed7fdc6900acc1427e9db254fee0d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29529",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 2822344,
+      "prices": []
+    },
+    {
+      "id": 17193,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Sunflora",
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Sunkern",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Petal Dance",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30×",
+          "text": "Flip 3 coins. This attack does 30 damage times the number of heads. Sunflora is now Confused (after doing damage)."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/41/0c/ee/410cee76bb27d8c1bf96e444fc3caea343107a05870ba103ee2e7c22cc942129.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29530",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 73252792,
+      "prices": []
+    },
+    {
+      "id": 17194,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Meganium",
+      "types": [
+        "Grass"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Bayleef",
+      "effect": [
+        {
+          "name": "Wild Growth",
+          "text": "As long as Meganium is in play, each Grass Energy card attached to your Grass Pokémon instead provides Grass Grass. This power stops working while Meganium is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Soothing Scent",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "40",
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c9/f2/9d/c9f29d8cff4dd04642e87b2dfa43246be948b56ae0298c40a3c0c18ca1b6daeb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29531",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 86866019,
+      "prices": []
+    },
+    {
+      "id": 17195,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Bellossom",
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Gloom",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sweet Nectar",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, remove all damage counters from 1 of your Pokémon."
+        },
+        {
+          "name": "Flower Dance",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30×",
+          "text": "Does 30 damage times the number of cards with Bellossom in their names that you have in play (including this one)."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/87/e5/47/87e5472130ddb56a0c74478489532d665d93fd02f2d54898946ab97972cbfd76.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29532",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 9548505,
+      "prices": []
+    },
+    {
+      "id": 17196,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Jumpluff",
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Skiploom",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sleep Powder",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Leech Seed",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "If this attack damages the Defending Pokémon (after applying Weakness and Resistance), remove 1 damage counter from Jumpluff, if it has any."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/76/0a/bf/760abf3e301d7bcc763954ac73e5ccc3994a995df9d7b11f26ad422268b9f359.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29533",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 96926174,
+      "prices": []
+    },
+    {
+      "id": 17197,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Heracross",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Final Blow",
+          "text": "If Heracross's remaining HP are 20 or less, you may make its Megahorn attack's base damage 120 instead of 60. This power can't be used if Heracross is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Megahorn",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4a/19/28/4a1928a2cfd232c347f1d99210be01d6657911d1d270f1a4364eeb7d937c9006.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29534",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 430634,
+      "prices": []
+    },
+    {
+      "id": 17198,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Cyndaquil",
+      "types": [
+        "Fire"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fireworks",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Flip a coin. If tails, discard 1 Energy card attached to Cyndaquil."
+        },
+        {
+          "name": "Quick Attack",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c6/7a/3f/c67a3fdb0708eefefd9e4fc94cf8ff569039d910a160ba6d061cd65a2dadebd7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29535",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 89435693,
+      "prices": []
+    },
+    {
+      "id": 17199,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Magmar",
+      "types": [
+        "Fire"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tail Slap",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        },
+        {
+          "name": "Magma Punch",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/13/a7/fd/13a7fd5969d07b699981f9f0067023776a2a14af042c20a86689d28043dc2bd5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29536",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 87901672,
+      "prices": []
+    },
+    {
+      "id": 17200,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Quilava",
+      "types": [
+        "Fire"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Cyndaquil",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Smokescreen",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        },
+        {
+          "name": "Char",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "If the Defending Pokémon doesn't have a Char counter on it, flip a coin. If heads, put a Char counter on it. A Char counter requires your opponent to flip a coin after every turn. If tails, put 2 damage counters on the Pokémon with that Char counter. (Char counters stay on the Pokémon as long as it's in play.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/99/7d/03/997d03908386c02a74871d56974c279bda4464c90c6fd0a844ce635ae6809ecf.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29537",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 38685395,
+      "prices": []
+    },
+    {
+      "id": 17201,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Typhlosion",
+      "types": [
+        "Fire"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Quilava",
+      "effect": [
+        {
+          "name": "Fire Recharge",
+          "text": "Once during your turn (before your attack), you may flip a coin. If heads, attach a Fire Energy card from your discard pile to 1 of your Fire Pokémon. This power can't be used if Typhlosion is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Flame Burst",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "60+",
+          "text": "Flip a coin. If heads, this attack does 60 damage plus 20 more damage and does 20 damage to Typhlosion. If tails, this attack does 60 damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6e/8e/a9/6e8ea978791fcacd96f1b0bda7b028b8788e0f51ac61f16fb63ca9ce59564c10.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29538",
+      "sequenceNumber": 21,
+      "printedNumber": "21",
+      "uuid": 44179042,
+      "prices": []
+    },
+    {
+      "id": 17202,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Magby",
+      "types": [
+        "Fire"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sputter",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "All Pokémon Powers stop working until the end of your next turn."
+        }
+      ],
+      "rules": [
+        "\"If this Baby Pokémon is your Active Pokémon and your opponent tries to attack, your opponent flips a coin (before doing anything required in order to use that attack). If tails, your opponents turn ends without an attack.\""
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/11/ac/5f/11ac5f7e8ed7583730043ed95ab9f72102a28fba16b0197202e1c9eceeb5193a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29539",
+      "sequenceNumber": 22,
+      "printedNumber": "22",
+      "uuid": 75163573,
+      "prices": []
+    },
+    {
+      "id": 17203,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Horsea",
+      "types": [
+        "Water"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fin Slap",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "If an attack damaged Horsea during your opponent's last turn, this attack does 20 damage plus 10 more damage. If not, this attack does 20 damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/56/42/65/5642654486a090a87b7a0777f89c7399af20985c7c0ca0139936b0e140995f05.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29540",
+      "sequenceNumber": 23,
+      "printedNumber": "23",
+      "uuid": 79335228,
+      "prices": []
+    },
+    {
+      "id": 17204,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Totodile",
+      "types": [
+        "Water"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Leer",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon can't attack Totodile during your opponent's next turn. (Benching or evolving either Pokémon ends this effect.)"
+        },
+        {
+          "name": "Fury Swipes",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/41/17/d9/4117d9218d67ca3f4d3cfc395346f03bdf5d98bdacc81246dc0c3fff28b4e4ab.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29541",
+      "sequenceNumber": 24,
+      "printedNumber": "24",
+      "uuid": 2908722,
+      "prices": []
+    },
+    {
+      "id": 17205,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Marill",
+      "types": [
+        "Water"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Defense Curl",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, prevent all damage done to Marill during your opponent's next turn. (Any other effects of attacks still happen.)"
+        },
+        {
+          "name": "Bubble Bomb",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed. If tails, Marill does 10 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6a/cc/e3/6acce35b6c722b5f1b25c3d1974fc51bf1a4c2090ddaa8d086ae75279de56d61.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29542",
+      "sequenceNumber": 25,
+      "printedNumber": "25",
+      "uuid": 43218692,
+      "prices": []
+    },
+    {
+      "id": 17206,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Wooper",
+      "types": [
+        "Water"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Amnesia",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Choose 1 of the Defending Pokémon's attacks. That Pokémon can't use that attack during your opponent's next turn."
+        },
+        {
+          "name": "Slam",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/46/30/be/4630be5754517fb109b445757518b46b67b413c7fdf5a229b8da22e90d12b5ac.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29543",
+      "sequenceNumber": 26,
+      "printedNumber": "26",
+      "uuid": 27030057,
+      "prices": []
+    },
+    {
+      "id": 17207,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Swinub",
+      "types": [
+        "Water"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Powder Snow",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "The Defending Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/85/c1/be/85c1bed71d7de5cd2f305267635f0bf54e6dd92d79d90c5acc2f7fc6035e1a6f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29544",
+      "sequenceNumber": 27,
+      "printedNumber": "27",
+      "uuid": 13996819,
+      "prices": []
+    },
+    {
+      "id": 17208,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Mantine",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Undulate",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Mantine."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/45/0d/90/450d90c150f33b75b026ae3165e04d49903cbbbeb1a57200ef76d172affd987b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29545",
+      "sequenceNumber": 28,
+      "printedNumber": "28",
+      "uuid": 64925085,
+      "prices": []
+    },
+    {
+      "id": 17209,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Seadra",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Horsea",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bubble",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Mud Splash",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and flip a coin. If heads, this attack does 10 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/08/0b/90/080b9026c4c7e757154fedc7a7eaafcfec8938c843fa7fc3270915b4a45fa24f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29546",
+      "sequenceNumber": 29,
+      "printedNumber": "29",
+      "uuid": 929601,
+      "prices": []
+    },
+    {
+      "id": 17210,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Croconaw",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Totodile",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Screech",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Until the end of your next turn, if an attack damages the Defending Pokémon (after applying Weakness and Resistance), that attack does 20 more damage to the Defending Pokémon."
+        },
+        {
+          "name": "Jaw Clamp",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "Until the end of your opponent's next turn, as long as Croconaw is your Active Pokémon, the Defending Pokémon can't retreat, and if the effect of an attack, Pokémon Power, or Trainer card would change that player's Active Pokémon, that part of the effect does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/74/67/8a/74678ac369e8776dfc455819da994d3973999e4502ed1fa62459b53b3675cf83.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29547",
+      "sequenceNumber": 30,
+      "printedNumber": "30",
+      "uuid": 56849256,
+      "prices": []
+    },
+    {
+      "id": 17211,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Quagsire",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Wooper",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Surf",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        },
+        {
+          "name": "Earthquake",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "60",
+          "text": "Does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2f/65/38/2f653879a0464ffdb3047f291006bacbf6fd6d6618ef15373c29f28708fa0d55.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29548",
+      "sequenceNumber": 31,
+      "printedNumber": "31",
+      "uuid": 84402791,
+      "prices": []
+    },
+    {
+      "id": 17212,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Piloswine",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Swinub",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Freeze",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon can't attack. (Benching or evolving the Defending Pokémon ends this effect.)"
+        },
+        {
+          "name": "Blizzard",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "Flip a coin. If heads, this attack does 10 damage to each of your opponent's Benched Pokémon. If tails, this attack does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ff/07/5c/ff075c713fbf1658b2791870fb6ec58690da7c3fc7c101c031004908c39fa8ed.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29549",
+      "sequenceNumber": 32,
+      "printedNumber": "32",
+      "uuid": 4900506,
+      "prices": []
+    },
+    {
+      "id": 17213,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Feraligatr",
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Croconaw",
+      "effect": [
+        {
+          "name": "Berserk",
+          "text": "When you play Feraligatr from your hand, flip a coin. If heads, discard the top 5 cards from your opponent's deck. If tails, discard the top 5 cards from your deck.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Chomp",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "50+",
+          "text": "Flip a number of coins equal to the number of damage counters on Feraligatr. This attack does 50 damage plus 10 more damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f2/4d/64/f24d64c3742287edefc1b641796fbb15191d7618e092982c48a102cc8b53b5af.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29550",
+      "sequenceNumber": 33,
+      "printedNumber": "33",
+      "uuid": 83539113,
+      "prices": []
+    },
+    {
+      "id": 17214,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Azumarill",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Marill",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        },
+        {
+          "name": "Bubble Shower",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed and this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/89/5b/18/895b186f490fd513fcda90ed362f6c66aef3c6d81f1115df20f17b41dd43fc6c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29551",
+      "sequenceNumber": 34,
+      "printedNumber": "34",
+      "uuid": 15333112,
+      "prices": []
+    },
+    {
+      "id": 17215,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Kingdra",
+      "types": [
+        "Water"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Seadra",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Agility",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Kingdra."
+        },
+        {
+          "name": "Dragon Tornado",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "50",
+          "text": "If this attack doesn't Knock Out the Defending Pokémon, and if there are any Pokémon on your opponent's Bench, choose 1 of them and switch it with the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6f/3d/29/6f3d29195a957e4f3e04e624e91f3ac733bcca17ae35745a708146a60c05f698.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29552",
+      "sequenceNumber": 35,
+      "printedNumber": "35",
+      "uuid": 24320262,
+      "prices": []
+    },
+    {
+      "id": 17216,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Pikachu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
+        },
+        {
+          "name": "Agility",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Pikachu."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ce/0a/b4/ce0ab435d4d6bf3eba38227cea3a490c7f32f9bc283d2a9ed6d95bd9062fb335.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29553",
+      "sequenceNumber": 36,
+      "printedNumber": "36",
+      "uuid": 19306081,
+      "prices": []
+    },
+    {
+      "id": 17217,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Chinchou",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Supersonic",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Flail",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Does 10 damage times the number of damage counters on Chinchou."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5d/d1/43/5dd143cb18b5a33f63f88dea60c5bb042dc65e2a5ec3688ab9b3828ef9ee2906.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29554",
+      "sequenceNumber": 37,
+      "printedNumber": "37",
+      "uuid": 10084132,
+      "prices": []
+    },
+    {
+      "id": 17218,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Mareep",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Static Electricity",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "For each Mareep in play, you may search your deck for a Lightning Energy card and attach it to Mareep. Shuffle your deck afterward."
+        },
+        {
+          "name": "Thundershock",
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/17/92/24/179224fb1cf6a7b201aa0c4c57c5ec1690566f0e2cf9414ad6372a267f0c8600.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29555",
+      "sequenceNumber": 38,
+      "printedNumber": "38",
+      "uuid": 33570819,
+      "prices": []
+    },
+    {
+      "id": 17219,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Electabuzz",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Punch",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        },
+        {
+          "name": "Swift",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "This attack's damage isn't affected by Weakness, Resistance, Pokémon Powers, or any other effects on the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d6/aa/f6/d6aaf617726b8d59e46eb4d9b6cba17daa935d0b5dcd7f0629152347f7b60f9b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29556",
+      "sequenceNumber": 39,
+      "printedNumber": "39",
+      "uuid": 97668207,
+      "prices": []
+    },
+    {
+      "id": 17220,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Lanturn",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Chinchou",
+      "effect": [
+        {
+          "name": "Hydroelectric Power",
+          "text": "You may make Floodlight do 10 more damage for each Water Energy attached to Lanturn but not used to pay for Floodlight's Energy cost. This power can't be used if Lanturn is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Floodlight",
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/80/cf/bb/80cfbb4fe0cf76dd1727c9533a51f5b1a7a14a8ac515e2ee3d23786b5ecf22c4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29557",
+      "sequenceNumber": 40,
+      "printedNumber": "40",
+      "uuid": 20051582,
+      "prices": []
+    },
+    {
+      "id": 17221,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Flaaffy",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Mareep",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Discharge",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30×",
+          "text": "Discard all Lightning Energy cards attached to Flaaffy in order to use this attack. Flip a number of coins equal to the number of Lightning Energy cards you discarded. This attack does 30 damage times the number of heads."
+        },
+        {
+          "name": "Electric Current",
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Take 1 Lightning Energy card attached to Flaaffy and attach it to 1 of your Benched Pokémon. If you have no Benched Pokémon, discard that Energy card."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a5/f8/6e/a5f86e94a236907d7029319dc91f9ee3ab7ec4321afac0d504639ee2112bcc59.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29558",
+      "sequenceNumber": 41,
+      "printedNumber": "41",
+      "uuid": 50525986,
+      "prices": []
+    },
+    {
+      "id": 17222,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Pichu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Zzzap",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Does 20 damage to each Pokémon in play that has a Pokémon Power. Don't apply Weakness and Resistance."
+        }
+      ],
+      "rules": [
+        "\"If this Baby Pokémon is your Active Pokémon and your opponent tries to attack, your opponent flips a coin (before doing anything required in order to use that attack). If tails, your opponents turn ends without an attack.\""
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/68/6a/90/686a9068eda92bbba4211ec01d0aa063915991c9fdfaba1c5d6fb2daa71d6fb0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29559",
+      "sequenceNumber": 42,
+      "printedNumber": "42",
+      "uuid": 56748876,
+      "prices": []
+    },
+    {
+      "id": 17223,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Ampharos",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Flaaffy",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Gigaspark",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed and this attack does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2c/e1/02/2ce102343ba8ca73514ed3e060f64b08ca5099d3766eaefae9f317e762241e6a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29560",
+      "sequenceNumber": 43,
+      "printedNumber": "43",
+      "uuid": 57371289,
+      "prices": []
+    },
+    {
+      "id": 17224,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Elekid",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Playful Punch",
+          "text": "Once during your turn (before your attack), you may flip a coin. If heads, do 20 damage to your opponent's Active Pokémon. (Apply Weakness and Resistance.) Either way, this ends your turn. This power can't be used if Elekid is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [],
+      "rules": [
+        "\"If this Baby Pokémon is your Active Pokémon and your opponent tries to attack, your opponent flips a coin (before doing anything required in order to use that attack). If tails, your opponents turn ends without an attack.\""
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9a/bc/e6/9abce6333548073b0aa66eb2072e620b16ebbfa0c3028fa317870b69fbf2d04f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29561",
+      "sequenceNumber": 44,
+      "printedNumber": "44",
+      "uuid": 48243955,
+      "prices": []
+    },
+    {
+      "id": 17225,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Slowpoke",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Psyshock",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Water Gun",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "Does 10 damage plus 10 more damage for each Water Energy attached to Slowpoke but not used to pay for this attack's Energy cost. You can't add more than 20 damage in this way."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5e/d3/39/5ed339255b3bd86e41cc7398bf90c82c6aacddaade3696aac67d1b0e073c9b84.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29562",
+      "sequenceNumber": 45,
+      "printedNumber": "45",
+      "uuid": 61412939,
+      "prices": []
+    },
+    {
+      "id": 17226,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Natu",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Peck",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Telekinesis",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/df/82/62/df8262a19044cb7926d9de40c5fbfe621c2e52b617b31600794f0770c9d0927f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29563",
+      "sequenceNumber": 46,
+      "printedNumber": "46",
+      "uuid": 8675724,
+      "prices": []
+    },
+    {
+      "id": 17227,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Girafarig",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Agility",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Girafarig."
+        },
+        {
+          "name": "Psybeam",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/97/01/29/970129789eca4339c355d2900990e7039a7ddaf9894f2652214496d7d87f4dde.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29564",
+      "sequenceNumber": 47,
+      "printedNumber": "47",
+      "uuid": 49892831,
+      "prices": []
+    },
+    {
+      "id": 17228,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Xatu",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Natu",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Prophecy",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Look at the top 3 cards of either player's deck and rearrange them as you like."
+        },
+        {
+          "name": "Confuse Ray",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fb/4c/03/fb4c038dac37a131af7685efb332f73a642dfe8274e858e14c6942d2caaea40d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29565",
+      "sequenceNumber": 48,
+      "printedNumber": "48",
+      "uuid": 42658389,
+      "prices": []
+    },
+    {
+      "id": 17229,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Slowking",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Slowpoke",
+      "effect": [
+        {
+          "name": "Mind Games",
+          "text": "Whenever your opponent plays a Trainer card, you may flip a coin. If heads, that card does nothing. Put it on top of your opponent's deck. This power can't be used if Slowking is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Mind Blast",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20+",
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage and the Defending Pokémon is now Confused. If tails, this attack does 20 damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/40/4f/76/404f76c18ea6ce5ca68e70ecff79f4927c898417b04b5ae7cb8f080f8a303657.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29566",
+      "sequenceNumber": 49,
+      "printedNumber": "49",
+      "uuid": 3099354,
+      "prices": []
+    },
+    {
+      "id": 17230,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Onix",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Screech",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Until the end of your next turn, if an attack damages the Defending Pokémon (after applying Weakness and Resistance), that attack does 20 more damage to the Defending Pokémon."
+        },
+        {
+          "name": "Rage",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "Does 10 damage plus 10 more damage for each damage counter on Onix."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/72/04/1b/72041b0843f277fcc8881e32db2ed47e687801f00e55d5229acd07e9472c602b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29567",
+      "sequenceNumber": 50,
+      "printedNumber": "50",
+      "uuid": 70303827,
+      "prices": []
+    },
+    {
+      "id": 17231,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Sudowoodo",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Flail",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Does 10 damage times the number of damage counters on Sudowoodo."
+        },
+        {
+          "name": "Rock Throw",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/04/f0/a1/04f0a11f2f21fe94e2ef2a8f2f1a3ef9472bdcde8868aa27939042e182c523c9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29568",
+      "sequenceNumber": 51,
+      "printedNumber": "51",
+      "uuid": 75540680,
+      "prices": []
+    },
+    {
+      "id": 17232,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Gligar",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Poison Sting",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Slash",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b1/d0/75/b1d075c51d9937ad58b30edbda45f71f8e572aa651a43c273e1a0b5bdd5f19f4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29569",
+      "sequenceNumber": 52,
+      "printedNumber": "52",
+      "uuid": 87369614,
+      "prices": []
+    },
+    {
+      "id": 17233,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Phanpy",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Endure",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, then if, during your opponent's next turn, Phanpy would be Knocked Out by an attack, Phanpy isn't Knocked Out and its remaining HP become 10 instead."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f1/29/0a/f1290ad02c2e09fe9e69d0539a7393b568d0290d6e084fe6fd9e24d51cfee4d5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29570",
+      "sequenceNumber": 53,
+      "printedNumber": "53",
+      "uuid": 8714935,
+      "prices": []
+    },
+    {
+      "id": 17234,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Donphan",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Phanpy",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Flail",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Does 10 damage times the number of damage counters on Donphan."
+        },
+        {
+          "name": "Rapid Spin",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with his or her Active Pokémon, then, if you have any Benched Pokémon, you switch 1 of them with your Active Pokémon. (Do the damage before switching the Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2e/ba/21/2eba21aba6f55d55de22581c158ace5fdb45622d60cab5f9e1085bc578d78d0f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29571",
+      "sequenceNumber": 54,
+      "printedNumber": "54",
+      "uuid": 82588556,
+      "prices": []
+    },
+    {
+      "id": 17235,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Murkrow",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Mean Look",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "The Defending Pokémon can't retreat as long as Murkrow remains your Active Pokémon. (Benching or evolving either Pokémon ends this effect.)"
+        },
+        {
+          "name": "Feint Attack",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Pokémon Powers, or any other effects on the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/77/66/99/776699570dd672452782155579403e30148ea9d2d91ed54127612a51bd09e2a2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29572",
+      "sequenceNumber": 55,
+      "printedNumber": "55",
+      "uuid": 99964521,
+      "prices": []
+    },
+    {
+      "id": 17236,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Sneasel",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Beat Up",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "Flip a coin for each of your Pokémon in play (including this one). This attack does 20 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ac/a4/0b/aca40ba08406d6a2285a452506dcbb34b7ef54e276a8223d640a2a4a43eaa734.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29573",
+      "sequenceNumber": 56,
+      "printedNumber": "56",
+      "uuid": 18050394,
+      "prices": []
+    },
+    {
+      "id": 17237,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Steelix",
+      "types": [
+        "Metal"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Onix",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        },
+        {
+          "name": "Tail Crush",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30+",
+          "text": "Flip a coin. If heads, this attack does 30 damage plus 20 more damage; if tails, this attack does 30 damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/99/7b/8d/997b8def33f3e293b65b51dec373025dbe73faabf1382b932f17d862ee374258.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29574",
+      "sequenceNumber": 57,
+      "printedNumber": "57",
+      "uuid": 96857380,
+      "prices": []
+    },
+    {
+      "id": 17238,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Skarmory",
+      "types": [
+        "Metal"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Claw",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        },
+        {
+          "name": "Steel Wing",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "Flip a coin. If heads, all damage done by attacks to Skarmory during your opponent's next turn is reduced by 20 (after applying Weakness and Resistance)."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/67/ed/fc/67edfc9a2dbbf18cc1591315d1e52c74748acf138fba822cf33a9f635f3da9f1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29575",
+      "sequenceNumber": 58,
+      "printedNumber": "58",
+      "uuid": 8989973,
+      "prices": []
+    },
+    {
+      "id": 17239,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Sentret",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/31/79/10/3179107837812db95635a0d7dd17890f66ac34162c8427fb680b3c0da3aa32b6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29576",
+      "sequenceNumber": 59,
+      "printedNumber": "59",
+      "uuid": 29244617,
+      "prices": []
+    },
+    {
+      "id": 17240,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Hoothoot",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hypnosis",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Peck",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/dd/02/19/dd02191ebaf6ce041f6fab706f7e8a0f517a377452c4e64d87a9fee7355c1cdd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29577",
+      "sequenceNumber": 60,
+      "printedNumber": "60",
+      "uuid": 91591936,
+      "prices": []
+    },
+    {
+      "id": 17241,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Snubbull",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Roar",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads and if your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)"
+        },
+        {
+          "name": "Lick",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1b/59/ed/1b59ed874e8667bf2f7f68b0bb315d75acc76145ffaffe36cbf218493466b0c2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29578",
+      "sequenceNumber": 61,
+      "printedNumber": "61",
+      "uuid": 46258240,
+      "prices": []
+    },
+    {
+      "id": 17242,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Stantler",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Stomp",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage; if tails, this attack does 20 damage."
+        },
+        {
+          "name": "Mystifying Horns",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ca/78/c0/ca78c0bb66f6b6b7f32e2b8226d2e2ebc753199ac3674479fe754cea87a65e0a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29579",
+      "sequenceNumber": 62,
+      "printedNumber": "62",
+      "uuid": 41801420,
+      "prices": []
+    },
+    {
+      "id": 17243,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Clefairy",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Doubleslap",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10×",
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Squaredance",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Flip a number of coins equal to the total number of Pokémon in play. For each heads, you may search your deck for a basic Energy card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cb/75/5c/cb755c7f7f936f5aab3faa38a727cd7374a4a7b1c086c68f6fd6ff7e063eea60.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29580",
+      "sequenceNumber": 63,
+      "printedNumber": "63",
+      "uuid": 16802866,
+      "prices": []
+    },
+    {
+      "id": 17244,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Furret",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Sentret",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Flip a coin. If heads, this attack does 20 damage plus 10 more damage; if tails, this attack does 20 damage."
+        },
+        {
+          "name": "Slam",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30×",
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/89/7a/ed/897aed2e45e30b18d46b3751c85cabd310ca12ebf69b8d2df771b53af053c649.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29581",
+      "sequenceNumber": 64,
+      "printedNumber": "64",
+      "uuid": 55382430,
+      "prices": []
+    },
+    {
+      "id": 17245,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Noctowl",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Hoothoot",
+      "effect": [
+        {
+          "name": "Glaring Gaze",
+          "text": "Once during your turn (before your attack), you may flip a coin. If heads, look at your opponent's hand. If your opponent has any Trainer cards there, choose 1 of them. Your opponent shuffles that card into his or her deck. This power can't be used if Noctowl is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a8/5f/ba/a85fba8dda494249be348a3c6612a4230afe60e466c33a292ce0e52916686183.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29582",
+      "sequenceNumber": 65,
+      "printedNumber": "65",
+      "uuid": 59647494,
+      "prices": []
+    },
+    {
+      "id": 17246,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Togepi",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Poison Barb",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10",
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a0/19/bb/a019bb0d28d33cf8175d23ec20561ac9496f31c0fda24e572d0ece16c50938b4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29583",
+      "sequenceNumber": 66,
+      "printedNumber": "66",
+      "uuid": 21391684,
+      "prices": []
+    },
+    {
+      "id": 17247,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Aipom",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Pilfer",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Shuffle Aipom and all cards attached to it into your deck. Flip a coin. If heads, shuffle a card from your discard pile into your deck."
+        },
+        {
+          "name": "Tail Rap",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ce/ef/09/ceef09c6ca7400ae23ba24295f850cf3e5661e61be5ebcfd0560f413e94574cd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29584",
+      "sequenceNumber": 67,
+      "printedNumber": "67",
+      "uuid": 43835256,
+      "prices": []
+    },
+    {
+      "id": 17248,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Granbull",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Snubbull",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        },
+        {
+          "name": "Raging Charge",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "10+",
+          "text": "This attack does 10 damage plus 10 damage for each damage counter on Granbull. Then, Granbull does 20 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/14/85/3e/14853e9b2d1cf6aa1d0e4b5918ada148d79a08b3d305c9b993b3a80b689ad89e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29585",
+      "sequenceNumber": 68,
+      "printedNumber": "68",
+      "uuid": 56424326,
+      "prices": []
+    },
+    {
+      "id": 17249,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Miltank",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Milk Drink",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip 2 coins. Remove 2 damage counters times the number of heads from Miltank. If it has fewer damage counters than that, remove all of them."
+        },
+        {
+          "name": "Body Slam",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/18/a4/1e/18a41e0dbdace5a2605121536327e30e858800ff1826447c8d902c4fe88dc1ee.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29586",
+      "sequenceNumber": 69,
+      "printedNumber": "69",
+      "uuid": 55674188,
+      "prices": []
+    },
+    {
+      "id": 17250,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Cleffa",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Eeeeeeek",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Shuffle your hand into your deck, then draw 7 cards."
+        }
+      ],
+      "rules": [
+        "\"If this Baby Pokémon is your Active Pokémon and your opponent tries to attack, your opponent flips a coin (before doing anything required in order to use that attack). If tails, your opponents turn ends without an attack.\""
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bd/ee/0d/bdee0d4061e1a342df5fe403fd85cbc5ec01d52a93c5c9b140d453c5d519e1d9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29587",
+      "sequenceNumber": 70,
+      "printedNumber": "70",
+      "uuid": 470487,
+      "prices": []
+    },
+    {
+      "id": 17251,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Togetic",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Togepi",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Super Metronome",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, choose an attack of 1 of your opponent's Pokémon. Super Metronome copies that attack except for its Energy cost. (You must still do anything else in order to use that attack.) (No matter what type the Defending Pokémon is, Togetic's type is still Colorless.) Togetic performs that attack. (Togetic can make that attack even if it does not have the appropriate number or type of Energy attached to it necessary to make the attack.)"
+        },
+        {
+          "name": "Fly",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Togetic; if tails, this attack does nothing (not even damage)."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/36/17/28/361728b3c68bc7ab3148547f3e12211db882614c4fb132ffb0c8d17d1e902085.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29588",
+      "sequenceNumber": 71,
+      "printedNumber": "71",
+      "uuid": 46042029,
+      "prices": []
+    },
+    {
+      "id": 17252,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Lugia",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Elemental Blast",
+          "cost": [
+            "Fire",
+            "Water",
+            "Lightning"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "Discard a Fire Energy card, a Water Energy card, and a Lightning Energy card attached to Lugia in order to use this attack."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/55/63/31/556331fb09262d24431a39d899e4fca054246715fc196bc8363f1237a9b92940.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29589",
+      "sequenceNumber": 72,
+      "printedNumber": "72",
+      "uuid": 50796432,
+      "prices": []
+    },
+    {
+      "id": 17253,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Berry",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach Berry to 1 of your Pokémon that doesnt have a Pokémon Tool attached to it.\", At any time between turns, if there are at least 2 damage counters on the Pokémon Berry is attached to, you may remove 2 of them and discard Berry. At the start of each turn, if there are at least 2 damage counters on the Pokémon Berry is attached to, remove 2 of them and discard Berry."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Tool"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2e/ac/0a/2eac0a9d1240bd7baba3f3f2453edb0c62f1d193fee4ce8228a706a097f165d0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29590",
+      "sequenceNumber": 73,
+      "printedNumber": "73",
+      "uuid": 40676082,
+      "prices": []
+    },
+    {
+      "id": 17254,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Super Rod",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Flip a coin. If heads, put an Evolution card from your discard pile, if any, into your hand. If tails, put a Basic Pokémon card from your discard pile, if any, into your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/de/0e/5a/de0e5a01841e3a99f3c2e9ed44d0839f8e116a5818b189e05cc4ecaa5a8cc21f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29591",
+      "sequenceNumber": 74,
+      "printedNumber": "74",
+      "uuid": 95983611,
+      "prices": []
+    },
+    {
+      "id": 17255,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Double Gust",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "If you have any Benched Pokémon, your opponent chooses 1 of them and switches it with your Active Pokémon. Then, if your opponent has any Benched Pokémon, choose 1 of them and switch it with his or her Active Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ac/75/2c/ac752c4ea645a250c8a8f772646d6307cec533577407314048881d33d0f497ab.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29592",
+      "sequenceNumber": 75,
+      "printedNumber": "75",
+      "uuid": 42894001,
+      "prices": []
+    },
+    {
+      "id": 17256,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Pokémon March",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Your opponent may search his or her deck for 1 Basic Pokémon card and put it onto his or her Bench. Then, you may search your deck for 1 Basic Pokémon card and put it onto your Bench. Then, each player shuffles his or her deck. (A player cant do any of this if his or her Bench is full.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9f/e7/c3/9fe7c35a685cfc16568f253dc485f47938abe44ddfa646b49cd1e32cb28772d7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29593",
+      "sequenceNumber": 76,
+      "printedNumber": "76",
+      "uuid": 7494450,
+      "prices": []
+    },
+    {
+      "id": 17257,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Moo-Moo Milk",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Choose 1 of your Pokémon. Flip 2 coins. Remove 2 damage counters times the number of heads from that Pokémon. If the Pokémon has fewer damage counters than that, remove all of them."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b5/87/64/b58764cf0cc770dae2823c47009f5daeecd6698a1b9b5c83ac661f735f428382.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29594",
+      "sequenceNumber": 77,
+      "printedNumber": "77",
+      "uuid": 3234493,
+      "prices": []
+    },
+    {
+      "id": 17258,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Professor Elm",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Shuffle your hand into your deck. Then, draw 7 cards. You cant play any more Trainer cards this turn.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c6/e9/4b/c6e94b7dbd07249ee0d941d7a8410101baa257ba39ce4f8d9cd5ddb010b5a4eb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29595",
+      "sequenceNumber": 78,
+      "printedNumber": "78",
+      "uuid": 75916907,
+      "prices": []
+    },
+    {
+      "id": 17259,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Gold Berry",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach Gold Berry to 1 of your Pokémon that doesnt have a Pokémon Tool attached to it.\", At any time between turns, if there are at least 4 damage counters on the Pokémon Gold Berry is attached to, you may remove 4 of them and discard Gold Berry. At the start of each turn, if there are at least 4 damage counters on the Pokémon Gold Berry is attached to, remove 4 of them and discard Gold Berry."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Tool"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8d/3a/9c/8d3a9c65f26a3ac4112e1db69e96a098029b33224fdfd0fabca8b08623fecede.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29596",
+      "sequenceNumber": 79,
+      "printedNumber": "79",
+      "uuid": 33740016,
+      "prices": []
+    },
+    {
+      "id": 17260,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Card-Flip Game",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Choose 1 of your opponents face-down Prizes. Guess whether it is an Energy card, a Trainer card, or a Pokémon (Basic or Evolution) card. Flip the card face up (and leave it face up). If you guessed right, draw 2 cards.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Goldenrod Game Corner"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ff/5c/f8/ff5cf8670ce69988f95395874f0c2e3d46cfa490e10f32f5312e64d56ac2696d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29597",
+      "sequenceNumber": 80,
+      "printedNumber": "80",
+      "uuid": 50793892,
+      "prices": []
+    },
+    {
+      "id": 17261,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Miracle Berry",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach Miracle Berry to 1 of your Pokémon that doesnt have a Pokémon Tool attached to it.\", At any time between turns, if the Pokémon Miracle Berry is attached to is Asleep, Confused, Paralyzed, or Poisoned, you may remove all of those effects from that Pokémon and discard Miracle Berry. At the start of each turn, if the Pokémon Miracle Berry is attached to is Asleep, Confused, Paralyzed, or Poisoned, remove all of those effects from that Pokémon and discard Miracle Berry."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Tool"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d5/90/1e/d5901e4b774d4161f89469bd45a14f434633197828f617017d8e339a3b3bdd23.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29598",
+      "sequenceNumber": 81,
+      "printedNumber": "81",
+      "uuid": 31168300,
+      "prices": []
+    },
+    {
+      "id": 17262,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "New Pokédex",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Shuffle your deck. Then, look at up to 5 cards from the top of your deck and rearrange them as you like."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/91/da/78/91da78c3c9289d0e8a98d27a41081b8c680e068a3d2ec8583f4a44dadaacb1c2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29599",
+      "sequenceNumber": 82,
+      "printedNumber": "82",
+      "uuid": 73642344,
+      "prices": []
+    },
+    {
+      "id": 17263,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Super Scoop Up",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Flip a coin. If heads, return 1 of your Pokémon and all cards attached to it to your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a5/eb/fd/a5ebfd2f208458aa7c57d3d9ea4d16e6c3cdaf2965447695ce8189794351335d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29600",
+      "sequenceNumber": 83,
+      "printedNumber": "83",
+      "uuid": 39468370,
+      "prices": []
+    },
+    {
+      "id": 17264,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Bill's Teleporter",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Flip a coin. If heads, draw 4 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ac/54/5e/ac545e160a54d387c636dfb2811820e9633d348545be8b2c65336ea4300e07ed.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29601",
+      "sequenceNumber": 84,
+      "printedNumber": "84",
+      "uuid": 21648842,
+      "prices": []
+    },
+    {
+      "id": 17265,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Sprout Tower",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "This card stays in play when you play it. Discard this card if another Stadium card comes into play.",
+        "\"All damage done by Colorless Pokémons attacks is reduced by 30 (after applying Weakness and Resistance).\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d7/0d/4f/d70d4f064a747fc3c22c646d2d0ed7df56002ce6de147657df91fd261bec4ad1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29602",
+      "sequenceNumber": 85,
+      "printedNumber": "85",
+      "uuid": 83884383,
+      "prices": []
+    },
+    {
+      "id": 17266,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Ecogym",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "This card stays in play when you play it. Discard this card if another Stadium card comes into play.",
+        "\"Whenever an attack, Pokémon Power, or Trainer card discards another players non-Colorless Energy card from a Pokémon, return that Energy card to its owners hand. (Energy cards that are discarded when that Pokémon is Knocked Out dont count.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c0/d2/a8/c0d2a8490370ea8c2ba47b2a26d63bfc6c708fe7f9bfc18be05646543902a078.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29603",
+      "sequenceNumber": 86,
+      "printedNumber": "86",
+      "uuid": 65160670,
+      "prices": []
+    },
+    {
+      "id": 17267,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Energy Charge",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Flip a coin. If heads, shuffle up to 2 Energy cards from your discard pile into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/87/c8/46/87c846f37a7594563f17725f80a8087c3ff25cc3c2ebb4285d357239ef048f34.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29604",
+      "sequenceNumber": 87,
+      "printedNumber": "87",
+      "uuid": 59619230,
+      "prices": []
+    },
+    {
+      "id": 17268,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Focus Band",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach Focus Band to 1 of your Pokémon that doesnt have a Pokémon tool attached to it.\", \"If the Pokémon Focus Band is attached to would be Knocked Out by your opponents attack, flip a coin. If heads, that Pokémon is not Knocked Out and its remaining HP become 10 instead. Then, discard Focus Band.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Tool"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a6/45/69/a645696ca53a6cefb11a1961bba91d66e472477be1e8552a758bf74c5f87074f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29605",
+      "sequenceNumber": 88,
+      "printedNumber": "88",
+      "uuid": 769833,
+      "prices": []
+    },
+    {
+      "id": 17269,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Mary",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Draw 2 cards. Then, shuffle 2 cards from your hand into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f7/2b/ca/f72bcaea0962ead146154e0ba3e523506ee7c74da546cf72cfe4d2e410c212b3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29606",
+      "sequenceNumber": 89,
+      "printedNumber": "89",
+      "uuid": 2123362,
+      "prices": []
+    },
+    {
+      "id": 17270,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Arcade Game",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Shuffle your deck, then reveal the top 3 cards of it. If at least 2 of those cards share the same name, put all of the ones with that name into your hand and shuffle the rest into your deck. If none of them do, shuffle all 3 into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Goldenrod Game Corner"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a7/76/bd/a776bd62f04a56e9b5a9c036d0641b642c07d6baafd55155fe41d29899e3d8f0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29607",
+      "sequenceNumber": 90,
+      "printedNumber": "90",
+      "uuid": 4992573,
+      "prices": []
+    },
+    {
+      "id": 17271,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Time Capsule",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Your opponent may choose 5 Basic Pokémon, Evolution, and/or basic Energy cards in his or her discard pile. (If your opponent doesnt have that many, he or she chooses all or none of them.) If your opponent chooses any cards, he or she shuffles them into his or her deck. Either way, you may do the same, and you cant play any more Trainer cards this turn.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/89/71/8e/89718ea96c07af123dfa6c22fd0fa7ec3dcea7e6b84e7ac76d2dc1d76b46fdce.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29608",
+      "sequenceNumber": 91,
+      "printedNumber": "91",
+      "uuid": 806603,
+      "prices": []
+    },
+    {
+      "id": 17272,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Super Energy Retrieval",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Trade 2 of the other cards in your hand for 4 basic Energy cards from your discard pile. If you have fewer than 4 basic Energy cards there, take all of them."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4d/61/b4/4d61b4f22fc41db4db3f1c4a302fa81094981e6ddb10664c052fa75d699c4e09.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29609",
+      "sequenceNumber": 92,
+      "printedNumber": "92",
+      "uuid": 60770172,
+      "prices": []
+    },
+    {
+      "id": 17273,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "PokéGear",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Look at the top 7 cards of your deck. If any of them are Trainer cards, you may show 1 of them to your opponent and put it into your hand. Shuffle your deck afterward. You cant play any more Trainer cards this turn.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ca/8d/b4/ca8db45d45a3556a5ddfdbb4d3c24f7920d2e676379ef19c36626097d0d0fb07.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29610",
+      "sequenceNumber": 93,
+      "printedNumber": "93",
+      "uuid": 31934850,
+      "prices": []
+    },
+    {
+      "id": 17274,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Darkness Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"If the Pokémon Darkness Energy is attached to damages the Defending Pokémon (after applying Weakness and Resistance), the attack does 10 more damage to the Defending Pokémon. At the end of every turn, put 1 damage counter on the Pokémon Darkness Energy is attached to, unless its Darkness or has Dark in its name. Darkness Energy provides Darkness Energy. (Doesnt count as a basic Energy card.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ac/9a/ce/ac9ace7de5fba1ce36cc97484a5558c7a72b62a6eb92202b7727b29742e71020.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29611",
+      "sequenceNumber": 94,
+      "printedNumber": "94",
+      "uuid": 64679503,
+      "prices": []
+    },
+    {
+      "id": 17275,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Metal Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Damage done to the Pokémon Metal Energy is attached to is reduced by 10 (after applying Weakness and Resistance). If the Pokémon Metal Energy is attached to isnt Metal, whenever it damages a Pokémon, reduce that damage by 10 (before applying Weakness and Resistance). Metal Energy provides Metal Energy. (Doesnt count as a basic Energy card.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/34/72/57/34725798a0aa63a3db6810129aa0e6379ca6e07ab475c7f114d0b631dc225506.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29612",
+      "sequenceNumber": 95,
+      "printedNumber": "95",
+      "uuid": 39717657,
+      "prices": []
+    },
+    {
+      "id": 17276,
+      "setData": {
+        "name": "Gold, Silver, to a New World...",
+        "printed_count": "96",
+        "card_count": 96,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/gold-silver-to-a-new-world"
+      },
+      "name": "Recycle Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Recycle Energy provides Colorless Energy. (Doesnt count as a basic Energy card.) If this card is put into your discard pile from play, return it to your hand.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c1/5d/41/c15d41bd8f42d772aa0c60657ccc70661d55c2190f3472be285e7ea1c37749c1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29613",
+      "sequenceNumber": 96,
+      "printedNumber": "96",
+      "uuid": 26173844,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 96,
+  "totalCount": 96
+}

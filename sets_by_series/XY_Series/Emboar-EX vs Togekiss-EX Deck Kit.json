@@ -1,0 +1,1477 @@
+{
+  "data": [
+    {
+      "id": 10292,
+      "setData": {
+        "name": "Emboar-EX vs Togekiss-EX Deck Kit",
+        "printed_count": "26",
+        "card_count": 26,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/emboar-ex-vs-togekiss-ex-deck-kit"
+      },
+      "name": "Growlithe",
+      "types": [
+        "Fire"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bite",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "match",
+      "imageUrl": "https://static.tcgcollector.com/content/images/06/c9/de/06c9def54a1a3dcf2cf21cb05103fbd66c23481c2cab6a897403f8e8161420fd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23513",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 78329617,
+      "prices": []
+    },
+    {
+      "id": 10293,
+      "setData": {
+        "name": "Emboar-EX vs Togekiss-EX Deck Kit",
+        "printed_count": "26",
+        "card_count": 26,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/emboar-ex-vs-togekiss-ex-deck-kit"
+      },
+      "name": "Arcanine",
+      "types": [
+        "Fire"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Growlithe",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Flop",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30"
+        },
+        {
+          "name": "Flamethrower",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "match",
+      "imageUrl": "https://static.tcgcollector.com/content/images/35/68/e0/3568e0a4402590f176683329134d40cb2d541a777b2a3cb7733853c173724f7f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23514",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 11073351,
+      "prices": []
+    },
+    {
+      "id": 10294,
+      "setData": {
+        "name": "Emboar-EX vs Togekiss-EX Deck Kit",
+        "printed_count": "26",
+        "card_count": 26,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/emboar-ex-vs-togekiss-ex-deck-kit"
+      },
+      "name": "Emboar-EX",
+      "types": [
+        "Fire"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Spiral Punch",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Flip a coin until you get tails. This attack does 20 more damage for each heads."
+        },
+        {
+          "name": "Strong Flare",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "150",
+          "text": "Discard 2 Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Eske Yoshinob",
+      "imageUrl": "https://static.tcgcollector.com/content/images/23/1c/7d/231c7db41cffd8e7fce87811dbdeb490ec71eb275997731544a832cc550ee151.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23515",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 20366840,
+      "prices": []
+    },
+    {
+      "id": 10295,
+      "setData": {
+        "name": "Emboar-EX vs Togekiss-EX Deck Kit",
+        "printed_count": "26",
+        "card_count": 26,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/emboar-ex-vs-togekiss-ex-deck-kit"
+      },
+      "name": "Corsola",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Spike Cannon",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30×",
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        },
+        {
+          "name": "Power Gem",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kanako Eo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/13/cc/b8/13ccb8184bef359178aa99c6030e591b5487ac2635adbdd5ea920a3d0e7ed6b7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23516",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 81905520,
+      "prices": []
+    },
+    {
+      "id": 10296,
+      "setData": {
+        "name": "Emboar-EX vs Togekiss-EX Deck Kit",
+        "printed_count": "26",
+        "card_count": 26,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/emboar-ex-vs-togekiss-ex-deck-kit"
+      },
+      "name": "Electabuzz",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Knuckle Punch",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/39/75/c6/3975c6618f97662e6c995dfd41beefa8f6f0d1cb2db00b5831c57cdfb2268b0e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23517",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 2049471,
+      "prices": []
+    },
+    {
+      "id": 10297,
+      "setData": {
+        "name": "Emboar-EX vs Togekiss-EX Deck Kit",
+        "printed_count": "26",
+        "card_count": 26,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/emboar-ex-vs-togekiss-ex-deck-kit"
+      },
+      "name": "Electivire",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Electabuzz",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Knuckle Punch",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        },
+        {
+          "name": "Electroslug",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2d/f8/7b/2df87b9dec857ae1dc301ed709c21bd7d6ed904a1ccd6c7c7d98da82ba2f40b8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23518",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 36663120,
+      "prices": []
+    },
+    {
+      "id": 10298,
+      "setData": {
+        "name": "Emboar-EX vs Togekiss-EX Deck Kit",
+        "printed_count": "26",
+        "card_count": 26,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/emboar-ex-vs-togekiss-ex-deck-kit"
+      },
+      "name": "Espurr",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Scratch",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8e/3e/9d/8e3e9d2790e6351f7991aa8916299be8dc29d2571a8947cd01b9180f47f36a23.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23519",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 7260981,
+      "prices": []
+    },
+    {
+      "id": 10299,
+      "setData": {
+        "name": "Emboar-EX vs Togekiss-EX Deck Kit",
+        "printed_count": "26",
+        "card_count": 26,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/emboar-ex-vs-togekiss-ex-deck-kit"
+      },
+      "name": "Meowstic",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Espurr",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Energy Present",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Attach up to 2 Energy cards from your hand to 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Psyshot",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/99/ac/8b/99ac8bbe2a4cbfee4c349dbce5d654c6b02d5dcd97c9e00324c8f10bad1dbd4b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23520",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 68986528,
+      "prices": []
+    },
+    {
+      "id": 10300,
+      "setData": {
+        "name": "Emboar-EX vs Togekiss-EX Deck Kit",
+        "printed_count": "26",
+        "card_count": 26,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/emboar-ex-vs-togekiss-ex-deck-kit"
+      },
+      "name": "Mawile",
+      "types": [
+        "Metal"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tight Jaw",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, your opponents Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Cavernous Chomp",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/83/3a/4f/833a4f4e965d1ffd79e5c20092b7fcb21fbeed863edc8d7f044fed0768f8afe2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23521",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 30246624,
+      "prices": []
+    },
+    {
+      "id": 10301,
+      "setData": {
+        "name": "Emboar-EX vs Togekiss-EX Deck Kit",
+        "printed_count": "26",
+        "card_count": 26,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/emboar-ex-vs-togekiss-ex-deck-kit"
+      },
+      "name": "Togekiss-EX",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Mighty Wind",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "You may attach an Energy card from your hand to 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Hurricane Wing",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "50×",
+          "text": "Flip 4 coins. This attack does 50 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Eske Yoshinob",
+      "imageUrl": "https://static.tcgcollector.com/content/images/85/e3/54/85e354c8aa93506edc88b7285a66ae88e2a59ca311ac65210204158128130a40.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23522",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 1643872,
+      "prices": []
+    },
+    {
+      "id": 10302,
+      "setData": {
+        "name": "Emboar-EX vs Togekiss-EX Deck Kit",
+        "printed_count": "26",
+        "card_count": 26,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/emboar-ex-vs-togekiss-ex-deck-kit"
+      },
+      "name": "Spritzee",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Beat",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kirisAki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/01/ce/6d/01ce6d5ed6544a2df0604d7c8211e1c8df3a792726925996bdbd10d3a8b89367.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23523",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 62755777,
+      "prices": []
+    },
+    {
+      "id": 10303,
+      "setData": {
+        "name": "Emboar-EX vs Togekiss-EX Deck Kit",
+        "printed_count": "26",
+        "card_count": 26,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/emboar-ex-vs-togekiss-ex-deck-kit"
+      },
+      "name": "Aromatisse",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Spritzee",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dizzying Cologne",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20+",
+          "text": "If your opponents Active Pokémon is a Pokémon-EX, this attack does 40 more damage."
+        },
+        {
+          "name": "Fairy Wind",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kirisAki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/27/9c/87/279c87484203f01d11f3cb98f6d521d149020db15bfbe175ef82dc14811860a2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23524",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 65067328,
+      "prices": []
+    },
+    {
+      "id": 10304,
+      "setData": {
+        "name": "Emboar-EX vs Togekiss-EX Deck Kit",
+        "printed_count": "26",
+        "card_count": 26,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/emboar-ex-vs-togekiss-ex-deck-kit"
+      },
+      "name": "Dunsparce",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search you deck for a Basic Pokémon and put it onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Ram",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Akira Komayama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5a/74/22/5a7422aff0a7f9cf1634679000c50f66b0f6a1acd53c9103152ea4a51d19abf0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23525",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 40575083,
+      "prices": []
+    },
+    {
+      "id": 10305,
+      "setData": {
+        "name": "Emboar-EX vs Togekiss-EX Deck Kit",
+        "printed_count": "26",
+        "card_count": 26,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/emboar-ex-vs-togekiss-ex-deck-kit"
+      },
+      "name": "Furfrou",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Draw a card."
+        },
+        {
+          "name": "Tight Jaw",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If heads, your opponents Active Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cb/81/c3/cb81c3a47dc00caac986ed069f9e98aeef071b48bc826ca6caf5fd0b159bede7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23526",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 19349673,
+      "prices": []
+    },
+    {
+      "id": 10306,
+      "setData": {
+        "name": "Emboar-EX vs Togekiss-EX Deck Kit",
+        "printed_count": "26",
+        "card_count": 26,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/emboar-ex-vs-togekiss-ex-deck-kit"
+      },
+      "name": "Energy Retrieval",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Put 2 basic Energy cards from your discard pile into your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/24/bc/4a/24bc4ad0bf6cd30cbe0cc4ae8a39460d9497369cfb9503488cbbc16b5e8f7e47.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23527",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 66364525,
+      "prices": []
+    },
+    {
+      "id": 10307,
+      "setData": {
+        "name": "Emboar-EX vs Togekiss-EX Deck Kit",
+        "printed_count": "26",
+        "card_count": 26,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/emboar-ex-vs-togekiss-ex-deck-kit"
+      },
+      "name": "Potion",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Heal 30 damage from 1 of your Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/00/be/cc/00becc2bec96eea0f4af9db3a8a679d2ac32560e6f6ae7c32c57e23b571ead96.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23528",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 40065156,
+      "prices": []
+    },
+    {
+      "id": 10308,
+      "setData": {
+        "name": "Emboar-EX vs Togekiss-EX Deck Kit",
+        "printed_count": "26",
+        "card_count": 26,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/emboar-ex-vs-togekiss-ex-deck-kit"
+      },
+      "name": "Great Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1f/01/9a/1f019af59cc5cadc408ffc09036647ed456e223758804aa7c5feeff8da3ddff3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23529",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 6094131,
+      "prices": []
+    },
+    {
+      "id": 10309,
+      "setData": {
+        "name": "Emboar-EX vs Togekiss-EX Deck Kit",
+        "printed_count": "26",
+        "card_count": 26,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/emboar-ex-vs-togekiss-ex-deck-kit"
+      },
+      "name": "Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Switch your Active Pokémon with 1 of your Benched Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f5/04/1d/f5041deff0be54918336bf68315643453187ec7a9a8c79d2eefd0f5bd3936baa.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23530",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 22459063,
+      "prices": []
+    },
+    {
+      "id": 10310,
+      "setData": {
+        "name": "Emboar-EX vs Togekiss-EX Deck Kit",
+        "printed_count": "26",
+        "card_count": 26,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/emboar-ex-vs-togekiss-ex-deck-kit"
+      },
+      "name": "Pokémon Catcher",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Flip a coin. If heads, switch 1 of your opponents Benched Pokémon with his or her Active Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/03/2e/bc/032ebc73d02ee3d9eebdec37b582d22529ad699a6ba2822141517dc5ed4d413f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23531",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 97776653,
+      "prices": []
+    },
+    {
+      "id": 10311,
+      "setData": {
+        "name": "Emboar-EX vs Togekiss-EX Deck Kit",
+        "printed_count": "26",
+        "card_count": 26,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/emboar-ex-vs-togekiss-ex-deck-kit"
+      },
+      "name": "Shauna",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Shuffle your hand into your deck. Then, draw 5 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/88/2a/da/882ada5be748409d051754032d6bae7cf0d31d8fa52c17dd2b7760fbba712a6e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23532",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 78744268,
+      "prices": []
+    },
+    {
+      "id": 10312,
+      "setData": {
+        "name": "Emboar-EX vs Togekiss-EX Deck Kit",
+        "printed_count": "26",
+        "card_count": 26,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/emboar-ex-vs-togekiss-ex-deck-kit"
+      },
+      "name": "Tierno",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Draw 3 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/04/27/b7/0427b7c9cfa07acc6999f3d1c0d8adea78052667ce8aec92c5d70d5e9ebdd452.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23533",
+      "sequenceNumber": 21,
+      "printedNumber": "21",
+      "uuid": 19631229,
+      "prices": []
+    },
+    {
+      "id": 10313,
+      "setData": {
+        "name": "Emboar-EX vs Togekiss-EX Deck Kit",
+        "printed_count": "26",
+        "card_count": 26,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/emboar-ex-vs-togekiss-ex-deck-kit"
+      },
+      "name": "Double Colorless Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Double Colorless Energy provides Colorless Colorless Energy."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/69/a8/40/69a840feeaa8e61d69e9a9980d4f79a4855a9e28055f8c7f67731ef38ed77c1c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23534",
+      "sequenceNumber": 22,
+      "printedNumber": "22",
+      "uuid": 99434876,
+      "prices": []
+    },
+    {
+      "id": 10314,
+      "setData": {
+        "name": "Emboar-EX vs Togekiss-EX Deck Kit",
+        "printed_count": "26",
+        "card_count": 26,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/emboar-ex-vs-togekiss-ex-deck-kit"
+      },
+      "name": "Fire Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/23535",
+      "sequenceNumber": 23,
+      "printedNumber": "23",
+      "uuid": 79768096,
+      "prices": []
+    },
+    {
+      "id": 10315,
+      "setData": {
+        "name": "Emboar-EX vs Togekiss-EX Deck Kit",
+        "printed_count": "26",
+        "card_count": 26,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/emboar-ex-vs-togekiss-ex-deck-kit"
+      },
+      "name": "Psychic Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/23536",
+      "sequenceNumber": 24,
+      "printedNumber": "24",
+      "uuid": 50317169,
+      "prices": []
+    },
+    {
+      "id": 10316,
+      "setData": {
+        "name": "Emboar-EX vs Togekiss-EX Deck Kit",
+        "printed_count": "26",
+        "card_count": 26,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/emboar-ex-vs-togekiss-ex-deck-kit"
+      },
+      "name": "Lightning Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/23537",
+      "sequenceNumber": 25,
+      "printedNumber": "25",
+      "uuid": 86865888,
+      "prices": []
+    },
+    {
+      "id": 10317,
+      "setData": {
+        "name": "Emboar-EX vs Togekiss-EX Deck Kit",
+        "printed_count": "26",
+        "card_count": 26,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/emboar-ex-vs-togekiss-ex-deck-kit"
+      },
+      "name": "Fairy Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/23538",
+      "sequenceNumber": 26,
+      "printedNumber": "26",
+      "uuid": 69008549,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 26,
+  "totalCount": 26
+}

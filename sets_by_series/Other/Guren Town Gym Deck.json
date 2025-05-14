@@ -1,0 +1,1399 @@
+{
+  "data": [
+    {
+      "id": 25481,
+      "setData": {
+        "name": "Guren Town Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1999",
+        "image_url": "https://static.tcgcollector.com/content/content/images/87/28/29/872829d8dd8859fd5783308988ad4860a367a86ebbbed21ea797f41b9ad72ecd.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12119/guren-town-gym-deck"
+      },
+      "name": "Blaine's Vulpix",
+      "types": [
+        "Fire"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Natural Healing",
+          "text": "Once during your turn (before your attack), you may remove 1 damage counter from Blaine's Vulpix. This power can't be used if Blaine's Vulpix is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Tail Fan",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/ed/92/6f/ed926f2aef971c77c176e0f5fab035c0ea594c72ab4a12f8861af0499659db31.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29657",
+      "sequenceNumber": 26,
+      "printedNumber": "026",
+      "uuid": 35783677,
+      "prices": []
+    },
+    {
+      "id": 25482,
+      "setData": {
+        "name": "Guren Town Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1999",
+        "image_url": "https://static.tcgcollector.com/content/content/images/87/28/29/872829d8dd8859fd5783308988ad4860a367a86ebbbed21ea797f41b9ad72ecd.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12119/guren-town-gym-deck"
+      },
+      "name": "Blaine's Ponyta",
+      "types": [
+        "Fire"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hind Kick",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "If you have any Benched Pokémon, flip a coin. If heads, switch Blaine's Ponyta with 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/88/df/09/88df0909d40f28053b64942c3933ed30e42e05f7ca10a9ca3eda6ef26829366e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29659",
+      "sequenceNumber": 28,
+      "printedNumber": "028",
+      "uuid": 44658216,
+      "prices": []
+    },
+    {
+      "id": 25483,
+      "setData": {
+        "name": "Guren Town Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1999",
+        "image_url": "https://static.tcgcollector.com/content/content/images/87/28/29/872829d8dd8859fd5783308988ad4860a367a86ebbbed21ea797f41b9ad72ecd.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12119/guren-town-gym-deck"
+      },
+      "name": "Blaine's Rapidash",
+      "types": [
+        "Fire"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Blaine's Ponyta",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fire Mane",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        },
+        {
+          "name": "Stamp",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30+",
+          "text": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage (to the Defending Pokémon) and 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) If tails, this attack does 30 damage (to the Defending Pokémon)."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/32/7b/f3/327bf37ac5f56563f980872b8dfc998df48825c67cdff5d3b7212de83af04d60.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29661",
+      "sequenceNumber": 30,
+      "printedNumber": "030",
+      "uuid": 94060527,
+      "prices": []
+    },
+    {
+      "id": 25484,
+      "setData": {
+        "name": "Guren Town Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1999",
+        "image_url": "https://static.tcgcollector.com/content/content/images/87/28/29/872829d8dd8859fd5783308988ad4860a367a86ebbbed21ea797f41b9ad72ecd.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12119/guren-town-gym-deck"
+      },
+      "name": "Blaine's Magmar",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Firebreathing",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage; if tails, this attack does 10 damage."
+        },
+        {
+          "name": "Lava Burst",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20×",
+          "text": "Discard the top 5 cards of your deck. (If there are fewer than 5 cards in your deck, discard all of them.) This attack does 20 damage for each Fire Energy card you discarded in this way."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/77/35/df/7735df8361d21c15f33f3f16225436d9711258a37d7bb56afc7af1d8e90a58e1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29662",
+      "sequenceNumber": 31,
+      "printedNumber": "031",
+      "uuid": 41894260,
+      "prices": []
+    },
+    {
+      "id": 25485,
+      "setData": {
+        "name": "Guren Town Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1999",
+        "image_url": "https://static.tcgcollector.com/content/content/images/87/28/29/872829d8dd8859fd5783308988ad4860a367a86ebbbed21ea797f41b9ad72ecd.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12119/guren-town-gym-deck"
+      },
+      "name": "Blaine's Ninetales",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Blaine's Vulpix",
+      "effect": [
+        {
+          "name": "Healing Fire",
+          "text": "Whenever you attach a Fire Energy card from your hand to Blaine's Ninetales, remove 1 damage counter from it, if it has any. This power stops working while Blaine's Ninetales is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Burn Up",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50",
+          "text": "Flip a coin. If tails, discard all Fire Energy cards attached to Blaine's Ninetales."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/f9/fb/3a/f9fb3a5f7dc45f93a16fb2a4aa49bdb3c3cc19b4daaced98ae03dd3846174afc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29664",
+      "sequenceNumber": 33,
+      "printedNumber": "033",
+      "uuid": 85344345,
+      "prices": []
+    },
+    {
+      "id": 25486,
+      "setData": {
+        "name": "Guren Town Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1999",
+        "image_url": "https://static.tcgcollector.com/content/content/images/87/28/29/872829d8dd8859fd5783308988ad4860a367a86ebbbed21ea797f41b9ad72ecd.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12119/guren-town-gym-deck"
+      },
+      "name": "Blaine's Arcanine",
+      "types": [
+        "Fire"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Blaine's Growlithe",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Heat Tackle",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "Blaine's Arcanine does 10 damage to itself."
+        },
+        {
+          "name": "Firestorm",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120",
+          "text": "Discard 3 Fire Energy cards attached to Blaine's Arcanine in order to use this attack."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Stage 1"
+      ],
+      "rarity": "Rare Holo",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/c3/78/28/c37828d832d6c9d1887a85dc5e9fc0044c941de0b851ed453dcd9b2d4149bf3e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29665",
+      "sequenceNumber": 34,
+      "printedNumber": "034",
+      "uuid": 87524838,
+      "prices": []
+    },
+    {
+      "id": 25487,
+      "setData": {
+        "name": "Guren Town Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1999",
+        "image_url": "https://static.tcgcollector.com/content/content/images/87/28/29/872829d8dd8859fd5783308988ad4860a367a86ebbbed21ea797f41b9ad72ecd.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12119/guren-town-gym-deck"
+      },
+      "name": "Blaine's Doduo",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Wild Kick",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        },
+        {
+          "name": "Retaliate",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10×",
+          "text": "Does 10 damage times the number of damage counters on Blaine's Doduo."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/74/48/c3/7448c394dcaea58891d53a2cecff58eda4481686fe0e522666fac76dc4da9711.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29695",
+      "sequenceNumber": 64,
+      "printedNumber": "064",
+      "uuid": 20894151,
+      "prices": []
+    },
+    {
+      "id": 25488,
+      "setData": {
+        "name": "Guren Town Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1999",
+        "image_url": "https://static.tcgcollector.com/content/content/images/87/28/29/872829d8dd8859fd5783308988ad4860a367a86ebbbed21ea797f41b9ad72ecd.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12119/guren-town-gym-deck"
+      },
+      "name": "Blaine's Gamble",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Discard any number of other cards from your hand, then flip a coin. If heads, draw twice that many cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/86/09/96/8609969ccef11b65756e50e8c7d7d066b4fab54d29867cc2221f506632012e22.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29705",
+      "sequenceNumber": 76,
+      "printedNumber": "076",
+      "uuid": 64075247,
+      "prices": []
+    },
+    {
+      "id": 25489,
+      "setData": {
+        "name": "Guren Town Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1999",
+        "image_url": "https://static.tcgcollector.com/content/content/images/87/28/29/872829d8dd8859fd5783308988ad4860a367a86ebbbed21ea797f41b9ad72ecd.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12119/guren-town-gym-deck"
+      },
+      "name": "Cinnabar City Gym",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "This card stays in play after being played. Discard this card if another Stadium card comes into play.",
+        "Ignore Weakness when a Water Pokémon does damage to a Pokémon with Blaine in its name."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/b9/18/74/b9187425f2f62df5cd303d036fa8ba22cb3599bba5859848f7e86767d498e17c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29714",
+      "sequenceNumber": 85,
+      "printedNumber": "085",
+      "uuid": 95420719,
+      "prices": []
+    },
+    {
+      "id": 25490,
+      "setData": {
+        "name": "Guren Town Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1999",
+        "image_url": "https://static.tcgcollector.com/content/content/images/87/28/29/872829d8dd8859fd5783308988ad4860a367a86ebbbed21ea797f41b9ad72ecd.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12119/guren-town-gym-deck"
+      },
+      "name": "Blaine",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "During this turn, instead of attaching your free Energy card, you may instead attach 2 Fire Energy cards to 1 of your Pokémon with Blaine in its name. (Playing additional copies of this card this turn has no effect.)"
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/a6/0d/46/a60d4602ac964a291a570bdbcfb0b9803d9374db34d2eac66bd946023e22c533.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/29722",
+      "sequenceNumber": 93,
+      "printedNumber": "093",
+      "uuid": 6689747,
+      "prices": []
+    },
+    {
+      "id": 25491,
+      "setData": {
+        "name": "Guren Town Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1999",
+        "image_url": "https://static.tcgcollector.com/content/content/images/87/28/29/872829d8dd8859fd5783308988ad4860a367a86ebbbed21ea797f41b9ad72ecd.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12119/guren-town-gym-deck"
+      },
+      "name": "Blaine's Charmander",
+      "types": [
+        "Fire"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fire Tail Slap",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Use this attack only if there are any Fire Energy cards attached to Blaine's Charmander. Flip a coin. If tails, discard 1 of those cards."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/31/c2/ef/31c2efdf3a2107f5ce922a551d05b29ad6b57b0abbcf18eed04081ccb9ccba81.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47489",
+      "sequenceNumber": 7,
+      "printedNumber": "007",
+      "uuid": 4209126,
+      "prices": []
+    },
+    {
+      "id": 25492,
+      "setData": {
+        "name": "Guren Town Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1999",
+        "image_url": "https://static.tcgcollector.com/content/content/images/87/28/29/872829d8dd8859fd5783308988ad4860a367a86ebbbed21ea797f41b9ad72ecd.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12119/guren-town-gym-deck"
+      },
+      "name": "Blaine's Vulpix",
+      "types": [
+        "Fire"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bite",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Call Will-o'-the-wisp",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip 3 coins. For each heads, if you have a Fire Energy card in your discard pile, put it into your hand."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/c0/70/16/c070168503608a6ef737db15605f30a43ae1861d303310db6edcfa60ea5eea54.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47490",
+      "sequenceNumber": 8,
+      "printedNumber": "008",
+      "uuid": 48598413,
+      "prices": []
+    },
+    {
+      "id": 25493,
+      "setData": {
+        "name": "Guren Town Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1999",
+        "image_url": "https://static.tcgcollector.com/content/content/images/87/28/29/872829d8dd8859fd5783308988ad4860a367a86ebbbed21ea797f41b9ad72ecd.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12119/guren-town-gym-deck"
+      },
+      "name": "Blaine's Growlithe",
+      "types": [
+        "Fire"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Shake",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)"
+        },
+        {
+          "name": "Fire Tackle",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Blaine's Growlithe does 10 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/77/34/ca/7734ca10283c98eef8410f824f32ed1103b633dbaf96d9b0d9a3b768f079195e.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47491",
+      "sequenceNumber": 9,
+      "printedNumber": "009",
+      "uuid": 33565416,
+      "prices": []
+    },
+    {
+      "id": 25494,
+      "setData": {
+        "name": "Guren Town Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1999",
+        "image_url": "https://static.tcgcollector.com/content/content/images/87/28/29/872829d8dd8859fd5783308988ad4860a367a86ebbbed21ea797f41b9ad72ecd.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12119/guren-town-gym-deck"
+      },
+      "name": "Blaine's Growlithe",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Stoke",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for a Fire Energy card and attach it to Blaine's Growlithe. Shuffle your deck afterward."
+        },
+        {
+          "name": "Body Slam",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/b6/35/8a/b6358ae28b43919e1f387d10fd45d383b1884d9a4431c28b0cd4effe4b0be0fd.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47492",
+      "sequenceNumber": 10,
+      "printedNumber": "010",
+      "uuid": 50903725,
+      "prices": []
+    },
+    {
+      "id": 25495,
+      "setData": {
+        "name": "Guren Town Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1999",
+        "image_url": "https://static.tcgcollector.com/content/content/images/87/28/29/872829d8dd8859fd5783308988ad4860a367a86ebbbed21ea797f41b9ad72ecd.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12119/guren-town-gym-deck"
+      },
+      "name": "Blaine's Ponyta",
+      "types": [
+        "Fire"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Agility",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Blaine's Ponyta."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/74/15/3a/74153a49f312ba406cf6177b04bea1abcd7d21064261247420ef208d998fd22d.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47493",
+      "sequenceNumber": 11,
+      "printedNumber": "011",
+      "uuid": 68580775,
+      "prices": []
+    },
+    {
+      "id": 25496,
+      "setData": {
+        "name": "Guren Town Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1999",
+        "image_url": "https://static.tcgcollector.com/content/content/images/87/28/29/872829d8dd8859fd5783308988ad4860a367a86ebbbed21ea797f41b9ad72ecd.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12119/guren-town-gym-deck"
+      },
+      "name": "Blaine's Dodrio",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Blaine's Doduo",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Mega Peck",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\""
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/ff/c9/3d/ffc93d9efcdf58d849e8f523c41135a8b73e3b0888e2ff874d2f20b2e86c328f.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47529",
+      "sequenceNumber": 47,
+      "printedNumber": "047",
+      "uuid": 2495396,
+      "prices": []
+    },
+    {
+      "id": 25497,
+      "setData": {
+        "name": "Guren Town Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1999",
+        "image_url": "https://static.tcgcollector.com/content/content/images/87/28/29/872829d8dd8859fd5783308988ad4860a367a86ebbbed21ea797f41b9ad72ecd.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12119/guren-town-gym-deck"
+      },
+      "name": "Potion",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Remove up to 2 damage counters from 1 of your Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/31/af/15/31af1597ba31d8a16217e4c5c41286e28747c841fb8ee46e3ede7d654b43ced3.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47532",
+      "sequenceNumber": 50,
+      "printedNumber": "050",
+      "uuid": 48074388,
+      "prices": []
+    },
+    {
+      "id": 25498,
+      "setData": {
+        "name": "Guren Town Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1999",
+        "image_url": "https://static.tcgcollector.com/content/content/images/87/28/29/872829d8dd8859fd5783308988ad4860a367a86ebbbed21ea797f41b9ad72ecd.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12119/guren-town-gym-deck"
+      },
+      "name": "Full Heal",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Your Active Pokémon is no longer Asleep, Confused, Paralyzed, or Poisoned."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/21/57/f9/2157f95eae558325284ef0c1d15ddf14f3440462afd1c4079db0508bdcae92b5.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47558",
+      "sequenceNumber": 55,
+      "printedNumber": "055",
+      "uuid": 6718283,
+      "prices": []
+    },
+    {
+      "id": 25499,
+      "setData": {
+        "name": "Guren Town Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1999",
+        "image_url": "https://static.tcgcollector.com/content/content/images/87/28/29/872829d8dd8859fd5783308988ad4860a367a86ebbbed21ea797f41b9ad72ecd.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12119/guren-town-gym-deck"
+      },
+      "name": "Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Switch 1 of your Benched Pokémon with your Active Pokémon"
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/f6/e5/c4/f6e5c441ba8d6300cc118793b7d9f98575f8f666b7e7419e356ae234c7a43b15.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47559",
+      "sequenceNumber": 56,
+      "printedNumber": "056",
+      "uuid": 94221959,
+      "prices": []
+    },
+    {
+      "id": 25500,
+      "setData": {
+        "name": "Guren Town Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1999",
+        "image_url": "https://static.tcgcollector.com/content/content/images/87/28/29/872829d8dd8859fd5783308988ad4860a367a86ebbbed21ea797f41b9ad72ecd.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12119/guren-town-gym-deck"
+      },
+      "name": "Pokédex",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Look at up to 5 cards from the top of your deck and rearrange them as you like."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/0b/7e/1c/0b7e1cdee996001773514e7a70ff211bcf6aeec9c5deb463af5b564fe58b6929.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47561",
+      "sequenceNumber": 58,
+      "printedNumber": "058",
+      "uuid": 34450859,
+      "prices": []
+    },
+    {
+      "id": 25501,
+      "setData": {
+        "name": "Guren Town Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1999",
+        "image_url": "https://static.tcgcollector.com/content/content/images/87/28/29/872829d8dd8859fd5783308988ad4860a367a86ebbbed21ea797f41b9ad72ecd.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12119/guren-town-gym-deck"
+      },
+      "name": "Blaine's Quiz #1",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Put a Basic Pokémon or Evolution card from your hand face down in front of you and tell your opponent its name. Your opponent guesses the length of that Pokémon. Flip the card over. If your opponent guessed right, he or she draws 2 cards. If your opponent guessed wrong, you draw 2 cards. Either way, return the card to your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/e4/11/a0/e411a058c841cc2b4aaf2c825c79b1315b5c307422df213e9e46c3711ce6bfd9.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47569",
+      "sequenceNumber": 66,
+      "printedNumber": "066",
+      "uuid": 25460118,
+      "prices": []
+    },
+    {
+      "id": 25502,
+      "setData": {
+        "name": "Guren Town Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1999",
+        "image_url": "https://static.tcgcollector.com/content/content/images/87/28/29/872829d8dd8859fd5783308988ad4860a367a86ebbbed21ea797f41b9ad72ecd.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12119/guren-town-gym-deck"
+      },
+      "name": "Blaine's Quiz #2",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Put a card from your hand face down in front of you. Your opponent guesses whether it is an Energy card, a Trainer card, or a Pokémon (Basic or Evolution) card. Flip the card over. If your opponent guessed right, he or she draws 2 cards. If your opponent guessed wrong, you draw 2 cards. Either way, return the card to your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/e8/c6/e8/e8c6e82fdb56d32de624fe4ea51f50875eb6182f808c7c437c01019ab6b4677c.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47570",
+      "sequenceNumber": 67,
+      "printedNumber": "067",
+      "uuid": 61839138,
+      "prices": []
+    },
+    {
+      "id": 25503,
+      "setData": {
+        "name": "Guren Town Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1999",
+        "image_url": "https://static.tcgcollector.com/content/content/images/87/28/29/872829d8dd8859fd5783308988ad4860a367a86ebbbed21ea797f41b9ad72ecd.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12119/guren-town-gym-deck"
+      },
+      "name": "Max Revive",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Discard 2 Energy cards from your hand in order to put 1 Basic Pokémon from your discard pile onto your Bench. (You cant play Max Revive if your Bench is full.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hikaru Koike",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/17/6b/b3/176bb311545f5ca2bfc3838ac0dff5f017d1d61d98552439a2670181ac6cadb0.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47571",
+      "sequenceNumber": 68,
+      "printedNumber": "068",
+      "uuid": 79152215,
+      "prices": []
+    },
+    {
+      "id": 25504,
+      "setData": {
+        "name": "Guren Town Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1999",
+        "image_url": "https://static.tcgcollector.com/content/content/images/87/28/29/872829d8dd8859fd5783308988ad4860a367a86ebbbed21ea797f41b9ad72ecd.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12119/guren-town-gym-deck"
+      },
+      "name": "Fervor",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Show the top 3 cards of your deck to all players. Put any Fire Energy cards there into your hand and discard the rest."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/96/cd/f2/96cdf292f91d1dbf8990770739418834a00bd2770e9f65a2da95a86eee6305fc.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47572",
+      "sequenceNumber": 69,
+      "printedNumber": "069",
+      "uuid": 23159024,
+      "prices": []
+    },
+    {
+      "id": 25505,
+      "setData": {
+        "name": "Guren Town Gym Deck",
+        "printed_count": 25,
+        "card_count": 25,
+        "year": "1999",
+        "image_url": "https://static.tcgcollector.com/content/content/images/87/28/29/872829d8dd8859fd5783308988ad4860a367a86ebbbed21ea797f41b9ad72ecd.webp",
+        "set_url": "https://www.tcgcollector.com/sets/12119/guren-town-gym-deck"
+      },
+      "name": "Double Colorless Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Provides Colorless Colorless energy. Doesnt count as a basic Energy card.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/06/fd/4e/06fd4eac44af8664165fdf278d5124950016a0fa138109a5362422ecabffc03b.webp",
+      "cardUrl": "https://tcgcollector.com/cards/47574",
+      "sequenceNumber": 71,
+      "printedNumber": "071",
+      "uuid": 71357902,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 25,
+  "totalCount": 25
+}

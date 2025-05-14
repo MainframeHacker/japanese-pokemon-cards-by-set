@@ -1,0 +1,828 @@
+{
+  "data": [
+    {
+      "id": 23559,
+      "setData": {
+        "name": "Water Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/water-quick-construction-pack"
+      },
+      "name": "Mudkip",
+      "types": [
+        "Water"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tail Strike",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 10 damage plus 10 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cd/12/36/cd12367c0afdf20997f30f4ee97f45c4d4ce6a94a6248186cfabd69910644d7e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41185",
+      "sequenceNumber": 1,
+      "printedNumber": "001",
+      "uuid": 34023333,
+      "prices": []
+    },
+    {
+      "id": 23560,
+      "setData": {
+        "name": "Water Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/water-quick-construction-pack"
+      },
+      "name": "Marshtomp",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Mudkip",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Super Hypno Wave",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Surf",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f8/30/b2/f830b28d98a4021cb62768c0e38f098fa611e8cf13daeb674553529e81d89a65.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41186",
+      "sequenceNumber": 2,
+      "printedNumber": "002",
+      "uuid": 51331332,
+      "prices": []
+    },
+    {
+      "id": 23561,
+      "setData": {
+        "name": "Water Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/water-quick-construction-pack"
+      },
+      "name": "Feebas",
+      "types": [
+        "Water"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Submerge",
+          "text": "As long as Feebas is on your Bench, prevent all damage done to Feebas by attacks (both yours and your opponent's).",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Lunge",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/92/46/fd/9246fdeea91e47b6889db0b2611d0a7f96f6747eccb0d87b308431016c75f823.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41187",
+      "sequenceNumber": 3,
+      "printedNumber": "003",
+      "uuid": 11036573,
+      "prices": []
+    },
+    {
+      "id": 23562,
+      "setData": {
+        "name": "Water Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/water-quick-construction-pack"
+      },
+      "name": "Milotic ex",
+      "types": [
+        "Water"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Feebas",
+      "effect": [
+        {
+          "name": "Mystic Scale",
+          "text": "As long as Milotic ex is in play, each player can't play any Technical Machine cards from his or her hand. Discard all Technical Machine cards in play (both yours and your opponent's).",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Gentle Wrap",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Reflect Energy",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": "Move 1 basic Energy card attached to Milotic ex to 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4a/82/52/4a8252963f0bc8518952f18a33fc0f242b64407fb20267e8245b28fe08cfa5af.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41188",
+      "sequenceNumber": 4,
+      "printedNumber": "004",
+      "uuid": 91514750,
+      "prices": []
+    },
+    {
+      "id": 23563,
+      "setData": {
+        "name": "Water Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/water-quick-construction-pack"
+      },
+      "name": "Snorunt",
+      "types": [
+        "Water"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Beat",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e3/80/77/e38077088c4d814f0a4f8c5c10cd4db971c4e2f96d5b87b2982d579a6ee85fba.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41189",
+      "sequenceNumber": 5,
+      "printedNumber": "005",
+      "uuid": 14193366,
+      "prices": []
+    },
+    {
+      "id": 23564,
+      "setData": {
+        "name": "Water Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/water-quick-construction-pack"
+      },
+      "name": "Glalie",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Snorunt",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hailstone",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Super Slash",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40+",
+          "text": "If the Defending Pokémon is an Evolved Pokémon, this attack does 40 damage plus 20 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a4/f4/65/a4f465fdd48199c833364df4c4d1c88534225fc953deb9c2ee410f77c34a8125.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41190",
+      "sequenceNumber": 6,
+      "printedNumber": "006",
+      "uuid": 21593661,
+      "prices": []
+    },
+    {
+      "id": 23565,
+      "setData": {
+        "name": "Water Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/water-quick-construction-pack"
+      },
+      "name": "Relicanth",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hypno Splash",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "The Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Sharp Fin",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a8/5a/5d/a85a5d7d5ba1e6736f3dd0d9fe25964213558f2ee6f88467ff35684b8e3886b2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41191",
+      "sequenceNumber": 7,
+      "printedNumber": "007",
+      "uuid": 72528370,
+      "prices": []
+    },
+    {
+      "id": 23566,
+      "setData": {
+        "name": "Water Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/water-quick-construction-pack"
+      },
+      "name": "Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Switch your Active Pokémon with 1 of your Benched Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fc/79/22/fc7922152592e32bffaf7d916bf62f2b66bdd1561bb77c7cdc2d005d110b88ca.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41192",
+      "sequenceNumber": 8,
+      "printedNumber": "008",
+      "uuid": 1625169,
+      "prices": []
+    },
+    {
+      "id": 23567,
+      "setData": {
+        "name": "Water Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/water-quick-construction-pack"
+      },
+      "name": "Mr. Stone's Project",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+        "Search your deck for up to 2 basic Energy cards, show them to your opponent, and put them into your hand. Shuffle your deck afterward. Or, search your discard pile for up to 2 basic Energy cards, show them to your opponent, and put them into your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5f/22/bb/5f22bb617768faded9a224786e8fecd1afadba031f900b5fcadb08da703fa2c8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41193",
+      "sequenceNumber": 9,
+      "printedNumber": "009",
+      "uuid": 27919216,
+      "prices": []
+    },
+    {
+      "id": 23568,
+      "setData": {
+        "name": "Water Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/water-quick-construction-pack"
+      },
+      "name": "TV Reporter",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "\"Draw 3 cards. Then, discard a card from your hand. If you have no cards in your deck, you cant play this card.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/04/e5/9a/04e59ae9c2011fae9b362c99871916f9f530211cc17d9e843a7f5efb6e0b878a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41194",
+      "sequenceNumber": 10,
+      "printedNumber": "010",
+      "uuid": 84009053,
+      "prices": []
+    },
+    {
+      "id": 23569,
+      "setData": {
+        "name": "Water Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/water-quick-construction-pack"
+      },
+      "name": "Water Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/41195",
+      "sequenceNumber": -1,
+      "printedNumber": "-1",
+      "uuid": 54308440,
+      "prices": []
+    },
+    {
+      "id": 23570,
+      "setData": {
+        "name": "Water Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/water-quick-construction-pack"
+      },
+      "name": "Water Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/41196",
+      "sequenceNumber": -1,
+      "printedNumber": "-1",
+      "uuid": 54308440,
+      "prices": []
+    },
+    {
+      "id": 23571,
+      "setData": {
+        "name": "Water Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/water-quick-construction-pack"
+      },
+      "name": "Water Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/41197",
+      "sequenceNumber": -1,
+      "printedNumber": "-1",
+      "uuid": 54308440,
+      "prices": []
+    },
+    {
+      "id": 23572,
+      "setData": {
+        "name": "Water Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/water-quick-construction-pack"
+      },
+      "name": "Water Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/41198",
+      "sequenceNumber": -1,
+      "printedNumber": "-1",
+      "uuid": 54308440,
+      "prices": []
+    },
+    {
+      "id": 23573,
+      "setData": {
+        "name": "Water Quick Construction Pack",
+        "printed_count": "015",
+        "card_count": 15,
+        "year": 2005,
+        "image_url": "",
+        "set_url": "https://www.tcgcollector.com/cards/jp/water-quick-construction-pack"
+      },
+      "name": "Water Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/41199",
+      "sequenceNumber": -1,
+      "printedNumber": "-1",
+      "uuid": 54308440,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 15,
+  "totalCount": 15
+}

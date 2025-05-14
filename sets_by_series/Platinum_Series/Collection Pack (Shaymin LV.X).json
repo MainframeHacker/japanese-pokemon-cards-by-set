@@ -1,0 +1,824 @@
+{
+  "data": [
+    {
+      "id": 13922,
+      "setData": {
+        "name": "Collection Pack (Shaymin LV.X)",
+        "printed_count": "12",
+        "card_count": 12,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-pack-shaymin-lv-x"
+      },
+      "name": "Combee",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Honey Scent",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Remove 2 damage counters from 1 of your Pokémon."
+        },
+        {
+          "name": "Flitter",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. This attack's damage isn't affected by Weakness or Resistance."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+10"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6d/48/96/6d4896cdf0016fddcbacc71249e86deb41c34409e4f0d262a7e13c1b36f075e4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/26482",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 52520492,
+      "prices": []
+    },
+    {
+      "id": 13923,
+      "setData": {
+        "name": "Collection Pack (Shaymin LV.X)",
+        "printed_count": "12",
+        "card_count": 12,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-pack-shaymin-lv-x"
+      },
+      "name": "Yanmega",
+      "types": [
+        "Grass"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Yanma",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Supersonic",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Air Slash",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "70",
+          "text": "Flip a coin. If tails, discard an Energy attached to Yanmega."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a9/84/1d/a9841d915451662530a096209b81cb8bdc2b088724aa4d684c57062456953fbb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/26483",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 11484146,
+      "prices": []
+    },
+    {
+      "id": 13924,
+      "setData": {
+        "name": "Collection Pack (Shaymin LV.X)",
+        "printed_count": "12",
+        "card_count": 12,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-pack-shaymin-lv-x"
+      },
+      "name": "Shaymin LV.X",
+      "types": [
+        "Grass"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Shaymin",
+      "effect": [
+        {
+          "name": "Revenge Seed",
+          "text": "If any of your Grass Pokémon were Knocked Out by damage from an opponent's attack during his or her last turn, each of Shaymin's attacks does 60 more damage to the Active Pokémon (before applying Weakness and Resistance).",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Energy Flare",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50",
+          "text": "You may move any number of Energy cards attached to your Pokémon to your other Pokémon in any way you like."
+        }
+      ],
+      "rules": [
+        "Put this card onto your Active Shaymin. Shaymin LV.X can use any attack, Poké-Power, or Poké-Body from its previous Level."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "LV.X",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/50/7a/24/507a247c4c8d86e97d0097323985edf911a73b5b96c6678a8f1b53638582f189.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/26484",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 62998112,
+      "prices": []
+    },
+    {
+      "id": 13925,
+      "setData": {
+        "name": "Collection Pack (Shaymin LV.X)",
+        "printed_count": "12",
+        "card_count": 12,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-pack-shaymin-lv-x"
+      },
+      "name": "Chimchar",
+      "types": [
+        "Fire"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Cheri Berry",
+          "text": "If Chimchar is Paralyzed, remove the Special Condition Paralyzed from Chimchar at the end of each player's turn.",
+          "type": "Held Item"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip 3 coins. This attack does 10 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "+10"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cd/5a/73/cd5a73c5b60a5cc4e46438a87f00ff2b38ed1d00671e6bb8b84f645410310c9c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/26485",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 75915373,
+      "prices": []
+    },
+    {
+      "id": 13926,
+      "setData": {
+        "name": "Collection Pack (Shaymin LV.X)",
+        "printed_count": "12",
+        "card_count": 12,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-pack-shaymin-lv-x"
+      },
+      "name": "Glaceon",
+      "types": [
+        "Water"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Eevee",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Ice Shot",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Icy Wind",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "+20"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/78/18/a9/7818a92009558c7aa1a5fb7eaf4d7bc566dbb1c10218839fb49491671d053b30.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/26486",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 64299719,
+      "prices": []
+    },
+    {
+      "id": 13927,
+      "setData": {
+        "name": "Collection Pack (Shaymin LV.X)",
+        "printed_count": "12",
+        "card_count": 12,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-pack-shaymin-lv-x"
+      },
+      "name": "Palkia",
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Lustrous Orb",
+          "text": "If an Active Pokémon has Weakness to Water type, Palkia's attacks do 20 more damage to that Pokémon (before applying Weakness and Resistance).",
+          "type": "Held Item"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Zone Shift",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent switches the Defending Pokémon with 1 of his or her Benched Pokémon."
+        },
+        {
+          "name": "Pearl Blast",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "60",
+          "text": "You may return an Energy card attached to Palkia to your hand. If you do, choose an Energy card attached to the Defending Pokémon and return it to your opponent's hand."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "+20"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/12/3f/0f/123f0f7a61d0c6043d623bdc39812f56fcf0626bbab39c9b3bbee1bd313ed078.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/26487",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 58333283,
+      "prices": []
+    },
+    {
+      "id": 13928,
+      "setData": {
+        "name": "Collection Pack (Shaymin LV.X)",
+        "printed_count": "12",
+        "card_count": 12,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-pack-shaymin-lv-x"
+      },
+      "name": "Pikachu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Growl",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "During your opponent's next turn, any damage done by attacks from the Defending Pokémon is reduced by 20 (before applying Weakness and Resistance)."
+        },
+        {
+          "name": "Numb",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "If Pikachu evolved from Pichu during this turn, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b2/7d/e8/b27de86f8c1d2982524feb12485420e4e757e2cad8889346647063a4f646000a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/26488",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 69786569,
+      "prices": []
+    },
+    {
+      "id": 13929,
+      "setData": {
+        "name": "Collection Pack (Shaymin LV.X)",
+        "printed_count": "12",
+        "card_count": 12,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-pack-shaymin-lv-x"
+      },
+      "name": "Raichu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Pikachu",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Slam",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30×",
+          "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+        },
+        {
+          "name": "High Volt",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "If Raichu evolved from Pikachu during this turn, this attack's base damage is 100 instead of 60."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f3/1b/12/f31b123f4c26c896dd0c5eeb42847009a4702ca024b7744173d9370e0434457d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/26489",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 56048833,
+      "prices": []
+    },
+    {
+      "id": 13930,
+      "setData": {
+        "name": "Collection Pack (Shaymin LV.X)",
+        "printed_count": "12",
+        "card_count": 12,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-pack-shaymin-lv-x"
+      },
+      "name": "Stunky",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Poison Gas",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        },
+        {
+          "name": "Slash",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/01/31/a2/0131a2c1e4e695eaf6cdd0d563f3541984bd74d54c75045331ed6a1ada9cff3e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/26490",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 46883386,
+      "prices": []
+    },
+    {
+      "id": 13931,
+      "setData": {
+        "name": "Collection Pack (Shaymin LV.X)",
+        "printed_count": "12",
+        "card_count": 12,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-pack-shaymin-lv-x"
+      },
+      "name": "Probopass",
+      "types": [
+        "Metal"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Nosepass",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Rock Slide",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Does 10 damage to 2 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Triple Nose",
+          "cost": [
+            "Metal",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50+",
+          "text": "Flip 3 coins. This attack does 50 damage plus 20 more damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+30"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/86/bb/fa/86bbfae7026f559ca21dbdf3524ee67d6bb47c0be07b105b7918429f689162e6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/26491",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 97664430,
+      "prices": []
+    },
+    {
+      "id": 13932,
+      "setData": {
+        "name": "Collection Pack (Shaymin LV.X)",
+        "printed_count": "12",
+        "card_count": 12,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-pack-shaymin-lv-x"
+      },
+      "name": "Eevee",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "cost": [],
+          "convertedEnergyCost": 0,
+          "damage": "10"
+        },
+        {
+          "name": "Sand Attack",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+10"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ed/07/bd/ed07bdfb7ee5d7421b56b86181d6bdfa8dafb2c11d4a3a0c855f8c7a93e0ece6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/26492",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 34967,
+      "prices": []
+    },
+    {
+      "id": 13933,
+      "setData": {
+        "name": "Collection Pack (Shaymin LV.X)",
+        "printed_count": "12",
+        "card_count": 12,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/collection-pack-shaymin-lv-x"
+      },
+      "name": "Time-Space Distortion",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Flip 3 coins. For each heads, search your discard pile for a Pokémon, show it to your opponent, and put it into your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/75/4e/b7/754eb7a8c69ad82e17f5e800df304fada5f9a597a805a1a21d2c895d21748b3d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/26493",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 57131589,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 12,
+  "totalCount": 12
+}

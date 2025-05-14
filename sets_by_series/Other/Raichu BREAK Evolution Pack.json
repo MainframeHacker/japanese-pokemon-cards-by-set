@@ -1,0 +1,544 @@
+{
+  "data": [
+    {
+      "id": 10119,
+      "setData": {
+        "name": "Raichu BREAK Evolution Pack",
+        "printed_count": "10",
+        "card_count": 10,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/raichu-break-evolution-pack"
+      },
+      "name": "Pikachu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Agility",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10",
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ea/10/19/ea10197be0fac58ea32a8bf1244beb0c905cc230bc6943186a2e19979196c09f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23340",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 1223112,
+      "prices": []
+    },
+    {
+      "id": 10120,
+      "setData": {
+        "name": "Raichu BREAK Evolution Pack",
+        "printed_count": "10",
+        "card_count": 10,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/raichu-break-evolution-pack"
+      },
+      "name": "Raichu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Pikachu",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Thunderclap Shot",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "This attack does 50 damage to each of your opponent's Pokémon-EX. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Electrosmash",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3e/fe/6f/3efe6fd33dc65b9f57b8d2c3697524377295dfcf82be882b2daa2c7569467a2c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23341",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 51742015,
+      "prices": []
+    },
+    {
+      "id": 10121,
+      "setData": {
+        "name": "Raichu BREAK Evolution Pack",
+        "printed_count": "10",
+        "card_count": 10,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/raichu-break-evolution-pack"
+      },
+      "name": "Raichu BREAK",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Raichu",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Grand Bolt",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "170",
+          "text": "Discard all Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "Raichu BREAK retains the attacks, Abilities, Weakness, Resistance, and Retreat Cost of its previous Evolution."
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "BREAK",
+        "Stage 2"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c8/61/ff/c861ff544566172a8d66757b2585f62cc7e3be1e6f6e8eae249e10381f5aafc1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23342",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 67467007,
+      "prices": []
+    },
+    {
+      "id": 10122,
+      "setData": {
+        "name": "Raichu BREAK Evolution Pack",
+        "printed_count": "10",
+        "card_count": 10,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/raichu-break-evolution-pack"
+      },
+      "name": "Stunfisk",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 110,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Revenge",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "If any of your Pokémon were Knocked Out by damage from an opponent's attack during his or her last turn, this attack does 80 more damage."
+        },
+        {
+          "name": "Thunder Blast",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoki Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1f/c8/b9/1fc8b98e2af8217012fb2c38d5162521d69d9e3d340be4b81555829d9dd1c31e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23343",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 70435442,
+      "prices": []
+    },
+    {
+      "id": 10123,
+      "setData": {
+        "name": "Raichu BREAK Evolution Pack",
+        "printed_count": "10",
+        "card_count": 10,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/raichu-break-evolution-pack"
+      },
+      "name": "Town Map",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Turn all of your Prize cards face up. (Those Prize cards remain face up for the rest of the game.)"
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/89/e8/17/89e8173b6af9af02ca88aeacdbe54ab5204dc220b306b3fe24eeadb57e7d88fe.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23344",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 26585734,
+      "prices": []
+    },
+    {
+      "id": 10124,
+      "setData": {
+        "name": "Raichu BREAK Evolution Pack",
+        "printed_count": "10",
+        "card_count": 10,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/raichu-break-evolution-pack"
+      },
+      "name": "Buddy-Buddy Rescue",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Each player puts a Pokémon from his or her discard pile into his or her hand. (Your opponent chooses first.)"
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/74/40/54/744054702a5153d50b91a8f3be3834d04479067f1019a70645e7d592f22d20cf.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23345",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 24099476,
+      "prices": []
+    },
+    {
+      "id": 10125,
+      "setData": {
+        "name": "Raichu BREAK Evolution Pack",
+        "printed_count": "10",
+        "card_count": 10,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/raichu-break-evolution-pack"
+      },
+      "name": "Professor's Letter",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Search your deck for up to 2 basic Energy cards, reveal them, and put them into your hand. Shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/21/6d/6f/216d6fec419fef5ffd73525a3b946a53a4cc277b171c7a26adfd805d99e3023b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23346",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 27746505,
+      "prices": []
+    },
+    {
+      "id": 10126,
+      "setData": {
+        "name": "Raichu BREAK Evolution Pack",
+        "printed_count": "10",
+        "card_count": 10,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/raichu-break-evolution-pack"
+      },
+      "name": "Level Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Search your deck for a Pokémon with 90 HP or less, reveal it, and put it into your hand. Shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1d/7d/e2/1d7de27b2a53d69dbb2030474e72d3cb65099903034c46f75bd6fa6d0b686727.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23347",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 21446359,
+      "prices": []
+    },
+    {
+      "id": 10127,
+      "setData": {
+        "name": "Raichu BREAK Evolution Pack",
+        "printed_count": "10",
+        "card_count": 10,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/raichu-break-evolution-pack"
+      },
+      "name": "Fisherman",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+        "Search your discard pile for 4 basic Energy cards, show them to your opponent, and put them into your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hitoshi Ariga",
+      "imageUrl": "https://static.tcgcollector.com/content/images/30/e8/35/30e835be722a48cbecbcf5667e53100d24749f87b3e90e9b19c47b6c62249be8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23348",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 43104811,
+      "prices": []
+    },
+    {
+      "id": 10128,
+      "setData": {
+        "name": "Raichu BREAK Evolution Pack",
+        "printed_count": "10",
+        "card_count": 10,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/raichu-break-evolution-pack"
+      },
+      "name": "Skyla",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Search you deck for a Trainer card, reveal it, and put it into your hand. Shuffle your deck afterward."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yusuke Ohmura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/40/94/ea/4094ea012eae1e751d07fd2b6e2477e8d22f84b1534cb5060f98442cb15b9cbd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/23349",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 74503463,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 10,
+  "totalCount": 10
+}

@@ -1,0 +1,5266 @@
+{
+  "data": [
+    {
+      "id": 7125,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Tangela",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Gentle Slap",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        },
+        {
+          "name": "Bind",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7e/70/19/7e7019a8b1b92383f5ba6f18eced90f0ded164505bf01326dceba8d0e5f395d5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20359",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 19230824,
+      "prices": [
+        {
+          "priceAmount": 160,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/tangela-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7126,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Tangrowth",
+      "types": [
+        "Grass"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Tangela",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hefty Whip",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30+",
+          "text": "If this Pokémon was healed during this turn, this attack does 130 more damage."
+        },
+        {
+          "name": "Whip Smash",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "110"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4f/78/8b/4f788b1bd21ad6e4107acf029a6c56e60eaa98562b05bfc693c0508f423200f8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20360",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 20616330,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/tangrowth-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7127,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Treecko",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Find a Friend",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for a Grass Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Tomokazu Komiya",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8e/9c/16/8e9c16252261f086213cf0890ba49f90f57ef9f7f9b91ff8f35bb1045dcd8d65.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20361",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 40563165,
+      "prices": [
+        {
+          "priceAmount": 3499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/treecko-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 164,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/treecko-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7128,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Grovyle",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Treecko",
+      "effect": [
+        {
+          "name": "Sunshine Grace",
+          "text": "Once during your turn (before your attack), you may search your deck for a Grass Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Slicing Blade",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ayaka Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1d/5a/76/1d5a76e1af4f17e78ee793ce56fad10dba69f27e4400bc3286597d5ace1c213f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20362",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 82945050,
+      "prices": []
+    },
+    {
+      "id": 7129,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Sceptile-GX",
+      "types": [
+        "Grass"
+      ],
+      "hp": 230,
+      "evolvesFrom": "Grovyle",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Mach Cut",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "60",
+          "text": "Discard a Special Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Leaf Cyclone",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "130",
+          "text": "Move a Grass Energy from this Pokémon to 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Jungle Heal-GX",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Heal all damage from each of your Pokémon that has any Grass Energy attached to it. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 2"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yoshinobu Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f6/b1/29/f6b1299f25f4ad75b25a6f9a89226cf3a01d78f155cb928dd4a2143e6c4aa95a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20363",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 53313146,
+      "prices": [
+        {
+          "priceAmount": 4277,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/sceptile-gx-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1766,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/sceptile-gx-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/sceptile-gx-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 319,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/sceptile-gx-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7130,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Wurmple",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Poison Sting",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mina Nakai",
+      "imageUrl": "https://static.tcgcollector.com/content/images/84/7b/42/847b420123250291e3de080a5258edd1b50e562e74b25f8ac7d24f4ea8b66941.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20364",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 16464422,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/wurmple-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7131,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Silcoon",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Wurmple",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Cocoon Collector",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 4 in any combination of Silcoon and Cascoon and put them onto your Bench. Then, shuffle your deck."
+        },
+        {
+          "name": "Rolling Tackle",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Satoshi Shirai",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a9/0d/cd/a90dcd0845811310242455e567ff8913852cd07e5800f1085731447df111b86e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20365",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 68573886,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/silcoon-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7132,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Beautifly",
+      "types": [
+        "Grass"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Silcoon",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Skill Dive",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "This attack does 50 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Butterfly Edge",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "If your opponent's Pokémon is Knocked Out by damage from this attack, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "0313",
+      "imageUrl": "https://static.tcgcollector.com/content/images/da/18/0d/da180d04f11a40aeb0a6f4220039c5fde84e0eee0f223ce64e6570572d98843a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20366",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 17479241,
+      "prices": [
+        {
+          "priceAmount": 4108,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "06/24/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/beautifly-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1654,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "06/24/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/beautifly-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "06/24/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/beautifly-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 274,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/beautifly-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7133,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Nincada",
+      "types": [
+        "Grass"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fury Swipes",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip 3 coins. This attack does 10 damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "SATOSHI NAKAI",
+      "imageUrl": "https://static.tcgcollector.com/content/images/86/66/a7/8666a76058c70789c5d3607df8923f392dd96ec4a8daee33313fe996b96f26ca.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20367",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 16080405,
+      "prices": [
+        {
+          "priceAmount": 139,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/nincada-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7134,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Ninjask",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Nincada",
+      "effect": [
+        {
+          "name": "Molting",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put a Shedinja from your discard pile onto your Bench.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "X-Scissor",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "40+",
+          "text": "Flip a coin. If heads, this attack does 40 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kirisAki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0a/19/e6/0a19e6c21655c377e4936f3ab698658dbdbff8e00ad348c3282f8250e2af8614.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20368",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 76883492,
+      "prices": [
+        {
+          "priceAmount": 3654,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "10/29/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/ninjask-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1390,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "10/29/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/ninjask-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "10/29/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/ninjask-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 145,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/ninjask-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7135,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Combee",
+      "types": [
+        "Grass"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bee March",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 3 Combee and put them onto your Bench. Then, shuffle your deck."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Akira Komayama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/32/1b/d5/321bd504d8dfc9801f6cf56578f5b9116aaff6d27a5bcbb240181f898722898a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20369",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 57623491,
+      "prices": []
+    },
+    {
+      "id": 7136,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Vespiquen",
+      "types": [
+        "Grass"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Combee",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Commanding Queen",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "120",
+          "text": "If you have 4 or fewer Grass Pokémon on your Bench, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "chibi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/44/86/de/4486deed6cf04bc9e4dfa730cb2a690138c7d827f47c47e90ffad3291610e722.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20370",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 84802109,
+      "prices": [
+        {
+          "priceAmount": 169,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/vespiquen-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7137,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Shaymin",
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Floral Heal",
+          "text": "Once during your turn (before your attack), you may heal 20 damage from your Active Grass Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Ram",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sekio",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0e/bd/80/0ebd808b3512998409c1e5672b93a576a6ab6a1a228191b96a1f055f911b6832.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20371",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 75508416,
+      "prices": [
+        {
+          "priceAmount": 4302,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/shaymin-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 553,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "07/30/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/shaymin-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "07/30/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/shaymin-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 171,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/shaymin-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7138,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Alolan Vulpix",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Secret Alleyway",
+          "text": "If you have any Fairy Pokémon in play, this Pokémon has no Retreat Cost.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Alolan",
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoyo Kimura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f1/4e/8a/f14e8a0746762f36b93b4aed4ff8c6a926fc1b740c4a84cbd3f76a501a56f8cb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20372",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 41954927,
+      "prices": [
+        {
+          "priceAmount": 250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/alolan-vulpix-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7139,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Shedinja",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 40,
+      "evolvesFrom": "Nincada",
+      "effect": [
+        {
+          "name": "Vessel of Life",
+          "text": "Once during your turn (before your attack), you may discard all cards attached to this Pokémon and attach it to 1 of your Pokémon as a Pokémon Tool card. When the Pokémon this card is attached to is Knocked Out, your opponent takes 1 fewer Prize card.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Haunt",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Put 3 damage counters on your opponent's Active Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kawayoo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/14/bc/db/14bcdb357eef99348bcd1f54c284da90adc98c333bc001ce0fced3bac3d9a66a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20373",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 95830507,
+      "prices": [
+        {
+          "priceAmount": 295,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/shedinja-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7140,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Sableye",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Quick Hunt",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "If you go first, you can use this attack on your first turn. Search your deck for a card and put it into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Cursed Drop",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Put 3 damage counters on your opponent's Pokémon in any way you like."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Miki Tanaka",
+      "imageUrl": "https://static.tcgcollector.com/content/images/66/72/2b/66722b75a0f9f8e064360aadbc4be388e79bdf475b3c8c26259862a16dd55e8f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20374",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 17894348,
+      "prices": [
+        {
+          "priceAmount": 146,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/sableye-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7141,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Giratina",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Distortion Door",
+          "text": "Once during your turn (before your attack), if this Pokémon is in your discard pile, you may put it onto your Bench. If you do, put 1 damage counter on 2 of your opponent's Benched Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Shadow Impact",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "130",
+          "text": "Put 4 damage counters on 1 of your Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hasuno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c3/e2/3c/c3e23ce53f1d75a3a513ec01570761c67a6ecaa08cbef09e14fd90f63a5d9c8d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20375",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 59108820,
+      "prices": [
+        {
+          "priceAmount": 2250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/giratina-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 425,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/giratina-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 726,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/giratina-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/giratina-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 483,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/giratina-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7142,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Sigilyph-GX",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Mirror Counter",
+          "text": "If this Pokémon is your Active Pokémon and is damaged by an attack from your opponent's Pokémon-GX or Pokémon-EX (even if this Pokémon is Knocked Out), put damage counters on the Attacking Pokémon equal to the damage done to this Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Sonic Wing",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": "This attack's damage isn't affected by Resistance."
+        },
+        {
+          "name": "Intercept-GX",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60×",
+          "text": "This attack does 60 damage times the amount of Energy attached to your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "PLANETA Otani",
+      "imageUrl": "https://static.tcgcollector.com/content/images/81/57/e4/8157e43404f38b7b69bdb5142656028888604da7d222b5d27fae0c88b558bc97.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20376",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 59447119,
+      "prices": [
+        {
+          "priceAmount": 3763,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/sigilyph-gx-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1070,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/sigilyph-gx-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/sigilyph-gx-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 192,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/sigilyph-gx-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7143,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Yamask",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Haunt",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Put 1 damage counter on your opponent's Active Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/82/82/06/8282067c266db6490601d8d47743e8e0c6a554fbcaa4ca1c68f32bcb77435ea7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20377",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 13207194,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/yamask-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7144,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Cofagrigus",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Yamask",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Spirit Juggling",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "Discard any number of your Benched Pokémon. This attack does 30 more damage for each Benched Pokémon you discarded in this way."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "tetsuya koizumi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a5/12/ed/a512ed8995a4e6f015070c075663394e9933c6d6985a6cde8ca5b6012c6a0482.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20378",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 20513909,
+      "prices": [
+        {
+          "priceAmount": 197,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/cofagrigus-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7145,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Litwick",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Haunt",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Put 1 damage counter on your opponent's Active Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Asako Ito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/dd/e4/f8/dde4f84f4ebfbf4fe7db9d5ad1736ea0a22ef8e8fe7b70c94b7ed2f14468bf2b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20379",
+      "sequenceNumber": 21,
+      "printedNumber": "21",
+      "uuid": 15173847,
+      "prices": [
+        {
+          "priceAmount": 3597,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "10/07/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/litwick-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1356,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "10/07/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/litwick-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "10/07/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/litwick-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 99,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/litwick-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7146,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Lampent",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Litwick",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Haunt",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Put 3 damage counters on your opponent's Active Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Anesaki Dynamic",
+      "imageUrl": "https://static.tcgcollector.com/content/images/26/1b/ce/261bce4212b1ec0a804493ab5161f18e82ebbbd41ff0bd233ab1d5e280ce63b5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20380",
+      "sequenceNumber": 22,
+      "printedNumber": "22",
+      "uuid": 84129574,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/lampent-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7147,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Chandelure",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Lampent",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Cursed Drop",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Put 4 damage counters on your opponent's Pokémon in any way you like."
+        },
+        {
+          "name": "Vortex of Pain",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "This attack does 20 damage for each damage counter on all of your opponent's Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "so-taro",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6f/93/77/6f93774a41d726856f8895cbbe15153065d6dec16d18380c704f8b984eedaec1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20381",
+      "sequenceNumber": 23,
+      "printedNumber": "23",
+      "uuid": 44123431,
+      "prices": [
+        {
+          "priceAmount": 6648,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/chandelure-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/chandelure-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/chandelure-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/chandelure-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7148,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Meloetta",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sing",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Miracle Harmony",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Flip a coin for each of your Pokémon in play that has the Sing attack. This attack does 10 damage for each heads to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "nagimiso",
+      "imageUrl": "https://static.tcgcollector.com/content/images/38/61/b8/3861b8331bf10ea33a3514b82ce65f6f41f94bc7db873c9b5ff98f5d4961571d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20382",
+      "sequenceNumber": 24,
+      "printedNumber": "24",
+      "uuid": 23746446,
+      "prices": [
+        {
+          "priceAmount": 144,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/meloetta-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7149,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Alolan Ninetales-GX",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Alolan Vulpix",
+      "effect": [
+        {
+          "name": "Mysterious Guidance",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 2 Item cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Snowy Wind",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "70",
+          "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Sublimation-GX",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "If your opponent's Active Pokémon is an Ultra Beast, it is Knocked Out. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Alolan",
+        "Stage 1"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d4/a4/24/d4a42483bc1582b43b24476e53abd0fb5fa7b830ae29ed4892c41acd2cc94296.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20383",
+      "sequenceNumber": 25,
+      "printedNumber": "25",
+      "uuid": 53019425,
+      "prices": [
+        {
+          "priceAmount": 2341,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/alolan-ninetales-gx-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1129,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/alolan-ninetales-gx-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/alolan-ninetales-gx-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 415,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/alolan-ninetales-gx-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7150,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Jigglypuff",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Pound",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Sing",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d5/ab/0a/d5ab0abcaeacc5031e13c57e1f1e89c65e1804c60f1897bf753012949117656d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20384",
+      "sequenceNumber": 26,
+      "printedNumber": "26",
+      "uuid": 8616532,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/jigglypuff-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7151,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Wigglytuff",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Jigglypuff",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Expand",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "During your opponent's next turn, this Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance)."
+        },
+        {
+          "name": "Charmed Slap",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70+",
+          "text": "If this Pokémon has a Pokémon Tool card that has `Fairy Charm` in its name attached to it, this attack does 70 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "nagimiso",
+      "imageUrl": "https://static.tcgcollector.com/content/images/40/8a/77/408a770db43849ca299f4f5f1dd9be8ba9265cd97349f952673313e4d5342da3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20385",
+      "sequenceNumber": 27,
+      "printedNumber": "27",
+      "uuid": 57961156,
+      "prices": [
+        {
+          "priceAmount": 147,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/wigglytuff-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7152,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Ralts",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Beckon",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Put a Supporter card from your discard pile into your hand."
+        },
+        {
+          "name": "Beat",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yuka Morii",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2f/ba/b7/2fbab7f95a686fe1fc23ef409dcd3911340cf655d5bfaf8165c77f74e11937a7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20386",
+      "sequenceNumber": 28,
+      "printedNumber": "28",
+      "uuid": 8810643,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/ralts-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7153,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Kirlia",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Ralts",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Beat",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        },
+        {
+          "name": "Disarming Voice",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/92/78/0f/92780f0b498481231ddb9a4ecaf4fae6032cc8a8ded04641e23d98aa0c5f478e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20387",
+      "sequenceNumber": 29,
+      "printedNumber": "29",
+      "uuid": 46265860,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/kirlia-29",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7154,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Gardevoir",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Kirlia",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Brilliant Search",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 3 cards and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Sensitive Ray",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70+",
+          "text": "If you played a Supporter card from your hand during this turn, this attack does 90 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryota Murayama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d8/f6/e9/d8f6e9cdbf70d3a8b982c6ba41799b53e59a9461a53a4341c3b381d690bfad2e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20388",
+      "sequenceNumber": 30,
+      "printedNumber": "30",
+      "uuid": 11642826,
+      "prices": [
+        {
+          "priceAmount": 6000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/gardevoir-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1669,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/gardevoir-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/gardevoir-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 269,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/gardevoir-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7155,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Dedenne",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Zzzap Touch",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Confused. If tails, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Megumi Mizutani",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d8/d9/22/d8d9220641cef69d8021890842f0c66755248d17e083cb5ba49a12bcae4d9cce.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20389",
+      "sequenceNumber": 31,
+      "printedNumber": "31",
+      "uuid": 29801877,
+      "prices": [
+        {
+          "priceAmount": 249,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/dedenne-31",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7156,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Carbink",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Wonder Ray",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "During your opponent's next turn, prevent all effects of attacks, including damage, done to this Pokémon by any Pokémon that has an Ability."
+        },
+        {
+          "name": "Power Gem",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3b/5d/1e/3b5d1ed099eb926bb61d0d4640ade41c0b3155df1aebd0a933a15cfb44e06b3e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20390",
+      "sequenceNumber": 32,
+      "printedNumber": "32",
+      "uuid": 307335,
+      "prices": [
+        {
+          "priceAmount": 169,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/carbink-32",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7157,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Xerneas ?",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 160,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Path of Life",
+          "text": "Once during your turn, when this Pokémon moves from your Bench to become your Active Pokémon, you may move any number of Energy from your other Pokémon to it.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Bright Horns",
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Fairy"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "160",
+          "text": "This Pokémon can't use Bright Horns during your next turn."
+        }
+      ],
+      "rules": [
+        "\"You cant have more than 1 ? card with the same name in your deck. If a ? card would go to the discard pile, put it in the Lost Zone instead.\""
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "?",
+        "Basic"
+      ],
+      "rarity": "Prism Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9a/30/f2/9a30f20ecb13fc1842da620548dd92762f41199118b2c58d29c6ec08a333a8c3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20391",
+      "sequenceNumber": 33,
+      "printedNumber": "33",
+      "uuid": 15683045,
+      "prices": [
+        {
+          "priceAmount": 850,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/xerneas-prism-star-33",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 518,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/xerneas-prism-star-33",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7158,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Cutiefly",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sweet Scent",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Heal 30 damage from 1 of your Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Midori Harada",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2e/49/c4/2e49c4a5c41812b1983fd7917fbe8452eeae1299b8036f7e4e6ac533092361a1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20392",
+      "sequenceNumber": 34,
+      "printedNumber": "34",
+      "uuid": 59447166,
+      "prices": [
+        {
+          "priceAmount": 99,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/cutiefly-34",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7159,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Ribombee",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Cutiefly",
+      "effect": [
+        {
+          "name": "Mysterious Buzz",
+          "text": "As long as this Pokémon is on your Bench, whenever your opponent plays a Supporter card from their hand, prevent all effects of that card done to your Fairy Pokémon in play.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Stampede",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hasuno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ab/0d/26/ab0d267ddf3b1b6eb438879857e18525f8742400ae77a48351a283485b80a66c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20393",
+      "sequenceNumber": 35,
+      "printedNumber": "35",
+      "uuid": 47046952,
+      "prices": [
+        {
+          "priceAmount": 197,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/ribombee-35",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7160,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Morelull",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Perplex",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "You Iribi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/35/8a/36/358a36ea05fa99a7d3e4505fa98bd0f7d51ac479caaf7df3fcb343c5c3f850a7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20394",
+      "sequenceNumber": 36,
+      "printedNumber": "36",
+      "uuid": 67818777,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/morelull-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7161,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Shiinotic",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Morelull",
+      "effect": [
+        {
+          "name": "Effect Spore",
+          "text": "If this Pokémon is your Active Pokémon and is damaged by an opponent's attack (even if this Pokémon is Knocked Out), the Attacking Pokémon is now Asleep.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dream's Touch",
+          "cost": [
+            "Fairy",
+            "Fairy"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50",
+          "text": "If your opponent's Active Pokémon is Asleep, your opponent shuffles all Energy from it into their deck."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Suwama Chiaki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/74/fc/35/74fc355f6e3b2a221604f7ebc849b9993630264caface0709fcc8f6881ec9033.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20395",
+      "sequenceNumber": 37,
+      "printedNumber": "37",
+      "uuid": 42695020,
+      "prices": [
+        {
+          "priceAmount": 225,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/shiinotic-37",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7162,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Mimikyu-GX",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Perplex",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent's Active Pokémon is now Confused."
+        },
+        {
+          "name": "Let's Snuggle & Fall",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "This attack does 30 more damage for each damage counter on your opponent's Active Pokémon."
+        },
+        {
+          "name": "Dream Fear-GX",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Choose 1 of your opponent's Benched Pokémon. Your opponent shuffles that Pokémon and all cards attached to it into their deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f7/73/98/f77398172fc5f09b45b661edf59b78ae9d19eb0ca4b124da90c2b996e33daf1a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20396",
+      "sequenceNumber": 38,
+      "printedNumber": "38",
+      "uuid": 37669603,
+      "prices": [
+        {
+          "priceAmount": 3999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/mimikyu-gx-38",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 3211,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/mimikyu-gx-38",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 3500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/mimikyu-gx-38",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/mimikyu-gx-38",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 650,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/mimikyu-gx-38",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7163,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Tapu Lele",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 110,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Charmed Charm",
+          "text": "Whenever you attach a Pokémon Tool card that has `Fairy Charm` in its name from your hand to this Pokémon during your turn, you may leave your opponent's Active Pokémon Confused.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Magical Shot",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mizue",
+      "imageUrl": "https://static.tcgcollector.com/content/images/97/30/65/97306597f6d959b9c3a89da933747d67640edb0782937624508cf62a4db25f45.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20397",
+      "sequenceNumber": 39,
+      "printedNumber": "39",
+      "uuid": 46917243,
+      "prices": [
+        {
+          "priceAmount": 1700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/tapu-lele-39",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1450,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/tapu-lele-39",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/tapu-lele-39",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 177,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/tapu-lele-39",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7164,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Tapu Fini",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dream Away",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Flip a coin. If heads, your opponent shuffles their Active Pokémon and all cards attached to it into their deck."
+        },
+        {
+          "name": "Wonder Shine",
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100",
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d2/b1/61/d2b1616b9d008370dfa947ffadbf99ceda2f95e0f374428e694a5226083facb4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20398",
+      "sequenceNumber": 40,
+      "printedNumber": "40",
+      "uuid": 91749597,
+      "prices": [
+        {
+          "priceAmount": 209,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/tapu-fini-40",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7165,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Kecleon",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Unit Color 3",
+          "text": "As long as this Pokémon has Unit Energy Fighting Darkness Fairy attached to it, it is a Fighting, Darkness, and Fairy Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Gentle Slap",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "OOYAMA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4d/c3/f0/4dc3f0ce12cb4c44a9a3100c62c30ad7715cee24f73a5da7d85b773bda21ad5a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20399",
+      "sequenceNumber": 41,
+      "printedNumber": "41",
+      "uuid": 57898404,
+      "prices": [
+        {
+          "priceAmount": 185,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/kecleon-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7166,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Net Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Search your deck for a Basic Grass Pokémon or a Grass Energy card, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/68/2a/c6/682ac6e68c3895cb2e28c4e7486b142a5573d2c70c75755acf9fc2402416b0ca.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20400",
+      "sequenceNumber": 42,
+      "printedNumber": "42",
+      "uuid": 38937888,
+      "prices": [
+        {
+          "priceAmount": 99,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/net-ball-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7167,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Adventure Bag",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Search your deck for up to 2 Pokémon Tool cards, reveal them, and put them into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yoshinobu Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/29/77/6c/29776cd5bfa2e19b9304a8248c57f6faad1a126afe608971f0a7790bf7be2ec7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20401",
+      "sequenceNumber": 43,
+      "printedNumber": "43",
+      "uuid": 56896101,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/adventure-bag-43",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7168,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Spell Tag",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "\"When the Psychic Pokémon this card is attached to is Knocked Out by damage from an opponents attack, put 4 damage counters on your opponents Pokémon in any way you like.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ayaka Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9a/b7/50/9ab75012c8e659bcb9f6dd4bfb975c1afadfbc2f06dfe24a04e1802fe2d0606c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20402",
+      "sequenceNumber": 44,
+      "printedNumber": "44",
+      "uuid": 93092420,
+      "prices": [
+        {
+          "priceAmount": 1,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/spell-tag-44",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7169,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Fairy Charm Psychic",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Prevent all damage done to the Fairy Pokémon this card is attached to by attacks from your opponents Psychic Pokémon-GX and Psychic Pokémon-EX.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c8/db/ec/c8dbec89e1216aafe76a5780a4dd5d61edfd3b43e6796694b7c2b3b731a3ba90.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20403",
+      "sequenceNumber": 45,
+      "printedNumber": "45",
+      "uuid": 57286770,
+      "prices": []
+    },
+    {
+      "id": 7170,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Fairy Charm Fighting",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Prevent all damage done to the Fairy Pokémon this card is attached to by attacks from your opponents Fighting Pokémon-GX and Fighting Pokémon-EX.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bd/3e/ff/bd3efff818005004530c38cb12effdeb8eb6f75644a2fb12a41634b03e6c7a3a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20404",
+      "sequenceNumber": 46,
+      "printedNumber": "46",
+      "uuid": 62052757,
+      "prices": [
+        {
+          "priceAmount": 195,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/fairy-charm-fighting-46",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7171,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Fairy Charm Dragon",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Prevent all damage done to the Fairy Pokémon this card is attached to by attacks from your opponents Dragon Pokémon-GX and Dragon Pokémon-EX.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/eb/28/7d/eb287d04248045b4da4b07685728e8c0b516703416ee9b70fd4c4ed14f131360.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20405",
+      "sequenceNumber": 47,
+      "printedNumber": "47",
+      "uuid": 15980944,
+      "prices": []
+    },
+    {
+      "id": 7172,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Morty",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "\"You can play this card only if 1 of your Psychic Pokémon was Knocked Out during your opponents last turn.  Your opponent reveals their hand. Choose 2 cards you find there. Your opponent shuffles those cards into their deck.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/02/b8/2c/02b82c5d07858a8931a8c0e0de36d1722e55c74a6c5e61b51cff309fd5b0f04f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20406",
+      "sequenceNumber": 48,
+      "printedNumber": "48",
+      "uuid": 84299915,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/morty-48",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7173,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Mina",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Search your deck for a Fairy Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/39/98/9c/39989c05d171db61cda72de5df13459b7f099a690c560b854a502cc4f37d77ad.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20407",
+      "sequenceNumber": 49,
+      "printedNumber": "49",
+      "uuid": 8121499,
+      "prices": [
+        {
+          "priceAmount": 249,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/mina-49",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7174,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Life Forest ?",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"You cant have more than 1 ? card with the same name in your deck. If a ? card would go to the discard pile, put it in the Lost Zone instead.\", \"This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you cant play this card.\", \"Once during each players turn, that player may heal 60 damage and remove all Special Conditions from 1 of their Grass Pokémon.  Whenever any player plays an Item or Supporter card from their hand, prevent all effects of that card done to this Stadium card.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium",
+        "Trainer ?"
+      ],
+      "rarity": "Prism Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cf/19/c9/cf19c9d823fd6cdee553458fdca9d8a4fb67d4c4f246fb5034435662c609dfb5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20408",
+      "sequenceNumber": 50,
+      "printedNumber": "50",
+      "uuid": 33586989,
+      "prices": [
+        {
+          "priceAmount": 3451,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "12/24/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/life-forest-prism-star-50",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1270,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "12/24/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/life-forest-prism-star-50",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "12/24/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/life-forest-prism-star-50",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 107,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/life-forest-prism-star-50",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7175,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Sceptile-GX",
+      "types": [
+        "Grass"
+      ],
+      "hp": 230,
+      "evolvesFrom": "Grovyle",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Mach Cut",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "60",
+          "text": "Discard a Special Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Leaf Cyclone",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "130",
+          "text": "Move a Grass Energy from this Pokémon to 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Jungle Heal-GX",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Heal all damage from each of your Pokémon that has any Grass Energy attached to it. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 2"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yoshinobu Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/26/91/5b/26915b578855c374f9935d28622db81d890f603f9e0efe9f1de8896ed2429c5a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20409",
+      "sequenceNumber": 51,
+      "printedNumber": "51",
+      "uuid": 79897408,
+      "prices": [
+        {
+          "priceAmount": 5000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/sceptile-gx-51",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 588,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/sceptile-gx-51",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/sceptile-gx-51",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 873,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/sceptile-gx-51",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7176,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Sigilyph-GX",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Mirror Counter",
+          "text": "If this Pokémon is your Active Pokémon and is damaged by an attack from your opponent's Pokémon-GX or Pokémon-EX (even if this Pokémon is Knocked Out), put damage counters on the Attacking Pokémon equal to the damage done to this Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Sonic Wing",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": "This attack's damage isn't affected by Resistance."
+        },
+        {
+          "name": "Intercept-GX",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60×",
+          "text": "This attack does 60 damage times the amount of Energy attached to your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "PLANETA Igarashi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/97/87/ef/9787ef7292c6f1961bf1d6ffcb9116c5c79539ef61320cea64720bebc36cf701.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20410",
+      "sequenceNumber": 52,
+      "printedNumber": "52",
+      "uuid": 93166814,
+      "prices": [
+        {
+          "priceAmount": 1830,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/sigilyph-gx-52",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 493,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/sigilyph-gx-52",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7177,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Alolan Ninetales-GX",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Alolan Vulpix",
+      "effect": [
+        {
+          "name": "Mysterious Guidance",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 2 Item cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Snowy Wind",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "70",
+          "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Sublimation-GX",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "If your opponent's Active Pokémon is an Ultra Beast, it is Knocked Out. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Alolan",
+        "Stage 1"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b5/21/6f/b5216f92b2ae3c98c35ea4b3f5483715529f550871986614ee8ff216b91b78eb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20411",
+      "sequenceNumber": 53,
+      "printedNumber": "53",
+      "uuid": 68641563,
+      "prices": [
+        {
+          "priceAmount": 6887,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/alolan-ninetales-gx-53",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 3103,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/alolan-ninetales-gx-53",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/alolan-ninetales-gx-53",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1146,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/alolan-ninetales-gx-53",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7178,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Mimikyu-GX",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Perplex",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent's Active Pokémon is now Confused."
+        },
+        {
+          "name": "Let's Snuggle & Fall",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "This attack does 30 more damage for each damage counter on your opponent's Active Pokémon."
+        },
+        {
+          "name": "Dream Fear-GX",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Choose 1 of your opponent's Benched Pokémon. Your opponent shuffles that Pokémon and all cards attached to it into their deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8b/53/29/8b5329b7713d894a2fe75227739a342ee69176e1709806c7d5db6db246cbee2b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20412",
+      "sequenceNumber": 54,
+      "printedNumber": "54",
+      "uuid": 65560,
+      "prices": [
+        {
+          "priceAmount": 6057,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/mimikyu-gx-54",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2150,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/mimikyu-gx-54",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/mimikyu-gx-54",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1314,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/mimikyu-gx-54",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7179,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Morty",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "\"You can play this card only if 1 of your Psychic Pokémon was Knocked Out during your opponents last turn.  Your opponent reveals their hand. Choose 2 cards you find there. Your opponent shuffles those cards into their deck.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sanosuke Sakuma",
+      "imageUrl": "https://static.tcgcollector.com/content/images/aa/92/5a/aa925aab149a0135b9d1db92d82ffb589f525adb90c94a5681b31f625e095dc7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20413",
+      "sequenceNumber": 55,
+      "printedNumber": "55",
+      "uuid": 52608100,
+      "prices": [
+        {
+          "priceAmount": 5310,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/morty-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2044,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/morty-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/morty-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/morty-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7180,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Mina",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Search your deck for a Fairy Energy card and attach it to 1 of your Pokémon. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "You Iribi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4f/e8/c6/4fe8c6ac49776cd7c35d5d1a233286fa77d58b80c44b688db115e218e2341c5f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20414",
+      "sequenceNumber": 56,
+      "printedNumber": "56",
+      "uuid": 13874597,
+      "prices": [
+        {
+          "priceAmount": 14513,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/mina-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 9397,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/mina-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 9919,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/mina-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 14200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/mina-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 4929,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/mina-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7181,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Sceptile-GX",
+      "types": [
+        "Grass"
+      ],
+      "hp": 230,
+      "evolvesFrom": "Grovyle",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Mach Cut",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "60",
+          "text": "Discard a Special Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Leaf Cyclone",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "130",
+          "text": "Move a Grass Energy from this Pokémon to 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Jungle Heal-GX",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Heal all damage from each of your Pokémon that has any Grass Energy attached to it. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 2"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/be/ee/b9/beeeb9c57aacc0a9c9fa7f4ccee4e098572a97fcd33082cd0065a3606663f459.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20415",
+      "sequenceNumber": 57,
+      "printedNumber": "57",
+      "uuid": 11543064,
+      "prices": [
+        {
+          "priceAmount": 9546,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/sceptile-gx-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 3757,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/sceptile-gx-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 4100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/sceptile-gx-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/sceptile-gx-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7182,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Sigilyph-GX",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Mirror Counter",
+          "text": "If this Pokémon is your Active Pokémon and is damaged by an attack from your opponent's Pokémon-GX or Pokémon-EX (even if this Pokémon is Knocked Out), put damage counters on the Attacking Pokémon equal to the damage done to this Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Sonic Wing",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": "This attack's damage isn't affected by Resistance."
+        },
+        {
+          "name": "Intercept-GX",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60×",
+          "text": "This attack does 60 damage times the amount of Energy attached to your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9a/a7/66/9aa76678aae6797f05a2383a8afcd884c3ed7e3207176592285a23c699955f2b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20416",
+      "sequenceNumber": 58,
+      "printedNumber": "58",
+      "uuid": 55016889,
+      "prices": [
+        {
+          "priceAmount": 5854,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/sigilyph-gx-58",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1283,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/sigilyph-gx-58",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/sigilyph-gx-58",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/sigilyph-gx-58",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7183,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Alolan Ninetales-GX",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Alolan Vulpix",
+      "effect": [
+        {
+          "name": "Mysterious Guidance",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 2 Item cards, reveal them, and put them into your hand. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Snowy Wind",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "70",
+          "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Sublimation-GX",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "If your opponent's Active Pokémon is an Ultra Beast, it is Knocked Out. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Alolan",
+        "Stage 1"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b4/43/54/b44354d93196dccb1bfea9e50344ed18f1b69d773d087c2e9a927969807d191a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20417",
+      "sequenceNumber": 59,
+      "printedNumber": "59",
+      "uuid": 94153999,
+      "prices": [
+        {
+          "priceAmount": 6456,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/alolan-ninetales-gx-59",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 3600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/alolan-ninetales-gx-59",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 4000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/alolan-ninetales-gx-59",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 5875,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/alolan-ninetales-gx-59",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7184,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Mimikyu-GX",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Perplex",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent's Active Pokémon is now Confused."
+        },
+        {
+          "name": "Let's Snuggle & Fall",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "This attack does 30 more damage for each damage counter on your opponent's Active Pokémon."
+        },
+        {
+          "name": "Dream Fear-GX",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Choose 1 of your opponent's Benched Pokémon. Your opponent shuffles that Pokémon and all cards attached to it into their deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e7/95/25/e795254fb871b47e5f7272588c61026c04eebe6cf11b2565e7b272a4883fb7bb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20418",
+      "sequenceNumber": 60,
+      "printedNumber": "60",
+      "uuid": 89522579,
+      "prices": [
+        {
+          "priceAmount": 12499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/mimikyu-gx-60",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/mimikyu-gx-60",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 6239,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/mimikyu-gx-60",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 6900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/mimikyu-gx-60",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 4158,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/mimikyu-gx-60",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7185,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Net Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Search your deck for a Basic Grass Pokémon or a Grass Energy card, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/23/87/09/238709f71c6cdafc29ad4f3e8e5a31adb7078bdf1dd1461247f260f9ee790526.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20419",
+      "sequenceNumber": 61,
+      "printedNumber": "61",
+      "uuid": 69608302,
+      "prices": [
+        {
+          "priceAmount": 20000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/net-ball-61",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1350,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/net-ball-61",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/net-ball-61",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 2324,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/net-ball-61",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7186,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Adventure Bag",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Search your deck for up to 2 Pokémon Tool cards, reveal them, and put them into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/21/07/8a/21078a21916716985acd3761868d3f2049a8178d6585ec92072144b5caf1fc7d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20420",
+      "sequenceNumber": 62,
+      "printedNumber": "62",
+      "uuid": 96297967,
+      "prices": [
+        {
+          "priceAmount": 588,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/adventure-bag-62",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 7187,
+      "setData": {
+        "name": "Fairy Rise",
+        "printed_count": "63",
+        "card_count": 63,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/fairy-rise"
+      },
+      "name": "Spell Tag",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "\"When the Psychic Pokémon this card is attached to is Knocked Out by damage from an opponents attack, put 4 damage counters on your opponents Pokémon in any way you like.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fa/1d/cc/fa1dcc106297cab68816ffb0f03c53a8224f5793cd45bb030bcb698f202b27a7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/20421",
+      "sequenceNumber": 63,
+      "printedNumber": "63",
+      "uuid": 14319768,
+      "prices": [
+        {
+          "priceAmount": 1868,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-fairy-rise/spell-tag-63",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 63,
+  "totalCount": 63
+}

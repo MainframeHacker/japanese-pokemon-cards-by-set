@@ -1,0 +1,545 @@
+{
+  "data": [
+    {
+      "id": 22335,
+      "setData": {
+        "name": "ex Special Set",
+        "printed_count": "7",
+        "card_count": 7,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/4b/d9/0d/4bd90dad9ec835ad4c1e0aeec7a5006e6a4eca028b35535c821cf22160637318.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ex-special-set"
+      },
+      "name": "Toedscool",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Furious Kicks",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip 3 coins. This attack does 10 damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        ""
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b3/8c/48/b38c4801cf2e9db27641f7ebbef2faa1b98dbaa870830d53fe9b8bce8cd61d25.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41728",
+      "sequenceNumber": 1,
+      "printedNumber": "001",
+      "uuid": 6921812,
+      "prices": [
+        {
+          "priceAmount": 243,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ex-special-set/toedscool-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 22336,
+      "setData": {
+        "name": "ex Special Set",
+        "printed_count": "7",
+        "card_count": 7,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/4b/d9/0d/4bd90dad9ec835ad4c1e0aeec7a5006e6a4eca028b35535c821cf22160637318.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ex-special-set"
+      },
+      "name": "Toedscruel ex",
+      "types": [
+        "Grass"
+      ],
+      "hp": 270,
+      "evolvesFrom": "Toedscool",
+      "effect": [
+        {
+          "name": "Protective Mycelium",
+          "text": "Prevent all effects of attacks used by your opponent's Pokémon done to all of your Pokémon that have Energy attached. (Existing effects are not removed. Damage is not an effect.)",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Colony Rush",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "80+",
+          "text": "This attack does 40 more damage for each of your Benched Pokémon that has any Grass Energy attached."
+        }
+      ],
+      "rules": [
+        "When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex (SV)"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/86/0a/f8/860af8984343b9533a99ebe4029ac26c355adea1b7bde0166eb2d1bc974a641a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41729",
+      "sequenceNumber": 2,
+      "printedNumber": "002",
+      "uuid": 43431493,
+      "prices": [
+        {
+          "priceAmount": 224,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ex-special-set/toedscruel-ex-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 22337,
+      "setData": {
+        "name": "ex Special Set",
+        "printed_count": "7",
+        "card_count": 7,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/4b/d9/0d/4bd90dad9ec835ad4c1e0aeec7a5006e6a4eca028b35535c821cf22160637318.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ex-special-set"
+      },
+      "name": "Pawmi",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Jolt",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        ""
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Tika Matsuno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/25/a4/c9/25a4c96074d87f01b009d07733103404215f55f5a58b80e80c9bc80525733524.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41730",
+      "sequenceNumber": 3,
+      "printedNumber": "003",
+      "uuid": 72958262,
+      "prices": [
+        {
+          "priceAmount": 1050,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ex-special-set/pawmi-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 188,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ex-special-set/pawmi-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 22338,
+      "setData": {
+        "name": "ex Special Set",
+        "printed_count": "7",
+        "card_count": 7,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/4b/d9/0d/4bd90dad9ec835ad4c1e0aeec7a5006e6a4eca028b35535c821cf22160637318.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ex-special-set"
+      },
+      "name": "Pawmo",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Pawmi",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Thunder Shock",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Head Bolt",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        ""
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Saya Tsuruta",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2a/1a/ee/2a1aee166038039397c8973493782b9a3622b9698638ad7256319d9fa098bdd6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41731",
+      "sequenceNumber": 4,
+      "printedNumber": "004",
+      "uuid": 90811232,
+      "prices": []
+    },
+    {
+      "id": 22339,
+      "setData": {
+        "name": "ex Special Set",
+        "printed_count": "7",
+        "card_count": 7,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/4b/d9/0d/4bd90dad9ec835ad4c1e0aeec7a5006e6a4eca028b35535c821cf22160637318.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ex-special-set"
+      },
+      "name": "Pawmot ex",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 300,
+      "evolvesFrom": "Pawmo",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Zap Kick",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "60"
+        },
+        {
+          "name": "Lightning Strike",
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Discard 2 Lightning Energy from this Pokémon. This attack does 220 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex (SV)"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "aky CG Works",
+      "imageUrl": "https://static.tcgcollector.com/content/images/42/1c/d8/421cd830142bf84dc83d1ea427f21495e2eba3a98ab38f6473502e7fb73cf85a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41732",
+      "sequenceNumber": 5,
+      "printedNumber": "005",
+      "uuid": 91206706,
+      "prices": [
+        {
+          "priceAmount": 757,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ex-special-set/pawmot-ex-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 22340,
+      "setData": {
+        "name": "ex Special Set",
+        "printed_count": "7",
+        "card_count": 7,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/4b/d9/0d/4bd90dad9ec835ad4c1e0aeec7a5006e6a4eca028b35535c821cf22160637318.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ex-special-set"
+      },
+      "name": "Greavard",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Graveyard Gamboling",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "This attack does 10 damage for each Psychic Pokémon in your discard pile."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        ""
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "yuu",
+      "imageUrl": "https://static.tcgcollector.com/content/images/18/37/4f/18374fe27a706ed37d911fc4bd7f397b69ef76b380c236fa819e9b4d7f6dde75.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41733",
+      "sequenceNumber": 6,
+      "printedNumber": "006",
+      "uuid": 18359078,
+      "prices": [
+        {
+          "priceAmount": 299,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ex-special-set/greavard-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 22341,
+      "setData": {
+        "name": "ex Special Set",
+        "printed_count": "7",
+        "card_count": 7,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/4b/d9/0d/4bd90dad9ec835ad4c1e0aeec7a5006e6a4eca028b35535c821cf22160637318.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ex-special-set"
+      },
+      "name": "Houndstone ex",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 260,
+      "evolvesFrom": "Greavard",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Big Bite",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+        },
+        {
+          "name": "Last Respects",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "160+",
+          "text": "This attack does 10 more damage for each Psychic Pokémon in your discard pile."
+        }
+      ],
+      "rules": [
+        "When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex (SV)"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/06/a1/44/06a144e3debb5c3589daa6b1ca9d0c2924a2331f982993834ac01ba7ff2b038e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41734",
+      "sequenceNumber": 7,
+      "printedNumber": "007",
+      "uuid": 39798917,
+      "prices": [
+        {
+          "priceAmount": 3495,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ex-special-set/houndstone-ex-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 289,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-ex-special-set/houndstone-ex-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 7,
+  "totalCount": 7
+}

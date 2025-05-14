@@ -1,0 +1,3206 @@
+{
+  "data": [
+    {
+      "id": 23432,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Bulbasaur",
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Leech Seed",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Heal 20 damage from this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yuu Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/68/1f/9f/681f9f9b80e1b5407940b72055a2290a3b1be1abe8c6aa2ec461ba2102ea9a90.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43743",
+      "sequenceNumber": 1,
+      "printedNumber": "001",
+      "uuid": 29231929,
+      "prices": []
+    },
+    {
+      "id": 23433,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Ivysaur",
+      "types": [
+        "Grass"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Bulbasaur",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Leech Seed",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Heal 20 damage from this Pokémon."
+        },
+        {
+          "name": "Vine Whip",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yuu Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/b7/c5/d0/b7c5d04bb12f058a61289c3b16ec50d7a96ff24885345d44494a37d2e9a91c1f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43744",
+      "sequenceNumber": 2,
+      "printedNumber": "002",
+      "uuid": 93679410,
+      "prices": []
+    },
+    {
+      "id": 23434,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Venusaur ex",
+      "types": [
+        "Grass"
+      ],
+      "hp": 340,
+      "evolvesFrom": "Ivysaur",
+      "effect": [
+        {
+          "name": "Tranquil Flower",
+          "text": "Once during your turn, if this Pokémon is in the Active Spot, you may heal 60 damage from 1 of your Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dangerous Toxwhip",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "150",
+          "text": "Your opponent's Active Pokémon is now Confused and Poisoned."
+        }
+      ],
+      "rules": [
+        "When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex (SV)"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Saki Hayashiro",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/3f/c0/dd/3fc0dda658746f57030347397c844b2005cbb68bd3685761345cef61b8b662ca.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43745",
+      "sequenceNumber": 3,
+      "printedNumber": "003",
+      "uuid": 62525181,
+      "prices": []
+    },
+    {
+      "id": 23435,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Scyther",
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Helpful Slash",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Attach a Basic Grass Energy card from your discard pile to 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Slicing Blade",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hideki Ishikawa",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/91/ca/b2/91cab29e7249e126e3d35592ddf89f59e041938a54f168ca0c0a73af9dcc0c0e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43746",
+      "sequenceNumber": 4,
+      "printedNumber": "004",
+      "uuid": 47004155,
+      "prices": []
+    },
+    {
+      "id": 23436,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Tropius",
+      "types": [
+        "Grass"
+      ],
+      "hp": 110,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Leaf Drain",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Heal 20 damage from this Pokémon."
+        },
+        {
+          "name": "Tropic Breeze",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "130",
+          "text": "Move all Energy from this Pokémon to 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Taira Akitsu",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/56/03/a4/5603a476597d0663c42bc5e8fa51e542485bf905501d96b2fff4cefa8ef3aa73.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43747",
+      "sequenceNumber": 5,
+      "printedNumber": "005",
+      "uuid": 91239874,
+      "prices": []
+    },
+    {
+      "id": 23437,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Carnivine",
+      "types": [
+        "Grass"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bind Down",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40",
+          "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+        },
+        {
+          "name": "Festering Saliva",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent's Active Pokémon is now Burned and Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shibuzoh.",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/3e/ed/a5/3eeda503bd6fce5e6d53be17a3362a3ddeeec0ecc61f028b27beda24c327690f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43748",
+      "sequenceNumber": 6,
+      "printedNumber": "006",
+      "uuid": 78889374,
+      "prices": []
+    },
+    {
+      "id": 23438,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Charmander",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Heat Tackle",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "This Pokémon also does 10 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "DOM",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/9c/d3/b6/9cd3b6ea4e32eac6ee08da9f86dc98491609b342fe10b80117d8a2fcf381efc0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43749",
+      "sequenceNumber": 7,
+      "printedNumber": "007",
+      "uuid": 11082398,
+      "prices": []
+    },
+    {
+      "id": 23439,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Charmeleon",
+      "types": [
+        "Fire"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Charmander",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Combustion",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        },
+        {
+          "name": "Fire Blast",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "Discard an Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "GIDORA",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/da/50/11/da50110c6268e23a96584968145d7ef3b045a99642820b5ead25a4c553f49b89.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43750",
+      "sequenceNumber": 8,
+      "printedNumber": "008",
+      "uuid": 95820794,
+      "prices": []
+    },
+    {
+      "id": 23440,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Charizard ex",
+      "types": [
+        "Fire"
+      ],
+      "hp": 330,
+      "evolvesFrom": "Charmeleon",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Brave Wing",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "60+",
+          "text": "If this Pokémon has any damage counters on it, this attack does 100 more damage."
+        },
+        {
+          "name": "Explosive Vortex",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "330",
+          "text": "Discard 3 Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex (SV)"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "PLANETA Mochizuki",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/58/f4/a9/58f4a9ba65d13bb2c7582c0de62b388f0294f1c55f967d2b72762c43551e5ad6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43751",
+      "sequenceNumber": 9,
+      "printedNumber": "009",
+      "uuid": 50134224,
+      "prices": []
+    },
+    {
+      "id": 23441,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Moltres",
+      "types": [
+        "Fire"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Inferno Wings",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20+",
+          "text": "If this Pokémon has any damage counters on it, this attack does 70 more damage. This attack's damage isn't affected by Weakness."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "otumami",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/1f/f0/b0/1ff0b0ebae72a81aa2764ca7d62e2cb541e581453851cf7e526d31ca3a905024.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43752",
+      "sequenceNumber": 10,
+      "printedNumber": "010",
+      "uuid": 77577460,
+      "prices": []
+    },
+    {
+      "id": 23442,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Volcanion",
+      "types": [
+        "Fire"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dual Turbo",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Choose up to 2 of your Benched Pokémon and attach a Basic Fire Energy card from your discard pile to each of them."
+        },
+        {
+          "name": "Heavy Impact",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Nisota Niso",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/29/6e/18/296e187b6b6588ffc45a5825564b2240cb76cd72efb85ad16898a90cfbc14629.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43753",
+      "sequenceNumber": 11,
+      "printedNumber": "011",
+      "uuid": 24322473,
+      "prices": []
+    },
+    {
+      "id": 23443,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Charcadet",
+      "types": [
+        "Fire"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Heat Blast",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        ""
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "nagimiso",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/fb/44/17/fb44176cef03526d0bd8ee54314c2d2cd50b69a08859dc60b53e24da4862c055.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43754",
+      "sequenceNumber": 12,
+      "printedNumber": "012",
+      "uuid": 37865326,
+      "prices": []
+    },
+    {
+      "id": 23444,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Armarouge",
+      "types": [
+        "Fire"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Charcadet",
+      "effect": [
+        {
+          "name": "Fire Off",
+          "text": "As often as you like during your turn, you may move a Fire Energy from 1 of your Benched Pokémon to your Active Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Flame Cannon",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "Your opponent's Active Pokémon is now Burned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        ""
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "AKIRA EGAWA",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/63/34/b7/6334b74748fad74dc29471bf7478e627ceecc8168af7175d27688a02ce9bc977.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43755",
+      "sequenceNumber": 13,
+      "printedNumber": "013",
+      "uuid": 48188429,
+      "prices": []
+    },
+    {
+      "id": 23445,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Squirtle",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Skull Bash",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        },
+        {
+          "name": "Withdraw",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kantaro",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/48/99/a2/4899a2762a36f7dda441f6efbedba3ddd19850babc804c374057bf2b16140080.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43756",
+      "sequenceNumber": 14,
+      "printedNumber": "014",
+      "uuid": 99618279,
+      "prices": []
+    },
+    {
+      "id": 23446,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Wartortle",
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Squirtle",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Free Diving",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Put up to 3 Basic Water Energy cards from your discard pile into your hand."
+        },
+        {
+          "name": "Spinning Attack",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kantaro",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/0b/8c/f9/0b8cf97238639d98b315cbf54e15a656dcb3f557d8c07ab97a24facf3dfcb8bd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43757",
+      "sequenceNumber": 15,
+      "printedNumber": "015",
+      "uuid": 91837943,
+      "prices": []
+    },
+    {
+      "id": 23447,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Blastoise ex",
+      "types": [
+        "Water"
+      ],
+      "hp": 330,
+      "evolvesFrom": "Wartortle",
+      "effect": [
+        {
+          "name": "Solid Shell",
+          "text": "This Pokémon takes 30 less damage from attacks (after applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Twin Cannons",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "140×",
+          "text": "Discard up to 2 Basic Water Energy cards from your hand. This attack does 140 damage for each card you discarded in this way."
+        }
+      ],
+      "rules": [
+        "When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex (SV)"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "PLANETA Igarashi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/91/c9/92/91c992d57672c2efed29662cd951c0768da6a47b9a35613e3ab4ecd24bba643a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43758",
+      "sequenceNumber": 16,
+      "printedNumber": "016",
+      "uuid": 13606139,
+      "prices": []
+    },
+    {
+      "id": 23448,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Alomomola",
+      "types": [
+        "Water"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Aqua Slash",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120",
+          "text": "During your next turn, this Pokémon can't attack."
+        },
+        {
+          "name": "Surf",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shinji Kanda",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/f6/61/75/f66175029f3d8da5752b5d38c3c97d5c0bf111c2db3aed99deec927979428c0c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43759",
+      "sequenceNumber": 17,
+      "printedNumber": "017",
+      "uuid": 45050905,
+      "prices": []
+    },
+    {
+      "id": 23449,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Keldeo",
+      "types": [
+        "Water"
+      ],
+      "hp": 110,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Line Force",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "This attack does 20 more damage for each of your Benched Pokémon."
+        },
+        {
+          "name": "Smash Kick",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoyo Kimura",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/c0/3d/25/c03d25e3aeb9f3a170acec324ceb9cab55c4972e8ea176900594ef414af6e611.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43760",
+      "sequenceNumber": 18,
+      "printedNumber": "018",
+      "uuid": 29964617,
+      "prices": []
+    },
+    {
+      "id": 23450,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Dondozo",
+      "types": [
+        "Water"
+      ],
+      "hp": 150,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dangerous Wave",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "100+",
+          "text": "Flip 2 coins. If both of them are heads, this attack does 100 more damage."
+        },
+        {
+          "name": "Hammer In",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        ""
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/cb/20/0c/cb200ca6a4c95b1f248e5a6585c4eec43b27650406d707cc90545864d4e6543a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43761",
+      "sequenceNumber": 19,
+      "printedNumber": "019",
+      "uuid": 37224499,
+      "prices": []
+    },
+    {
+      "id": 23451,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Kangaskhan",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30"
+        },
+        {
+          "name": "Spike Draw",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "60",
+          "text": "Draw 2 cards."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yuya Oka",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/fa/30/4b/fa304b9f34886c2570b210e123f7d157807ba9d28852720e8ef9f65a50518a51.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43762",
+      "sequenceNumber": 20,
+      "printedNumber": "020",
+      "uuid": 96865579,
+      "prices": []
+    },
+    {
+      "id": 23452,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Snorlax",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 150,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Unfazed Fat",
+          "text": "Prevent all effects of attacks from your opponent's Pokémon done to this Pokémon. (Damage is not an effect.)",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Thumping Snore",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "180",
+          "text": "This Pokémon is now Asleep. During Pokémon Checkup, flip 2 coins instead of 1. If either of them is tails, this Pokémon is still Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "0313",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/95/85/b1/9585b17cb0dbe8071cd18ed167e52606fd18621c080e1f42a91f740131c78acb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43763",
+      "sequenceNumber": 21,
+      "printedNumber": "021",
+      "uuid": 47183077,
+      "prices": []
+    },
+    {
+      "id": 23453,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Zigzagoon",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Claw Slash",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        },
+        {
+          "name": "Headbutt Bounce",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/55/0d/5b/550d5b6cfe58cc2af9dc501d10fa2412e4b4583baeb2ce0899677fac70bbea17.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43764",
+      "sequenceNumber": 22,
+      "printedNumber": "022",
+      "uuid": 71092195,
+      "prices": []
+    },
+    {
+      "id": 23454,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Linoone",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Zigzagoon",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Jet Headbutt",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "40"
+        },
+        {
+          "name": "Reckless Charge",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "150",
+          "text": "This Pokémon also does 30 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Nagomi Nijo",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/f3/3a/11/f33a11987e5d39ab8ec18a87c6dd27872d9fcc04810134c4641c950ae85435ee.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43765",
+      "sequenceNumber": 23,
+      "printedNumber": "023",
+      "uuid": 3729595,
+      "prices": []
+    },
+    {
+      "id": 23455,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Zangoose",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Slash",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yuya Oka",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/6f/90/84/6f9084ac6c8988c85f00530c3872f6148c82fff8f1bfdb1db36a97fb0783a021.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43766",
+      "sequenceNumber": 24,
+      "printedNumber": "024",
+      "uuid": 97099334,
+      "prices": []
+    },
+    {
+      "id": 23456,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Minccino",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
+        },
+        {
+          "name": "Pound",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mina Nakai",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/13/18/e0/1318e08b0daeff846cd319475591afec328f1ca63664e4adadea2171c8ecce33.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43767",
+      "sequenceNumber": 25,
+      "printedNumber": "025",
+      "uuid": 2832042,
+      "prices": []
+    },
+    {
+      "id": 23457,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Cinccino",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Minccino",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Slap",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "40"
+        },
+        {
+          "name": "Triple Axel",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50×",
+          "text": "Flip 3 coins. This attack does 50 damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/48/81/fc/4881fc660845ace03b1b8b6cf6fbfb2474063c64a7b45306db9483278cba67dc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43768",
+      "sequenceNumber": 26,
+      "printedNumber": "026",
+      "uuid": 2832812,
+      "prices": []
+    },
+    {
+      "id": 23458,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Lechonk",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Draw a card."
+        },
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        ""
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kodama",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/c1/1e/49/c11e49376206568d2f1b0d935bad88a4716dc705e33de59409190820866d3477.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43769",
+      "sequenceNumber": 27,
+      "printedNumber": "027",
+      "uuid": 5046971,
+      "prices": []
+    },
+    {
+      "id": 23459,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Oinkologne",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Lechonk",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Leg Stomp",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "130",
+          "text": "Flip a coin. If tails, during your next turn, this Pokémon can't attack."
+        },
+        {
+          "name": "Ram",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        ""
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kirisAki",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/6f/b5/63/6fb56363fe9605980dd4454b67280ddbaeab768ea4dc4dcaf31b21b69d719582.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43770",
+      "sequenceNumber": 28,
+      "printedNumber": "028",
+      "uuid": 88762502,
+      "prices": []
+    },
+    {
+      "id": 23460,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Flamigo",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 110,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Flap",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30"
+        },
+        {
+          "name": "Nosedive",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "110",
+          "text": "This Pokémon also does 20 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        ""
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kantaro",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/99/c0/ff/99c0fff2a65f1c2c55dc3a2fd043947f6415e4267193578c830692f3d2a4f21d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43771",
+      "sequenceNumber": 29,
+      "printedNumber": "029",
+      "uuid": 12298203,
+      "prices": []
+    },
+    {
+      "id": 23461,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Energy Sticker",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Flip a coin. If heads, attach a Basic Energy card from your discard pile to 1 of your Benched Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ayaka Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/2d/ee/51/2dee51cbf53b82c615ab07de5eba03892a4e192a0ab1c93c89f6b4002eb5ad95.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43772",
+      "sequenceNumber": 30,
+      "printedNumber": "030",
+      "uuid": 55008230,
+      "prices": []
+    },
+    {
+      "id": 23462,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Superior Energy Retrieval",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "\"You can use this card only if you discard 2 other cards from your hand.\\nPut up to 4 Basic Energy cards from your discard pile into your hand. (You cant choose a card you discarded with the effect of this card.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Studio Bora Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/8f/69/5f/8f695f55a567440b30593e38c3d22329834731cf48b45f804dfb6e477f29229c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43773",
+      "sequenceNumber": 31,
+      "printedNumber": "031",
+      "uuid": 33496045,
+      "prices": []
+    },
+    {
+      "id": 23463,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Super Rod",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Shuffle up to 3 in any combination of Pokémon and Basic Energy cards from your discard pile into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/6b/20/a1/6b20a153174826889fbd8742dd64e1c487169b1eea46121c96d53875d8ae081f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43774",
+      "sequenceNumber": 32,
+      "printedNumber": "032",
+      "uuid": 80221497,
+      "prices": []
+    },
+    {
+      "id": 23464,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Nest Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/18/b8/72/18b87220cc31872c7e335e66a493390a181dd95e3a361af59aba56114f46f4be.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43775",
+      "sequenceNumber": 33,
+      "printedNumber": "033",
+      "uuid": 62739433,
+      "prices": []
+    },
+    {
+      "id": 23465,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Ultra Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "You can use this card only if you discard 2 other cards from your hand.\\nSearch your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ayaka Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/74/02/8c/74028cf133d21d06ed78572531484017f59c3149c2a62fe1dfba1b3e5bf43530.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43776",
+      "sequenceNumber": 34,
+      "printedNumber": "034",
+      "uuid": 76969502,
+      "prices": []
+    },
+    {
+      "id": 23466,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Rare Candy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "\"Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it, skipping the Stage 1. You cant use this card during your first turn or on a Basic Pokémon that was put into play this turn.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Studio Bora Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/69/df/c5/69dfc5767b2f07c1328b80d4f762c9ab33b33d07005c933c6798ea6be4793bf8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43777",
+      "sequenceNumber": 35,
+      "printedNumber": "035",
+      "uuid": 90750819,
+      "prices": []
+    },
+    {
+      "id": 23467,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Switch your Active Pokémon with 1 of your Benched Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Studio Bora Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/0b/a6/02/0ba6029e9eb014c5006b0afef9eaec71e218fb850f0f06cd62569b82708756e8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43778",
+      "sequenceNumber": 36,
+      "printedNumber": "036",
+      "uuid": 35337977,
+      "prices": []
+    },
+    {
+      "id": 23468,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Irida",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Search your deck for a Water Pokémon and an Item card, reveal them, and put them into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kirisAki",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/dc/48/d5/dc48d51dd58cbb43ea2e596a477cbed5baa9c4eb83fc10f5ea05ccaab05b26e1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43779",
+      "sequenceNumber": 37,
+      "printedNumber": "037",
+      "uuid": 42481129,
+      "prices": []
+    },
+    {
+      "id": 23469,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Saguaro",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Choose up to 2 of your Pokémon and heal 50 damage from each of them."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "nagimiso",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/c7/fe/87/c7fe87d14115bbdffc05fce3ae02c60d9d5eef12ac21eb0cefa3f34f5d9d8a8b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43780",
+      "sequenceNumber": 38,
+      "printedNumber": "038",
+      "uuid": 22875349,
+      "prices": []
+    },
+    {
+      "id": 23470,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Cynthia's Ambition",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "\"Draw cards until you have 5 cards in your hand. If any of your Pokémon were Knocked Out during your opponents last turn, draw cards until you have 8 cards in your hand instead.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Megumi Mizutani",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/b2/b4/fb/b2b4fb63197a7ff5d2a11580a11fb0eb20b595aca7c5d9cac1457774479435fe.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43781",
+      "sequenceNumber": 39,
+      "printedNumber": "039",
+      "uuid": 49460055,
+      "prices": []
+    },
+    {
+      "id": 23471,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Gardenia's Vigor",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Draw 2 cards. If you drew any cards in this way, attach up to 2 Grass Energy cards from your hand to 1 of your Benched Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yuu Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/55/32/3f/55323f455f2b58edf04ada068a0ccfdd89e8a67eab033257c17774a300cc0fd0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43782",
+      "sequenceNumber": 40,
+      "printedNumber": "040",
+      "uuid": 60073431,
+      "prices": []
+    },
+    {
+      "id": 23472,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Iono",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Each players shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, each player draws a card for each of their remaining Prize cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sanosuke Sakuma",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/7c/3d/b6/7c3db6219aa213c7f87ecb970cfd8e649581c6f81f18b7f0d70eb6152b4e9a00.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43783",
+      "sequenceNumber": 41,
+      "printedNumber": "041",
+      "uuid": 2071140,
+      "prices": []
+    },
+    {
+      "id": 23473,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Nemona",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Draw 3 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sanosuke Sakuma",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/2f/d4/31/2fd431ee549133d3fabf0ebbecdc8907b11a3d5ac0b128652675bb45681995ec.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43784",
+      "sequenceNumber": 42,
+      "printedNumber": "042",
+      "uuid": 1181056,
+      "prices": []
+    },
+    {
+      "id": 23474,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Nemona",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Draw 3 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sanosuke Sakuma",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/4d/17/86/4d178686df94a436d82961df2c754819af68beac52c10d1f19a010eb0053fe4e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43785",
+      "sequenceNumber": 43,
+      "printedNumber": "043",
+      "uuid": 28263112,
+      "prices": []
+    },
+    {
+      "id": 23475,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Professor's Research",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Discard your hand and draw 7 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kirisAki",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/3e/85/79/3e85793f4b97119b7ede1b5dee442a078fd4582c021dbafe2104c191b5bcbfec.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43786",
+      "sequenceNumber": 44,
+      "printedNumber": "044",
+      "uuid": 98624152,
+      "prices": []
+    },
+    {
+      "id": 23476,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Professor's Research",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Discard your hand and draw 7 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kirisAki",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/c8/75/de/c875de576bb0b159cbbbe30c083e850feda188c99a4d3fb4485319ec5346ef9a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43787",
+      "sequenceNumber": 45,
+      "printedNumber": "045",
+      "uuid": 45784489,
+      "prices": []
+    },
+    {
+      "id": 23477,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Boss's Orders",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "\"Switch in 1 of your opponents Benched Pokémon to the Active Spot.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "NC Empire",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/23/8d/bf/238dbf130dce6bfadee7710bd4bf23b2187780a7b953a93070def75bf5f62494.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43788",
+      "sequenceNumber": 46,
+      "printedNumber": "046",
+      "uuid": 81647148,
+      "prices": []
+    },
+    {
+      "id": 23478,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Mesagoza",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name cant be played.\", \"Once during each players turn, that player may flip a coin. If heads, that player searches their deck for a Pokémon, reveals it, and puts it into their hand. Then, that player shuffles their deck.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Oswaldo KATO",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/10/55/5b/10555b61f57ddff51070e8a6ba0e75fe344b729d51eea8536a895c7b4a3f5a6f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43789",
+      "sequenceNumber": 47,
+      "printedNumber": "047",
+      "uuid": 62327712,
+      "prices": []
+    },
+    {
+      "id": 23479,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Beach Court",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name cant be played.\", \"The Retreat Cost of each Basic Pokémon in play (both yours and your opponents) is Colorless less.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Oswaldo KATO",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/47/81/cc/4781cc2c48c908bca3e7d4e044083b76baad393d4a0995506b33a23c7a7e5b92.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43790",
+      "sequenceNumber": 48,
+      "printedNumber": "048",
+      "uuid": 41608710,
+      "prices": []
+    },
+    {
+      "id": 23480,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Magma Basin",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"This Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you cant play this card.\", \"Once during each players turn, that player may attach a Fire Energy card from their discard pile to 1 of their Benched Fire Pokémon. If a player attached Energy to a Pokémon in this way, put 2 damage counters on that Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "ORBITALLINK Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/2a/aa/13/2aaa1390d0a9177b76838f2ff4e7dc4f90a51b7536192317c0bdc11b39ac6a6f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43791",
+      "sequenceNumber": 49,
+      "printedNumber": "049",
+      "uuid": 94852226,
+      "prices": []
+    },
+    {
+      "id": 23481,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Bulbasaur",
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Leech Seed",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Heal 20 damage from this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Full Art",
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Orca",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/a3/84/7e/a3847ea1474ca5e38104414dacaf835ca60dc6ec0220e965251c50e8a1f3755e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43792",
+      "sequenceNumber": 50,
+      "printedNumber": "050",
+      "uuid": 35237105,
+      "prices": [
+        {
+          "priceAmount": 4531,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "05/14/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-svg-special-set/bulbasaur-50",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2275,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "05/14/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-svg-special-set/bulbasaur-50",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "05/14/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-svg-special-set/bulbasaur-50",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1396,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "05/14/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-svg-special-set/bulbasaur-50",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23482,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Charmander",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Heat Tackle",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "This Pokémon also does 10 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Full Art",
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "MINAMINAMI Take",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/40/bd/38/40bd38bc62ece41baaef83ae3f6d32b20ebb0f8a22588e19b36d8fde463cfda1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43793",
+      "sequenceNumber": 51,
+      "printedNumber": "051",
+      "uuid": 46507731,
+      "prices": [
+        {
+          "priceAmount": 4300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "05/14/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-svg-special-set/charmander-51",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 650,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "05/14/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-svg-special-set/charmander-51",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 1950,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "05/14/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-svg-special-set/charmander-51",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1977,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "05/14/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-svg-special-set/charmander-51",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2275,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "05/14/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-svg-special-set/charmander-51",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 2053,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "05/14/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-svg-special-set/charmander-51",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23483,
+      "setData": {
+        "name": "Venusaur, Charizard & Blastoise Special Deck Set ex",
+        "printed_count": "049",
+        "card_count": 52,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/content/images/a2/fe/de/a2fede64e2aedb8093b4120ee3d27d992bd5d7e434f9552fc2949d8ff1819638.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/venusaur-charizard-and-blastoise-special-deck-set-ex"
+      },
+      "name": "Squirtle",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Skull Bash",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        },
+        {
+          "name": "Withdraw",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, during your opponent's next turn, prevent all damage done to this Pokémon by attacks."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Full Art",
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Saboteri",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/45/c0/c0/45c0c0a342fb722ade378550ed2623c8212620768890e63aec0c87cf5f9fcda2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43794",
+      "sequenceNumber": 52,
+      "printedNumber": "052",
+      "uuid": 52498579,
+      "prices": [
+        {
+          "priceAmount": 4886,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "05/14/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-svg-special-set/squirtle-52",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1655,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "05/14/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-svg-special-set/squirtle-52",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 3499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "05/14/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-svg-special-set/squirtle-52",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "05/14/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-svg-special-set/squirtle-52",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1350,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "05/14/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-svg-special-set/squirtle-52",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 52,
+  "totalCount": 52
+}

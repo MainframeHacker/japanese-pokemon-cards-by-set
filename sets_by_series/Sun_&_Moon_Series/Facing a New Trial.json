@@ -1,0 +1,5052 @@
+{
+  "data": [
+    {
+      "id": 8570,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Bellsprout",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Vine Whip",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Aya Kusube",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a6/4d/92/a64d920ddb2048586459caa7a74a3d9fc6f80b65d913c0706d0b8c53d9452c3d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21775",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 69438432,
+      "prices": []
+    },
+    {
+      "id": 8571,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Weepinbell",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Bellsprout",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Muddy Acid",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40",
+          "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mina Nakai",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e9/10/dd/e910dd668bb63f6ed18c597e9d2665c40c9ac0b411ad3328bc04d93f865f6424.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21776",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 66268953,
+      "prices": []
+    },
+    {
+      "id": 8572,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Victreebel",
+      "types": [
+        "Grass"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Weepinbell",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Pollen Hazard",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Your opponent's Active Pokémon is now Burned, Confused, and Poisoned."
+        },
+        {
+          "name": "Stick and Absorb",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": "Heal 20 damage from this Pokémon. The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "TOKIYA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ee/24/a0/ee24a08e81fb7111cb8299a52e077bedefc8e00338786f292053260111d312ab.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21777",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 45256330,
+      "prices": []
+    },
+    {
+      "id": 8573,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Ledyba",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Agility",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ayaka Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1a/0d/bd/1a0dbd430db47d6932c681bd414bf58fb11e154bb21b2488f13533a6d885e82b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21778",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 65085862,
+      "prices": []
+    },
+    {
+      "id": 8574,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Ledian",
+      "types": [
+        "Grass"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Ledyba",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Swift",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on your opponent's Active Pokémon."
+        },
+        {
+          "name": "Comet Punch",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40×",
+          "text": "Flip 4 coins. This attack does 40 damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fb/08/78/fb08785a5ad4e92ce8f8f6fee63bc6ef885b8ead8f6af41d21343a393a9d77e4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21779",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 17525326,
+      "prices": []
+    },
+    {
+      "id": 8575,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Tapu Bulu",
+      "types": [
+        "Grass"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Horn Leech",
+          "cost": [
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Heal 30 damage from this Pokémon."
+        },
+        {
+          "name": "Calm Strike",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60+",
+          "text": "If you have used your GX attack, this attack does 60 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Megumi Mizutani",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ed/76/9f/ed769fea99c696f90c2719173cbf2b3f15fc6a1f53fbc034605581ecdcb83aad.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21780",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 76681862,
+      "prices": []
+    },
+    {
+      "id": 8576,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Tapu Bulu-GX",
+      "types": [
+        "Grass"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Horn Attack",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30"
+        },
+        {
+          "name": "Nature's Judgment",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120+",
+          "text": "You may discard all Energy from this Pokémon. If you do, this attack does 60 more damage."
+        },
+        {
+          "name": "Tapu Wilderness-GX",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "150",
+          "text": "Heal all damage from this Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "PLANETA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/97/9d/9a/979d9abf943b6f63772fbc53237ef6809ea1c93cc169ac0df19ccf018082cbf5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21781",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 3188550,
+      "prices": [
+        {
+          "priceAmount": 1550,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/tapu-bulu-gx-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        }
+      ]
+    },
+    {
+      "id": 8577,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Salandit",
+      "types": [
+        "Fire"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Scratch",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Venoshock",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "If your opponent's Active Pokémon is Poisoned, this attack does 40 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "TOKIYA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e0/44/27/e04427cf95a3a7fca9654537ac3bead1fef7716f55c1e1d3b35dcec634af9a4c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21782",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 35988974,
+      "prices": []
+    },
+    {
+      "id": 8578,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Salazzle",
+      "types": [
+        "Fire"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Salandit",
+      "effect": [
+        {
+          "name": "Hot Poison",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may leave your opponent's Active Pokémon Burned and Poisoned.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Flamethrower",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "Discard an Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/70/05/56/7005565b65e71289c9f329a944f7bd244de493ad5bdaa47265ee5f8550fcef4d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21783",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 69655176,
+      "prices": [
+        {
+          "priceAmount": 99,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/salazzle-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8579,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Salazzle-GX",
+      "types": [
+        "Fire"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Salandit",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Diabolical Claws",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50×",
+          "text": "This attack does 50 damage for each Prize card you have taken."
+        },
+        {
+          "name": "Heat Blast",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "110"
+        },
+        {
+          "name": "Queen's Haze-GX",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Discard all Energy from your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 1"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fa/dd/1c/fadd1c04c6bd306a773f12ce3099e71f9c4361b1a86b191c13b287ed6da94a89.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21784",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 85005971,
+      "prices": [
+        {
+          "priceAmount": 2050,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/salazzle-gx-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 174,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/salazzle-gx-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8580,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Alolan Sandshrew",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Defense Curl",
+          "cost": [],
+          "convertedEnergyCost": 0,
+          "text": "Flip a coin. If heads, prevent all damage done to this Pokémon by attacks during your opponent's next turn."
+        },
+        {
+          "name": "Ice Ball",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Alolan",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mizue",
+      "imageUrl": "https://static.tcgcollector.com/content/images/59/88/cd/5988cd6b8706229c64ce525fd83910bda94488e4373e64ffbbf009d40dcd9d94.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21785",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 79636042,
+      "prices": []
+    },
+    {
+      "id": 8581,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Alolan Sandslash",
+      "types": [
+        "Water"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Alolan Sandshrew",
+      "effect": [
+        {
+          "name": "Slush Rush",
+          "text": "Once during your turn (before your attack), you may draw a card.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Smash Turn",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Alolan",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "TOKIYA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e4/43/8b/e4438b8d58e4c77ef75db81ecf2c6fbfc4d620d5d3d225f8845b0886a8dbdee7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21786",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 47196837,
+      "prices": []
+    },
+    {
+      "id": 8582,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Alolan Vulpix",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Beacon",
+          "cost": [],
+          "convertedEnergyCost": 0,
+          "text": "Search your deck for up to 2 Pokémon, reveal them, and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Icy Snow",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Alolan",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "You Iribi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8e/5f/54/8e5f54527daf9f0a2b58e278e8cc072e7e7f76147f45a50751ffbd53abe9e563.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21787",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 40695101,
+      "prices": [
+        {
+          "priceAmount": 4499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/alolan-vulpix-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/alolan-vulpix-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8583,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Alolan Ninetales",
+      "types": [
+        "Water"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Alolan Vulpix",
+      "effect": [
+        {
+          "name": "Luminous Barrier",
+          "text": "Prevent all effects of attacks, including damage, done to this Pokémon by your opponent's Pokémon-GX or Pokémon-EX.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Aurora Beam",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Alolan",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/59/94/15/599415c9a7a1860aab4b97b611e159585c1d00788e1d99ffae0fc7c9c2360c4b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21788",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 80895788,
+      "prices": [
+        {
+          "priceAmount": 5700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/alolan-ninetales-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        }
+      ]
+    },
+    {
+      "id": 8584,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Wailmer",
+      "types": [
+        "Water"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Splash",
+          "cost": [
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        },
+        {
+          "name": "Surf",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "70"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Miki Tanaka",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3f/a1/57/3fa157a77ae8e2b1e6a3f2560530720944b64ff6e1f9843ed784d499d40afeca.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21789",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 29402561,
+      "prices": []
+    },
+    {
+      "id": 8585,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Wailord",
+      "types": [
+        "Water"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Wailmer",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dive",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        },
+        {
+          "name": "Open Sea",
+          "cost": [
+            "Water",
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "80",
+          "text": "Heal 30 damage from each of your Water Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "OOYAMA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0a/ff/1b/0aff1b3fda030726733f356e7aa23dce0d263e09f3bc9a61723c4898682ffec6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21790",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 28679848,
+      "prices": []
+    },
+    {
+      "id": 8586,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Wishiwashi",
+      "types": [
+        "Water"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Schooling",
+          "text": "Once during your turn (before your attack), you may switch this Pokémon with a Wishiwashi-GX in your hand. Any attached cards, damage counters, Special Conditions, turns in play, and any other effects remain on the new Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Sharpshooting",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "This attack does 10 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sanosuke Sakuma",
+      "imageUrl": "https://static.tcgcollector.com/content/images/34/75/43/347543fd9c53ec3b7cbd7d52bd824441367981f67398de9d4e4a918940caf6d7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21791",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 94582994,
+      "prices": []
+    },
+    {
+      "id": 8587,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Tapu Fini-GX",
+      "types": [
+        "Water"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Aqua Ring",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "You may switch this Pokémon with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Hydro Shot",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Discard 2 Water Energy from this Pokémon. This attack does 120 damage to 1 of your opponent's Pokémon. (Don't apply Weakness or Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Tapu Storm-GX",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Shuffle your opponent's Active Pokémon and all cards attached to it into their deck. If your opponent has no Benched Pokémon, this attack does nothing. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/20/ef/73/20ef735a351e41e3ed6962fbd951087dff274072212451b0e193b27694b3f8e5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21792",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 26965183,
+      "prices": [
+        {
+          "priceAmount": 1550,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/tapu-fini-gx-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        }
+      ]
+    },
+    {
+      "id": 8588,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Electabuzz",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Punch",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        },
+        {
+          "name": "Thunder Shock",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "match",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c7/5c/40/c75c404126574f556f748ac5627b7b9de4d2fae4aa560241ae43c42ad5c9b527.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21793",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 62039628,
+      "prices": []
+    },
+    {
+      "id": 8589,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Electivire",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Electabuzz",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Thunder Punch",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Flip a coin. If heads, this attack does 60 more damage. If tails, this Pokémon does 20 damage to itself."
+        },
+        {
+          "name": "Giga Impact",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "170",
+          "text": "This Pokémon can't attack during your next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kawayoo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/90/38/af/9038af9411d85fd7d5ec07a1e1eb634419db5fe0878c8a326d0ef5c6de8d119c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21794",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 70721011,
+      "prices": [
+        {
+          "priceAmount": 99,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/electivire-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8590,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Tapu Koko",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 110,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Flying Flip",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "This attack does 20 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Electric Ball",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kirisAki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/87/6f/96/876f96fdbe5b0839d5364d3d90c1c3553e09e157bcb76c314f71a9e498c3bac9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21795",
+      "sequenceNumber": 21,
+      "printedNumber": "21",
+      "uuid": 17923404,
+      "prices": []
+    },
+    {
+      "id": 8591,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Slowpoke",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Headbutt",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Whimsy Tackle",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mina Nakai",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c7/7d/80/c77d8024f5ef9e47a77a464acb3179635c8eb104546f7066680d528faf8843ad.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21796",
+      "sequenceNumber": 22,
+      "printedNumber": "22",
+      "uuid": 32830123,
+      "prices": [
+        {
+          "priceAmount": 5431,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/slowpoke-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/slowpoke-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8592,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Slowking",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Slowpoke",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Drift Ashore",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for a card and put it into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Unarmed",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "110",
+          "text": "If you have no cards in your hand, ignore all Energy in this attack's cost."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Eri Yamaki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5f/21/79/5f2179806ebad91e7c5561cbd7855de484736750028afb37ede524694927859a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21797",
+      "sequenceNumber": 23,
+      "printedNumber": "23",
+      "uuid": 64121041,
+      "prices": []
+    },
+    {
+      "id": 8593,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Trubbish",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Stomp Off",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Discard the top card of your opponent's deck."
+        },
+        {
+          "name": "Drool",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yuka Morii",
+      "imageUrl": "https://static.tcgcollector.com/content/images/af/ed/7e/afed7ea2d21bb0c59f34a84f7eb2fd96a504c61a9c5da7ac1eddec4cf3e26e57.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21798",
+      "sequenceNumber": 24,
+      "printedNumber": "24",
+      "uuid": 71733760,
+      "prices": []
+    },
+    {
+      "id": 8594,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Garbodor",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Trubbish",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Trashalanche",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20×",
+          "text": "This attack does 20 damage for each Item card in your opponent's discard pile."
+        },
+        {
+          "name": "Acid Spray",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": "Flip a coin. If heads, discard an Energy from your opponent's Active Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/67/fa/52/67fa52a5454e84b4969b732b4ed247fd5f07503aa95a1429764325dd14fef5db.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21799",
+      "sequenceNumber": 25,
+      "printedNumber": "25",
+      "uuid": 40270994,
+      "prices": []
+    },
+    {
+      "id": 8595,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Tapu Lele",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 110,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Psywave",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20×",
+          "text": "This attack does 20 damage times the amount of Energy attached to your opponent's Active Pokémon."
+        },
+        {
+          "name": "Magical Swap",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Move any number of damage counters on your opponent's Pokémon to their other Pokémon in any way you like."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "You Iribi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/55/bc/04/55bc048f67fdffafe14a2f924a1533f5db8b70d357a2e93fa5a46166d1d36258.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21800",
+      "sequenceNumber": 26,
+      "printedNumber": "26",
+      "uuid": 68863368,
+      "prices": []
+    },
+    {
+      "id": 8596,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Machop",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dual Chop",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30×",
+          "text": "Flip 2 coins. This attack does 30 damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kyoko Umemoto",
+      "imageUrl": "https://static.tcgcollector.com/content/images/89/db/5c/89db5c4e9214dbcdef6d7121fd89914f2b7f2692c27893d613bdac656c44d8b0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21801",
+      "sequenceNumber": 27,
+      "printedNumber": "27",
+      "uuid": 23461720,
+      "prices": []
+    },
+    {
+      "id": 8597,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Machoke",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Machop",
+      "effect": [
+        {
+          "name": "Daunting Pose",
+          "text": "Prevent all damage done to your Benched Pokémon by your opponent's attacks. Your opponent's attacks and Abilities can't put damage counters on your Benched Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Cross Chop",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "Flip a coin. If heads, this attack does 30 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage One"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e7/04/9f/e7049faea80b4a75213d6e950426217fd89ea98081154d4fb2d59c8a27413780.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21802",
+      "sequenceNumber": 28,
+      "printedNumber": "28",
+      "uuid": 71709218,
+      "prices": []
+    },
+    {
+      "id": 8598,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Machamp-GX",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 250,
+      "evolvesFrom": "Machoke",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Cross-Cut",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "60+",
+          "text": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 60 more damage."
+        },
+        {
+          "name": "Bedrock Breaker",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "130",
+          "text": "Discard any Stadium card in play."
+        },
+        {
+          "name": "Muscle Punch-GX",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "180",
+          "text": "This attack's damage isn't affected by Resistance. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 2"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fd/80/92/fd809200a09496b94127428d984a9c6209d19095e6a67684f2dc6ec0e902161e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21803",
+      "sequenceNumber": 29,
+      "printedNumber": "29",
+      "uuid": 86642944,
+      "prices": [
+        {
+          "priceAmount": 3999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/machamp-gx-29",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2172,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "10/21/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/machamp-gx-29",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "10/21/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/machamp-gx-29",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 413,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/machamp-gx-29",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8599,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Lunatone",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Heal Block",
+          "text": "If you have Solrock in play, Pokémon (both yours and your opponent's) can't be healed.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Lunar Blast",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/35/ec/d8/35ecd8750fe8c804a78626ccfb4d2054a83a85c0ff6673d2225b9eeef33f8a9d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21804",
+      "sequenceNumber": 30,
+      "printedNumber": "30",
+      "uuid": 44633565,
+      "prices": []
+    },
+    {
+      "id": 8600,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Solrock",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Double Draw",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Draw 2 cards."
+        },
+        {
+          "name": "Solar Heat",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "If there is any Stadium card in play, this attack does 20 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/38/57/9b/38579b54cff3ea90ea9aa090f82ce98085c2d8bd26950afed5aae8aa3c83cce8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21805",
+      "sequenceNumber": 31,
+      "printedNumber": "31",
+      "uuid": 15625770,
+      "prices": []
+    },
+    {
+      "id": 8601,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Rockruff",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Rock Throw",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "match",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cc/88/a4/cc88a4db9e46f2a41ae1438cfd0167a9b67ee0020608c4dedead41de25fb7069.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21806",
+      "sequenceNumber": 32,
+      "printedNumber": "32",
+      "uuid": 21224044,
+      "prices": []
+    },
+    {
+      "id": 8602,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Lycanroc",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Rockruff",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dangerous Claws",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30+",
+          "text": "If your opponent's Active Pokémon is a Basic Pokémon, this attack does 30 more damage."
+        },
+        {
+          "name": "Corner",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c5/69/fd/c569fd6df85ea79feeabdcab288fc628ba55e58a977746147c54ed286420e2d6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21807",
+      "sequenceNumber": 33,
+      "printedNumber": "33",
+      "uuid": 35080892,
+      "prices": []
+    },
+    {
+      "id": 8603,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Lycanroc-GX",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Rockruff",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Crunch",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Discard an Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Accelerock",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120"
+        },
+        {
+          "name": "Lycanfang-GX",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "200",
+          "text": "Discard 2 Energy from this Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 1"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/36/c1/92/36c19233a6eb60fc1935a7743e05189c2a3e213003ae893013786e9277a67012.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21808",
+      "sequenceNumber": 34,
+      "printedNumber": "34",
+      "uuid": 77305599,
+      "prices": [
+        {
+          "priceAmount": 2050,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/lycanroc-gx-34",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        }
+      ]
+    },
+    {
+      "id": 8604,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Murkrow",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Whirlwind",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Your opponent switches their Active Pokémon with 1 of their Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sekio",
+      "imageUrl": "https://static.tcgcollector.com/content/images/22/71/04/2271048f6083157e63ebcbc139563c390a65a0e022b189e3074ab96b44d7f18b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21809",
+      "sequenceNumber": 35,
+      "printedNumber": "35",
+      "uuid": 24258435,
+      "prices": [
+        {
+          "priceAmount": 400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/murkrow-35",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8605,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Honchkrow",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Murkrow",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Feint Attack",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "This attack does 30 damage to 1 of your opponent's Pokémon. This damage isn't affected by Weakness, Resistance, or any other effects on that Pokémon."
+        },
+        {
+          "name": "Raven's Claw",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "10+",
+          "text": "This attack does 10 more damage for each damage counter on all of your opponent's Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hideki Ishikawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/33/07/00/3307006bd8d51739096f113fc19cc414dfe3bc65ce0df0c6525c886e715a0e07.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21810",
+      "sequenceNumber": 36,
+      "printedNumber": "36",
+      "uuid": 98395560,
+      "prices": []
+    },
+    {
+      "id": 8606,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Sneasel",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hone Claws",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "During your next turn, this Pokémon's Slash attack's base damage is 80."
+        },
+        {
+          "name": "Slash",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hasuno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8d/99/51/8d9951a1e561e95427fb85b04fb65087602dada4c889fe1239c87f6cb08fe585.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21811",
+      "sequenceNumber": 37,
+      "printedNumber": "37",
+      "uuid": 22850224,
+      "prices": []
+    },
+    {
+      "id": 8607,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Weavile",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Sneasel",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Rule of Evil",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "This attack does 60 damage to each Pokémon that has an Ability (both yours and your opponent's). (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Slash",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "70"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Satoshi Shirai",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9c/bd/c6/9cbdc6c08efc133f3a21d43d3f24305dced7b6a8e531eb076c287574f5779d5f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21812",
+      "sequenceNumber": 38,
+      "printedNumber": "38",
+      "uuid": 76840871,
+      "prices": [
+        {
+          "priceAmount": 185,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/weavile-38",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8608,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Sableye",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Limitation",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent can't play any Supporter cards from their hand during their next turn."
+        },
+        {
+          "name": "Scratch",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Aya Kusube",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e5/bb/59/e5bb59b852827167f84909642d9cfbfc9f7c13de031c2ef1686de1d19822fac2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21813",
+      "sequenceNumber": 39,
+      "printedNumber": "39",
+      "uuid": 10427476,
+      "prices": [
+        {
+          "priceAmount": 220,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/sableye-39",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8609,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Darkrai-GX",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Restoration",
+          "text": "Once during your turn (before your attack), if this Pokémon is in your discard pile, you may put it onto your Bench. Then, attach a Darkness Energy card from your discard pile to this Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dark Cleave",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "130",
+          "text": "This attack's damage isn't affected by Resistance."
+        },
+        {
+          "name": "Dead End-GX",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "If your opponent's Active Pokémon is affected by a Special Condition, that Pokémon is Knocked Out. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "PLANETA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4c/db/a4/4cdba4639b048ee9731580846c0e6d43a560e15a1e527a4683f3c0875e34098e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21814",
+      "sequenceNumber": 40,
+      "printedNumber": "40",
+      "uuid": 1111445,
+      "prices": [
+        {
+          "priceAmount": 144,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/darkrai-gx-40",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8610,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Cottonee",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Continuous Tumble",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip a coin until you get tails. This attack does 10 damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Megumi Mizutani",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e6/04/f2/e604f2f94816935ba1f1e75b80cdb8135bb5e33d710ed3ce06965f9fcc7a47e5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21815",
+      "sequenceNumber": 41,
+      "printedNumber": "41",
+      "uuid": 84080387,
+      "prices": []
+    },
+    {
+      "id": 8611,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Whimsicott",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Cottonee",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "The Wages of Fluff",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "If the Defending Pokémon is Knocked Out during your next turn, take 2 more Prize cards."
+        },
+        {
+          "name": "Fairy Wind",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/42/1d/76/421d7630bc201237ffe84908dee58f291be9b215aa2c5349ab58d5c7c1876a86.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21816",
+      "sequenceNumber": 42,
+      "printedNumber": "42",
+      "uuid": 74360675,
+      "prices": []
+    },
+    {
+      "id": 8612,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Komala",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Comatose",
+          "text": "As long as this Pokémon is your Active Pokémon, whenever you attach an Energy from your hand to it, it is now Asleep.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hypno Roll",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100",
+          "text": "This attack can be used if this Pokémon is Asleep. If it is not Asleep, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b0/44/b8/b044b8bf3ca80c46152cc79b65328106dab87a2abac3bb1ffddcdde24baae80d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21817",
+      "sequenceNumber": 43,
+      "printedNumber": "43",
+      "uuid": 93608821,
+      "prices": []
+    },
+    {
+      "id": 8613,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Escape Rope",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Each player switches his or her Active Pokémon with 1 of his or her Benched Pokémon. (Your opponent switches first. If a player does not have a Benched Pokémon, he or she doesnt have to switch Pokémon.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ff/ee/40/ffee400effce056107c4044428f5b6a7b5c12f69c2912690a28b47d6c82df1cd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21818",
+      "sequenceNumber": 44,
+      "printedNumber": "44",
+      "uuid": 86295021,
+      "prices": []
+    },
+    {
+      "id": 8614,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Weakness Policy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "The Pokémon this card is attached to has no Weakness."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ayaka Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b2/b4/b3/b2b4b3942a75551ec757231567051ab09c1d7a76a0c631fa9a8e633f7fc8038b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21819",
+      "sequenceNumber": 45,
+      "printedNumber": "45",
+      "uuid": 54240293,
+      "prices": []
+    },
+    {
+      "id": 8615,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Wishful Baton",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "\"If the Pokémon this card is attached to is your Active Pokémon and is Knocked Out by damage from an opponents attack, move up to 3 basic Energy cards from that Pokémon to 1 of your Benched Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e2/d1/c4/e2d1c4c20b81981baeed466db5b9b0f13959043f9d7762f4f564274735ba05c0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21820",
+      "sequenceNumber": 46,
+      "printedNumber": "46",
+      "uuid": 63605444,
+      "prices": []
+    },
+    {
+      "id": 8616,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Acerola",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Put 1 of your Pokémon that has any damage counters on it and all cards attached to it into your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/46/59/6e/46596e7c6108c1cd3ae0992fa121032c6e71558cca727147535dfad743b389bc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21821",
+      "sequenceNumber": 47,
+      "printedNumber": "47",
+      "uuid": 25349189,
+      "prices": [
+        {
+          "priceAmount": 4279,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/acerola-47",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        }
+      ]
+    },
+    {
+      "id": 8617,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Sophocles",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Discard 2 cards from your hand. If you do, draw 4 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/02/37/ee/0237eebecebd489a02621bf81c870f00338f7e49a5dfef5a82d9e4efc4b8189d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21822",
+      "sequenceNumber": 48,
+      "printedNumber": "48",
+      "uuid": 48880233,
+      "prices": []
+    },
+    {
+      "id": 8618,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Olivia",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Search your deck for up to 2 Pokémon-GX, reveal them, and put them into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/96/3a/05/963a05f773c946a67f4b724bd9f907cb1623513c1c682c3a7fba462e19c31b7e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21823",
+      "sequenceNumber": 49,
+      "printedNumber": "49",
+      "uuid": 83141572,
+      "prices": []
+    },
+    {
+      "id": 8619,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Tapu Bulu-GX",
+      "types": [
+        "Grass"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Horn Attack",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30"
+        },
+        {
+          "name": "Nature's Judgment",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120+",
+          "text": "You may discard all Energy from this Pokémon. If you do, this attack does 60 more damage."
+        },
+        {
+          "name": "Tapu Wilderness-GX",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "150",
+          "text": "Heal all damage from this Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8a/97/0c/8a970cd02d31529f1bed105b3e824b567ab58531a0f0cd33eac44dc8890f5878.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21824",
+      "sequenceNumber": 50,
+      "printedNumber": "50",
+      "uuid": 31579704,
+      "prices": []
+    },
+    {
+      "id": 8620,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Salazzle-GX",
+      "types": [
+        "Fire"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Salandit",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Diabolical Claws",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50×",
+          "text": "This attack does 50 damage for each Prize card you have taken."
+        },
+        {
+          "name": "Heat Blast",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "110"
+        },
+        {
+          "name": "Queen's Haze-GX",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Discard all Energy from your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 1"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d9/a2/ec/d9a2ecb5ec3f2993882ec9ca539bf69175cac7e4f7a64958460c15dbc255030f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21825",
+      "sequenceNumber": 51,
+      "printedNumber": "51",
+      "uuid": 14551526,
+      "prices": []
+    },
+    {
+      "id": 8621,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Tapu Fini-GX",
+      "types": [
+        "Water"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Aqua Ring",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "You may switch this Pokémon with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Hydro Shot",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Discard 2 Water Energy from this Pokémon. This attack does 120 damage to 1 of your opponent's Pokémon. (Don't apply Weakness or Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Tapu Storm-GX",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Shuffle your opponent's Active Pokémon and all cards attached to it into their deck. If your opponent has no Benched Pokémon, this attack does nothing. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/45/64/be/4564bed3b35fe7516ee3c23e3b7c9365721f68b910f9af4f858e77d212b1951f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21826",
+      "sequenceNumber": 52,
+      "printedNumber": "52",
+      "uuid": 60845122,
+      "prices": []
+    },
+    {
+      "id": 8622,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Machamp-GX",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 250,
+      "evolvesFrom": "Machoke",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Cross-Cut",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "60+",
+          "text": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 60 more damage."
+        },
+        {
+          "name": "Bedrock Breaker",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "130",
+          "text": "Discard any Stadium card in play."
+        },
+        {
+          "name": "Muscle Punch-GX",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "180",
+          "text": "This attack's damage isn't affected by Resistance. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 2"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3d/3d/8f/3d3d8fcfb20f495673e2ea3ff9cf42047bf8855ddefa737c767e87934c7b8fde.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21827",
+      "sequenceNumber": 53,
+      "printedNumber": "53",
+      "uuid": 81115171,
+      "prices": [
+        {
+          "priceAmount": 6600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/machamp-gx-53",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        }
+      ]
+    },
+    {
+      "id": 8623,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Lycanroc-GX",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Rockruff",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Crunch",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Discard an Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Accelerock",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120"
+        },
+        {
+          "name": "Lycanfang-GX",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "200",
+          "text": "Discard 2 Energy from this Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 1"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/86/43/b6/8643b63c49d0539612618b881a753253f306682e4dda77938ce38595ae6d4d75.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21828",
+      "sequenceNumber": 54,
+      "printedNumber": "54",
+      "uuid": 53583509,
+      "prices": []
+    },
+    {
+      "id": 8624,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Darkrai-GX",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Restoration",
+          "text": "Once during your turn (before your attack), if this Pokémon is in your discard pile, you may put it onto your Bench. Then, attach a Darkness Energy card from your discard pile to this Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dark Cleave",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "130",
+          "text": "This attack's damage isn't affected by Resistance."
+        },
+        {
+          "name": "Dead End-GX",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "If your opponent's Active Pokémon is affected by a Special Condition, that Pokémon is Knocked Out. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e7/39/8e/e7398e425da7e7ca978e85033e3e05f9190a5f25e5840374aac95c459b020050.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21829",
+      "sequenceNumber": 55,
+      "printedNumber": "55",
+      "uuid": 10705694,
+      "prices": [
+        {
+          "priceAmount": 2600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/darkrai-gx-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/darkrai-gx-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 6361,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/darkrai-gx-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8625,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Acerola",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Put 1 of your Pokémon that has any damage counters on it and all cards attached to it into your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Megumi Mizutani",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7a/b4/d1/7ab4d115973d58628ae65e5655b676deafe4dd3c23fd7dc7a49706353f1e19a2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21830",
+      "sequenceNumber": 56,
+      "printedNumber": "56",
+      "uuid": 58252421,
+      "prices": [
+        {
+          "priceAmount": 371600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/acerola-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 140000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/acerola-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 154000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/acerola-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 239719,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/acerola-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8626,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Sophocles",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Discard 2 cards from your hand. If you do, draw 4 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sanosuke Sakuma",
+      "imageUrl": "https://static.tcgcollector.com/content/images/39/61/6e/39616ebe4ed111a16212c8a5ce1c5907a1974516b3df0a19a33fe4604fdcea0a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21831",
+      "sequenceNumber": 57,
+      "printedNumber": "57",
+      "uuid": 49952010,
+      "prices": [
+        {
+          "priceAmount": 19900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/sophocles-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 21900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/sophocles-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 6138,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/sophocles-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8627,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Tapu Bulu-GX",
+      "types": [
+        "Grass"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Horn Attack",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30"
+        },
+        {
+          "name": "Nature's Judgment",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120+",
+          "text": "You may discard all Energy from this Pokémon. If you do, this attack does 60 more damage."
+        },
+        {
+          "name": "Tapu Wilderness-GX",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "150",
+          "text": "Heal all damage from this Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e9/ce/21/e9ce21e5017bae5161836834a7979336471ae22e7825cbe09910c136a19a9aa6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21832",
+      "sequenceNumber": 58,
+      "printedNumber": "58",
+      "uuid": 28592504,
+      "prices": []
+    },
+    {
+      "id": 8628,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Salazzle-GX",
+      "types": [
+        "Fire"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Salandit",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Diabolical Claws",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50×",
+          "text": "This attack does 50 damage for each Prize card you have taken."
+        },
+        {
+          "name": "Heat Blast",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "110"
+        },
+        {
+          "name": "Queen's Haze-GX",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Discard all Energy from your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 1"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d4/70/fc/d470fcac0b29479bbe47156bf90a32cff268149adc6369542c537691540976d7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21833",
+      "sequenceNumber": 59,
+      "printedNumber": "59",
+      "uuid": 62820262,
+      "prices": [
+        {
+          "priceAmount": 3585,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/salazzle-gx-59",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/salazzle-gx-59",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        }
+      ]
+    },
+    {
+      "id": 8629,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Tapu Fini-GX",
+      "types": [
+        "Water"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Aqua Ring",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "You may switch this Pokémon with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Hydro Shot",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Discard 2 Water Energy from this Pokémon. This attack does 120 damage to 1 of your opponent's Pokémon. (Don't apply Weakness or Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Tapu Storm-GX",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Shuffle your opponent's Active Pokémon and all cards attached to it into their deck. If your opponent has no Benched Pokémon, this attack does nothing. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ea/c2/5d/eac25ddef6bd7fc578612152fbfb431d0241f9966ca738b6f429ccb5f868306f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21834",
+      "sequenceNumber": 60,
+      "printedNumber": "60",
+      "uuid": 56558855,
+      "prices": [
+        {
+          "priceAmount": 4047,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/tapu-fini-gx-60",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 4500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/tapu-fini-gx-60",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        }
+      ]
+    },
+    {
+      "id": 8630,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Machamp-GX",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 250,
+      "evolvesFrom": "Machoke",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Cross-Cut",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "60+",
+          "text": "If your opponent's Active Pokémon is an Evolution Pokémon, this attack does 60 more damage."
+        },
+        {
+          "name": "Bedrock Breaker",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "130",
+          "text": "Discard any Stadium card in play."
+        },
+        {
+          "name": "Muscle Punch-GX",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "180",
+          "text": "This attack's damage isn't affected by Resistance. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 2"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d1/ee/07/d1ee07cc032f74f45e882ad92022cfe51f011df2358fa1915aa44c82769658d8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21835",
+      "sequenceNumber": 61,
+      "printedNumber": "61",
+      "uuid": 10098162,
+      "prices": [
+        {
+          "priceAmount": 7190,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/machamp-gx-61",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/machamp-gx-61",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/machamp-gx-61",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        }
+      ]
+    },
+    {
+      "id": 8631,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Lycanroc-GX",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Rockruff",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Crunch",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Discard an Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Accelerock",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120"
+        },
+        {
+          "name": "Lycanfang-GX",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "200",
+          "text": "Discard 2 Energy from this Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 1"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/57/a3/23/57a323a306e1ff37b38b969bd83a4bb74151872f0fd2d4a38a2b11455c572ff9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21836",
+      "sequenceNumber": 62,
+      "printedNumber": "62",
+      "uuid": 8092690,
+      "prices": [
+        {
+          "priceAmount": 3788,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/lycanroc-gx-62",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 4200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/lycanroc-gx-62",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        }
+      ]
+    },
+    {
+      "id": 8632,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Darkrai-GX",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Restoration",
+          "text": "Once during your turn (before your attack), if this Pokémon is in your discard pile, you may put it onto your Bench. Then, attach a Darkness Energy card from your discard pile to this Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dark Cleave",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "130",
+          "text": "This attack's damage isn't affected by Resistance."
+        },
+        {
+          "name": "Dead End-GX",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "If your opponent's Active Pokémon is affected by a Special Condition, that Pokémon is Knocked Out. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/88/b6/66/88b66635dba5f088284c623cd2e8e24316d74b43b20efbabb8e7e55c623d6cca.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21837",
+      "sequenceNumber": 63,
+      "printedNumber": "63",
+      "uuid": 48787813,
+      "prices": [
+        {
+          "priceAmount": 90000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/darkrai-gx-63",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 26800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-facing-a-new-trial/darkrai-gx-63",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 8633,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Choice Band",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "\"The attacks of the Pokémon this card is attached to do 30 more damage to your opponents Active Pokémon-GX or Active Pokémon-EX (before applying Weakness and Resistance).\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3c/65/2b/3c652bf83d4a1e58e115baf56cfc2ba1dda8679ebe8cf200efec99906eac5c74.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21838",
+      "sequenceNumber": 64,
+      "printedNumber": "64",
+      "uuid": 24281228,
+      "prices": []
+    },
+    {
+      "id": 8634,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Multi Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Move an Energy from 1 of your Benched Pokémon to your Active Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c5/96/20/c596207961ac922f84881a4f38e9e0b3100694debbe36553bd44b744fd2e94f1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21839",
+      "sequenceNumber": 65,
+      "printedNumber": "65",
+      "uuid": 49356128,
+      "prices": []
+    },
+    {
+      "id": 8635,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Darkness Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1b/f7/84/1bf784a7ea540e3349a42daa5cac326e89588fdafe9137ec6e1de7c038d1e9dd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/21840",
+      "sequenceNumber": 66,
+      "printedNumber": "66",
+      "uuid": 72595792,
+      "prices": []
+    },
+    {
+      "id": 8636,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Water Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/21841",
+      "sequenceNumber": 67,
+      "printedNumber": "67",
+      "uuid": 44784942,
+      "prices": []
+    },
+    {
+      "id": 8637,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Lightning Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/21842",
+      "sequenceNumber": 68,
+      "printedNumber": "68",
+      "uuid": 3211375,
+      "prices": []
+    },
+    {
+      "id": 8638,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Fighting Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/21843",
+      "sequenceNumber": 69,
+      "printedNumber": "69",
+      "uuid": 73696499,
+      "prices": []
+    },
+    {
+      "id": 8639,
+      "setData": {
+        "name": "Facing a New Trial",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/facing-a-new-trial"
+      },
+      "name": "Darkness Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/21844",
+      "sequenceNumber": 70,
+      "printedNumber": "70",
+      "uuid": 82205055,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 70,
+  "totalCount": 70
+}

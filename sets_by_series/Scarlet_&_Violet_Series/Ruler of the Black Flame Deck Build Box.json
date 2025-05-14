@@ -1,0 +1,2228 @@
+{
+  "data": [
+    {
+      "id": 22654,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Radiant Charizard",
+      "types": [
+        "Fire"
+      ],
+      "hp": 160,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Excited Heart",
+          "text": "This Pokémon's attacks cost Colorless less for each Prize card your opponent has taken.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Combustion Blast",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "250",
+          "text": "During your next turn, this Pokémon can't use Combustion Blast."
+        }
+      ],
+      "rules": [
+        "\"You cant have more than 1 Radiant Pokémon in your deck.\""
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Radiant",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b1/c8/8b/b1c88bc19fdf7ef76558e6f9758351ffeb1e98e0dc2419bfa31f65120f99b19d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41877",
+      "sequenceNumber": 1,
+      "printedNumber": "001",
+      "uuid": 70909327,
+      "prices": []
+    },
+    {
+      "id": 22655,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Lumineon V",
+      "types": [
+        "Water"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Luminous Sign",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Aqua Return",
+          "cost": [
+            "Water",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120",
+          "text": "Shuffle this Pokémon and all attached cards into your deck."
+        }
+      ],
+      "rules": [
+        "When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "V",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "takuyoa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/06/3a/24/063a2462516c998411921e0eb6238898eed491ae278127c992d03e406ef7d58b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41878",
+      "sequenceNumber": 2,
+      "printedNumber": "002",
+      "uuid": 4749052,
+      "prices": []
+    },
+    {
+      "id": 22656,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Manaphy",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Wave Veil",
+          "text": "Prevent all damage done to your Benched Pokémon by attacks from your opponent's Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Rain Splash",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "HYOGONOSUKE",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6a/7a/5e/6a7a5e2f8519f0d6dc964937707a0be2c44d82254574cd945bcc9614e5beaec8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41879",
+      "sequenceNumber": 3,
+      "printedNumber": "003",
+      "uuid": 47291304,
+      "prices": []
+    },
+    {
+      "id": 22657,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Radiant Greninja",
+      "types": [
+        "Water"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Concealed Cards",
+          "text": "You must discard an Energy card from your hand in order to use this Ability. Once during your turn, you may draw 2 cards.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Moonlight Shuriken",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Discard 2 Energy from this Pokémon. This attack does 90 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "\"You cant have more than 1 Radiant Pokémon in your deck.\""
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Radiant",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Souichirou Gunjima",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a8/23/be/a823be6294fc08260939324bd173b7dffb1e647efaef7ee1630648d346cd4ef5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41880",
+      "sequenceNumber": 4,
+      "printedNumber": "004",
+      "uuid": 96925399,
+      "prices": []
+    },
+    {
+      "id": 22658,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Mew",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Mysterious Tail",
+          "text": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Item card you find there, and put it into your hand. Shuffle the other cards back into your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Psyshot",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yuu Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/20/dc/1c/20dc1c8de94a69d126ea1f2292223e68053b3bfe200611e372e05576cdfce2f2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41881",
+      "sequenceNumber": 5,
+      "printedNumber": "005",
+      "uuid": 18677315,
+      "prices": []
+    },
+    {
+      "id": 22659,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Ralts",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Memory Skip",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Choose 1 of your opponent's Active Pokémon's attacks. During your opponent's next turn, that Pokémon can't use that attack."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Nagomi Nijo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9b/f5/89/9bf5897fa93e06343e6a87b73c2e29c4addd38115344de9080d9fa35e649020a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41882",
+      "sequenceNumber": 6,
+      "printedNumber": "006",
+      "uuid": 13325970,
+      "prices": []
+    },
+    {
+      "id": 22660,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Kirlia",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Ralts",
+      "effect": [
+        {
+          "name": "Refinement",
+          "text": "You must discard a card from your hand in order to use this Ability. Once during your turn, you may draw 2 cards.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Slap",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yukiko Baba",
+      "imageUrl": "https://static.tcgcollector.com/content/images/97/1d/bf/971dbf9a1f26c90c48c036d645d8266ce932393b040b1ea3f7a67398d187a97b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41883",
+      "sequenceNumber": 7,
+      "printedNumber": "007",
+      "uuid": 37769620,
+      "prices": []
+    },
+    {
+      "id": 22661,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Bidoof",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Carefree Countenance",
+          "text": "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hyper Fang",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoyo Kimura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/80/fa/f6/80faf67878f5df310e443f61a66c7d9bbe3718272c18c5e63c9f18145c58d8d9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41884",
+      "sequenceNumber": 8,
+      "printedNumber": "008",
+      "uuid": 76144328,
+      "prices": []
+    },
+    {
+      "id": 22662,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Bibarel",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Bidoof",
+      "effect": [
+        {
+          "name": "Industrious Incisors",
+          "text": "Once during your turn, you may draw cards until you have 5 cards in your hand.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Tail Smash",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "OKACHEKE",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ed/5d/1a/ed5d1a429f24d4babaf80faafe10b833b9eb2afaa727af0410789e161a969fee.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41885",
+      "sequenceNumber": 9,
+      "printedNumber": "009",
+      "uuid": 50314304,
+      "prices": []
+    },
+    {
+      "id": 22663,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Escape Rope",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "\"Each player switches their Active Pokémon with 1 of their Benched Pokémon. Your opponent switches first. (If a player does not have a Benched Pokémon, they dont switch Pokémon.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "sadaji",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e7/48/63/e7486339301e71c6f1eb92b83792f8d5b2c12eb947602988e3552dbb8ad51da7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41886",
+      "sequenceNumber": 10,
+      "printedNumber": "010",
+      "uuid": 12527782,
+      "prices": []
+    },
+    {
+      "id": 22664,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Canceling Cologne",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "\"Until the end of your turn, your opponents Active Pokémon has no Abilities. (This includes Pokémon that come into play during that turn.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Studio Bora Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/images/aa/df/ce/aadfcee27b27f349be14716f066cfb6f1d238c77abe842d0ceecd0556c49b121.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41887",
+      "sequenceNumber": 11,
+      "printedNumber": "011",
+      "uuid": 59086182,
+      "prices": []
+    },
+    {
+      "id": 22665,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Fog Crystal",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Search your deck for a Psychic Energy card or a Basic Psychic Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "sadaji",
+      "imageUrl": "https://static.tcgcollector.com/content/images/77/52/ce/7752ce912d9353ea6439a81f0841de2cbf2a1ac249bbaf2fec17c9362cdbf1df.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41888",
+      "sequenceNumber": 12,
+      "printedNumber": "012",
+      "uuid": 7226200,
+      "prices": []
+    },
+    {
+      "id": 22666,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Super Rod",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Shuffle up to 3 in any combination of Pokémon and Basic Energy cards from your discard pile into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3a/74/9d/3a749d4dc3b805e4d927f0defa5ec1604521c52e51aee14a75121abb9ca39b62.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41889",
+      "sequenceNumber": 13,
+      "printedNumber": "013",
+      "uuid": 50619000,
+      "prices": []
+    },
+    {
+      "id": 22667,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Dark Patch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Attach a basic Darkness Energy card from your discard pile to 1 of your Benched Darkness Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/54/6d/6b/546d6b5dd73b0569ac527705f8cbd96aa690a786d3b0ac2b1193368a3745423b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41890",
+      "sequenceNumber": 14,
+      "printedNumber": "014",
+      "uuid": 71797849,
+      "prices": []
+    },
+    {
+      "id": 22668,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Trekking Shoes",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "\"Look at the top card of your deck. You may put that card into your hand. If you dont, discard that card and draw a card.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d9/ad/8e/d9ad8e92c97f63e6e11ea3c519884d8f65bf0fd059a69d616abb51d11dd115d3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41891",
+      "sequenceNumber": 15,
+      "printedNumber": "015",
+      "uuid": 63333320,
+      "prices": []
+    },
+    {
+      "id": 22669,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Nest Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f1/40/f5/f140f53372ef07e9dddb08001222a16bd74b5e05815bbc675a06e70a90832278.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41892",
+      "sequenceNumber": 16,
+      "printedNumber": "016",
+      "uuid": 28710393,
+      "prices": []
+    },
+    {
+      "id": 22670,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Ultra Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "You can use this card only if you discard 2 other cards from your hand.\\nSearch your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ayaka Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e3/9b/d3/e39bd3e62695761dd936f29e9bebfc89d591c655add5c557e554af57d0bd525e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41893",
+      "sequenceNumber": 17,
+      "printedNumber": "017",
+      "uuid": 86254987,
+      "prices": []
+    },
+    {
+      "id": 22671,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Battle VIP Pass",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "You can use this card only during your first turn.\\nSearch your deck for up to 2 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/31/62/3e/31623e96adab64faa8e604fbb91d19e0a0f2c31bded1443943b6a7a40ef8c505.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41894",
+      "sequenceNumber": 18,
+      "printedNumber": "018",
+      "uuid": 7977122,
+      "prices": []
+    },
+    {
+      "id": 22672,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Hisuian Heavy Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "\"Look at your face-down Prize cards. You may reveal a Basic Pokémon you find there, put it into your hand, and put this Hisuian Heavy Ball in its place as a face-down Prize card. (If you dont reveal a Basic Pokémon, put this card in the discard pile.) Then, shuffle your face-down Prize cards.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Studio Bora Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6c/15/fc/6c15fc4af2e1d7344f5bca3c6e8942fc5eebb2bd55f37a566992dc0b3b715254.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41895",
+      "sequenceNumber": 19,
+      "printedNumber": "019",
+      "uuid": 72625502,
+      "prices": []
+    },
+    {
+      "id": 22673,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Rare Candy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "\"Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it, skipping the Stage 1. You cant use this card during your first turn or on a Basic Pokémon that was put into play this turn.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Studio Bora Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c5/2f/3e/c52f3efc6cd857548a3eb2b838de5e1ea371803fad1e16abb73c507f7d39f3dc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41896",
+      "sequenceNumber": 20,
+      "printedNumber": "020",
+      "uuid": 94134279,
+      "prices": []
+    },
+    {
+      "id": 22674,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Switch your Active Pokémon with 1 of your Benched Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Studio Bora Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ec/00/b9/ec00b9ec87353a40408ecbbd0baff88bb248e33966709b011200dd7265cf13a3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41897",
+      "sequenceNumber": 21,
+      "printedNumber": "021",
+      "uuid": 97129004,
+      "prices": []
+    },
+    {
+      "id": 22675,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Level Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Search your deck for a Pokémon with 90 HP or less, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cf/47/b2/cf47b2168cd5b9f7277bdbbea341218b65b9f579d116974e3920433e4d13528f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41898",
+      "sequenceNumber": 22,
+      "printedNumber": "022",
+      "uuid": 1369487,
+      "prices": []
+    },
+    {
+      "id": 22676,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Lost Vacuum",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "You can use this card only if you put another card from your hand in the Lost Zone.\\nChoose a Pokémon Tool attached to any Pokémon, or any Stadium in play, and put it in the Lost Zone."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/28/54/54/28545428110bf4547350acab954f398ae25e531bc620ec9b7dd43e9fc95d3fd8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41899",
+      "sequenceNumber": 23,
+      "printedNumber": "023",
+      "uuid": 65956484,
+      "prices": []
+    },
+    {
+      "id": 22677,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Forest Seal Stone",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached.\", You may play any number of Item cards during your turn.",
+        "The Pokémon V this card is attached to can use the VSTAR Power on this card."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "AYUMI ODASHIMA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/55/dc/fb/55dcfbb5ea610d35ea1c0d6448b80a51b9ec55ed6de569ec48f7b23de7735ba4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41900",
+      "sequenceNumber": 24,
+      "printedNumber": "024",
+      "uuid": 36681769,
+      "prices": []
+    },
+    {
+      "id": 22678,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Irida",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Search your deck for a Water Pokémon and an Item card, reveal them, and put them into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kirisAki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/00/f4/0f/00f40fc3244433103dc03ced23326b9a7bd63988c3200c339f8ff6c4ce5271f4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41901",
+      "sequenceNumber": 25,
+      "printedNumber": "025",
+      "uuid": 5634092,
+      "prices": []
+    },
+    {
+      "id": 22679,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Raihan",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "\"You can play this card only if any of your Pokémon were Knocked Out during your opponents last turn.\\nAttach a basic Energy card from your discard pile to 1 of your Pokémon. If you do, search your deck for a card and put it into your hand. Then, shuffle your deck.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "take",
+      "imageUrl": "https://static.tcgcollector.com/content/images/67/a0/34/67a03445124dbc92e3588688e1a62d3578b047470004e94dda9c95fe5629fd46.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41902",
+      "sequenceNumber": 26,
+      "printedNumber": "026",
+      "uuid": 34527897,
+      "prices": []
+    },
+    {
+      "id": 22680,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Avery",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Draw 3 cards. If you drew any cards in this way, your opponent discards Pokémon from their Bench until they have 3."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8d/3e/f7/8d3ef728e9291f127ffeac0ab8b085365704dc4755bc3f4ec698d1c312ad7321.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41903",
+      "sequenceNumber": 27,
+      "printedNumber": "027",
+      "uuid": 69044051,
+      "prices": []
+    },
+    {
+      "id": 22681,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Serena",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "\"Choose 1:\\nDiscard up to 3 cards from your hand. (You must discard at least 1 card.) If you do, draw cards until you have 5 cards in your hand.\\nSwitch 1 of your opponents Benched Pokémon V with their Active Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b7/ca/a2/b7caa28dd4f3a394ae8c5a5ffbd2eff3d72a9f8fe4e15e583c67f6401eabc6a0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41904",
+      "sequenceNumber": 28,
+      "printedNumber": "028",
+      "uuid": 87404630,
+      "prices": []
+    },
+    {
+      "id": 22682,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Iono",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Each players shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, each player draws a card for each of their remaining Prize cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ce/b0/c6/ceb0c6d13e017c8d00860dd9b8efe203b6eae831a6bcd83f466798f6c78b0c11.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41905",
+      "sequenceNumber": 29,
+      "printedNumber": "029",
+      "uuid": 34422649,
+      "prices": []
+    },
+    {
+      "id": 22683,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Professor's Research",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Discard your hand and draw 7 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ce/cb/cf/cecbcfc1d0ab7924a5c74b29819aa1d6a68e18d22cf29eb8e3d3e0af442c10eb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41906",
+      "sequenceNumber": 30,
+      "printedNumber": "030",
+      "uuid": 48962656,
+      "prices": []
+    },
+    {
+      "id": 22684,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Professor's Research",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Discard your hand and draw 7 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/01/3f/cf/013fcff978ea203d0561473ad87705c6f7be542cf0e062e6ab2393a390b5c460.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41907",
+      "sequenceNumber": 31,
+      "printedNumber": "031",
+      "uuid": 49299899,
+      "prices": []
+    },
+    {
+      "id": 22685,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Boss's Orders",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "\"Switch in 1 of your opponents Benched Pokémon to the Active Spot.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6e/2d/7c/6e2d7c1e45a91f001e2552da98569d9cd10d754b976c618efe36c68b09d5fc12.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41908",
+      "sequenceNumber": 32,
+      "printedNumber": "032",
+      "uuid": 21940420,
+      "prices": []
+    },
+    {
+      "id": 22686,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Cheryl",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Heal all damage from each of your Evolution Pokémon. If you do, discard all Energy from the Pokémon that were healed in this way."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/41/24/ee/4124ee48155ae4ac0c2da7043eb6f0940f106d30b25773f24980b56b6b417e2f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41909",
+      "sequenceNumber": 33,
+      "printedNumber": "033",
+      "uuid": 24609647,
+      "prices": []
+    },
+    {
+      "id": 22687,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Path to the Peak",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"This Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you cant play this card.\", \"Pokémon with a Rule Box in play (both yours and your opponents) have no Abilities. (Pokémon V, Pokémon-GX, etc. have Rule Boxes.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Oswaldo KATO",
+      "imageUrl": "https://static.tcgcollector.com/content/images/05/1f/59/051f5952d1f8e335e877c88933b5296426b958010d4fad8d3a45551a85c9e17e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41910",
+      "sequenceNumber": 34,
+      "printedNumber": "034",
+      "uuid": 69852666,
+      "prices": []
+    },
+    {
+      "id": 22688,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Beach Court",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name cant be played.\", \"The Retreat Cost of each Basic Pokémon in play (both yours and your opponents) is Colorless less.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Oswaldo KATO",
+      "imageUrl": "https://static.tcgcollector.com/content/images/72/01/07/720107dfb5526b7594b749e595e6b6b7c256562a1280821391af20b26346ee5c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41911",
+      "sequenceNumber": 35,
+      "printedNumber": "035",
+      "uuid": 97655841,
+      "prices": []
+    },
+    {
+      "id": 22689,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Artazon",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"You may play only 1 Stadium card during your turn. Put it next to the Active Spot, and discard it if another Stadium comes into play. A Stadium with the same name cant be played.\", \"Once during each players turn, that player may search their deck for a Basic Pokémon that doesnt have a Rule Box and put it onto their Bench. Then, that player shuffles their deck. (Pokémon ex, Pokémon V, etc. have Rule Boxes.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Oswaldo KATO",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e8/16/e1/e816e10196ec2aeebfd13cd15cad5d3186488c437dfc8a7fc2f6a490a718ae9e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41912",
+      "sequenceNumber": 36,
+      "printedNumber": "036",
+      "uuid": 68202966,
+      "prices": []
+    },
+    {
+      "id": 22690,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Magma Basin",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"This Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you cant play this card.\", \"Once during each players turn, that player may attach a Fire Energy card form their discard pile to 1 of their Benched Fire Pokémon. If a player attached Energy to a Pokémon in this way, put 2 damage counters on that Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "ORBITALLINK Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f1/1b/20/f11b20ea1153cf3ced1efdc47c8083913fcebfcf3a02aa6af591fc247e9ecb04.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41913",
+      "sequenceNumber": 37,
+      "printedNumber": "037",
+      "uuid": 27219659,
+      "prices": []
+    },
+    {
+      "id": 22691,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Double Turbo Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"As long as this card is attached to a Pokémon, it provides ColorlessColorless Energy.\\nThe attacks of the Pokémon this card is attached to do 20 less damage to your opponents Pokémon (before applying Weakness and Resistance).\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/13/38/06/13380604ceaf86405e1746a3a1950005166f6c7beb07baebe3cdcfb3f32e90ec.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/41914",
+      "sequenceNumber": 38,
+      "printedNumber": "038",
+      "uuid": 29945116,
+      "prices": []
+    },
+    {
+      "id": 22692,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Basic Grass Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/41915",
+      "sequenceNumber": -1,
+      "printedNumber": "-1",
+      "uuid": 14252419,
+      "prices": []
+    },
+    {
+      "id": 22693,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Basic Fire Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/41916",
+      "sequenceNumber": -1,
+      "printedNumber": "-1",
+      "uuid": 58388399,
+      "prices": []
+    },
+    {
+      "id": 22694,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Basic Water Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/41917",
+      "sequenceNumber": -1,
+      "printedNumber": "-1",
+      "uuid": 42444407,
+      "prices": []
+    },
+    {
+      "id": 22695,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Basic Lightning Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/41918",
+      "sequenceNumber": -1,
+      "printedNumber": "-1",
+      "uuid": 82184702,
+      "prices": []
+    },
+    {
+      "id": 22696,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Basic Psychic Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/41919",
+      "sequenceNumber": -1,
+      "printedNumber": "-1",
+      "uuid": 1245116,
+      "prices": []
+    },
+    {
+      "id": 22697,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Basic Fighting Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/41920",
+      "sequenceNumber": -1,
+      "printedNumber": "-1",
+      "uuid": 6857683,
+      "prices": []
+    },
+    {
+      "id": 22698,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Basic Darkness Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/41921",
+      "sequenceNumber": -1,
+      "printedNumber": "-1",
+      "uuid": 17199288,
+      "prices": []
+    },
+    {
+      "id": 22699,
+      "setData": {
+        "name": "Ruler of the Black Flame Deck Build Box",
+        "printed_count": "46",
+        "card_count": 46,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/5e/6a/11/5e6a11f3cee0e87e4c8f9778a57ec6d36d7271ffedd64f745ce575d37e1ba674.gif",
+        "set_url": "https://www.tcgcollector.com/cards/jp/ruler-of-the-black-flame-deck-build-box"
+      },
+      "name": "Basic Metal Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/41922",
+      "sequenceNumber": -1,
+      "printedNumber": "-1",
+      "uuid": 71969185,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 46,
+  "totalCount": 46
+}

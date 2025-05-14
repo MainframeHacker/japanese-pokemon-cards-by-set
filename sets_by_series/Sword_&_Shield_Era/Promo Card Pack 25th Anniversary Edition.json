@@ -1,0 +1,1679 @@
+{
+  "data": [
+    {
+      "id": 2760,
+      "setData": {
+        "name": "Promo Card Pack 25th Anniversary Edition",
+        "printed_count": "25",
+        "card_count": 25,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/promo-card-pack-25th-anniversary-edition"
+      },
+      "name": "Charizard",
+      "types": [
+        "Fire"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Charmeleon",
+      "effect": [
+        {
+          "name": "Energy Burn",
+          "text": "As often as you like during your turn (before your attack), you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fire Spin",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "100",
+          "text": "Discard 2 Energy cards attached to Charizard in order to use this attack."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/61/6a/f9/616af911980a4e00f1671ec0ccc2d8e22786122a2eed76bc0ef6021f18355ffc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35731",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 3673349,
+      "prices": []
+    },
+    {
+      "id": 2761,
+      "setData": {
+        "name": "Promo Card Pack 25th Anniversary Edition",
+        "printed_count": "25",
+        "card_count": 25,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/promo-card-pack-25th-anniversary-edition"
+      },
+      "name": "Venusaur",
+      "types": [
+        "Grass"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Ivysaur",
+      "effect": [
+        {
+          "name": "Energy Trans",
+          "text": "As often as you like during your turn (before your attack), you may take 1 Grass Energy card attached to 1 of your Pokémon and attach it to a different one. This power can't be used if Venusaur is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Solarbeam",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ff/aa/3e/ffaa3ed78abe4b3e185735da45997293fb059c9a13fc9771dd84b0fc9e7f65b3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35732",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 43133752,
+      "prices": []
+    },
+    {
+      "id": 2762,
+      "setData": {
+        "name": "Promo Card Pack 25th Anniversary Edition",
+        "printed_count": "25",
+        "card_count": 25,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/promo-card-pack-25th-anniversary-edition"
+      },
+      "name": "Blastoise",
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Wartortle",
+      "effect": [
+        {
+          "name": "Rain Dance",
+          "text": "As often as you like during your turn (before your attack), you may attach 1 Water Energy card to 1 of your Water Pokémon. (This doesn't use up your 1 Energy card attachment for the turn.) This power can't be used if Blastoise is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hydro Pump",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40+",
+          "text": "Does 40 damage plus 10 more damage for each Water Energy attached to Blastoise but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd doesn't count."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/dd/ef/6c/ddef6cffc690fbe364f17907c159af4ea76029620ae2b89b36ee73ee312c79a7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35733",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 75340756,
+      "prices": []
+    },
+    {
+      "id": 2763,
+      "setData": {
+        "name": "Promo Card Pack 25th Anniversary Edition",
+        "printed_count": "25",
+        "card_count": 25,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/promo-card-pack-25th-anniversary-edition"
+      },
+      "name": "Imposter Professor Oak",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Your opponent shuffles his or her hand into his or her deck, then draws 7 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ff/e9/0a/ffe90a8376658a6d4715032b97432be37a45c9a85dfdbde816b71dd667e9ba4f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35734",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 96744392,
+      "prices": []
+    },
+    {
+      "id": 2764,
+      "setData": {
+        "name": "Promo Card Pack 25th Anniversary Edition",
+        "printed_count": "25",
+        "card_count": 25,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/promo-card-pack-25th-anniversary-edition"
+      },
+      "name": "Dark Gyarados",
+      "types": [
+        "Water"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Magikarp",
+      "effect": [
+        {
+          "name": "Final Beam",
+          "text": "When Dark Gyarados is Knocked Out by an attack, flip a coin. If heads, this power does 20 damage for each Water Energy attached to Dark Gyarados to the Pokémon that Knocked Out Dark Gyarados. Apply Weakness and Resistance. This power doesn't work if Dark Gyarados is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Ice Beam",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Dark",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e4/5f/44/e45f44b08edb1971646a1e1b95d94da23286f52ae47e9f21dd2f73e14c63e053.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35735",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 49637053,
+      "prices": []
+    },
+    {
+      "id": 2765,
+      "setData": {
+        "name": "Promo Card Pack 25th Anniversary Edition",
+        "printed_count": "25",
+        "card_count": 25,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/promo-card-pack-25th-anniversary-edition"
+      },
+      "name": "Here Comes Team Rocket!",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Each player plays with his or her Prize cards face up for the rest of the game."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2a/3f/ba/2a3fba46b53f9aa6ec553c799813f258b8db044eff4811b1cda337482a84cad0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35736",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 64242702,
+      "prices": []
+    },
+    {
+      "id": 2766,
+      "setData": {
+        "name": "Promo Card Pack 25th Anniversary Edition",
+        "printed_count": "25",
+        "card_count": 25,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/promo-card-pack-25th-anniversary-edition"
+      },
+      "name": "_'s Pikachu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Birthday Surprise",
+          "cost": [
+            "Lightning",
+            "Lightning"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "If it's not your birthday, this attack does 30 damage. If it is your birthday, flip a coin. If heads, this attack does 30 damage plus 50 more damage; if tails, this attack does 30 damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/98/d4/75/98d475314cf9874951703fe2bbf40252c534d784c4138634d49c77a1c0b96385.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35737",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 46420417,
+      "prices": []
+    },
+    {
+      "id": 2767,
+      "setData": {
+        "name": "Promo Card Pack 25th Anniversary Edition",
+        "printed_count": "25",
+        "card_count": 25,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/promo-card-pack-25th-anniversary-edition"
+      },
+      "name": "Rocket's Zapdos",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Plasma",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "If there are any Lightning Energy cards in your discard pile, attach 1 of them to Rocket's Zapdos."
+        },
+        {
+          "name": "Electroburn",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "70",
+          "text": "Rocket's Zapdos does damage to itself equal to 10 times the number of Lightning Energy cards attached to it."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin-ichi Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/51/70/b8/5170b83340c5a650f48b67fa343acafa74c389b641be5dda6321bdc6b7dfadef.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35739",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 40259616,
+      "prices": []
+    },
+    {
+      "id": 2768,
+      "setData": {
+        "name": "Promo Card Pack 25th Anniversary Edition",
+        "printed_count": "25",
+        "card_count": 25,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/promo-card-pack-25th-anniversary-edition"
+      },
+      "name": "Cleffa",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Eeeeeeek",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Shuffle your hand into your deck, then draw 7 cards."
+        }
+      ],
+      "rules": [
+        "\"If this Baby Pokémon is your Active Pokémon and your opponent tries to attack, your opponent flips a coin (before doing anything required in order to use that attack). If tails, your opponents turn ends without an attack.\""
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/dc/65/88/dc6588a7344790b7854bc05ad7c40e7d70e92c7fa0f8f22b8e65b119b01c0624.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35740",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 42317251,
+      "prices": []
+    },
+    {
+      "id": 2769,
+      "setData": {
+        "name": "Promo Card Pack 25th Anniversary Edition",
+        "printed_count": "25",
+        "card_count": 25,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/promo-card-pack-25th-anniversary-edition"
+      },
+      "name": "Shining Magikarp",
+      "types": [
+        "Water"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Gold Scale",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent may draw 2 cards. Either way, you may draw 2 cards."
+        },
+        {
+          "name": "Dragon Bond",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for a card named Gyarados, Dark Gyarados, or Shining Gyarados. Show it to your opponent and put it into your hand. Shuffle your deck afterward."
+        }
+      ],
+      "rules": [
+        "\"You cant have more than 1 Shining Magikarp in your deck.\""
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Shining",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ab/8d/8e/ab8d8e6a28b53ef85e786948a1524fffe3fc71b0381d46a1df83df8c785b57ba.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35741",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 40953933,
+      "prices": []
+    },
+    {
+      "id": 2770,
+      "setData": {
+        "name": "Promo Card Pack 25th Anniversary Edition",
+        "printed_count": "25",
+        "card_count": 25,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/promo-card-pack-25th-anniversary-edition"
+      },
+      "name": "Team Magma's Groudon",
+      "types": [
+        "Darkness",
+        "Fighting"
+      ],
+      "hp": 100,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Power Saver",
+          "text": "As long as the number of Pokémon in play (both yours and your opponent's) that has Team Magma in its name is 3 or less, Team Magma's Groudon can't attack.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Linear Attack",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 20 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Pulverize",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50+",
+          "text": "If the Defending Pokémon already has at least 2 damage counters on it, this attack does 50 damage plus 20 more damage."
+        }
+      ],
+      "rules": [
+        "This Pokémon is both Fighting Darkness type."
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "\"Trainers\", Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kazuo Yazawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/83/ef/67/83ef67e7183017ec8095f7d74961798820acf1d5a429440be757e5325fa772c5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35743",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 24791313,
+      "prices": []
+    },
+    {
+      "id": 2771,
+      "setData": {
+        "name": "Promo Card Pack 25th Anniversary Edition",
+        "printed_count": "25",
+        "card_count": 25,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/promo-card-pack-25th-anniversary-edition"
+      },
+      "name": "Umbreon ?",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Dark Ray",
+          "text": "Once during your turn, when you put Umbreon ? from your hand onto your Bench, you may choose 1 card from your opponent's hand without looking and discard it.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Feint Attack",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, or any other effects on that Pokémon."
+        }
+      ],
+      "rules": [
+        "\"You cant have more than 1 Pokémon ? in your deck.\""
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "?",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/25/68/11/25681150051636e9cd403957540c9fd4fe5f04c07ad244d4966de0db3a9506c0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35744",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 82349091,
+      "prices": []
+    },
+    {
+      "id": 2772,
+      "setData": {
+        "name": "Promo Card Pack 25th Anniversary Edition",
+        "printed_count": "25",
+        "card_count": 25,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/promo-card-pack-25th-anniversary-edition"
+      },
+      "name": "Rocket's Admin.",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You can play only one Supporter card each turn. When you play this card, put it next to your Active Pokémon. When your turn ends, discard this card.",
+        "Each player shuffles his or her hand into his or her deck. Then, each player counts his or her Prize cards left and draws up to that many cards. (You draw your cards first.)"
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/84/4d/01/844d01e10d90e0a0ff35b2e06bc72fd83fa76ed574941f3083e0b48250222bd0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35745",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 56503256,
+      "prices": []
+    },
+    {
+      "id": 2773,
+      "setData": {
+        "name": "Promo Card Pack 25th Anniversary Edition",
+        "printed_count": "25",
+        "card_count": 25,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/promo-card-pack-25th-anniversary-edition"
+      },
+      "name": "Mew ex",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Versatile",
+          "text": "Mew ex can use the attacks of all Pokémon in play as its own. (You still need the necessary Energy to use each attack.)",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Power Move",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Search your deck for an Energy card and attach it to Mew ex. Shuffle your deck afterward. Then, you may switch Mew ex with 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fd/6f/4a/fd6f4a00867d75a67bb4fd9778f60d26a0eda6e9473e213f50604dbbc0e52f3f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35746",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 51780451,
+      "prices": []
+    },
+    {
+      "id": 2774,
+      "setData": {
+        "name": "Promo Card Pack 25th Anniversary Edition",
+        "printed_count": "25",
+        "card_count": 25,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/promo-card-pack-25th-anniversary-edition"
+      },
+      "name": "Gardevoir ex",
+      "types": [
+        "Fire"
+      ],
+      "hp": 150,
+      "evolvesFrom": "Kirlia",
+      "effect": [
+        {
+          "name": "Imprison",
+          "text": "Once during your turn (before your attack), if Gardevoir ex is your Active Pokémon, you may put an Imprison marker on 1 of your opponent's Pokémon. Any Pokémon that has any Imprison markers on it can't use any Poké-Powers or Poké-Bodies. This power can't be used if Gardevoir ex is affected by a Special Condition.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Flame Ball",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": "You may move a Fire Energy card attached to Gardevoir ex to 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex",
+        "d",
+        "Stage 2"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masahiko Ishii",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a7/05/a2/a705a23b26db2901b047e0f8c18c1169a5ebae505ec2210608084349d422b293.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35747",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 82728436,
+      "prices": []
+    },
+    {
+      "id": 2775,
+      "setData": {
+        "name": "Promo Card Pack 25th Anniversary Edition",
+        "printed_count": "25",
+        "card_count": 25,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/promo-card-pack-25th-anniversary-edition"
+      },
+      "name": "Claydol",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Baltoy",
+      "effect": [
+        {
+          "name": "Cosmic Power",
+          "text": "Once during your turn (before your attack), you may choose up to 2 cards from your hand and put them on the bottom of your deck in any order. If you do, draw cards until you have 6 cards in your hand. This power can't be used if Claydol is affected by a Special Condition.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Spinning Attack",
+          "cost": [
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "+20"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Midori Harada",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b1/13/0a/b1130a9ab824aac47db87686e9d189b1743f1b23e0617eb82b989bd43d0252fb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35748",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 26191598,
+      "prices": []
+    },
+    {
+      "id": 2776,
+      "setData": {
+        "name": "Promo Card Pack 25th Anniversary Edition",
+        "printed_count": "25",
+        "card_count": 25,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/promo-card-pack-25th-anniversary-edition"
+      },
+      "name": "Luxray GL LV.X",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Luxray GL",
+      "effect": [
+        {
+          "name": "Bright Look",
+          "text": "Once during your turn (before your attack), when you put Luxray GL LV.X from your hand onto your Active Luxray GL, you may switch the Defending Pokémon with 1 of your opponent's Benched Pokémon.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Flash Impact",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "60",
+          "text": "Does 30 damage to 1 of your Pokémon, and don't apply Weakness and Resistance to this damage."
+        }
+      ],
+      "rules": [
+        "Put this card onto your Active Luxray GL. Luxray GL LV.X can use any attack, Poké-Power, or Poké-Body from its previous Level."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "LV.X",
+        "SP",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d8/a9/c0/d8a9c0cb39b120f65ebaf8a8bfbe01c6c03e148937247a63e98d36d20c100c6f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35749",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 46950079,
+      "prices": []
+    },
+    {
+      "id": 2777,
+      "setData": {
+        "name": "Promo Card Pack 25th Anniversary Edition",
+        "printed_count": "25",
+        "card_count": 25,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/promo-card-pack-25th-anniversary-edition"
+      },
+      "name": "Garchomp C LV.X",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Garchomp C",
+      "effect": [
+        {
+          "name": "Healing Breath",
+          "text": "Once during your turn (before your attack), when you put Garchomp C LV.X from your hand onto your Active Garchomp C, you may remove all damage counters from each of your Pokémon SP.",
+          "type": "Poké-POWER"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dragon Rush",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Discard 2 Energy attached to Garchomp C. Choose 1 of your opponent's Pokémon. This attack does 80 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) Garchomp C can't use Dragon Rush during your next turn."
+        }
+      ],
+      "rules": [
+        "Put this card onto your Active Garchomp C. Garchomp C LV.X can use any attack, Poké-Power, or Poké-Body from its previous Level."
+      ],
+      "weaknesses": [
+        {
+          "type": "Colorless",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "LV.X",
+        "SP",
+        "LEVEL-UP"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shizurow",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bd/c6/69/bdc66989332b718d05654df64e9f23af5df0110687b2bb23df28ef3da7209ad4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35750",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 86003462,
+      "prices": []
+    },
+    {
+      "id": 2778,
+      "setData": {
+        "name": "Promo Card Pack 25th Anniversary Edition",
+        "printed_count": "25",
+        "card_count": 25,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/promo-card-pack-25th-anniversary-edition"
+      },
+      "name": "Donphan",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Phanpy",
+      "effect": [
+        {
+          "name": "Exoskeleton",
+          "text": "Any damage done to Donphan by attacks is reduced by 20 (after applying Weakness and Resistance).",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Earthquake",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "60",
+          "text": "Does 10 damage to each of your Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Heavy Impact",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Prime",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kent Kanetsuna",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4e/f8/1b/4ef81bb0449c07ead1ee2f2e3e922cbb4cd3e793369e5a3ae6f4c17827974701.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35751",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 90462860,
+      "prices": []
+    },
+    {
+      "id": 2779,
+      "setData": {
+        "name": "Promo Card Pack 25th Anniversary Edition",
+        "printed_count": "25",
+        "card_count": 25,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/promo-card-pack-25th-anniversary-edition"
+      },
+      "name": "Reshiram",
+      "types": [
+        "Fire"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Outrage",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Does 10 more damage for each damage counter on this Pokémon."
+        },
+        {
+          "name": "Blue Flare",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120",
+          "text": "Discard 2 Fire Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Full Art",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2b/06/63/2b066316b6b75ee340cc588b34caab33a2773b66dcea089e5ff5e94d05c7df4d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35752",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 55262915,
+      "prices": []
+    },
+    {
+      "id": 2780,
+      "setData": {
+        "name": "Promo Card Pack 25th Anniversary Edition",
+        "printed_count": "25",
+        "card_count": 25,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/promo-card-pack-25th-anniversary-edition"
+      },
+      "name": "Zekrom",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Outrage",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Does 10 more damage for each damage counter on this Pokémon."
+        },
+        {
+          "name": "Bolt Strike",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120",
+          "text": "This Pokémon does 40 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Full Art",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4b/7c/41/4b7c4102292a2bc54c2a48fee55f4961e2fe2ed2368768cd8320f7f762f670be.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35753",
+      "sequenceNumber": 21,
+      "printedNumber": "21",
+      "uuid": 98317859,
+      "prices": []
+    },
+    {
+      "id": 2781,
+      "setData": {
+        "name": "Promo Card Pack 25th Anniversary Edition",
+        "printed_count": "25",
+        "card_count": 25,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/promo-card-pack-25th-anniversary-edition"
+      },
+      "name": "Mewtwo-EX",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "X Ball",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "Does 20 damage times the amount of Energy attached to this Pokémon and the Defending Pokémon."
+        },
+        {
+          "name": "Psydrive",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120",
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shizurow",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8b/d1/31/8bd131603f54337f9d5b522dff0b654336f61ba408edce41700c8f4d397bfbff.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35754",
+      "sequenceNumber": 22,
+      "printedNumber": "22",
+      "uuid": 41042626,
+      "prices": []
+    },
+    {
+      "id": 2782,
+      "setData": {
+        "name": "Promo Card Pack 25th Anniversary Edition",
+        "printed_count": "25",
+        "card_count": 25,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/promo-card-pack-25th-anniversary-edition"
+      },
+      "name": "Xerneas-EX",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Break Through",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "This attack does 30 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "X Blast",
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "140",
+          "text": "This Pokémon can't use X Blast during your next turn."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/89/86/38/898638612761dccfb5bc8295516c5c37f98ac960432d47f04e757d39b27f1521.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35755",
+      "sequenceNumber": 23,
+      "printedNumber": "23",
+      "uuid": 40422894,
+      "prices": []
+    },
+    {
+      "id": 2783,
+      "setData": {
+        "name": "Promo Card Pack 25th Anniversary Edition",
+        "printed_count": "25",
+        "card_count": 25,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/promo-card-pack-25th-anniversary-edition"
+      },
+      "name": "M Rayquaza-EX",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 220,
+      "evolvesFrom": "Rayquaza-EX",
+      "effect": [
+        {
+          "name": "? Evolution",
+          "text": "You may play this card from your hand to evolve a Pokémon during your first turn or the turn you play that Pokémon.",
+          "type": "Ancient Trait"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Emerald Break",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30×",
+          "text": "This attack does 30 damage times the number of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Mega",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f0/e7/df/f0e7dfb413834a1917f00a6adde930444978eb53fe74c82428e5ba22066ebda4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35756",
+      "sequenceNumber": 24,
+      "printedNumber": "24",
+      "uuid": 14868747,
+      "prices": []
+    },
+    {
+      "id": 2784,
+      "setData": {
+        "name": "Promo Card Pack 25th Anniversary Edition",
+        "printed_count": "25",
+        "card_count": 25,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/promo-card-pack-25th-anniversary-edition"
+      },
+      "name": "Tapu Lele-GX",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 170,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Wonder Tag",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may search your deck for a Supporter card, reveal it, and put it into your hand. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Energy Drive",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "This attack does 20 damage times the amount of Energy attached to both Active Pokémon. This damage isn't affected by Weakness or Resistance."
+        },
+        {
+          "name": "Tapu Cure-GX",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Heal all damage from 2 of your Benched Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fd/dc/ed/fddced840aa0b1a4fe153bd4e578362a2f4c8a1412f35875ea99a5949ef70648.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/35757",
+      "sequenceNumber": 25,
+      "printedNumber": "25",
+      "uuid": 7646224,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 25,
+  "totalCount": 25
+}

@@ -1,0 +1,831 @@
+{
+  "data": [
+    {
+      "id": 11107,
+      "setData": {
+        "name": "Xerneas Half Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/xerneas-half-deck"
+      },
+      "name": "Jigglypuff",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Body Slam",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sanosuke Sakuma",
+      "imageUrl": "https://static.tcgcollector.com/content/images/57/a3/f6/57a3f67d0142d89b929179791abead1c8f5db18d1ea47c1ba7161f79b0d87bd8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24326",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 74692934,
+      "prices": []
+    },
+    {
+      "id": 11108,
+      "setData": {
+        "name": "Xerneas Half Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/xerneas-half-deck"
+      },
+      "name": "Wigglytuff",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Jigglypuff",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Balloon Barrage",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20×",
+          "text": "This attack does 20 damage times the amount of Energy attached to this Pokémon."
+        },
+        {
+          "name": "Double-Edge",
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "This Pokémon does 10 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/46/27/e5/4627e562cf473dd7247c43dd47153867684debc5263b6e75d8857cf23a7f8392.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24327",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 12768694,
+      "prices": []
+    },
+    {
+      "id": 11109,
+      "setData": {
+        "name": "Xerneas Half Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/xerneas-half-deck"
+      },
+      "name": "Mr. Mime",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Massage",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Heal 60 damage from 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Slap Down",
+          "cost": [
+            "Fairy",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40+",
+          "text": "Flip 2 coins. This attack does 20 more damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mizue",
+      "imageUrl": "https://static.tcgcollector.com/content/images/36/8e/90/368e901c093da5cca1961049893a4ec9da477cf33ce6ec11b9174d225e8ee6f3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24328",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 91159870,
+      "prices": []
+    },
+    {
+      "id": 11110,
+      "setData": {
+        "name": "Xerneas Half Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/xerneas-half-deck"
+      },
+      "name": "Flabébé",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Razor Leaf",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cc/b9/78/ccb978f5189c95fa0072419e7f5981d0340f5ccad7a11dfc10b5682eb1ca93e5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24329",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 52831142,
+      "prices": []
+    },
+    {
+      "id": 11111,
+      "setData": {
+        "name": "Xerneas Half Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/xerneas-half-deck"
+      },
+      "name": "Floette",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Flabébé",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Petal Blizzard",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "This attack does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Razor Leaf",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e1/7c/2c/e17c2c2062861415d6af8bf81f585d7c4898f56875df9a904cc67dd9170701de.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24330",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 52394510,
+      "prices": []
+    },
+    {
+      "id": 11112,
+      "setData": {
+        "name": "Xerneas Half Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/xerneas-half-deck"
+      },
+      "name": "Spritzee",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fairy Wind",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Fickle Attack",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ee/e6/fe/eee6feca7f4dd0b07414501bd2af9d7581c888dd618be1bbf1810aa5ed5bb201.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24331",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 85116979,
+      "prices": []
+    },
+    {
+      "id": 11113,
+      "setData": {
+        "name": "Xerneas Half Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/xerneas-half-deck"
+      },
+      "name": "Xerneas",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Geomancy",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Choose 2 of your Benched Pokémon. For each of those Pokémon, search your deck for a Fairy Energy card and attach it to that Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Rainbow Spear",
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100",
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3f/f1/d9/3ff1d96f03546939c7413dd1ef1718df432be931026eab26f0d42cf3d87291dc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24332",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 30477381,
+      "prices": []
+    },
+    {
+      "id": 11114,
+      "setData": {
+        "name": "Xerneas Half Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/xerneas-half-deck"
+      },
+      "name": "Potion",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Heal 30 damage from 1 of your Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7b/67/2c/7b672c00bc42e5423bd5f4cd4a506db422f55c1f07cc9f38ebb3d2288ff4e988.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24333",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 32262401,
+      "prices": []
+    },
+    {
+      "id": 11115,
+      "setData": {
+        "name": "Xerneas Half Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/xerneas-half-deck"
+      },
+      "name": "Great Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/81/a9/ea/81a9ea4e77ef72c4fa31720982e65df24b64e48dd270fbeab67146f19e5bd891.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24334",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 79460361,
+      "prices": []
+    },
+    {
+      "id": 11116,
+      "setData": {
+        "name": "Xerneas Half Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/xerneas-half-deck"
+      },
+      "name": "Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Switch your Active Pokémon with 1 of your Benched Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f1/ef/d3/f1efd3dbfc6c515e972a50a5768296048c69e63b199391fdec2b3e933033247a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24335",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 35151667,
+      "prices": []
+    },
+    {
+      "id": 11117,
+      "setData": {
+        "name": "Xerneas Half Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/xerneas-half-deck"
+      },
+      "name": "Pokémon Catcher",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Flip a coin. If heads, switch 1 of your opponents Benched Pokémon with his or her Active Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/51/0c/79/510c790c284520c3ecc2965ee4eaa4e73cb4ab0afa2deb8537634ec25ab191ca.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24336",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 15468215,
+      "prices": []
+    },
+    {
+      "id": 11118,
+      "setData": {
+        "name": "Xerneas Half Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/xerneas-half-deck"
+      },
+      "name": "Shauna",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Shuffle your hand into your deck. Then, draw 5 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/27/6d/91/276d911ee166ac2172c0a54cffdf88b162bf09d91a1579a2a3668416d2624469.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24337",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 29981323,
+      "prices": []
+    },
+    {
+      "id": 11119,
+      "setData": {
+        "name": "Xerneas Half Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/xerneas-half-deck"
+      },
+      "name": "Tierno",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Draw 3 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d9/62/f6/d962f683d7449b5c56e0256531a4ccda80a4c43895d8f72dab986befdbca886c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24338",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 1536856,
+      "prices": []
+    },
+    {
+      "id": 11120,
+      "setData": {
+        "name": "Xerneas Half Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/xerneas-half-deck"
+      },
+      "name": "Fairy Garden",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you cant play this card.\", \"Each Pokémon that has a Fairy Energy attached to it (both yours and your opponents) has no Retreat Cost.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/92/5d/c0/925dc0f81bbedc85b514e80909e4f938e6d4003c103bc48f3586d286a56d6cac.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24339",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 29063646,
+      "prices": []
+    },
+    {
+      "id": 11121,
+      "setData": {
+        "name": "Xerneas Half Deck",
+        "printed_count": "15",
+        "card_count": 15,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/xerneas-half-deck"
+      },
+      "name": "Fairy Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/24340",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 45715491,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 15,
+  "totalCount": 15
+}

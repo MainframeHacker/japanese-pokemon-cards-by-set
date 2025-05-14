@@ -1,0 +1,5750 @@
+{
+  "data": [
+    {
+      "id": 6429,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Venonat",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Radar Eyes",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Look at the top 7 cards of your deck and put 1 of them into your hand. Shuffle the other cards back into your deck."
+        },
+        {
+          "name": "Flop",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kirisAki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1e/6b/96/1e6b9624c079bef18f13b42760096b45f7aaaf2eda1ac183137b419f18f666db.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19663",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 19482149,
+      "prices": [
+        {
+          "priceAmount": 3739,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/venonat-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1439,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/venonat-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/venonat-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 186,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/venonat-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6430,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Venomoth-GX",
+      "types": [
+        "Grass"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Venonat",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Shinobi Mastery",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "110+",
+          "text": "If you played Koga's Trap from your hand during this turn, this attack does 90 more damage. If you played Janine from your hand during this turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon during your opponent's next turn."
+        },
+        {
+          "name": "Ten-Card Return-GX",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "60",
+          "text": "Shuffle your hand into your deck. Then, draw 10 cards. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 1"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3b/9f/7c/3b9f7cba2a30070c4f7cb07e6592129a298d8d95dd594bb1c7f432e8cc09c3a9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19664",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 47619506,
+      "prices": [
+        {
+          "priceAmount": 2650,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/venomoth-gx-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 701,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/venomoth-gx-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/venomoth-gx-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 279,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/venomoth-gx-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6431,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Bellsprout",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Razor Leaf",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/83/b0/ff/83b0ff9770404115036d761dc05c075519904e112e37e81965232806afe642f9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19665",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 75947301,
+      "prices": [
+        {
+          "priceAmount": 3141,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "10/07/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/bellsprout-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1083,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "10/07/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/bellsprout-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "10/07/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/bellsprout-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 35,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/bellsprout-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6432,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Weepinbell",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Bellsprout",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Burning Venom",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent's Active Pokémon is now Burned and Poisoned."
+        },
+        {
+          "name": "Ram",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "otumami",
+      "imageUrl": "https://static.tcgcollector.com/content/images/96/fb/b1/96fbb1c43600b283bd236a6c943f1fd249dfb3b2eda72911b2b8c29227ee57e1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19666",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 29755574,
+      "prices": [
+        {
+          "priceAmount": 299,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/weepinbell-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6433,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Victreebel",
+      "types": [
+        "Grass"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Weepinbell",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Reactive Poison",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "This attack does 60 more damage for each Special Condition affecting your opponent's Active Pokémon."
+        },
+        {
+          "name": "Gastro Acid",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "The Defending Pokémon has no Abilities until the end of your next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Anesaki Dynamic",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bc/24/ac/bc24acd5afc70a113aa8b9ffda0743d99a4423643d35bc999210b5b0d1a8bc62.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19667",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 59067221,
+      "prices": []
+    },
+    {
+      "id": 6434,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Grubbin",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Electrical Signal",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 2 Lightning Pokémon, reveal them, and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Corkscrew Punch",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yuka Morii",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b4/99/56/b49956f57768cc5febc4e850689d01934e500cd3d9b68deb135f7d92f1a904ed.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19668",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 80367304,
+      "prices": [
+        {
+          "priceAmount": 237,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/grubbin-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6435,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Tentacool",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bubble Jutsu",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "If you played Janine from your hand during this turn, this attack does 50 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5d/2d/fa/5d2dfacd6725580b9093092fba513817473f2835f942b0ab649eca776722cbcb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19669",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 11978040,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/tentacool-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6436,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Tentacruel",
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Tentacool",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Wicked Tentacles",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Move an Energy from 1 of your opponent's Pokémon to another of their Pokémon. If you do, put 3 damage counters on the Pokémon you moved the Energy to."
+        },
+        {
+          "name": "Wrap",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shigenori Negishi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/32/ad/ed/32adedee2969ad37f306add857b067a57bacdb7daeb38fc5204fd227940b9f3a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19670",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 83971290,
+      "prices": [
+        {
+          "priceAmount": 3734,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/tentacruel-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1436,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/tentacruel-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/tentacruel-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 179,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/tentacruel-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6437,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Goldeen",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Elegant Swim",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, prevent all effects of attacks, including damage, done to this Pokémon during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoyo Kimura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5f/c1/b6/5fc1b6451f5aaf3155bd2c9bb0ddfa7cec230f16759bebbb75dc836d42f46ba0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19671",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 14068624,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/goldeen-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6438,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Seaking",
+      "types": [
+        "Water"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Goldeen",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Enhanced Horn",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30×",
+          "text": "Flip 2 coins. This attack does 30 damage for each heads. If this Pokémon has a Pokémon Tool card attached to it, flip 6 coins instead."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Midori Harada",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4e/ab/4d/4eab4dca635ffc23a72e40ffd4b28344111c7892c1a529feb8bc6f1720a7a36a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19672",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 64100748,
+      "prices": [
+        {
+          "priceAmount": 169,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/seaking-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6439,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Kyurem",
+      "types": [
+        "Water"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Call Forth Cold",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for a Water Energy card and attach it to this Pokémon. Then, shuffle your deck."
+        },
+        {
+          "name": "Hail Prison",
+          "cost": [
+            "Water",
+            "Water",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "110",
+          "text": "Discard 2 Water Energy from this Pokémon. Your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Anesaki Dynamic",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5f/78/44/5f784410428dd066b0aee606f69c948b06db9ec55c92070fc63369c99e2cd2e4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19673",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 36983409,
+      "prices": [
+        {
+          "priceAmount": 2250,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/kyurem-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 225,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/kyurem-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1480,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/kyurem-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/kyurem-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 197,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/kyurem-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6440,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Froakie",
+      "types": [
+        "Water"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kyoko Umemoto",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b4/91/26/b4912604342b4e48f3dddf0d59a5b6333fa6d1e1b94051de28aaff380fa462e5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19674",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 7270359,
+      "prices": [
+        {
+          "priceAmount": 181,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/froakie-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6441,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Frogadier",
+      "types": [
+        "Water"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Froakie",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Afterimage Strike",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "If any damage is done to this Pokémon by attacks during your opponent's next turn, flip a coin. If heads, prevent that damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Satoshi Shirai",
+      "imageUrl": "https://static.tcgcollector.com/content/images/09/b5/3f/09b53f6ccbf59b610105795f05f43c19351cdfae13a2bcfbb7d221bf5ae279c8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19675",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 57676356,
+      "prices": [
+        {
+          "priceAmount": 495,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/frogadier-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6442,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Pikachu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Pika Ball",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "nagimiso",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ea/59/4f/ea594f79d3af00a0bf6d2f0147c3355946a2c787b72b7be1b985290fd2ce50d7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19676",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 21997636,
+      "prices": [
+        {
+          "priceAmount": 1550,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/pikachu-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 557,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/pikachu-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 1000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/pikachu-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1152,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/pikachu-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/pikachu-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 289,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/pikachu-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6443,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Raichu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Pikachu",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Never Give Up",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "You can use this attack only if you have at least 3 more Prize cards remaining than your opponent. Attach all Lightning Energy cards from your discard pile to your Pokémon in any way you like."
+        },
+        {
+          "name": "Head Bolt",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "110"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shin Nagasawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/41/ce/38/41ce38ded234145608b8c4180db3c438db9f73c4743333b0e21af9553c99116f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19677",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 65498814,
+      "prices": [
+        {
+          "priceAmount": 219,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/raichu-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6444,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Dedenne-GX",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 160,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Dedechange",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may discard your hand and draw 6 cards. You can't use more than 1 Dedechange Ability each turn.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Static Shock",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50"
+        },
+        {
+          "name": "Tingly Return-GX",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50",
+          "text": "Your opponent's Active Pokémon is now Paralyzed. Put this Pokémon and all cards attached to it into your hand. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "PLANETA Igarashi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/31/5e/f6/315ef690c56253b98bfa18aa2331340e644936e502bf28f092a3963e56f77a7a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19678",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 58862381,
+      "prices": [
+        {
+          "priceAmount": 2641,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/dedenne-gx-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1050,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/dedenne-gx-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/dedenne-gx-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 298,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/dedenne-gx-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6445,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Charjabug",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Grubbin",
+      "effect": [
+        {
+          "name": "Battery",
+          "text": "Once during your turn (before your attack), you may attach this card from your hand to 1 of your Vikavolt or Vikavolt-GX as a Special Energy card. This card provides 2 Lightning Energy only while it's attached to a Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Pierce",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sekio",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ea/77/b7/ea77b725bd12fc9cf131946c80013b1439736baa47976d2873c8bdc5761c5a47.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19679",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 7896173,
+      "prices": []
+    },
+    {
+      "id": 6446,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Vikavolt",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 150,
+      "evolvesFrom": "Charjabug",
+      "effect": [
+        {
+          "name": "Stealthy Body",
+          "text": "If there is any Stadium card in play, this Pokémon has no Weakness.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Electricannon",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120+",
+          "text": "You may discard all Lightning Energy from this Pokémon. If you do, this attack does 100 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hasuno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/81/f7/49/81f749005163009fca62572d0c6fddb8eb6b0c16757eb76691aeb638655c8b3f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19680",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 82074999,
+      "prices": [
+        {
+          "priceAmount": 100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/vikavolt-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6447,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Zeraora",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Crushing Claw",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Discard a Special Energy from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Discharge",
+          "cost": [
+            "Lightning",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50×",
+          "text": "Discard all Lightning Energy from this Pokémon. This attack does 50 damage for each card you discarded in this way."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kawayoo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/47/9c/72/479c72ae553b872cc0b5749cc0059d3f6d5d0673187ce916d8bf36466f842000.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19681",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 79036319,
+      "prices": [
+        {
+          "priceAmount": 199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/zeraora-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6448,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Marshadow",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Resetting Hole",
+          "text": "Once during your turn (before your attack), if this Pokémon is on your Bench, you may discard any Stadium card in play. If you do, discard this Pokémon and all cards attached to it.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Red Knuckles",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "If your opponent's Active Pokémon is an Ultra Beast, this attack does 60 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "chibi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/27/58/21/27582137b01abeb31418471eaa14d166aaa45c790e7eb4bf3a68be1af67ec957.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19682",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 90787839,
+      "prices": [
+        {
+          "priceAmount": 2035,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/marshadow-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1309,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/marshadow-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/marshadow-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 127,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/marshadow-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6449,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Wooper",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Mud Bomb",
+          "cost": [
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "tetsuya koizumi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2a/74/30/2a74306b9800b98eccf1e31805ae806d8491d30f62c228bf5ebd5eaa9fc405b3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19683",
+      "sequenceNumber": 21,
+      "printedNumber": "21",
+      "uuid": 67590848,
+      "prices": [
+        {
+          "priceAmount": 192,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/wooper-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6450,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Quagsire",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Wooper",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Water Gun",
+          "cost": [
+            "Water"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        },
+        {
+          "name": "Surf",
+          "cost": [
+            "Water",
+            "Water",
+            "Water"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kirisAki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2c/76/bb/2c76bbf6c9dfa1d449be2e1eaa2e6c02db636bd1fa6a599a46a23f35bf660e88.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19684",
+      "sequenceNumber": 22,
+      "printedNumber": "22",
+      "uuid": 35806437,
+      "prices": [
+        {
+          "priceAmount": 3829,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/quagsire-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1492,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/quagsire-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/quagsire-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 192,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/quagsire-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6451,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Gligar",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Free Flight",
+          "text": "If this Pokémon has no Energy attached to it, it has no Retreat Cost.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Shinobi Strike",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30+",
+          "text": "If you played Janine from your hand during this turn, this attack does 90 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8d/48/9b/8d489b70832d6dfdd0ededd427f89f4fc2896ea7d659996cd70c4026a8c2b9bb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19685",
+      "sequenceNumber": 23,
+      "printedNumber": "23",
+      "uuid": 16838246,
+      "prices": [
+        {
+          "priceAmount": 11,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/gligar-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6452,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Gliscor",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Gligar",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Draw 3 cards."
+        },
+        {
+          "name": "Poison Jab",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": "Your opponent's Active Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mizue",
+      "imageUrl": "https://static.tcgcollector.com/content/images/aa/26/89/aa26895236c918f44ebd985f77f7a33377cc510199a360cf12f833830f49383d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19686",
+      "sequenceNumber": 24,
+      "printedNumber": "24",
+      "uuid": 5069472,
+      "prices": [
+        {
+          "priceAmount": 3360,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "09/03/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/gliscor-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1211,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "09/03/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/gliscor-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "09/03/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/gliscor-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 90,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/gliscor-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6453,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Greninja & Zoroark-GX",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 250,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dark Pulse",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "This attack does 30 more damage times the amount of Darkness Energy attached to all of your Pokémon."
+        },
+        {
+          "name": "Dark Union-GX",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Put 2 in any combination of Darkness Pokémon-GX and Darkness Pokémon-EX from your discard pile onto your Bench. If this Pokémon has at least 1 extra Energy attached to it (in addition to this attack's cost), attach 2 Energy cards from your discard pile to each Pokémon that you put onto your Bench in this way. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "TAG TEAM",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9a/64/54/9a645438b434d6e3caf002cae927e370a4dafbc82dd0469673475d3339050ff8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19687",
+      "sequenceNumber": 25,
+      "printedNumber": "25",
+      "uuid": 9526054,
+      "prices": [
+        {
+          "priceAmount": 6998,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/greninja-&-zoroark-tag-team-gx-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 850,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/greninja-&-zoroark-tag-team-gx-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 2387,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/greninja-&-zoroark-tag-team-gx-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/greninja-&-zoroark-tag-team-gx-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 649,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/greninja-&-zoroark-tag-team-gx-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6454,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Carvanha",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "SATOSHI NAKAI",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9d/74/fe/9d74fe86fdc3b83ea82325bd2723c9342dd6f896a67d0091a57d797939834f38.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19688",
+      "sequenceNumber": 26,
+      "printedNumber": "26",
+      "uuid": 34708501,
+      "prices": [
+        {
+          "priceAmount": 10,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/carvanha-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6455,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Sharpedo",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Carvanha",
+      "effect": [
+        {
+          "name": "Greedy Evolution",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may look at the top 6 cards of your deck and attach any number of Darkness Energy cards you find there to this Pokémon. Shuffle the other cards back into your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Bad Fangs",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60+",
+          "text": "This attack does 20 more damage times the amount of Darkness Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Tomokazu Komiya",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ce/22/8d/ce228dcc22fdb92a6424e315ad1f556b130aff559b84c6c96d1e6f3a3b230e10.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19689",
+      "sequenceNumber": 27,
+      "printedNumber": "27",
+      "uuid": 13861208,
+      "prices": [
+        {
+          "priceAmount": 170,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/sharpedo-27",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6456,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Greninja",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Frogadier",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Bring Down",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "The Pokémon that has the least HP remaining, except for this Pokémon, is Knocked Out. (If multiple Pokémon are tied, choose one.)"
+        },
+        {
+          "name": "Mist Slash",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "70",
+          "text": "This attack's damage isn't affected by Weakness, Resistance, or any other effects on your opponent's Active Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yusuke Ohmura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/33/84/7f/33847f7dd988e0c38857d013c2c1e48cdce787b225ca97b705383969bb6fe62f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19690",
+      "sequenceNumber": 28,
+      "printedNumber": "28",
+      "uuid": 47395026,
+      "prices": [
+        {
+          "priceAmount": 3379,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/greninja-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1834,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/greninja-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/greninja-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 313,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/greninja-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6457,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Inkay",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Perplex",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoyo Kimura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/53/64/0e/53640ea31a7568fb0c70552736e87c34f1d7165af48fd056fed800737ca560cb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19691",
+      "sequenceNumber": 29,
+      "printedNumber": "29",
+      "uuid": 2955887,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/inkay-29",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6458,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Malamar",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Inkay",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Hypnotic Reign",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Your opponent reveals their hand. You may discard a Pokémon you find there and use one of that Pokémon's non-GX attacks as this attack."
+        },
+        {
+          "name": "Dark Pressure",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": "Discard the top card of your opponent's deck."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yusuke Ohmura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/6c/30/78/6c30781404e051b6ea30574d43f5da4bd0312c456571bed0004d3819a260d279.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19692",
+      "sequenceNumber": 30,
+      "printedNumber": "30",
+      "uuid": 12013309,
+      "prices": [
+        {
+          "priceAmount": 305,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/malamar-30",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6459,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Gardevoir & Sylveon-GX",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 260,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fairy Song",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 2 Fairy Energy cards and attach them to your Benched Pokémon in any way you like. Then, shuffle your deck."
+        },
+        {
+          "name": "Kaleidostorm",
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "150",
+          "text": "Move any number of Energy from your Pokémon to your other Pokémon in any way you like."
+        },
+        {
+          "name": "Magical Miracle-GX",
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Fairy"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "200",
+          "text": "If this Pokémon has at least 3 extra Fairy Energy attached to it (in addition to this attack's cost), your opponent shuffles their hand into their deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "TAG TEAM",
+        "Basic"
+      ],
+      "rarity": "Double Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/images/42/10/67/4210671399f897bf26f51331172c994daed1a3a555ccc2247779873684134198.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19693",
+      "sequenceNumber": 31,
+      "printedNumber": "31",
+      "uuid": 4618436,
+      "prices": [
+        {
+          "priceAmount": 4946,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/gardevoir-&-sylveon-tag-team-gx-31",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1841,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/gardevoir-&-sylveon-tag-team-gx-31",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/gardevoir-&-sylveon-tag-team-gx-31",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1038,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/gardevoir-&-sylveon-tag-team-gx-31",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6460,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Clefairy",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Double Slap",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip 2 coins. This attack does 10 damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "0313",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3b/12/90/3b1290a93199f14bd6f04de3b9f913c60ed8d35a2fd73ca311e0e515c2fd9e7b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19694",
+      "sequenceNumber": 32,
+      "printedNumber": "32",
+      "uuid": 28432793,
+      "prices": [
+        {
+          "priceAmount": 169,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/clefairy-32",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6461,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Clefable",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Clefairy",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Moon-Watching Dance",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "This attack does 30 more damage for each of your Pokémon that has any Fairy Energy attached to it."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Suwama Chiaki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/40/75/54/4075547deac87676c58fc08af5710b1a1f54034b0e26088b8d1894398c600878.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19695",
+      "sequenceNumber": 33,
+      "printedNumber": "33",
+      "uuid": 19577921,
+      "prices": [
+        {
+          "priceAmount": 199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/clefable-33",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6462,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Togepi",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Daunt",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "During your opponent's next turn, the Defending Pokémon's attacks do 30 less damage (before applying Weakness and Resistance)."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sekio",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2e/db/3f/2edb3fac572e59f5fae04893f5ebbfecd86a1e467c359531760053ec9e541e72.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19696",
+      "sequenceNumber": 34,
+      "printedNumber": "34",
+      "uuid": 35536336,
+      "prices": [
+        {
+          "priceAmount": 144,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/togepi-34",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6463,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Togetic",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Togepi",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Energy Present",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Attach an Energy card from your hand to 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Magical Shot",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "sui",
+      "imageUrl": "https://static.tcgcollector.com/content/images/58/0c/72/580c72b94ec99a089d4841d62e21d464398ebedc15e282ad243c6d0ebdee13ba.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19697",
+      "sequenceNumber": 35,
+      "printedNumber": "35",
+      "uuid": 26391760,
+      "prices": [
+        {
+          "priceAmount": 123,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/togetic-35",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6464,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Togekiss",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Togetic",
+      "effect": [
+        {
+          "name": "Fairy Feast",
+          "text": "Once during your turn (before your attack), you may heal 30 damage from each of your Fairy Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Magical Shot",
+          "cost": [
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "70"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/ec/68/7a/ec687a08dca355ccbf1b255dc4fc0b9420d06cb3bc1a75af232fe2e6d50ffe25.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19698",
+      "sequenceNumber": 36,
+      "printedNumber": "36",
+      "uuid": 40361154,
+      "prices": [
+        {
+          "priceAmount": 208,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/togekiss-36",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6465,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Spritzee",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Nap",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Heal 20 damage from this Pokémon."
+        },
+        {
+          "name": "Fairy Wind",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "MAHOU",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8d/77/8b/8d778b8d6c41bcf1f9a97ad9385f7733d395e28be2fae8a655927825154c541b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19699",
+      "sequenceNumber": 37,
+      "printedNumber": "37",
+      "uuid": 61030768,
+      "prices": [
+        {
+          "priceAmount": 3732,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "12/02/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/spritzee-37",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1433,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "12/02/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/spritzee-37",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "12/02/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/spritzee-37",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 191,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/spritzee-37",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6466,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Aromatisse",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 90,
+      "evolvesFrom": "Spritzee",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Pungent Aroma",
+          "cost": [
+            "Fairy"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip 2 coins. If either of them is heads, your opponent reveals their hand. For each heads, choose a card you find there. Your opponent shuffles those cards into their deck."
+        },
+        {
+          "name": "Miraculous Cologne",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If heads, choose a Special Condition. Your opponent's Active Pokémon is now affected by that Special Condition."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Saya Tsuruta",
+      "imageUrl": "https://static.tcgcollector.com/content/images/23/c8/cd/23c8cdaa658db89a138cc6d485a4f79b3beda6b7868d6499254deb16e0fb5a97.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19700",
+      "sequenceNumber": 38,
+      "printedNumber": "38",
+      "uuid": 2068037,
+      "prices": [
+        {
+          "priceAmount": 3951,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/aromatisse-38",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1565,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/aromatisse-38",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/aromatisse-38",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 231,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/aromatisse-38",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6467,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Rattata",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 30,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Eri Yamaki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1b/05/02/1b05027c264df73d8c42f2f324c8ecaba6859fbb3e41097ff320d6460f0b56e1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19701",
+      "sequenceNumber": 39,
+      "printedNumber": "39",
+      "uuid": 54581325,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/rattata-39",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6468,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Raticate",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Rattata",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Escaping Incisors",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "70",
+          "text": "If your opponent's Active Pokémon is an Evolution Pokémon, switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shigenori Negishi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4a/3c/5d/4a3c5d0b1331697af1efd7d2c420b59825aa7c8d9d756e271d283c023037820c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19702",
+      "sequenceNumber": 40,
+      "printedNumber": "40",
+      "uuid": 75767768,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/raticate-40",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6469,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Lickitung",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Lick",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yukiko Baba",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7d/71/b6/7d71b63d5df0b1349c7c9fcf998d1a599da51faa9abf1aa23048ed6f27bb6a4a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19703",
+      "sequenceNumber": 41,
+      "printedNumber": "41",
+      "uuid": 49598589,
+      "prices": [
+        {
+          "priceAmount": 3376,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "09/03/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/lickitung-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1221,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "09/03/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/lickitung-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "09/03/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/lickitung-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 94,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/lickitung-41",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6470,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Lickilicky",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Lickitung",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Eat Up",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40",
+          "text": "Before doing damage, discard all Pokémon Tool cards from your opponent's Active Pokémon. If you discarded a Pokémon Tool card in this way, heal all damage from this Pokémon."
+        },
+        {
+          "name": "Tonguenado",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60×",
+          "text": "Flip 4 coins. This attack does 60 damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "sui",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d0/1c/12/d01c12f3a0831824c1e0dbd91e30c627f7551c7fb2d2ee940df7a11be68e1841.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19704",
+      "sequenceNumber": 42,
+      "printedNumber": "42",
+      "uuid": 26184021,
+      "prices": [
+        {
+          "priceAmount": 249,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/lickilicky-42",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6471,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Electromagnetic Radar",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "You can play this card only if you discard 2 other cards from your hand. Search your deck for up to 2 in any combination of Lightning Pokémon-GX and Lightning Pokémon-EX, reveal them, and put them into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yoshinobu Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9a/f4/12/9af412242e0afc4cd7f1989205f629a3b579fbaff3c424924306d7375cd5ea60.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19705",
+      "sequenceNumber": 43,
+      "printedNumber": "43",
+      "uuid": 91267332,
+      "prices": []
+    },
+    {
+      "id": 6472,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Surprise Box",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Put a card from your opponents discard pile into their hand.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Common",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/c5/3f/a5/c53fa584a5bc2d12ed8b114a9cbdfbc0a6ddd9b81979b7f094f315716336ce7c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19706",
+      "sequenceNumber": 44,
+      "printedNumber": "44",
+      "uuid": 47733386,
+      "prices": [
+        {
+          "priceAmount": 213,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/surprise-box-44",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6473,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Pokégear 3.0",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Look at the top 7 cards of your deck. Choose a Supporter card you find there, show it to your opponent, and put it into your hand. Shuffle the other cards back into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Studio Bora Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3b/b0/63/3bb0633624749ef0d1aaf1335be2c19c451390dbce905acb7337c8f30870efbf.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19707",
+      "sequenceNumber": 45,
+      "printedNumber": "45",
+      "uuid": 51681717,
+      "prices": []
+    },
+    {
+      "id": 6474,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Stealthy Hood",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Prevent all effects of your opponents Abilities done to the Pokémon this card is attached to. Remove any such existing effects.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bf/fe/92/bffe92b38a37067f60b0f84419c8a248dab383a0f9db701b5aa1ab8ba72e9f03.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19708",
+      "sequenceNumber": 46,
+      "printedNumber": "46",
+      "uuid": 33743551,
+      "prices": [
+        {
+          "priceAmount": 213,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/stealthy-hood-46",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6475,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Fairy Charm Lightning",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Prevent all damage done to the Fairy Pokémon this card is attached to by attacks from your opponents Lightning Pokémon-GX and Lightning Pokémon-EX.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0b/5d/0f/0b5d0f21978a7badcf311ae9f122f251b932d3e061cbc39fdd128f5a0a0d6e6d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19709",
+      "sequenceNumber": 47,
+      "printedNumber": "47",
+      "uuid": 17830409,
+      "prices": [
+        {
+          "priceAmount": 213,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/fairy-charm-lightning-47",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6476,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Fairy Charm Ability",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"Attach a Pokémon Tool to 1 of your Pokémon that doesnt already have a Pokémon Tool attached to it.\", You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Prevent all damage done to the Fairy Pokémon this card is attached to by attacks from your opponents Pokémon-GX and Pokémon-EX that have Abilities.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item",
+        "Tool"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/88/a3/58/88a35827d20a5cc50efc3ce998d9c09854948470b5eb1a85fb15dd650917560b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19710",
+      "sequenceNumber": 48,
+      "printedNumber": "48",
+      "uuid": 79765056,
+      "prices": [
+        {
+          "priceAmount": 50,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/fairy-charm-ability-48",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6477,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Janine",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Look at the top 4 cards of your deck and put 2 of them into your hand. Shuffle the other cards back into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/14/9d/30/149d30f7741dff0f064ecdcce3ed0a6713db18706c8b0a7aa5d2efd75d9fcd04.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19711",
+      "sequenceNumber": 49,
+      "printedNumber": "49",
+      "uuid": 23963797,
+      "prices": [
+        {
+          "priceAmount": 100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/janine-49",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6478,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Koga's Trap",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "\"Your opponents Active Pokémon is now Confused and Poisoned.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Megumi Mizutani",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a5/df/1b/a5df1b0ab675ea8cb2f3bdfeca33a492a3c2166d695b5e1e7e01ebad528d3ff4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19712",
+      "sequenceNumber": 50,
+      "printedNumber": "50",
+      "uuid": 91280964,
+      "prices": [
+        {
+          "priceAmount": 184,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/koga's-trap-50",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6479,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Lt. Surge's Strategy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "You can play this card only if you have more Prize cards remaining than your opponent. During this turn, you can play 3 Supporter cards (including this card)."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Uncommon",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Megumi Mizutani",
+      "imageUrl": "https://static.tcgcollector.com/content/images/aa/7e/32/aa7e32a16c9379f8efa6cc456c7408d47c2552e0d1d30941c2fc2aac9be5d887.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19713",
+      "sequenceNumber": 51,
+      "printedNumber": "51",
+      "uuid": 93724500,
+      "prices": [
+        {
+          "priceAmount": 111,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/lt-surge's-strategy-51",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6480,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Electropower",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"During this turn, your Lightning Pokémons attacks do 30 more damage to your opponents Active Pokémon (before applying Weakness and Resistance).\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Trainer Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ayaka Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/bc/e1/da/bce1dab32f4989757b5ecc265f9b7beb84507d1945f9fb9cfe23021943d82ab1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19714",
+      "sequenceNumber": 52,
+      "printedNumber": "52",
+      "uuid": 78139464,
+      "prices": []
+    },
+    {
+      "id": 6481,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Enhanced Hammer",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Discard a Special Energy from 1 of your opponents Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Trainer Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yoshinobu Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8a/70/a9/8a70a944f127ac633e802e11803f3fbaca0c26aed3f78626fe2d9e0807e23c33.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19715",
+      "sequenceNumber": 53,
+      "printedNumber": "53",
+      "uuid": 2054911,
+      "prices": [
+        {
+          "priceAmount": 695,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/enhanced-hammer-53",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6482,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Max Potion",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Heal all damage from 1 of your Pokémon. If you do, discard all Energy from that Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Trainer Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/2c/ab/93/2cab931f033edbbcdcd53f2f387813825ed8bc4c0e5479f827aaf2d36efdd13a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19716",
+      "sequenceNumber": 54,
+      "printedNumber": "54",
+      "uuid": 45059943,
+      "prices": [
+        {
+          "priceAmount": 437,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/max-potion-54",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6483,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Guzma",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "\"Switch 1 of your opponents Benched Pokémon with their Active Pokémon. If you do, switch your Active Pokémon with 1 of your Benched Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Trainer Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0e/06/ab/0e06ab2a358c66de36313a3c20a002e5ed033e4aa1dfc120c8748386b89070ad.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19717",
+      "sequenceNumber": 55,
+      "printedNumber": "55",
+      "uuid": 9197409,
+      "prices": [
+        {
+          "priceAmount": 1400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/guzma-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/guzma-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 822,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/guzma-55",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6484,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Venomoth-GX",
+      "types": [
+        "Grass"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Venonat",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Shinobi Mastery",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "110+",
+          "text": "If you played Koga's Trap from your hand during this turn, this attack does 90 more damage. If you played Janine from your hand during this turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon during your opponent's next turn."
+        },
+        {
+          "name": "Ten-Card Return-GX",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "60",
+          "text": "Shuffle your hand into your deck. Then, draw 10 cards. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 1"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a2/d9/7e/a2d97e5be6fd8a07f219bd7636b19f7c5751cad669e84a61bb95404280a710ad.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19718",
+      "sequenceNumber": 56,
+      "printedNumber": "56",
+      "uuid": 69587024,
+      "prices": [
+        {
+          "priceAmount": 4648,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/venomoth-gx-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1979,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/venomoth-gx-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/venomoth-gx-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 401,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/venomoth-gx-56",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6485,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Dedenne-GX",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 160,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Dedechange",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may discard your hand and draw 6 cards. You can't use more than 1 Dedechange Ability each turn.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Static Shock",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50"
+        },
+        {
+          "name": "Tingly Return-GX",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50",
+          "text": "Your opponent's Active Pokémon is now Paralyzed. Put this Pokémon and all cards attached to it into your hand. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/30/ba/bd/30babdfd33af5d11c0bf9e50ebb0a80eb2686e62fb12f364f5613b0c61698003.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19719",
+      "sequenceNumber": 57,
+      "printedNumber": "57",
+      "uuid": 26853747,
+      "prices": [
+        {
+          "priceAmount": 3967,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/dedenne-gx-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1525,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/dedenne-gx-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/dedenne-gx-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 714,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/dedenne-gx-57",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6486,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Greninja & Zoroark-GX",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 250,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dark Pulse",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "This attack does 30 more damage times the amount of Darkness Energy attached to all of your Pokémon."
+        },
+        {
+          "name": "Dark Union-GX",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Put 2 in any combination of Darkness Pokémon-GX and Darkness Pokémon-EX from your discard pile onto your Bench. If this Pokémon has at least 1 extra Energy attached to it (in addition to this attack's cost), attach 2 Energy cards from your discard pile to each Pokémon that you put onto your Bench in this way. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "TAG TEAM",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/52/d7/80/52d780d09252f343b5a86071a3178ad8df372217f589c359a9fc803f0933d023.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19720",
+      "sequenceNumber": 58,
+      "printedNumber": "58",
+      "uuid": 39318847,
+      "prices": [
+        {
+          "priceAmount": 1880,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/greninja-&-zoroark-tag-team-gx-58",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6487,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Greninja & Zoroark-GX",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 250,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dark Pulse",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "This attack does 30 more damage times the amount of Darkness Energy attached to all of your Pokémon."
+        },
+        {
+          "name": "Dark Union-GX",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Put 2 in any combination of Darkness Pokémon-GX and Darkness Pokémon-EX from your discard pile onto your Bench. If this Pokémon has at least 1 extra Energy attached to it (in addition to this attack's cost), attach 2 Energy cards from your discard pile to each Pokémon that you put onto your Bench in this way. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "TAG TEAM",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kodama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9f/98/65/9f98657003d55f0637d0f8c41e07547ce06d3e7c586b49b6c54dfc511bc291b4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19721",
+      "sequenceNumber": 59,
+      "printedNumber": "59",
+      "uuid": 78471484,
+      "prices": [
+        {
+          "priceAmount": 11000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/greninja-&-zoroark-tag-team-gx-59",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6488,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Gardevoir & Sylveon-GX",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 260,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fairy Song",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 2 Fairy Energy cards and attach them to your Benched Pokémon in any way you like. Then, shuffle your deck."
+        },
+        {
+          "name": "Kaleidostorm",
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "150",
+          "text": "Move any number of Energy from your Pokémon to your other Pokémon in any way you like."
+        },
+        {
+          "name": "Magical Miracle-GX",
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Fairy"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "200",
+          "text": "If this Pokémon has at least 3 extra Fairy Energy attached to it (in addition to this attack's cost), your opponent shuffles their hand into their deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "TAG TEAM",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/89/57/72/89577203414ea281db7e116a6e9b2dfefdeb061a053cf00dafe7a3387486df45.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19722",
+      "sequenceNumber": 60,
+      "printedNumber": "60",
+      "uuid": 84457181,
+      "prices": [
+        {
+          "priceAmount": 1350,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/gardevoir-&-sylveon-tag-team-gx-60",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6489,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Gardevoir & Sylveon-GX",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 260,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fairy Song",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 2 Fairy Energy cards and attach them to your Benched Pokémon in any way you like. Then, shuffle your deck."
+        },
+        {
+          "name": "Kaleidostorm",
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "150",
+          "text": "Move any number of Energy from your Pokémon to your other Pokémon in any way you like."
+        },
+        {
+          "name": "Magical Miracle-GX",
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Fairy"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "200",
+          "text": "If this Pokémon has at least 3 extra Fairy Energy attached to it (in addition to this attack's cost), your opponent shuffles their hand into their deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "TAG TEAM",
+        "Basic"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Atsuko Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/cf/71/5c/cf715c07d48607a9f08ebae8064c37f475ddde944ecb39866e1e0046e6e8b3b8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19723",
+      "sequenceNumber": 61,
+      "printedNumber": "61",
+      "uuid": 5264869,
+      "prices": [
+        {
+          "priceAmount": 30000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/gardevoir-&-sylveon-tag-team-gx-61",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 19999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/gardevoir-&-sylveon-tag-team-gx-61",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 22000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/gardevoir-&-sylveon-tag-team-gx-61",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 7731,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/gardevoir-&-sylveon-tag-team-gx-61",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6490,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Janine",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Look at the top 4 cards of your deck and put 2 of them into your hand. Shuffle the other cards back into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hideki Ishikawa",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1c/99/3d/1c993df5102e32aa25151a1826e326d6d34ee86bd249d2ee2aa26cf4ca6b1c83.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19724",
+      "sequenceNumber": 62,
+      "printedNumber": "62",
+      "uuid": 5526411,
+      "prices": [
+        {
+          "priceAmount": 6042,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/janine-62",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/janine-62",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 2700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/janine-62",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/janine-62",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 2166,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/janine-62",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6491,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Koga's Trap",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "\"Your opponents Active Pokémon is now Confused and Poisoned.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "Super Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "TOKIYA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/5f/94/f0/5f94f05e0cf567f1f7aeeab7e50ed23097edbc1fa954a18bb19092191e716340.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19725",
+      "sequenceNumber": 63,
+      "printedNumber": "63",
+      "uuid": 31587301,
+      "prices": [
+        {
+          "priceAmount": 4464,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/koga's-trap-63",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1050,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/koga's-trap-63",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/koga's-trap-63",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 915,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/koga's-trap-63",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6492,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Venomoth-GX",
+      "types": [
+        "Grass"
+      ],
+      "hp": 200,
+      "evolvesFrom": "Venonat",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Shinobi Mastery",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "110+",
+          "text": "If you played Koga's Trap from your hand during this turn, this attack does 90 more damage. If you played Janine from your hand during this turn, prevent all damage done to this Pokémon by attacks from Basic Pokémon during your opponent's next turn."
+        },
+        {
+          "name": "Ten-Card Return-GX",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "60",
+          "text": "Shuffle your hand into your deck. Then, draw 10 cards. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Stage 1"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b7/bf/fb/b7bffb2b70596b542c38c41b0fa4dc78fd5028dc189e6bec85bac76da53324de.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19726",
+      "sequenceNumber": 64,
+      "printedNumber": "64",
+      "uuid": 59699203,
+      "prices": [
+        {
+          "priceAmount": 6155,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/venomoth-gx-64",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 3040,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/venomoth-gx-64",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/venomoth-gx-64",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 775,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/venomoth-gx-64",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6493,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Dedenne-GX",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 160,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Dedechange",
+          "text": "When you play this Pokémon from your hand onto your Bench during your turn, you may discard your hand and draw 6 cards. You can't use more than 1 Dedechange Ability each turn.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Static Shock",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50"
+        },
+        {
+          "name": "Tingly Return-GX",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50",
+          "text": "Your opponent's Active Pokémon is now Paralyzed. Put this Pokémon and all cards attached to it into your hand. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "Basic"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/1e/d8/7e/1ed87ef46a35a9ebdf1810eba6b5e3adb518e3d7c9dc0887547815775691dea9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19727",
+      "sequenceNumber": 65,
+      "printedNumber": "65",
+      "uuid": 52756870,
+      "prices": [
+        {
+          "priceAmount": 5197,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/dedenne-gx-65",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1898,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/dedenne-gx-65",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 4963,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/dedenne-gx-65",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 5100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/dedenne-gx-65",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 1642,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/dedenne-gx-65",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6494,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Greninja & Zoroark-GX",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 250,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dark Pulse",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "This attack does 30 more damage times the amount of Darkness Energy attached to all of your Pokémon."
+        },
+        {
+          "name": "Dark Union-GX",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Put 2 in any combination of Darkness Pokémon-GX and Darkness Pokémon-EX from your discard pile onto your Bench. If this Pokémon has at least 1 extra Energy attached to it (in addition to this attack's cost), attach 2 Energy cards from your discard pile to each Pokémon that you put onto your Bench in this way. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "TAG TEAM",
+        "Basic"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/85/84/a7/8584a754d767b3e1b03d53b1802792745d3ac57c0cc65b0474abfe98ff0b0846.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19728",
+      "sequenceNumber": 66,
+      "printedNumber": "66",
+      "uuid": 59378487,
+      "prices": [
+        {
+          "priceAmount": 3600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/greninja-&-zoroark-tag-team-gx-66",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1568,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/greninja-&-zoroark-tag-team-gx-66",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6495,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Gardevoir & Sylveon-GX",
+      "types": [
+        "Fairy"
+      ],
+      "hp": 260,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fairy Song",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 2 Fairy Energy cards and attach them to your Benched Pokémon in any way you like. Then, shuffle your deck."
+        },
+        {
+          "name": "Kaleidostorm",
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "150",
+          "text": "Move any number of Energy from your Pokémon to your other Pokémon in any way you like."
+        },
+        {
+          "name": "Magical Miracle-GX",
+          "cost": [
+            "Fairy",
+            "Fairy",
+            "Fairy"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "200",
+          "text": "If this Pokémon has at least 3 extra Fairy Energy attached to it (in addition to this attack's cost), your opponent shuffles their hand into their deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Metal",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-GX",
+        "TAG TEAM",
+        "Basic"
+      ],
+      "rarity": "Hyper Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/56/4d/1f/564d1f3c3b3aba6199e0d4149d18ea9ed83827ec3d113d5ba5fd42f65ddedd0c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19729",
+      "sequenceNumber": 67,
+      "printedNumber": "67",
+      "uuid": 72428476,
+      "prices": [
+        {
+          "priceAmount": 4819,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/gardevoir-&-sylveon-tag-team-gx-67",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6496,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Electromagnetic Radar",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "You can play this card only if you discard 2 other cards from your hand. Search your deck for up to 2 in any combination of Lightning Pokémon-GX and Lightning Pokémon-EX, reveal them, and put them into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/dd/db/54/dddb54310b0d3c4aec99150bca96ff91ef03631d7da35f3758bf3d08a1e76ec0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19730",
+      "sequenceNumber": 68,
+      "printedNumber": "68",
+      "uuid": 61092990,
+      "prices": [
+        {
+          "priceAmount": 3888,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/electromagnetic-radar-68",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 672,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/electromagnetic-radar-68",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6497,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Pokégear 3.0",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Look at the top 7 cards of your deck. Choose a Supporter card you find there, show it to your opponent, and put it into your hand. Shuffle the other cards back into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Trainer"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/34/c9/e5/34c9e53b531dd65a37de535c8dd78c049d4ab5d140c7a4c6a7d9406d36a2090e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19731",
+      "sequenceNumber": 69,
+      "printedNumber": "69",
+      "uuid": 34404609,
+      "prices": [
+        {
+          "priceAmount": 2901,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/pokegear-30-69",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 7009,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "11/12/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/pokegear-30-69",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 7700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "11/12/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/pokegear-30-69",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 2510,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/pokegear-30-69",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 6498,
+      "setData": {
+        "name": "Night Unison",
+        "printed_count": "70",
+        "card_count": 70,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/night-unison"
+      },
+      "name": "Aether Paradise Conservation Area",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"This card stays in play when you play it. Discard this card if another Stadium card comes into play. If another card with the same name is in play, you cant play this card.\", \"Basic Grass Pokémon and Basic Lightning Pokémon (both yours and your opponents) take 30 less damage from the opponents attacks (after applying Weakness and Resistance).\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "Ultra Rare",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/images/66/61/e2/6661e2be1702f44af99415a2a6d347e5002001a5af3ea8d18f25b7d455edb067.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/19732",
+      "sequenceNumber": 70,
+      "printedNumber": "70",
+      "uuid": 82472544,
+      "prices": [
+        {
+          "priceAmount": 229,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/13/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-night-unison/aether-paradise-conservation-area-70",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 70,
+  "totalCount": 70
+}

@@ -1,0 +1,2958 @@
+{
+  "data": [
+    {
+      "id": 23890,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Bulbasaur",
+      "types": [
+        "Grass"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Leech Seed",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Unless all damage from this attack is prevented, you may remove 1 damage counter from Bulbasaur."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/12/ec/5c/12ec5c6a16c3aff38c3d945ec5c9413f40e83e24c0991cdb618d30696aa3f197.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43350",
+      "sequenceNumber": 1,
+      "printedNumber": "001",
+      "uuid": 17181504,
+      "prices": [
+        {
+          "priceAmount": 3300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/bulbasaur-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 950,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/bulbasaur-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 2449,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/bulbasaur-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 2700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/bulbasaur-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 3000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/bulbasaur-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 513,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/bulbasaur-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23891,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Ivysaur",
+      "types": [
+        "Grass"
+      ],
+      "hp": 60,
+      "evolvesFrom": "Bulbasaur",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Vine Whip",
+          "cost": [
+            "Grass",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30"
+        },
+        {
+          "name": "Poisonpowder",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "20",
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/b5/c8/60/b5c86012edf0169c0e9cbce76e220f4a04452eb12e33f5355ae77abc63ab9693.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43351",
+      "sequenceNumber": 2,
+      "printedNumber": "002",
+      "uuid": 36580357,
+      "prices": [
+        {
+          "priceAmount": 2698,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/ivysaur-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/ivysaur-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1416,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/ivysaur-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/ivysaur-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 509,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/ivysaur-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23892,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Venusaur",
+      "types": [
+        "Grass"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Ivysaur",
+      "effect": [
+        {
+          "name": "Energy Trans",
+          "text": "As often as you like during your turn (before your attack), you may take 1 Grass Energy card attached to 1 of your Pokémon and attach it to a different one. This power can't be used if Venusaur is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Solarbeam",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/bb/90/86/bb90862c24161e13491372d150cb0f2c2da6f29490b11b8770a2ad9f916aac75.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43352",
+      "sequenceNumber": 3,
+      "printedNumber": "003",
+      "uuid": 13604346,
+      "prices": [
+        {
+          "priceAmount": 6278,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/venusaur-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1650,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/venusaur-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 7"
+        },
+        {
+          "priceAmount": 2039,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/venusaur-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 3757,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/venusaur-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 4100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/venusaur-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 2400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/venusaur-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23893,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Paras",
+      "types": [
+        "Grass"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Call for Family",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 2 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward."
+        },
+        {
+          "name": "Toxic Spore",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yuka Morii",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/ed/55/e8/ed55e817567c1aee4df22892f8ffc6f3cf084ff7f8050a8a06388c3662c98337.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43353",
+      "sequenceNumber": 4,
+      "printedNumber": "004",
+      "uuid": 77995554,
+      "prices": [
+        {
+          "priceAmount": 2298,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/paras-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 350,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/paras-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/paras-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 196,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/paras-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23894,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Parasect",
+      "types": [
+        "Grass"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Paras",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Nutritional Support",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 2 Grass Energy cards and attach them to any of your Pokémon in any way you like. Shuffle your deck afterward."
+        },
+        {
+          "name": "Hibernation Spore",
+          "cost": [
+            "Grass",
+            "Grass",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "The Defending Pokémon is now Asleep. Flip 2 coins instead of 1 between turns. If either of them is tails, the Defending Pokémon is still Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "+20"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kagemaru Himeno",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/ab/93/fd/ab93fd50bd08c2c0ed31749fd996dc9cfffb32a62863ab432e277fc8c5b1a33d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43354",
+      "sequenceNumber": 5,
+      "printedNumber": "005",
+      "uuid": 70788918,
+      "prices": [
+        {
+          "priceAmount": 2038,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/parasect-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 550,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/parasect-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/parasect-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/parasect-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23895,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Scyther",
+      "types": [
+        "Grass"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Swords Dance",
+          "cost": [
+            "Grass"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "During your next turn, Scyther's Slash attack's base damage is 60 instead of 30."
+        },
+        {
+          "name": "Slash",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        ""
+      ],
+      "convertedRetreatCost": 0,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/5d/1f/86/5d1f86bddb97d25e7f8a688b2f9db7a6221bef19d8eaac32b47960ca6071a8a9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43355",
+      "sequenceNumber": 6,
+      "printedNumber": "006",
+      "uuid": 46437648,
+      "prices": [
+        {
+          "priceAmount": 3050,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/scyther-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1533,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/scyther-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 2519,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/scyther-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/scyther-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 434,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/scyther-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23896,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Pinsir",
+      "types": [
+        "Grass"
+      ],
+      "hp": 110,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Roof Fling",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Flip a coin. If heads, put your opponent's Active Pokémon and all cards attached to it into your opponent's hand."
+        },
+        {
+          "name": "Guillotine",
+          "cost": [
+            "Grass",
+            "Grass"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "DemizuPosuka",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/c7/29/84/c729842f120fb29120066e7798f37633483453318e55e00f02fa34077a62a2ce.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43356",
+      "sequenceNumber": 7,
+      "printedNumber": "007",
+      "uuid": 87909077,
+      "prices": [
+        {
+          "priceAmount": 1762,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/pinsir-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/pinsir-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/pinsir-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 197,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/pinsir-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23897,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Sandshrew",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Draw a card."
+        },
+        {
+          "name": "Rolling Tackle",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sekio",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/bf/21/d2/bf21d27a9f519191ec3532541e7c884f831419cdf1b6e8370c1c3b6d7cff7df7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43357",
+      "sequenceNumber": 8,
+      "printedNumber": "008",
+      "uuid": 63417239,
+      "prices": [
+        {
+          "priceAmount": 1998,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/sandshrew-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 902,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/sandshrew-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/sandshrew-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 195,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/sandshrew-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23898,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Sandslash",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 110,
+      "evolvesFrom": "Sandshrew",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Continuous Scratch",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30×",
+          "text": "Flip 4 coins. This attack does 30 damage for each heads."
+        },
+        {
+          "name": "Sand Tomb",
+          "cost": [
+            "Fighting",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shigenori Negishi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/72/b7/2e/72b72ed04a1e4075a2d7f742d52ac47534276f829d0133d2369cd6ecf337b7d1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43358",
+      "sequenceNumber": 9,
+      "printedNumber": "009",
+      "uuid": 76216078,
+      "prices": [
+        {
+          "priceAmount": 2168,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/sandslash-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/sandslash-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/sandslash-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 186,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/sandslash-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23899,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Onix",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Land Crush",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Grass",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Tomokazu Komiya",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/eb/da/53/ebda530cf4aaee2c506db298d2547be5b247452d7c6b238bbf43dc01e27ba245.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43359",
+      "sequenceNumber": 10,
+      "printedNumber": "010",
+      "uuid": 25376272,
+      "prices": [
+        {
+          "priceAmount": 2393,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/onix-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/onix-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/onix-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 227,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/onix-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23900,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Hitmonlee",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Low Sweep",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40"
+        },
+        {
+          "name": "Coordinated Strike",
+          "cost": [
+            "Fighting",
+            "Fighting",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80+",
+          "text": "If Hitmonchan is on your Bench, this attack does 80 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shigenori Negishi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/55/ee/4b/55ee4b41d4daf07eb4d747c4477275638d599fed94afdb33029430110af52518.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43360",
+      "sequenceNumber": 11,
+      "printedNumber": "011",
+      "uuid": 40046999,
+      "prices": [
+        {
+          "priceAmount": 2185,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/hitmonlee-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1501,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/hitmonlee-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/hitmonlee-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 224,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/hitmonlee-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23901,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Hitmonchan",
+      "types": [
+        "Fighting"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Coordinated Beatdown",
+          "cost": [
+            "Fighting"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20+",
+          "text": "If Hitmonlee is on your Bench, this attack does 20 more damage."
+        },
+        {
+          "name": "Mach Cross",
+          "cost": [
+            "Fighting",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "60"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Psychic",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Shigenori Negishi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/da/7b/8c/da7b8c61755eb0023f151544db5617ae592a9c62f4af4b3adb1136f3528b070c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43361",
+      "sequenceNumber": 12,
+      "printedNumber": "012",
+      "uuid": 42923497,
+      "prices": [
+        {
+          "priceAmount": 2598,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/hitmonchan-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 650,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/hitmonchan-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1150,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/hitmonchan-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 281,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/hitmonchan-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23902,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Doduo",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Double Stab",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10×",
+          "text": "Flip 2 coins. This attack does 10 damage times the number of heads."
+        },
+        {
+          "name": "Doduo Delivery",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Draw 2 cards."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoki Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/b2/cb/72/b2cb7294a7bab173e1682a1757d83d126863bc5e944df1f4e2bc8c1cee2471fa.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43362",
+      "sequenceNumber": 13,
+      "printedNumber": "013",
+      "uuid": 68430350,
+      "prices": [
+        {
+          "priceAmount": 1902,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/doduo-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1299,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/doduo-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/doduo-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 175,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/doduo-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23903,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Dodrio",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Doduo",
+      "effect": [
+        {
+          "name": "Retreat Aid",
+          "text": "As long as Dodrio is on your Bench, your Active Pokémon's Retreat Cost is Colorless Colorless less.",
+          "type": "Poké-BODY"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Incessant Peck",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20+",
+          "text": "Flip a coin until you get tails. This attack does 20 damage plus 20 more damage for each heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yukiko Baba",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/62/0b/94/620b94a91d90288d46e676d814449e37a63642832788893f46a8f177279073a3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43363",
+      "sequenceNumber": 14,
+      "printedNumber": "014",
+      "uuid": 3431254,
+      "prices": [
+        {
+          "priceAmount": 1823,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/dodrio-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1306,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/dodrio-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/dodrio-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 180,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/dodrio-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23904,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Chansey",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Scrunch",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "Flip a coin. If heads, prevent all damage done to Chansey during your opponent's next turn. (Any other effects of attacks still happen.)"
+        },
+        {
+          "name": "Double-edge",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "80",
+          "text": "Chansey does 80 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/69/9c/c2/699cc29e83258e6affbe36ef56e3072dff8fec9284484b1bccfe98b6fd54c488.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43364",
+      "sequenceNumber": 15,
+      "printedNumber": "015",
+      "uuid": 84175256,
+      "prices": [
+        {
+          "priceAmount": 2605,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/chansey-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 850,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/chansey-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1957,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/chansey-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/chansey-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 441,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/chansey-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23905,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Snorlax",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 150,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Draw 2 cards."
+        },
+        {
+          "name": "Collapse",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120",
+          "text": "This Pokémon is now Asleep."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 4,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Eri Yamaki",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/62/08/dc/6208dcbcff627ec582611ee7731317037bf97f19c32b4f0c882cf1e6887329cf.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43365",
+      "sequenceNumber": 16,
+      "printedNumber": "016",
+      "uuid": 55417545,
+      "prices": [
+        {
+          "priceAmount": 3068,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/snorlax-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1988,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/snorlax-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 2200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/snorlax-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/snorlax-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 480,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/snorlax-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23906,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Lugia ex",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 230,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Rising Wind",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Search your deck for a Basic Energy card and attach it to this Pokémon. Then, shuffle your deck."
+        },
+        {
+          "name": "Aero Break",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "200",
+          "text": "This Pokémon also does 30 damage to itself."
+        }
+      ],
+      "rules": [
+        "When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex (SV)",
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "PLANETA Hiiragi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/42/e3/b0/42e3b0c945f78520166213bff31e79c89d4d9ddd90aaaeb857ae6a7b2eec281e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43366",
+      "sequenceNumber": 17,
+      "printedNumber": "017",
+      "uuid": 73588964,
+      "prices": [
+        {
+          "priceAmount": 3353,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/lugia-ex-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/lugia-ex-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/lugia-ex-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 420,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/lugia-ex-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23907,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Super Rod",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Shuffle up to 3 in any combination of Pokémon and Basic Energy cards from your discard pile into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/c9/c9/85/c9c985eb7dc99b222a69ee849d30415e44d77e2a89ead2cfbb9000ef4bc0e85f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43367",
+      "sequenceNumber": 18,
+      "printedNumber": "018",
+      "uuid": 26256795,
+      "prices": [
+        {
+          "priceAmount": 1605,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/super-rod-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1284,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/super-rod-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/super-rod-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 175,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/super-rod-18",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23908,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Ultra Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "You can use this card only if you discard 2 other cards from your hand.\\nSearch your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "sadaji",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/13/d1/e8/13d1e8ec304dfcf06e3b2855f06113030761f4ba80d8b1a6de3d22b81bd65fd5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43368",
+      "sequenceNumber": 19,
+      "printedNumber": "019",
+      "uuid": 22008136,
+      "prices": [
+        {
+          "priceAmount": 2411,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/ultra-ball-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 850,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/ultra-ball-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/ultra-ball-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 163,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/ultra-ball-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23909,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Computer Search",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "You can use this card only if you discard 2 other cards from your hand.\\nSearch your deck for a card and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/18/55/b5/1855b5b5e2834f41a478bd8baf3da792c692e63652e37605b195bdf8db442658.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43369",
+      "sequenceNumber": 20,
+      "printedNumber": "020",
+      "uuid": 66518763,
+      "prices": [
+        {
+          "priceAmount": 2791,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/computer-search-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 180,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/computer-search-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23910,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "VS Seeker",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Put a Supporter card from your discard pile into your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/70/5c/d4/705cd46d05c9d92b2405f1175d541a9656f4fa7861d6ce7b6aaed9b0dabf9ab4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43370",
+      "sequenceNumber": 21,
+      "printedNumber": "021",
+      "uuid": 11411106,
+      "prices": [
+        {
+          "priceAmount": 3972,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/vs-seeker-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1318,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/vs-seeker-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/vs-seeker-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 220,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/vs-seeker-21",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23911,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Rare Candy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "\"Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it, skipping the Stage 1. You cant use this card during your first turn or on a Basic Pokémon that was put into play this turn.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/51/8c/c4/518cc4dc3ee089e4cf7c33f511e2de9bcf22e1f3f41f7fc6d8bf47ed096cb73c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43371",
+      "sequenceNumber": 22,
+      "printedNumber": "022",
+      "uuid": 46412220,
+      "prices": [
+        {
+          "priceAmount": 2100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/rare-candy-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 775,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/rare-candy-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/rare-candy-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 186,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/rare-candy-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23912,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Switch your Active Pokémon with 1 of your Benched Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Studio Bora Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/d0/73/35/d07335eac38272888242f10b929f5fd9f93efa38b82b195be2d62d83701b0b5c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43372",
+      "sequenceNumber": 23,
+      "printedNumber": "023",
+      "uuid": 73544824,
+      "prices": [
+        {
+          "priceAmount": 3879,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/switch-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 499,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/switch-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1036,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/switch-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/switch-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/switch-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23913,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Poké Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/d4/80/9e/d4809e77980e0b75650fa28703f20102416502df7fb22458e6c5c5ba37cb1061.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43373",
+      "sequenceNumber": 24,
+      "printedNumber": "024",
+      "uuid": 47979108,
+      "prices": [
+        {
+          "priceAmount": 1750,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/poke-ball-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 850,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/poke-ball-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/poke-ball-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 150,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/poke-ball-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23914,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Sun Seed",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached.",
+        "\"The attacks used by the Venusaur this card is attached to do 100 more damage to your opponents Active Pokémon (before applying Weakness and Resistance).\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Tool"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/44/fb/f3/44fbf3ae3c71eeda7daa7905d6862d81950f5476fda1913554d0b8ac4fb0ac23.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43374",
+      "sequenceNumber": 25,
+      "printedNumber": "025",
+      "uuid": 18383498,
+      "prices": []
+    },
+    {
+      "id": 23915,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Professor Oak",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Discard your hand and draw 7 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/27/92/c4/2792c419049e66ced4bbe43ad90b6e6c5b660c18c8cb4c0a7efb6b6bf073e760.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43375",
+      "sequenceNumber": 26,
+      "printedNumber": "026",
+      "uuid": 76517424,
+      "prices": [
+        {
+          "priceAmount": 1801,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/professor-oak-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1227,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/professor-oak-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/professor-oak-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 166,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/professor-oak-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23916,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Pokémon Fan Club",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Search your deck for up to 2 Basic Pokémon, reveal them, and put them into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sanosuke Sakuma",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/35/f7/0f/35f70f111f9f1fc906a47732b66cca74f3400ea7726fb4afadb8200721eede3b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43376",
+      "sequenceNumber": 27,
+      "printedNumber": "027",
+      "uuid": 52965884,
+      "prices": []
+    },
+    {
+      "id": 23917,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Pokémon Nurse",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Heal all damage from 1 of your Pokémon. If you healed any damage in this way, discard all Energy from that Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/00/11/37/0011379d1e99b1698025d937f547fae059d640ecc38444f7112a6f3b3ddaee11.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43377",
+      "sequenceNumber": 28,
+      "printedNumber": "028",
+      "uuid": 33340822,
+      "prices": [
+        {
+          "priceAmount": 2146,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/pokemon-nurse-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2050,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/pokemon-nurse-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/pokemon-nurse-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 274,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-venusaur/pokemon-nurse-28",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23918,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Boss's Orders",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "\"Switch in 1 of your opponents Benched Pokémon to the Active Spot.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "nagimiso",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/41/c3/0d/41c30d8e57bdad0666cb95b8f2cdb3f99debe3f4ef472e408d10402265b90652.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43378",
+      "sequenceNumber": 29,
+      "printedNumber": "029",
+      "uuid": 39264013,
+      "prices": []
+    },
+    {
+      "id": 23919,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Bill",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Draw 2 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/84/ce/9a/84ce9a3a82555d96c88a9ef16ddebf30e90231c5cfe14a0f04bd54cf9dc52eef.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43379",
+      "sequenceNumber": 30,
+      "printedNumber": "030",
+      "uuid": 93221300,
+      "prices": []
+    },
+    {
+      "id": 23920,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Rocket's Admin.",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Each players shuffles their hand into their deck. Then, each player draws a card for each of their remaining Prize cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/b5/41/9c/b5419c49021343d26a46fbf8e4c274ea9190a0414ab3d9bcc6a0575432005ce3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43380",
+      "sequenceNumber": 31,
+      "printedNumber": "031",
+      "uuid": 42779252,
+      "prices": []
+    },
+    {
+      "id": 23921,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Double Colorless Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "As long as this card is attached to a Pokémon, it provides ColorlessColorless Energy."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/96/2f/99/962f99e0914386cbf51ee6c45820bcab1b6edc1cff6924126f5707765153663f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43381",
+      "sequenceNumber": 32,
+      "printedNumber": "032",
+      "uuid": 70822891,
+      "prices": []
+    },
+    {
+      "id": 23922,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Grass Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/f3/04/ed/f304ed201fb77ed9d54f7fe023ab8eb10a01e2da3bda4b199611d7bb768c224e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43382",
+      "sequenceNumber": -1,
+      "printedNumber": "-1",
+      "uuid": 49277979,
+      "prices": []
+    },
+    {
+      "id": 23923,
+      "setData": {
+        "name": "Pokémon TCG Classic (Venusaur)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/18/cb/8c/18cb8c3513384c0f5647e40f64f81e0ff3af2541b9049a8805fb7a646ea5bc78.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-venusaur"
+      },
+      "name": "Fighting Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/3b/e1/0a/3be10a04d39ae368e536d8578639369a8ae4ea9362aed8c827ea18e3bfd2b9f0.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43383",
+      "sequenceNumber": -1,
+      "printedNumber": "-1",
+      "uuid": 47037067,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 34,
+  "totalCount": 34
+}

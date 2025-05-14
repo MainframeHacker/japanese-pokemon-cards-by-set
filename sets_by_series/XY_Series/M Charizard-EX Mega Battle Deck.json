@@ -1,0 +1,1340 @@
+{
+  "data": [
+    {
+      "id": 10994,
+      "setData": {
+        "name": "M Charizard-EX Mega Battle Deck",
+        "printed_count": "23",
+        "card_count": 23,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-charizard-ex-mega-battle-deck"
+      },
+      "name": "Charizard-EX",
+      "types": [
+        "Fire"
+      ],
+      "hp": 180,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60"
+        },
+        {
+          "name": "Combustion Blast",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "150",
+          "text": "This Pokémon can't use Combustion Blast during your next turn."
+        }
+      ],
+      "rules": [
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "PLANETA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/37/79/46/377946434db37b041fcca0c39b3eff41c56abb83f2e5747f9c1cf6f3568e5009.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24213",
+      "sequenceNumber": 1,
+      "printedNumber": "1",
+      "uuid": 27026181,
+      "prices": [
+        {
+          "priceAmount": 5384,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-m-charizard-ex-mega-battle-deck/charizard-ex-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1616,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-m-charizard-ex-mega-battle-deck/charizard-ex-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 2199,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-m-charizard-ex-mega-battle-deck/charizard-ex-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-m-charizard-ex-mega-battle-deck/charizard-ex-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 763,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-m-charizard-ex-mega-battle-deck/charizard-ex-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10995,
+      "setData": {
+        "name": "M Charizard-EX Mega Battle Deck",
+        "printed_count": "23",
+        "card_count": 23,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-charizard-ex-mega-battle-deck"
+      },
+      "name": "M Charizard-EX",
+      "types": [
+        "Fire"
+      ],
+      "hp": 220,
+      "evolvesFrom": "Charizard-EX",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Crimson Dive",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "300",
+          "text": "This Pokémon does 50 damage to itself."
+        }
+      ],
+      "rules": [
+        "When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "-EX",
+        "Mega",
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b2/29/d5/b229d59bfee3ff2fffe13593fa753d4d74fe969db343866065e946ae661e2db4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24214",
+      "sequenceNumber": 2,
+      "printedNumber": "2",
+      "uuid": 86649643,
+      "prices": [
+        {
+          "priceAmount": 12057,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-m-charizard-ex-mega-battle-deck/megacharizard-ex-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2559,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-m-charizard-ex-mega-battle-deck/megacharizard-ex-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10996,
+      "setData": {
+        "name": "M Charizard-EX Mega Battle Deck",
+        "printed_count": "23",
+        "card_count": 23,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-charizard-ex-mega-battle-deck"
+      },
+      "name": "Torkoal",
+      "types": [
+        "Fire"
+      ],
+      "hp": 100,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Live Coal",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        },
+        {
+          "name": "Flamethrower",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": "Flip a coin. If tails, discard an Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Akira Komayama",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b7/f0/45/b7f04540bdd1d12925a1128bd706369504a969edbcf5a4a5d7a3672a1ff5b007.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24215",
+      "sequenceNumber": 3,
+      "printedNumber": "3",
+      "uuid": 82567923,
+      "prices": []
+    },
+    {
+      "id": 10997,
+      "setData": {
+        "name": "M Charizard-EX Mega Battle Deck",
+        "printed_count": "23",
+        "card_count": 23,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-charizard-ex-mega-battle-deck"
+      },
+      "name": "Fletchinder",
+      "types": [
+        "Fire"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Fletchling",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Firebreathing",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20+",
+          "text": "Flip a coin. If heads, this attack does 20 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/81/7a/44/817a44d9fb3896d6905a05b45696478f0bed56bab20c2fc1dd872ef8b6e50bc8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24216",
+      "sequenceNumber": 4,
+      "printedNumber": "4",
+      "uuid": 27826391,
+      "prices": [
+        {
+          "priceAmount": 99,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-m-charizard-ex-mega-battle-deck/fletchinder-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 10998,
+      "setData": {
+        "name": "M Charizard-EX Mega Battle Deck",
+        "printed_count": "23",
+        "card_count": 23,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-charizard-ex-mega-battle-deck"
+      },
+      "name": "Litleo",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fire Mane",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b8/a8/d9/b8a8d9225e3f205d194909dbdaa8db36e3234831d3004235ff5d1229560b98a6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24217",
+      "sequenceNumber": 5,
+      "printedNumber": "5",
+      "uuid": 63470722,
+      "prices": []
+    },
+    {
+      "id": 10999,
+      "setData": {
+        "name": "M Charizard-EX Mega Battle Deck",
+        "printed_count": "23",
+        "card_count": 23,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-charizard-ex-mega-battle-deck"
+      },
+      "name": "Stunky",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Draw a card."
+        },
+        {
+          "name": "Spray Fluid",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/06/47/b2/0647b27be556604da245142de9290d263cf45baa7efd31a154a502a77f0f192b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24218",
+      "sequenceNumber": 6,
+      "printedNumber": "6",
+      "uuid": 39453867,
+      "prices": []
+    },
+    {
+      "id": 11000,
+      "setData": {
+        "name": "M Charizard-EX Mega Battle Deck",
+        "printed_count": "23",
+        "card_count": 23,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-charizard-ex-mega-battle-deck"
+      },
+      "name": "Scraggy",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tail Rap",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "Flip 2 coins. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Naoki Saito",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a7/3d/42/a73d4215bffc50a76426cf252120d1546899b0d46bd8558c7de0b584764601a1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24219",
+      "sequenceNumber": 7,
+      "printedNumber": "7",
+      "uuid": 16187885,
+      "prices": [
+        {
+          "priceAmount": 150,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-m-charizard-ex-mega-battle-deck/scraggy-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11001,
+      "setData": {
+        "name": "M Charizard-EX Mega Battle Deck",
+        "printed_count": "23",
+        "card_count": 23,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-charizard-ex-mega-battle-deck"
+      },
+      "name": "Scrafty",
+      "types": [
+        "Darkness"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Scraggy",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Corner",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        },
+        {
+          "name": "Jet Headbutt",
+          "cost": [
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hitoshi Ariga",
+      "imageUrl": "https://static.tcgcollector.com/content/images/21/ed/59/21ed59a1f3494c38105790baaee7e0df6ea31a78bca78e93fc0b35a3c1d9770b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24220",
+      "sequenceNumber": 8,
+      "printedNumber": "8",
+      "uuid": 7937787,
+      "prices": []
+    },
+    {
+      "id": 11002,
+      "setData": {
+        "name": "M Charizard-EX Mega Battle Deck",
+        "printed_count": "23",
+        "card_count": 23,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-charizard-ex-mega-battle-deck"
+      },
+      "name": "Fletchling",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Quick Attack",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "Flip a coin. If heads, this attack does 10 more damage."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/63/13/97/6313970a5bb7e45b5fa9fb0d04c477f2e44538519bbb1b6ff9cc49a8075ff730.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24221",
+      "sequenceNumber": 9,
+      "printedNumber": "9",
+      "uuid": 55855980,
+      "prices": []
+    },
+    {
+      "id": 11003,
+      "setData": {
+        "name": "M Charizard-EX Mega Battle Deck",
+        "printed_count": "23",
+        "card_count": 23,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-charizard-ex-mega-battle-deck"
+      },
+      "name": "Furfrou",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tight Jaw",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Sharp Fang",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/79/31/01/793101edbca5a68f3ec1f489637b0eb4fc4525e033c49a29252f4722fc56a250.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24222",
+      "sequenceNumber": 10,
+      "printedNumber": "10",
+      "uuid": 54213363,
+      "prices": []
+    },
+    {
+      "id": 11004,
+      "setData": {
+        "name": "M Charizard-EX Mega Battle Deck",
+        "printed_count": "23",
+        "card_count": 23,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-charizard-ex-mega-battle-deck"
+      },
+      "name": "Pal Pad",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Shuffle 2 Supporter cards from your discard pile into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "PLANETA",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f8/6d/4d/f86d4dccfea8e31984be10feeea447459c191be535ae593ec5c98bafe0a715cc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24223",
+      "sequenceNumber": 11,
+      "printedNumber": "11",
+      "uuid": 52226998,
+      "prices": [
+        {
+          "priceAmount": 112,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/20/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-m-charizard-ex-mega-battle-deck/pal-pad-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 11005,
+      "setData": {
+        "name": "M Charizard-EX Mega Battle Deck",
+        "printed_count": "23",
+        "card_count": 23,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-charizard-ex-mega-battle-deck"
+      },
+      "name": "Ultra Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "\"Discard 2 cards from your hand. (If you cant discard 2 cards, you cant play this card.) Search your deck for a Pokémon, reveal it, and put it into your hand. Shuffle your deck afterward.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/05/24/8a/05248a3f5825f4333d6fbed35d1d093734026f9b21bf3fcb64159f41e3668cbd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24224",
+      "sequenceNumber": 12,
+      "printedNumber": "12",
+      "uuid": 28667812,
+      "prices": []
+    },
+    {
+      "id": 11006,
+      "setData": {
+        "name": "M Charizard-EX Mega Battle Deck",
+        "printed_count": "23",
+        "card_count": 23,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-charizard-ex-mega-battle-deck"
+      },
+      "name": "Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Switch your Active Pokémon with 1 of your Benched Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/3c/a0/99/3ca09966ebe9dc3a17adc07438448eb4010b3fb82fa6c4ce476041c7238ca370.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24225",
+      "sequenceNumber": 13,
+      "printedNumber": "13",
+      "uuid": 82907239,
+      "prices": []
+    },
+    {
+      "id": 11007,
+      "setData": {
+        "name": "M Charizard-EX Mega Battle Deck",
+        "printed_count": "23",
+        "card_count": 23,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-charizard-ex-mega-battle-deck"
+      },
+      "name": "Red Card",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Your opponent shuffles his or her hand into his or her deck and draws 4 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/4c/59/9e/4c599e8f4601ed86b5f8e3e7dfd9442ae054b2793d3fae692358291b39187372.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24226",
+      "sequenceNumber": 14,
+      "printedNumber": "14",
+      "uuid": 14304557,
+      "prices": []
+    },
+    {
+      "id": 11008,
+      "setData": {
+        "name": "M Charizard-EX Mega Battle Deck",
+        "printed_count": "23",
+        "card_count": 23,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-charizard-ex-mega-battle-deck"
+      },
+      "name": "Roller Skates",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play as many Item cards as you like during your turn (before your attack).",
+        "Flip a coin. If heads, draw 3 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f7/3d/a9/f73da9a4dcf5ae417e7a1acd41af98de3449488ee4cbc39adf17ad1fdb623248.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24227",
+      "sequenceNumber": 15,
+      "printedNumber": "15",
+      "uuid": 77018556,
+      "prices": []
+    },
+    {
+      "id": 11009,
+      "setData": {
+        "name": "M Charizard-EX Mega Battle Deck",
+        "printed_count": "23",
+        "card_count": 23,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-charizard-ex-mega-battle-deck"
+      },
+      "name": "Blacksmith",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Attach 2 Fire Energy cards from your discard pile to 1 of your Fire Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Masakazu Fukuda",
+      "imageUrl": "https://static.tcgcollector.com/content/images/31/bd/a0/31bda016e7066a71bf02e7dd6f4f54680b5a4e17b0ca59a170ad8469612bffd6.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24228",
+      "sequenceNumber": 16,
+      "printedNumber": "16",
+      "uuid": 58904470,
+      "prices": []
+    },
+    {
+      "id": 11010,
+      "setData": {
+        "name": "M Charizard-EX Mega Battle Deck",
+        "printed_count": "23",
+        "card_count": 23,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-charizard-ex-mega-battle-deck"
+      },
+      "name": "Shauna",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Shuffle your hand into your deck. Then, draw 5 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8a/0f/c6/8a0fc662ce26d7f4642011d69e956e642c1c2d91068224d0082e66213a43f595.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24229",
+      "sequenceNumber": 17,
+      "printedNumber": "17",
+      "uuid": 25486794,
+      "prices": []
+    },
+    {
+      "id": 11011,
+      "setData": {
+        "name": "M Charizard-EX Mega Battle Deck",
+        "printed_count": "23",
+        "card_count": 23,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-charizard-ex-mega-battle-deck"
+      },
+      "name": "Tierno",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Draw 3 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f3/2b/cf/f32bcf22ba096c1a1940d9ab38d2574e579e5f0d1041aa2a72777b2d000155f7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24230",
+      "sequenceNumber": 18,
+      "printedNumber": "18",
+      "uuid": 14244878,
+      "prices": []
+    },
+    {
+      "id": 11012,
+      "setData": {
+        "name": "M Charizard-EX Mega Battle Deck",
+        "printed_count": "23",
+        "card_count": 23,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-charizard-ex-mega-battle-deck"
+      },
+      "name": "Professor Sycamore",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "Discard your hand and draw 7 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yusuke Ohmura",
+      "imageUrl": "https://static.tcgcollector.com/content/images/57/f9/2e/57f92ee54795dd9b7840a5f94eabafe002cf9bacf872be6bd457dd2cc7c5b8de.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24231",
+      "sequenceNumber": 19,
+      "printedNumber": "19",
+      "uuid": 47909095,
+      "prices": []
+    },
+    {
+      "id": 11013,
+      "setData": {
+        "name": "M Charizard-EX Mega Battle Deck",
+        "printed_count": "23",
+        "card_count": 23,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-charizard-ex-mega-battle-deck"
+      },
+      "name": "Lysandre",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn (before your attack).",
+        "\"Switch 1 of your opponents Benched Pokémon with his or her Active Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/images/be/bf/82/bebf826db9297b91d69422b0045eeb4a813c376ec7e32c1529ca87cdb64264c5.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24232",
+      "sequenceNumber": 20,
+      "printedNumber": "20",
+      "uuid": 6907200,
+      "prices": []
+    },
+    {
+      "id": 11014,
+      "setData": {
+        "name": "M Charizard-EX Mega Battle Deck",
+        "printed_count": "23",
+        "card_count": 23,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-charizard-ex-mega-battle-deck"
+      },
+      "name": "Double Colorless Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "Double Colorless Energy provides Colorless Colorless Energy."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a6/73/f3/a673f391fa65a4d36c05eddc2b20c2917de4baddecc3d687ca05d09c2741172c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/24233",
+      "sequenceNumber": 21,
+      "printedNumber": "21",
+      "uuid": 95298305,
+      "prices": []
+    },
+    {
+      "id": 11015,
+      "setData": {
+        "name": "M Charizard-EX Mega Battle Deck",
+        "printed_count": "23",
+        "card_count": 23,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-charizard-ex-mega-battle-deck"
+      },
+      "name": "Fire Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/24234",
+      "sequenceNumber": 22,
+      "printedNumber": "22",
+      "uuid": 22932532,
+      "prices": []
+    },
+    {
+      "id": 11016,
+      "setData": {
+        "name": "M Charizard-EX Mega Battle Deck",
+        "printed_count": "23",
+        "card_count": 23,
+        "year": "None",
+        "image_url": "https://static.tcgcollector.com/build/images/default-expansion-logo.8b4f0ae4.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/m-charizard-ex-mega-battle-deck"
+      },
+      "name": "Darkness Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/build/images/default-card-image-640x892.0d69bedb.png",
+      "cardUrl": "https://tcgcollector.com/cards/24235",
+      "sequenceNumber": 23,
+      "printedNumber": "23",
+      "uuid": 76791608,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 23,
+  "totalCount": 23
+}

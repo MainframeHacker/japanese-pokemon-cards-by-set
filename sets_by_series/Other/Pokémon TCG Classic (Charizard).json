@@ -1,0 +1,2855 @@
+{
+  "data": [
+    {
+      "id": 23856,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Charmander",
+      "types": [
+        "Fire"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Scratch",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Ember",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Discard 1 Fire Energy card attached to Charmander in order to use this attack."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/4a/77/03/4a7703d1ffd7e32e99c3951d9a1fc788fb2611daa1a9a2cbfd8a71aa81a92e94.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43316",
+      "sequenceNumber": 1,
+      "printedNumber": "001",
+      "uuid": 21380839,
+      "prices": [
+        {
+          "priceAmount": 4249,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/charmander-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/charmander-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1836,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/charmander-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/charmander-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 707,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/charmander-1",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23857,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Charmeleon",
+      "types": [
+        "Fire"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Charmander",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Slash",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30"
+        },
+        {
+          "name": "Flamethrower",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "Discard 1 Fire Energy card attached to Charmeleon in order to use this attack."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/5c/09/5f/5c095f550abadd92c33ddf0abf418ea017202a54459b74a1616d72ba46b310e8.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43317",
+      "sequenceNumber": 2,
+      "printedNumber": "002",
+      "uuid": 31940554,
+      "prices": [
+        {
+          "priceAmount": 3265,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/charmeleon-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1944,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/charmeleon-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 2100,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/charmeleon-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/charmeleon-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 597,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/charmeleon-2",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23858,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Charizard",
+      "types": [
+        "Fire"
+      ],
+      "hp": 120,
+      "evolvesFrom": "Charmeleon",
+      "effect": [
+        {
+          "name": "Energy Burn",
+          "text": "As often as you like during your turn (before your attack), you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fire Spin",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "100",
+          "text": "Discard 2 Energy cards attached to Charizard in order to use this attack."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 2"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/60/12/a2/6012a26923dc65abcab9e9513fc8afdd7ba55890e4c078399180f2a432c5b08c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43318",
+      "sequenceNumber": 3,
+      "printedNumber": "003",
+      "uuid": 97141284,
+      "prices": [
+        {
+          "priceAmount": 22300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/charizard-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 9316,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/charizard-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 9754,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/charizard-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 15500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/charizard-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 9202,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/charizard-3",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23859,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Ponyta",
+      "types": [
+        "Fire"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Flame Tail",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Jiro Sasumo",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/98/89/7e/98897e73cc194739bea75b38866e45c03341e1ba0ab1ce6efe62cb1030713656.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43319",
+      "sequenceNumber": 4,
+      "printedNumber": "004",
+      "uuid": 22554931,
+      "prices": [
+        {
+          "priceAmount": 1832,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/ponyta-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 550,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/ponyta-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/ponyta-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 239,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/ponyta-4",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23860,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Rapidash",
+      "types": [
+        "Fire"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Ponyta",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Combustion",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30"
+        },
+        {
+          "name": "Ring of Fire",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50",
+          "text": "Your opponent's Active Pokémon is now Burned. During your opponent's next turn, that Pokémon can't retreat."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ligton",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/3b/3a/d1/3b3ad1afbec1696e4736573a99d0814358f9de0bbd8ae0233271639c8f0c9c5f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43320",
+      "sequenceNumber": 5,
+      "printedNumber": "005",
+      "uuid": 8124242,
+      "prices": [
+        {
+          "priceAmount": 1405,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/rapidash-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 425,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/rapidash-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/rapidash-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 310,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/rapidash-5",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23861,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Magmar",
+      "types": [
+        "Fire"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Smokescreen",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "If the Defending Pokémon tries to attack during your opponent's next turn, your opponent flips a coin. If tails, that attack does nothing."
+        },
+        {
+          "name": "Smog",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/0c/16/01/0c160150bdb8dea8525a54d37b4a6aed5e0c2a6806ab7105da5276d67fa072b3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43321",
+      "sequenceNumber": 6,
+      "printedNumber": "006",
+      "uuid": 19674829,
+      "prices": [
+        {
+          "priceAmount": 1800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/magmar-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1647,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/magmar-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/magmar-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 259,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/magmar-6",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23862,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Ho-Oh ex",
+      "types": [
+        "Fire"
+      ],
+      "hp": 220,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Phoenix Breath",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Attach up to 2 Basic Energy cards from your discard pile to your Pokémon in any way you like."
+        },
+        {
+          "name": "Eternal Blaze",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "180",
+          "text": "During your next turn, this Pokémon can't attack."
+        }
+      ],
+      "rules": [
+        "When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex (SV)",
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "PLANETA Tsuji",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/ee/42/da/ee42da3b07593cbd437bbd140c0cff592b7e73a6c95e04c8d8a9c7b18c20705a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43322",
+      "sequenceNumber": 7,
+      "printedNumber": "007",
+      "uuid": 60828558,
+      "prices": [
+        {
+          "priceAmount": 2217,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/ho-oh-ex-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1596,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/ho-oh-ex-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/ho-oh-ex-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 362,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/ho-oh-ex-7",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23863,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Pikachu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Gnaw",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Thunder Jolt",
+          "cost": [
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If tails, Pikachu does 10 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/db/3c/83/db3c837cbf29cf9200ecb2d9ef49f22ce4988f8fba2de92e2b3486cb99c11ed2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43323",
+      "sequenceNumber": 8,
+      "printedNumber": "008",
+      "uuid": 85112805,
+      "prices": [
+        {
+          "priceAmount": 5299,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/pikachu-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/pikachu-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 2500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/pikachu-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/pikachu-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 2221,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/pikachu-8",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23864,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Raichu",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 130,
+      "evolvesFrom": "Pikachu",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Pain-Full Punch",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "40"
+        },
+        {
+          "name": "Mach Bolt",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "120"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hasuno",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/d7/d7/fd/d7d7fd854c38668ee2657ff9c8c7c7cc663063e27bb833d04fe739c4d53d8636.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43324",
+      "sequenceNumber": 9,
+      "printedNumber": "009",
+      "uuid": 37866022,
+      "prices": [
+        {
+          "priceAmount": 2376,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/raichu-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1159,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/raichu-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/raichu-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 291,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/raichu-9",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23865,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Voltorb",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Tackle",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/8c/41/67/8c41672a81ee0ec9aa4dcb8cee8d1e2b308b19e6b3494451a3401cf7d2d3f806.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43325",
+      "sequenceNumber": 10,
+      "printedNumber": "010",
+      "uuid": 75438197,
+      "prices": [
+        {
+          "priceAmount": 1632,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/voltorb-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1543,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/voltorb-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/voltorb-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 188,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/voltorb-10",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23866,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Electrode",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 80,
+      "evolvesFrom": "Voltorb",
+      "effect": [
+        {
+          "name": "Buzzap",
+          "text": "At any time during your turn (before your attack), you may Knock Out Electrode and attach it to 1 of your other Pokémon. If you do, choose a type of Energy. Electrode is now an Energy card (instead of a Pokémon) that provides 2 energy of that type. This power can't be used if Electrode is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Electric Shock",
+          "cost": [
+            "Lightning",
+            "Lightning",
+            "Lightning"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": "Flip a coin. If tails, Electrode does 10 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/8b/91/b3/8b91b3687b6982a15e93cdeb99aee8e268eb6ef501b4209593284a92c6c489f1.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43326",
+      "sequenceNumber": 11,
+      "printedNumber": "011",
+      "uuid": 38531852,
+      "prices": [
+        {
+          "priceAmount": 2926,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/electrode-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/electrode-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/electrode-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 304,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/electrode-11",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23867,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Zapdos",
+      "types": [
+        "Lightning"
+      ],
+      "hp": 120,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Thunder Shock",
+          "cost": [
+            "Lightning"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+        },
+        {
+          "name": "Drill Peck",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Lightning",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hitoshi Ariga",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/44/92/8a/44928afdd62de47ba6ac17474b91ffc8a24fe0e1115df9b8c083af03d9a29a19.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43327",
+      "sequenceNumber": 12,
+      "printedNumber": "012",
+      "uuid": 4538985,
+      "prices": [
+        {
+          "priceAmount": 2392,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/zapdos-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1970,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/zapdos-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2200,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/zapdos-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 280,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/zapdos-12",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23868,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Clefairy",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 40,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Sing",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+        },
+        {
+          "name": "Metronome",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "text": "Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required in order to use that attack, such as discarding Energy cards. (No matter what type the Defending Pokémon is, Clefairy's type is still Colorless.)"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/96/80/07/968007355e161d452c13ed871ac705cb98b9c6902549e01b9f80ab9ea19dd66f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43328",
+      "sequenceNumber": 13,
+      "printedNumber": "013",
+      "uuid": 56727338,
+      "prices": [
+        {
+          "priceAmount": 2814,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/clefairy-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 999,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/clefairy-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1475,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/clefairy-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/clefairy-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 260,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/clefairy-13",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23869,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Clefable",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "evolvesFrom": "Clefairy",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Metronome",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required in order to use that attack, such as discarding Energy cards. (No matter what type the Defending Pokémon is, Clefable's type is still Colorless.)"
+        },
+        {
+          "name": "Minimize",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "text": "All damage done by attacks to Clefable during your opponent's next turn is reduced by 20 (after applying Weakness and Resistance)."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/c1/ab/a5/c1aba517725762d7464d3a6ee0ad94484345fcca09de8c9875122c29f4218929.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43329",
+      "sequenceNumber": 14,
+      "printedNumber": "014",
+      "uuid": 23241666,
+      "prices": [
+        {
+          "priceAmount": 2230,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/clefable-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1748,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/clefable-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/clefable-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 297,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/clefable-14",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23870,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Dunsparce",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 50,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Strike and Run",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Search your deck for up to 3 Basic Pokémon and put them onto your Bench. Shuffle your deck afterward. You may switch Dunsparce with 1 of your Benched Pokémon."
+        },
+        {
+          "name": "Sudden Flash",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "Flip a coin. If heads, each Defending Pokémon is now Paralyzed."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/db/4a/69/db4a6964f875bb5e622536aec36be1bd76db7e189f88d1bb11cbe0f1161aca2d.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43330",
+      "sequenceNumber": 15,
+      "printedNumber": "015",
+      "uuid": 92887021,
+      "prices": [
+        {
+          "priceAmount": 2249,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/dunsparce-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/dunsparce-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 600,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/dunsparce-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 193,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/dunsparce-15",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23871,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Stantler",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 70,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Lead",
+          "cost": [],
+          "convertedEnergyCost": 0,
+          "text": "Search your deck for a Supporter card, show it to your opponent, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Frighten Horn",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "If the Defending Pokémon isn't an Evolved Pokémon, that Pokémon is now Confused."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Kouki Saitou",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/a3/32/fd/a332fd705addc3043cf8be97dec04d326ab913e55c0184c1be3ba0ffbe2f5d8b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43331",
+      "sequenceNumber": 16,
+      "printedNumber": "016",
+      "uuid": 63573703,
+      "prices": [
+        {
+          "priceAmount": 2080,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/stantler-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1327,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/stantler-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 8"
+        },
+        {
+          "priceAmount": 1500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/stantler-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1700,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/stantler-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 179,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/stantler-16",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23872,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Miltank",
+      "types": [
+        "Colorless"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Healing Milk",
+          "cost": [],
+          "convertedEnergyCost": 0,
+          "text": "Flip 2 coins. For each heads, remove 3 damage counters from 1 of your Pokémon."
+        },
+        {
+          "name": "Continuous Tumble",
+          "cost": [
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20×",
+          "text": "Flip a coin until you get tails. This attack does 20 damage times the number of heads."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Fighting",
+          "value": "+20"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Mitsuhiro Arita",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/5f/d0/9a/5fd09acfd30294d8897adbc37e6a11b444d0ec4b7a56ac168baff79a3ed12528.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43332",
+      "sequenceNumber": 17,
+      "printedNumber": "017",
+      "uuid": 29169582,
+      "prices": [
+        {
+          "priceAmount": 1998,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/miltank-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1286,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/miltank-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/miltank-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 249,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/miltank-17",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23873,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Super Scoop Up",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Flip a coin. If heads, put 1 of your Pokémon and all attached cards into your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/64/9e/4b/649e4b727110eb7e48d792aeb09b5f59f26a341526ec45067ac8c73c7e288b4a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43333",
+      "sequenceNumber": 18,
+      "printedNumber": "018",
+      "uuid": 11119045,
+      "prices": []
+    },
+    {
+      "id": 23874,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Super Rod",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Shuffle up to 3 in any combination of Pokémon and Basic Energy cards from your discard pile into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/1a/9e/c9/1a9ec96ac9fc06b6c406a3cba66e88c7c3b4c19c284c6e29fa375efbc5c8cf75.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43334",
+      "sequenceNumber": 19,
+      "printedNumber": "019",
+      "uuid": 67716400,
+      "prices": [
+        {
+          "priceAmount": 800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/super-rod-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 799,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/super-rod-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/super-rod-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 162,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/super-rod-19",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23875,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Ultra Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "You can use this card only if you discard 2 other cards from your hand.\\nSearch your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "sadaji",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/26/7f/fe/267ffe8854ea4e4d01e72d3a1a229d6125d16366258c2fd7e6a4473aa2a8b1e3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43335",
+      "sequenceNumber": 20,
+      "printedNumber": "020",
+      "uuid": 79618588,
+      "prices": [
+        {
+          "priceAmount": 3885,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/ultra-ball-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 752,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/ultra-ball-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 800,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/ultra-ball-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 190,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/ultra-ball-20",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23876,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Computer Search",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "You can use this card only if you discard 2 other cards from your hand.\\nSearch your deck for a card and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/b0/c8/ce/b0c8ce1fdd5b2d06f7f8b0a51ceddfd3d4179229e62be397c75f54e446841de4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43336",
+      "sequenceNumber": 21,
+      "printedNumber": "021",
+      "uuid": 10963917,
+      "prices": []
+    },
+    {
+      "id": 23877,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "VS Seeker",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Put a Supporter card from your discard pile into your hand."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/aa/15/b2/aa15b2ff618378cf77f72ba7c5c7b6b398d3df7b7c8d626060837def9fa601b2.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43337",
+      "sequenceNumber": 22,
+      "printedNumber": "022",
+      "uuid": 79457810,
+      "prices": [
+        {
+          "priceAmount": 3911,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "10/15/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/vs-seeker-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 1282,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "10/15/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/vs-seeker-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1400,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "10/15/2024",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/vs-seeker-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 184,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/vs-seeker-22",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23878,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Rare Candy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "\"Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it, skipping the Stage 1. You cant use this card during your first turn or on a Basic Pokémon that was put into play this turn.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/e6/ab/dc/e6abdc79fae2a40574dce8df56ea09dd9c996edc7fd4794af5b57a88909c0433.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43338",
+      "sequenceNumber": 23,
+      "printedNumber": "023",
+      "uuid": 70289492,
+      "prices": [
+        {
+          "priceAmount": 1605,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/rare-candy-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 950,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/rare-candy-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/rare-candy-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 149,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/rare-candy-23",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23879,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Switch your Active Pokémon with 1 of your Benched Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Studio Bora Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/3c/79/af/3c79afb1f18e36444eff31fab6fa30cb8b05e823f5aeb153ed8c395b9e8923cd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43339",
+      "sequenceNumber": 24,
+      "printedNumber": "024",
+      "uuid": 96015258,
+      "prices": [
+        {
+          "priceAmount": 1605,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/switch-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 825,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/switch-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 900,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/switch-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 229,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/switch-24",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23880,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Poké Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Flip a coin. If heads, search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ryo Ueda",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/35/bc/62/35bc629445bc610d82fdc7579fecf154a54290765bae86e84a544280597efdfd.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43340",
+      "sequenceNumber": 25,
+      "printedNumber": "025",
+      "uuid": 37322863,
+      "prices": [
+        {
+          "priceAmount": 3881,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/poke-ball-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 926,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/poke-ball-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 1000,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/poke-ball-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 204,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/poke-ball-25",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23881,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Scorching Charcoal",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may attach any number of Pokémon Tools to your Pokémon during your turn. You may attach only 1 Pokémon Tool to each Pokémon, and it stays attached.",
+        "\"The attacks used by the Charizard this card is attached to do 100 more damage to your opponents Active Pokémon (before applying Weakness and Resistance).\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Tool"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/1f/7c/08/1f7c0839c4c2345b677ad7d0f21e1ba0788bee0f0b37d76a23e3b8e7dd29047c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43341",
+      "sequenceNumber": 26,
+      "printedNumber": "026",
+      "uuid": 91375689,
+      "prices": [
+        {
+          "priceAmount": 2500,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/charcoal-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 10"
+        },
+        {
+          "priceAmount": 2057,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/charcoal-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9"
+        },
+        {
+          "priceAmount": 2300,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/charcoal-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "PSA 9.5"
+        },
+        {
+          "priceAmount": 196,
+          "priceCurrency": "USD Cents",
+          "dateUpdated": "01/14/2025",
+          "listingUrl": "https://www.pricecharting.com/game/pokemon-japanese-classic:-charizard/charcoal-26",
+          "vendor": "Price Charting",
+          "variant": "Regular",
+          "condition": "Ungraded"
+        }
+      ]
+    },
+    {
+      "id": 23882,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Professor Oak",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Discard your hand and draw 7 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/0a/bf/89/0abf8974222193e9c45ac9ab1514a4ee07cb05e731b6c1be23e7555eb7a65f65.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43342",
+      "sequenceNumber": 27,
+      "printedNumber": "027",
+      "uuid": 18761437,
+      "prices": []
+    },
+    {
+      "id": 23883,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Pokémon Fan Club",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Search your deck for up to 2 Basic Pokémon, reveal them, and put them into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sanosuke Sakuma",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/53/71/05/537105d2d8094cf6470d85274abc0da19f7411312d7d007c0de466eaf475c2ba.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43343",
+      "sequenceNumber": 28,
+      "printedNumber": "028",
+      "uuid": 10323520,
+      "prices": []
+    },
+    {
+      "id": 23884,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Boss's Orders",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "\"Switch in 1 of your opponents Benched Pokémon to the Active Spot.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "nagimiso",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/3b/e9/8f/3be98fe8d2aa9dc476559b724789fbae0fa4ea3d39a07bd003d949fb88eb1ded.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43344",
+      "sequenceNumber": 29,
+      "printedNumber": "029",
+      "uuid": 39264013,
+      "prices": []
+    },
+    {
+      "id": 23885,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Bill",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Draw 2 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/33/67/7d/33677d484e877ae1f88cbecd28a9dea8d9030bf34970de15ef167d2a28314ced.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43345",
+      "sequenceNumber": 30,
+      "printedNumber": "030",
+      "uuid": 93221300,
+      "prices": []
+    },
+    {
+      "id": 23886,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Rocket's Admin.",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Each players shuffles their hand into their deck. Then, each player draws a card for each of their remaining Prize cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ken Sugimori",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/f8/bd/45/f8bd456f2fe5b9f140c4aaa1735bfc6cf067cb0cb7f0f05f68e44ed08d5a74bb.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43346",
+      "sequenceNumber": 31,
+      "printedNumber": "031",
+      "uuid": 42779252,
+      "prices": []
+    },
+    {
+      "id": 23887,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Double Colorless Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "As long as this card is attached to a Pokémon, it provides ColorlessColorless Energy."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Special Energy"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Keiji Kinebuchi",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/f2/41/01/f24101e0c1184d193a391e790278af79443f2a292d7527469579be2f82aa5a66.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43347",
+      "sequenceNumber": 32,
+      "printedNumber": "032",
+      "uuid": 70822891,
+      "prices": []
+    },
+    {
+      "id": 23888,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Fire Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/27/24/4a/27244aa03b1f23a5e8432f76a743c3ae989517883aadbfb0580bcb33331530ef.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43348",
+      "sequenceNumber": -1,
+      "printedNumber": "-1",
+      "uuid": 54023506,
+      "prices": []
+    },
+    {
+      "id": 23889,
+      "setData": {
+        "name": "Pokémon TCG Classic (Charizard)",
+        "printed_count": "032",
+        "card_count": 34,
+        "year": "2023",
+        "image_url": "https://static.tcgcollector.com/content/content/images/0c/94/24/0c94246d38c6b691daf5c7a51a6ecae0eedfdf39d8d00a24edff59a38c444631.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/pokemon-tcg-classic-charizard"
+      },
+      "name": "Lightning Energy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        ""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Energy",
+      "subtypes": [
+        "Basic Energy"
+      ],
+      "rarity": "—",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "None",
+      "imageUrl": "https://static.tcgcollector.com/content/content/images/f0/29/ed/f029ed917ae129ae3cd191dc6de88993d0299d3e51463a91fc3bc7316621176b.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/43349",
+      "sequenceNumber": -1,
+      "printedNumber": "-1",
+      "uuid": 59564568,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 34,
+  "totalCount": 34
+}

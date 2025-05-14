@@ -1,0 +1,1077 @@
+{
+  "data": [
+    {
+      "id": 22815,
+      "setData": {
+        "name": "Skeledirge ex Terastal Starter Set",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/39/df/17/39df172f37563c300cce5929616a241067330d1855c61d0486528d33f3649b1e.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/skeledirge-ex-terastal-starter-set"
+      },
+      "name": "Magmar",
+      "types": [
+        "Fire"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Collect",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "text": "Draw a card."
+        },
+        {
+          "name": "Steady Firebreathing",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "miki kudo",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7f/55/ea/7f55ead88c3971550435e072fb232072aa43804e63ef0d6b843cc479208cc544.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/42693",
+      "sequenceNumber": 1,
+      "printedNumber": "001",
+      "uuid": 10397487,
+      "prices": []
+    },
+    {
+      "id": 22816,
+      "setData": {
+        "name": "Skeledirge ex Terastal Starter Set",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/39/df/17/39df172f37563c300cce5929616a241067330d1855c61d0486528d33f3649b1e.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/skeledirge-ex-terastal-starter-set"
+      },
+      "name": "Magmortar",
+      "types": [
+        "Fire"
+      ],
+      "hp": 140,
+      "evolvesFrom": "Magmar",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Flare",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "40"
+        },
+        {
+          "name": "Volcanic Heat",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "170",
+          "text": "During your next turn, this Pokémon can't attack."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Stage 1"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Hasuno",
+      "imageUrl": "https://static.tcgcollector.com/content/images/e7/66/c6/e766c63e1fc45368c224fc2670cc67be6b3d5760f60a5e58c5fcfc4f8ac75fc3.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/42694",
+      "sequenceNumber": 2,
+      "printedNumber": "002",
+      "uuid": 65576502,
+      "prices": []
+    },
+    {
+      "id": 22817,
+      "setData": {
+        "name": "Skeledirge ex Terastal Starter Set",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/39/df/17/39df172f37563c300cce5929616a241067330d1855c61d0486528d33f3649b1e.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/skeledirge-ex-terastal-starter-set"
+      },
+      "name": "Heat Rotom",
+      "types": [
+        "Fire"
+      ],
+      "hp": 90,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Heat Tackle",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "100",
+          "text": "This Pokémon also does 40 damage to itself."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Scav",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d2/7d/48/d27d48d7737c91c6f79042163aa0f2258c4d7ab1aaef6efb9d04ed162db17bfc.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/42695",
+      "sequenceNumber": 3,
+      "printedNumber": "003",
+      "uuid": 45090307,
+      "prices": []
+    },
+    {
+      "id": 22818,
+      "setData": {
+        "name": "Skeledirge ex Terastal Starter Set",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/39/df/17/39df172f37563c300cce5929616a241067330d1855c61d0486528d33f3649b1e.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/skeledirge-ex-terastal-starter-set"
+      },
+      "name": "Volcanion",
+      "types": [
+        "Fire"
+      ],
+      "hp": 130,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Dual Turbo",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20",
+          "text": "Attach a Basic Fire Energy card from your discard pile to up to 2 of your Benched Pokémon."
+        },
+        {
+          "name": "Heavy Impact",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Nisota Niso",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a4/5f/99/a45f99d455f50a4f6f8c526a2c9c33e1bf306d26a7406f8c82f7c6d6f6621a23.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/42696",
+      "sequenceNumber": 4,
+      "printedNumber": "004",
+      "uuid": 74180789,
+      "prices": []
+    },
+    {
+      "id": 22819,
+      "setData": {
+        "name": "Skeledirge ex Terastal Starter Set",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/39/df/17/39df172f37563c300cce5929616a241067330d1855c61d0486528d33f3649b1e.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/skeledirge-ex-terastal-starter-set"
+      },
+      "name": "Fuecoco",
+      "types": [
+        "Fire"
+      ],
+      "hp": 80,
+      "evolvesFrom": "None",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Live Coal",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10"
+        },
+        {
+          "name": "Ram",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 2,
+      "supertype": "Pokémon",
+      "subtypes": [
+        ""
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Gemi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/7e/4e/f6/7e4ef69dbaf9237965fdffa96dbef42380d2aab2dcbf3086f317ad336d76a765.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/42697",
+      "sequenceNumber": 5,
+      "printedNumber": "005",
+      "uuid": 46878616,
+      "prices": []
+    },
+    {
+      "id": 22820,
+      "setData": {
+        "name": "Skeledirge ex Terastal Starter Set",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/39/df/17/39df172f37563c300cce5929616a241067330d1855c61d0486528d33f3649b1e.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/skeledirge-ex-terastal-starter-set"
+      },
+      "name": "Crocalor",
+      "types": [
+        "Fire"
+      ],
+      "hp": 100,
+      "evolvesFrom": "Fuecoco",
+      "effect": [],
+      "attacks": [
+        {
+          "name": "Fireball Rolling",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "90",
+          "text": "Put an Energy attached to this Pokémon into your hand."
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Water",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        ""
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Pani Kobayashi",
+      "imageUrl": "https://static.tcgcollector.com/content/images/39/a1/c6/39a1c644cc31ed755e8f30ef0d5706696eef07a60777d298e4e5693c16c841de.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/42698",
+      "sequenceNumber": 6,
+      "printedNumber": "006",
+      "uuid": 41864266,
+      "prices": []
+    },
+    {
+      "id": 22821,
+      "setData": {
+        "name": "Skeledirge ex Terastal Starter Set",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/39/df/17/39df172f37563c300cce5929616a241067330d1855c61d0486528d33f3649b1e.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/skeledirge-ex-terastal-starter-set"
+      },
+      "name": "Mew",
+      "types": [
+        "Psychic"
+      ],
+      "hp": 60,
+      "evolvesFrom": "None",
+      "effect": [
+        {
+          "name": "Mysterious Tail",
+          "text": "Once during your turn, if this Pokémon is in the Active Spot, you may look at the top 6 cards of your deck, reveal an Item card you find there, and put it into your hand. Shuffle the other cards back into your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Psyshot",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30"
+        }
+      ],
+      "rules": [
+        "None"
+      ],
+      "weaknesses": [
+        {
+          "type": "Darkness",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless"
+      ],
+      "convertedRetreatCost": 1,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "Basic"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Yuu Nishida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/09/c5/d5/09c5d524b1e67195dc32f3b0ca1cc9d6446f7e4f03840fa03847d429d111ac40.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/42699",
+      "sequenceNumber": 7,
+      "printedNumber": "007",
+      "uuid": 25440947,
+      "prices": []
+    },
+    {
+      "id": 22822,
+      "setData": {
+        "name": "Skeledirge ex Terastal Starter Set",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/39/df/17/39df172f37563c300cce5929616a241067330d1855c61d0486528d33f3649b1e.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/skeledirge-ex-terastal-starter-set"
+      },
+      "name": "Skeledirge ex",
+      "types": [
+        "Metal"
+      ],
+      "hp": 330,
+      "evolvesFrom": "Crocalor",
+      "effect": [
+        {
+          "name": "Explosive Heat Song",
+          "text": "Once during your turn, you may discard a Basic Fire Energy card from your hand in order to use this Ability. During this turn, your Pokémon's attacks do 60 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Luster Burn",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "160",
+          "text": "This attack's damage isn't affected by any effects on your opponent's Active Pokémon."
+        }
+      ],
+      "rules": [
+        "\"As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponents).\", When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "weaknesses": [
+        {
+          "type": "Fire",
+          "value": "×2"
+        }
+      ],
+      "resistances": null,
+      "retreatCost": [
+        "Colorless",
+        "Colorless",
+        "Colorless"
+      ],
+      "convertedRetreatCost": 3,
+      "supertype": "Pokémon",
+      "subtypes": [
+        "ex (SV)",
+        "Terastal"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "5ban Graphics",
+      "imageUrl": "https://static.tcgcollector.com/content/images/24/73/dd/2473dd43fc0aa186d2819bc7eafd4152475f046e1bf62197e286795225b10d0a.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/42700",
+      "sequenceNumber": 8,
+      "printedNumber": "008",
+      "uuid": 89768365,
+      "prices": []
+    },
+    {
+      "id": 22823,
+      "setData": {
+        "name": "Skeledirge ex Terastal Starter Set",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/39/df/17/39df172f37563c300cce5929616a241067330d1855c61d0486528d33f3649b1e.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/skeledirge-ex-terastal-starter-set"
+      },
+      "name": "Superior Energy Retrieval",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "\"You can use this card only if you discard 2 other cards from your hand.\\nPut up to 4 Basic Energy cards from your discard pile into your hand. (You cant choose a card you discarded with the effect of this card.)\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Studio Bora Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/images/88/ae/86/88ae866bdef3a6930638a4b4543666c8aa3db975b9d74cf682f9813fcf52cfed.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/42701",
+      "sequenceNumber": 9,
+      "printedNumber": "009",
+      "uuid": 81852964,
+      "prices": []
+    },
+    {
+      "id": 22824,
+      "setData": {
+        "name": "Skeledirge ex Terastal Starter Set",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/39/df/17/39df172f37563c300cce5929616a241067330d1855c61d0486528d33f3649b1e.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/skeledirge-ex-terastal-starter-set"
+      },
+      "name": "Super Rod",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Shuffle up to 3 in any combination of Pokémon and Basic Energy cards from your discard pile into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8d/cd/62/8dcd6294cc0e11d6ec68774a51d66c8b0b6c273fb3bc1831c3d906f9416f465c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/42702",
+      "sequenceNumber": 10,
+      "printedNumber": "010",
+      "uuid": 919341,
+      "prices": []
+    },
+    {
+      "id": 22825,
+      "setData": {
+        "name": "Skeledirge ex Terastal Starter Set",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/39/df/17/39df172f37563c300cce5929616a241067330d1855c61d0486528d33f3649b1e.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/skeledirge-ex-terastal-starter-set"
+      },
+      "name": "Nest Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b8/15/00/b81500941409bd3dbadfb4bbb0206b8a172b2cb209da4c27efad12b6e59d42d7.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/42703",
+      "sequenceNumber": 11,
+      "printedNumber": "011",
+      "uuid": 26841078,
+      "prices": []
+    },
+    {
+      "id": 22826,
+      "setData": {
+        "name": "Skeledirge ex Terastal Starter Set",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/39/df/17/39df172f37563c300cce5929616a241067330d1855c61d0486528d33f3649b1e.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/skeledirge-ex-terastal-starter-set"
+      },
+      "name": "Ultra Ball",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "You can use this card only if you discard 2 other cards from your hand.\\nSearch your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Ayaka Yoshida",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f7/69/7c/f7697c51bde2781ad1bff068773054bec12428767900626c1081d127089b0a65.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/42704",
+      "sequenceNumber": 12,
+      "printedNumber": "012",
+      "uuid": 78375478,
+      "prices": []
+    },
+    {
+      "id": 22827,
+      "setData": {
+        "name": "Skeledirge ex Terastal Starter Set",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/39/df/17/39df172f37563c300cce5929616a241067330d1855c61d0486528d33f3649b1e.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/skeledirge-ex-terastal-starter-set"
+      },
+      "name": "Rare Candy",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "\"Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it, skipping the Stage 1. You cant use this card during your first turn or on a Basic Pokémon that was put into play this turn.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Studio Bora Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/images/8a/65/e0/8a65e09906819b94a784513b326f35e608d0e51ab406ac818682d4bd68c1cae4.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/42705",
+      "sequenceNumber": 13,
+      "printedNumber": "013",
+      "uuid": 70939716,
+      "prices": []
+    },
+    {
+      "id": 22828,
+      "setData": {
+        "name": "Skeledirge ex Terastal Starter Set",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/39/df/17/39df172f37563c300cce5929616a241067330d1855c61d0486528d33f3649b1e.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/skeledirge-ex-terastal-starter-set"
+      },
+      "name": "Pokégear 3.0",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Look at the top 7 cards of your deck. You may reveal a Supporter card you find there and put it into your hand. Shuffle the other cards back into your deck."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Toyste Beach",
+      "imageUrl": "https://static.tcgcollector.com/content/images/fd/a0/53/fda053da424438266fc1cb0ab70ef03f3648ee21f2bccf9463879100b81f14b9.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/42706",
+      "sequenceNumber": 14,
+      "printedNumber": "014",
+      "uuid": 77202805,
+      "prices": []
+    },
+    {
+      "id": 22829,
+      "setData": {
+        "name": "Skeledirge ex Terastal Starter Set",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/39/df/17/39df172f37563c300cce5929616a241067330d1855c61d0486528d33f3649b1e.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/skeledirge-ex-terastal-starter-set"
+      },
+      "name": "Switch",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play any number of Item cards during your turn.",
+        "Switch your Active Pokémon with 1 of your Benched Pokémon."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Item"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Studio Bora Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/images/f6/66/f4/f666f4c602e69410c6249db9d96af1f4689a2f277f7457baaa68986a31a9ae76.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/42707",
+      "sequenceNumber": 15,
+      "printedNumber": "015",
+      "uuid": 92768824,
+      "prices": []
+    },
+    {
+      "id": 22830,
+      "setData": {
+        "name": "Skeledirge ex Terastal Starter Set",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/39/df/17/39df172f37563c300cce5929616a241067330d1855c61d0486528d33f3649b1e.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/skeledirge-ex-terastal-starter-set"
+      },
+      "name": "Iono",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Each players shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, each player draws a card for each of their remaining Prize cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sanosuke Sakuma",
+      "imageUrl": "https://static.tcgcollector.com/content/images/d9/af/16/d9af1654a08057d8ec3c2aa41761bb67a932a5371959dd4ffcd5e6974050360f.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/42708",
+      "sequenceNumber": 16,
+      "printedNumber": "016",
+      "uuid": 62687265,
+      "prices": []
+    },
+    {
+      "id": 22831,
+      "setData": {
+        "name": "Skeledirge ex Terastal Starter Set",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/39/df/17/39df172f37563c300cce5929616a241067330d1855c61d0486528d33f3649b1e.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/skeledirge-ex-terastal-starter-set"
+      },
+      "name": "Nemona",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Draw 3 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "Sanosuke Sakuma",
+      "imageUrl": "https://static.tcgcollector.com/content/images/a2/95/f5/a295f5e6c293c3b8b7527d6083e404f9c9e22950a5249e1ad044b1e38a3c2a5e.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/42709",
+      "sequenceNumber": 17,
+      "printedNumber": "017",
+      "uuid": 67987852,
+      "prices": []
+    },
+    {
+      "id": 22832,
+      "setData": {
+        "name": "Skeledirge ex Terastal Starter Set",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/39/df/17/39df172f37563c300cce5929616a241067330d1855c61d0486528d33f3649b1e.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/skeledirge-ex-terastal-starter-set"
+      },
+      "name": "Professor's Research",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "Discard your hand and draw 7 cards."
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "kirisAki",
+      "imageUrl": "https://static.tcgcollector.com/content/images/9a/4d/28/9a4d28c4dd378580889377b2804512f2c8f5a9544ddb0ad8db4ea1a81d0ec923.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/42710",
+      "sequenceNumber": 18,
+      "printedNumber": "018",
+      "uuid": 28297984,
+      "prices": []
+    },
+    {
+      "id": 22833,
+      "setData": {
+        "name": "Skeledirge ex Terastal Starter Set",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/39/df/17/39df172f37563c300cce5929616a241067330d1855c61d0486528d33f3649b1e.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/skeledirge-ex-terastal-starter-set"
+      },
+      "name": "Boss's Orders",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "You may play only 1 Supporter card during your turn.",
+        "\"Switch in 1 of your opponents Benched Pokémon to the Active Spot.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Supporter"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "NC Empire",
+      "imageUrl": "https://static.tcgcollector.com/content/images/b9/52/3d/b9523d822928c8ef1ed2c2dbcfac652b25ee7a3d5fe08dceb51c23d93ccc4c3c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/42711",
+      "sequenceNumber": 19,
+      "printedNumber": "019",
+      "uuid": 10410005,
+      "prices": []
+    },
+    {
+      "id": 22834,
+      "setData": {
+        "name": "Skeledirge ex Terastal Starter Set",
+        "printed_count": "20",
+        "card_count": 20,
+        "year": 2023,
+        "image_url": "https://static.tcgcollector.com/content/images/39/df/17/39df172f37563c300cce5929616a241067330d1855c61d0486528d33f3649b1e.png",
+        "set_url": "https://www.tcgcollector.com/cards/jp/skeledirge-ex-terastal-starter-set"
+      },
+      "name": "Magma Basin",
+      "types": [
+        ""
+      ],
+      "hp": -1,
+      "evolvesFrom": "",
+      "effect": [],
+      "attacks": null,
+      "rules": [
+        "\"This Stadium stays in play when you play it. Discard it if another Stadium comes into play. If a Stadium with the same name is in play, you cant play this card.\", \"Once during each players turn, that player may attach a Fire Energy card from their discard pile to 1 of their Benched Fire Pokémon. If a player attached Energy to a Pokémon in this way, put 2 damage counters on that Pokémon.\""
+      ],
+      "weaknesses": null,
+      "resistances": null,
+      "retreatCost": [],
+      "convertedRetreatCost": -1,
+      "supertype": "Trainer",
+      "subtypes": [
+        "Stadium"
+      ],
+      "rarity": "None",
+      "cardLegalities": {
+        "Unlimited": "True",
+        "Standard": "False",
+        "Expanded": "False"
+      },
+      "artist": "ORBITALLINK Inc.",
+      "imageUrl": "https://static.tcgcollector.com/content/images/0c/1f/be/0c1fbe0decda23a34080b8ed1fb2634286286f4f09ffba8691698f11e0e1519c.jpg",
+      "cardUrl": "https://tcgcollector.com/cards/42712",
+      "sequenceNumber": 20,
+      "printedNumber": "020",
+      "uuid": 78898613,
+      "prices": []
+    }
+  ],
+  "page": 1,
+  "pageSize": 250,
+  "count": 20,
+  "totalCount": 20
+}
